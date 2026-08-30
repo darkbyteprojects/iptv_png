@@ -1,0 +1,38 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    # Runs every 2 hours at minute 0
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run script to merge channels and cookies
+        run: |
+          python combined_playlist.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add combined_playlist.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist cookies [skip ci]" && git push)
