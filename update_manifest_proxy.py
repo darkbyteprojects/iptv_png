@@ -3,7 +3,7 @@ import requests
 import urllib.parse
 
 # Path to your input JSON file in the repository (or a remote URL)
-SOURCE_JSON = "https://allinonereborn2.online/sony/sliv3.json" 
+SOURCE_JSON = "sonytv.json" 
 OUTPUT_JSON = "proxied_manifest_playlist.json"
 
 SEGMENT_PROXY_BASE = "https://allinonereborn2.online/livtest3/segment_proxy.php?url="
