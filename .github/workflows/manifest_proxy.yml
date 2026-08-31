@@ -29,9 +29,16 @@ jobs:
         run: |
           python update_manifest_proxy.py
 
-      - name: Commit and push updated JSON
+      - name: Commit and push updated files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add proxied_manifest_playlist.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update proxied playlists [skip ci]" && git push)
+          
+          # Add BOTH generated files (or use 'git add .' to add everything changed)
+          git add proxied_manifest_playlist.json playlist.m3u
+          
+          # Simplified commit logic: it commits if there are changes, or just echoes if nothing changed
+          git commit -m "Auto-update proxied playlists [skip ci]" || echo "No changes to commit"
+          
+          # Push the changes
+          git push origin main
