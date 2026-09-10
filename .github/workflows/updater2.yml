@@ -1,0 +1,67 @@
+name: Live Events Builder 2
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install pycryptodome
+
+      - name: Fetch Logic from Private Repo
+        env:
+          PAT: ${{ secrets.CORE_REPO_PAT }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ secrets.CORE_REPO_NAME }}
+          FILE: ${{ secrets.CORE_SCRIPT_NAME_2 }}
+        run: |
+          curl -s -f \
+            -H "Authorization: Bearer ${PAT}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
+            -o runner.py
+
+      - name: Execute Scraper
+        run: python runner.py
+
+      - name: Clean Workspace
+        if: always()
+        run: rm -f runner.py
+
+      - name: Deploy with Timestamp
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          TIMESTAMP=$(TZ='Asia/Kolkata' date '+%d/%m/%Y %I:%M:%S %p IST')
+
+          git add live_events.json
+
+          if git diff --staged --quiet; then
+            echo "[INFO] No data changes detected."
+            echo "[INFO] Last checked by cron at: ${TIMESTAMP}"
+            echo "[INFO] live_events.json is identical to the current commit. Skipping empty commit."
+          else
+            echo "[INFO] New match updates found! Committing at: ${TIMESTAMP}"
+            git commit -m "Auto-update: ${TIMESTAMP} [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
