@@ -2,7 +2,7 @@ name: Live Events Builder 2
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
