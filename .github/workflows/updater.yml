@@ -1,0 +1,58 @@
+name: Sync Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Dependencies
+        run: pip install pycryptodome
+
+      - name: Fetch Logic
+        env:
+          PAT: ${{ secrets.CORE_REPO_PAT }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ secrets.CORE_REPO_NAME }}
+          FILE: ${{ secrets.CORE_SCRIPT_NAME }}
+        run: |
+          curl -s -f \
+            -H "Authorization: Bearer ${PAT}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
+            -o runner.py
+
+      - name: Execute
+        run: python runner.py
+
+      - name: Clean Workspace
+        if: always()
+        run: rm -f runner.py
+
+      - name: Deploy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add live_events.json
+
+          if git diff --staged --quiet; then
+            echo "No updates."
+          else
+            git commit -m "Update [skip ci]"
+            git push
+          fi
