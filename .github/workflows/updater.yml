@@ -2,6 +2,7 @@ name: Live Events Builder
 
 on:
   schedule:
+    # Runs every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -13,18 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Public Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Dependencies
+      - name: Install Dependencies
         run: pip install pycryptodome
 
-      - name: Fetch Logic
+      - name: Fetch Logic from Private Repo
         env:
           PAT: ${{ secrets.CORE_REPO_PAT }}
           OWNER: ${{ github.repository_owner }}
@@ -37,22 +40,32 @@ jobs:
             -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
             -o runner.py
 
-      - name: Execute
+      - name: Execute Scraper
         run: python runner.py
 
       - name: Clean Workspace
         if: always()
         run: rm -f runner.py
 
-      - name: Deploy
+      - name: Deploy with Timestamp
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Pull latest remote changes to prevent conflicts
+          git pull --rebase origin main
+
+          # Generate readable IST timestamp
+          TIMESTAMP=$(TZ='Asia/Kolkata' date '+%d/%m/%Y %I:%M:%S %p IST')
+
           git add live_events.json
 
           if git diff --staged --quiet; then
-            echo "No updates."
+            echo "[INFO] No data changes detected."
+            echo "[INFO] Last checked by cron at: ${TIMESTAMP}."
+            echo "[INFO] live_events.json is identical to the current commit. Skipping empty commit."
           else
-            git commit -m "Update [skip ci]"
-            git push
+            echo "[INFO] New match updates found! Committing at: ${TIMESTAMP}"
+            git commit -m "Auto-update: ${TIMESTAMP} [skip ci]"
+            git push origin main
           fi
