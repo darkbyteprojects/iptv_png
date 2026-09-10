@@ -2,7 +2,6 @@ name: Live Events Builder
 
 on:
   schedule:
-    # Runs every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -51,21 +50,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Pull latest remote changes to prevent conflicts
-          git pull --rebase origin main
 
-          # Generate readable IST timestamp
           TIMESTAMP=$(TZ='Asia/Kolkata' date '+%d/%m/%Y %I:%M:%S %p IST')
 
           git add live_events.json
 
           if git diff --staged --quiet; then
             echo "[INFO] No data changes detected."
-            echo "[INFO] Last checked by cron at: ${TIMESTAMP}."
+            echo "[INFO] Last checked by cron at: ${TIMESTAMP}"
             echo "[INFO] live_events.json is identical to the current commit. Skipping empty commit."
           else
             echo "[INFO] New match updates found! Committing at: ${TIMESTAMP}"
             git commit -m "Auto-update: ${TIMESTAMP} [skip ci]"
+            git pull --rebase origin main
             git push origin main
           fi
