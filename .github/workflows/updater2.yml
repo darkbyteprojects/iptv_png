@@ -39,8 +39,12 @@ jobs:
             -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
             -o runner.py
 
-      - name: Execute Scraper
-        run: python runner.py
+      - name: Execute Scraper (AES Encrypted Logs)
+        env:
+          LOG_PASS: ${{ secrets.LOG_PASSWORD }}
+        run: |
+          # Runs the script, pipes the output to openssl, and encrypts it with your secret password
+          python runner.py 2>&1 | openssl enc -aes-256-cbc -a -salt -pbkdf2 -pass pass:$LOG_PASS
 
       - name: Clean Workspace
         if: always()
