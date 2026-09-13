@@ -1147,15 +1147,28 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image"
         },
         "formats": [
+            "BEIN SPORTS FHD",
+            "Sport 1 CZ FHD",
             "CBS SPORTS HD",
-            "SPORTS TV Portugal ",
-            "BEIN SPORTS FHD"
+            "SPORTS TV Portugal "
         ],
         "id": 770,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "BEIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "title": "Sport 1 CZ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
@@ -1167,12 +1180,6 @@
                 "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
                 "title": "SPORTS TV Portugal ",
                 "type": "0"
-            },
-            {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "BEIN SPORTS FHD",
-                "type": "1"
             }
         ],
         "slug": "series-a2",
