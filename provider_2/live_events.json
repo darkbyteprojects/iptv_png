@@ -14,6 +14,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image"
         },
         "formats": [
+            "Willow CricBuzz - AQ",
             "Willow CricBuzz - AQ"
         ],
         "id": 11,
@@ -26,6 +27,12 @@
                 "link": "https://cdn09fsd-n.tamashaweb.com:8087/jazzauth/IndvAfg-svod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDY6MzM6NTcgUE0maGFzaF92YWx1ZT1xdjY1bDZYS2tsU1U1TG11ckdUQmlRPT0mdmFsaWRtaW51dGVzPTYw",
                 "title": "Willow CricBuzz - AQ",
                 "type": "0"
+            },
+            {
+                "api": "34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd",
+                "title": "Willow CricBuzz - AQ",
+                "type": "1"
             }
         ],
         "slug": "live1-afg-ind",
@@ -1940,7 +1947,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/234204/image"
         },
         "formats": [
-            ""
+            "CBS SPORTS FHD",
+            "BBC Two FHD",
+            "GHD SPORTS HD"
         ],
         "id": 1052,
         "image": "null",
@@ -1948,9 +1957,21 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "CBS SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "vz",
-                "title": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8",
+                "title": "BBC Two FHD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/OWWWAAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
