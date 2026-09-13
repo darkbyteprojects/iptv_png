@@ -30,8 +30,8 @@ jobs:
         env:
           PAT: ${{ secrets.REPO_SECRET }}
           OWNER: ${{ github.repository_owner }}
-          REPO: ${{ vars.REPO_NAME }}
-          FILE: ${{ vars.SCRIPT_1 }}
+          REPO: ${{ secrets.REPO_NAME }}
+          FILE: ${{ secrets.SCRIPT_1 }}
         run: |
           curl -s -f \
             -H "Authorization: Bearer ${PAT}" \
