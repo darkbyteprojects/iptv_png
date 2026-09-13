@@ -16,9 +16,13 @@
         "formats": [
             "Willow CricBuzz - AQ",
             "Willow CricBuzz - ALT",
-            "GHD SPORTS AQ",
-            "GHD SPORTS HD",
-            "FANCODE - FHD"
+            "SONY SPORTS HIN - IN",
+            "SONY SPORTS ENG - IN",
+            "SONY SPORTS TAM - IN",
+            "FANCODE - FHD",
+            "FANCODE HIN - IN",
+            "FANCODE ENG - IN",
+            "GHD SPORTS HD"
         ],
         "id": 11,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1024px-Flag_of_Pakistan.svg.png",
@@ -39,14 +43,20 @@
             },
             {
                 "api": "",
-                "link": "https://cdn09fsd-n.tamashaweb.com:8087/jazzauth/IndvAfg-svod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI2IDY6MzM6NTcgUE0maGFzaF92YWx1ZT1xdjY1bDZYS2tsU1U1TG11ckdUQmlRPT0mdmFsaWRtaW51dGVzPTYw",
-                "title": "GHD SPORTS AQ",
+                "link": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1789353717~acl=*~id=15567844849341243007~hmac=c7216c1f90823e010c1fa8d69b61361a9c1a731231ef275db159553a426c9c85|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "title": "SONY SPORTS HIN - IN",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/TAAADDDD.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
+                "link": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "title": "SONY SPORTS ENG - IN",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "title": "SONY SPORTS TAM - IN",
                 "type": "0"
             },
             {
@@ -54,6 +64,24 @@
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
                 "title": "FANCODE - FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "title": "FANCODE HIN - IN",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4248491_english_hls_708908f4d035358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "title": "FANCODE ENG - IN",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/TAAADDDD.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "live1-afg-ind",
@@ -84,8 +112,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "ae73f694ea89041cecc41fe24236dbea:2ebd28c7580e514092214039dbe026d2",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tduyifzmlq/out/v1/9d5dd8704d444a6999c3a3453d35d194/cenc.mpd",
+                "api": "5065b5cc671f155d8a2a115d29e21f33:c40b6aa86535c8e057b74f81f1231afc",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ovdu0b8vso/out/v1/8bb75e02703749f59ec69a0038db7a40/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
@@ -880,7 +908,6 @@
         },
         "formats": [
             "Willow Cricbuzz - AQ",
-            "WILLOW SPORTS SD",
             "SonyLiv HIN - AQ",
             "SonyLiv ENG - AQ",
             "SonyLiv TAM - AQ",
@@ -896,12 +923,6 @@
                 "api": "65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2",
                 "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
-                "type": "1"
-            },
-            {
-                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "title": "WILLOW SPORTS SD",
                 "type": "1"
             },
             {
