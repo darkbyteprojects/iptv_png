@@ -7,7 +7,7 @@
 
 ## 🌟 Support & Feedback
 
-- **Give a Star:** If you find this repository useful, please leave a **⭐ Star** at the top right of the page to support the project and keep it alive!
+- **Give a Star:** If you find this repository useful, please leave a **⭐ Star** to support the project and keep it alive!
 - **Report Issues:** If you have any issue, open an issue under the [Issues](../../issues) tab.
 
 ---
