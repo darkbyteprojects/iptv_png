@@ -734,7 +734,7 @@
                 "link": "",
                 "name": "DISNEY+",
                 "token_api": {
-                    "api": "https://streamx305.sbs/global1.php?channel=disney2",
+                    "api": "https://streamtp-golden1.click/global1.php?stream=disney2",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -750,7 +750,7 @@
                 "link": "",
                 "name": "ESPN",
                 "token_api": {
-                    "api": "https://streamx305.sbs/global1.php?channel=espn2",
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espn2col",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -766,7 +766,7 @@
                 "link": "",
                 "name": "ESPN MX",
                 "token_api": {
-                    "api": "https://streamx305.sbs/global1.php?channel=espn3mx",
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espn3mx",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -940,17 +940,17 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
+                "drm_key": "547167ca4f1bbe481cb6ddfe7ea7370a:e28adcc03d7049ef5b4fffbe3a8ba6a1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xa3vtggca/out/v1/a1b22451c9434c87884c8b888f4836e3/cenc.mpd",
+                "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
                 "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "beIN SPORT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "PARAMOUNT+ HD",
                 "token_api": ""
             },
             {
@@ -1014,7 +1014,7 @@
                 "link": "",
                 "name": "DISNEY+",
                 "token_api": {
-                    "api": "https://streamx305.sbs/global1.php?channel=disney1",
+                    "api": "https://streamtp-golden1.click/global1.php?stream=disney1",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -1040,7 +1040,40 @@
         },
         "id": 29,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "WIN +",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=winplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "WIN SPORTS",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=winsports2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "Primera A"
     },
     {
@@ -1491,9 +1524,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "TNT CHILE",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=tntsportschile",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TNT CHILE",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga de Primera"
