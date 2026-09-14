@@ -295,7 +295,135 @@
         },
         "id": 21,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PREMIER SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FANCODE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZE TV",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN DEPORTES HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/espndeportes-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "ZIGGO SPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "CANAL+ SPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "ARENA PREMIUM HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "DAZN 🇵🇹",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "a",
+                "name": "SPORTKLUB HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney6",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espnplus1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "LaLiga"
     },
     {
@@ -311,7 +439,143 @@
         },
         "id": 22,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "593b2ab845e64b692db88a6be66eed0a:71312fa72cb2f38120c1a8ba772394fd",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5xkhl1bxni/out/v1/cecadcb0bd174c52bf319ee798647463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FUBO SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SKY MAIN EVENT HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/skysportsmainevent-uk",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "USA NETWORK HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/usanetwork-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN HD 🇪🇸",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/dazn1-es",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "BEIN ARABIC HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/beinsports2-sa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ARENA PREMIUM HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/arena1premiumserbia",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney7",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FOX ONE",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=foxone1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "Premier League"
     },
     {
@@ -456,6 +720,54 @@
                 "link": "a",
                 "name": "ZIGGO SPORT HD",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN MX",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn3mx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Serie A"
@@ -473,7 +785,137 @@
         },
         "id": 27,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UNIVERSO HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/universo-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "a",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SILK SPORT HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/silksport1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "a",
+                "name": "ARENA PREMIUM HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "ZIGGO SPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "ELEVEN SPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "q",
+                "name": "SPORT TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney5",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN MX",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=espn3mx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "Serie A"
     },
     {
@@ -500,10 +942,72 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
+                "link": "a",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
                 "link": "",
                 "name": "HD SERVER ",
                 "token_api": {
                     "api": "https://embedindia.st/embed/seriea/2026-09-14/como-par",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SILK SPORT HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/silksport3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MAGENTA SPORT HD",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/cosmote3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "a",
+                "name": "ARENA PREMIUM HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney1",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -721,7 +1225,15 @@
         },
         "id": 41,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SPORTS DIGITAL",
+                "token_api": ""
+            }
+        ],
         "title": "Liga Portugal Betclic"
     },
     {
@@ -912,6 +1424,22 @@
                 "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Trendyol Süper Lig"
@@ -963,5 +1491,213 @@
             }
         ],
         "title": "Mozzart Bet Superliga"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/09/2026 20:35:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "14/09/2026 18:15:00",
+            "team_a": "Al-Qadsiah",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/56027/image",
+            "team_b": "Al Wasl",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/47674/image"
+        },
+        "id": 54,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "15/09/2026 12:20:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "15/09/2026 10:00:00",
+            "team_a": "Gamba Osaka",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3138/image",
+            "team_b": "Công An Hà Nội",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/193616/image"
+        },
+        "id": 55,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "15/09/2026 14:35:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "15/09/2026 12:15:00",
+            "team_a": "Beijing Guoan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3376/image",
+            "team_b": "Pohang Steelers",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7650/image"
+        },
+        "id": 56,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "15/09/2026 14:35:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "15/09/2026 12:15:00",
+            "team_a": "Johor Darul Ta'zim",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3327/image",
+            "team_b": "Buriram United",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/34218/image"
+        },
+        "id": 57,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/09/2026 18:20:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "14/09/2026 16:00:00",
+            "team_a": "Shabab Al-Ahli Dubai",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/264111/image",
+            "team_b": "Tractor FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/53715/image"
+        },
+        "id": 58,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "15/09/2026 12:20:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "15/09/2026 10:00:00",
+            "team_a": "Ratchaburi",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/85743/image",
+            "team_b": "Shanghai Port",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/41537/image"
+        },
+        "id": 59,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/09/2026 20:35:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "14/09/2026 18:15:00",
+            "team_a": "Al-Ahli",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/34469/image",
+            "team_b": "Pakhtakor Tashkent",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/34310/image"
+        },
+        "id": 60,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY+",
+                "token_api": {
+                    "api": "https://streamx305.sbs/global1.php?channel=disney4",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "AFC Champions League Elite"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "15/09/2026 12:20:00",
+            "event_name": "AFC Champions League Elite",
+            "start_time": "15/09/2026 10:00:00",
+            "team_a": "Kashima Antlers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3134/image",
+            "team_b": "Newcastle Jets",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2934/image"
+        },
+        "id": 61,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Elite"
     }
 ]
