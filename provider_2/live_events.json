@@ -794,9 +794,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image"
         },
         "formats": [
-            "BEIN2 SPORTS FHD",
-            "TNT1 SPORTS - AQ",
-            "Sport TV Portugal "
+            "Sport TV Portugal ",
+            "CBS SPORTS FHD",
+            "NBC SPORTS FHD",
+            "ESPN3 ARG FHD",
+            "CBS SPORTS HD"
         ],
         "id": 772,
         "image": "null",
@@ -804,21 +806,33 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "BEIN2 SPORTS FHD",
+                "api": "",
+                "link": "https://tmaxapp.site/pt658svs/sporttv3.m3u8",
+                "title": "Sport TV Portugal ",
+                "type": "0"
+            },
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "CBS SPORTS FHD",
                 "type": "1"
             },
             {
-                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "TNT1 SPORTS - AQ",
+                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "NBC SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                "title": "ESPN3 ARG FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv3.m3u8",
-                "title": "Sport TV Portugal ",
+                "link": "https://edgestream7.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "title": "CBS SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1230,8 +1244,7 @@
         },
         "formats": [
             "Sport Digital FHD",
-            "SPORTS TV HD",
-            "GHD SPORTS HD"
+            "SPORTS TV HD"
         ],
         "id": 989,
         "image": "null",
@@ -1248,12 +1261,6 @@
                 "api": "",
                 "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
                 "title": "SPORTS TV HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/zpppAAAAAAAAQQ.m3u8",
-                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
