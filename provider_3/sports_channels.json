@@ -1,5 +1,47 @@
 [
     {
+        "id": "16",
+        "logo": "https://cdn.siasat.com/wp-content/uploads/2023/05/DAZn-660x495.jpg",
+        "name": "daznn",
+        "streams": [
+            {
+                "drm_key": "8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f",
+                "drm_scheme": "clearkey",
+                "link": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+                "name": "DAZN Fast - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4",
+                "drm_scheme": "clearkey",
+                "link": "https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd",
+                "name": "DAZN RISE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
+                "name": "DAZN Combat - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "name": "DAZN Ringside - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd",
+                "name": "DAZN Women - AQ",
+                "token_api": ""
+            }
+        ]
+    },
+    {
         "id": "13",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTriRVDshs3S8J4gudt5YrQPHKEAWGb-Glx7rD8UFMb_Mdd6OtAPsfyoKY&s=10",
         "name": "sscsportss",
@@ -70,106 +112,15 @@
         ]
     },
     {
-        "id": "37",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
-        "name": "sky cricket",
+        "id": "32",
+        "logo": "https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png",
+        "name": "astro cricket",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "name": "HD1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8",
-                "name": "HD2",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "16",
-        "logo": "https://cdn.siasat.com/wp-content/uploads/2023/05/DAZn-660x495.jpg",
-        "name": "daznn",
-        "streams": [
-            {
-                "drm_key": "8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f",
-                "drm_scheme": "clearkey",
-                "link": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-                "name": "DAZN Fast - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4",
-                "drm_scheme": "clearkey",
-                "link": "https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd",
-                "name": "DAZN RISE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
-                "name": "DAZN Combat - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-                "name": "DAZN Ringside - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd",
-                "name": "DAZN Women - AQ",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "31",
-        "logo": "https://storage.googleapis.com/impact-news-photo/news-photo/6679.uploadStarSportslogo.jpg",
-        "name": "star sports",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-                "name": "HD1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
-                "name": "HD2",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "36",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9sjX43aoMJjmrX2JLXuABEoJfCV7fzpnRmNAl_J20CmBd9Rpk0KUtmbhDWY-z6ho8WUrKliHkynoNvTIX5W5_Kcg9gHNi3DDK6-oilHZunI4Xj33YvituffZb7b33hkDSqWu3YubbPcLSt8PgCRkZbdSCUtsORKNmJnVNA-sZqszK6QHNZjvRcJ0sOQ/s320/Fox%20Sports.jpg",
-        "name": "fox cricket ",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8",
-                "name": "Link 1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "name": "Link 2",
+                "link": "https://cdn.telecloud.tv/CH3223/index.m3u8",
+                "name": "Server 1",
                 "token_api": ""
             }
         ]
@@ -231,41 +182,6 @@
         ]
     },
     {
-        "id": "34",
-        "logo": "https://bobgoldpr.com/wp-content/uploads/2025/01/WILLOW_2023_Primary-Stacked.png",
-        "name": "willow",
-        "streams": [
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW - HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-                "name": "INDIA IP",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://27.124.71.27/Willow_Extra/index.m3u8",
-                "name": "WILLOW EX",
-                "token_api": ""
-            }
-        ]
-    },
-    {
         "id": "15",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png",
         "name": "tntsports1",
@@ -322,15 +238,99 @@
         ]
     },
     {
-        "id": "32",
-        "logo": "https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png",
-        "name": "astro cricket",
+        "id": "34",
+        "logo": "https://bobgoldpr.com/wp-content/uploads/2025/01/WILLOW_2023_Primary-Stacked.png",
+        "name": "willow",
+        "streams": [
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW - HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+                "name": "INDIA IP",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://27.124.71.27/Willow_Extra/index.m3u8",
+                "name": "WILLOW EX",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
+        "name": "sky cricket",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://cdn.telecloud.tv/CH3223/index.m3u8",
-                "name": "Server 1",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "name": "HD1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8",
+                "name": "HD2",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9sjX43aoMJjmrX2JLXuABEoJfCV7fzpnRmNAl_J20CmBd9Rpk0KUtmbhDWY-z6ho8WUrKliHkynoNvTIX5W5_Kcg9gHNi3DDK6-oilHZunI4Xj33YvituffZb7b33hkDSqWu3YubbPcLSt8PgCRkZbdSCUtsORKNmJnVNA-sZqszK6QHNZjvRcJ0sOQ/s320/Fox%20Sports.jpg",
+        "name": "fox cricket ",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8",
+                "name": "Link 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "name": "Link 2",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "logo": "https://storage.googleapis.com/impact-news-photo/news-photo/6679.uploadStarSportslogo.jpg",
+        "name": "star sports",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+                "name": "HD1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+                "name": "HD2",
                 "token_api": ""
             }
         ]
@@ -345,6 +345,20 @@
                 "drm_scheme": "",
                 "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8",
                 "name": "A SPORTS - HD",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvXergAoVvZCJbYBO-IEeNvZPxdXr97TaPKDkQSA_tA&s",
+        "name": "PTV Sports",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+                "name": "PTV HD",
                 "token_api": ""
             }
         ]
@@ -394,69 +408,6 @@
                 "drm_scheme": "clearkey",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "FC 2 - HD",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "43",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvXergAoVvZCJbYBO-IEeNvZPxdXr97TaPKDkQSA_tA&s",
-        "name": "PTV Sports",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-                "name": "PTV HD",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "48",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBRB8PmDjcsCXaLKlvSrIsdeOg_hyG11C2DJOvwY&usqp=CAU",
-        "name": "rta sports",
-        "streams": [
-            {
-                "drm_key": "null",
-                "drm_scheme": "clearkey",
-                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
-                "name": "Link 1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8",
-                "name": "Link 2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8",
-                "name": "Link 3",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8",
-                "name": "Link 4",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "113",
-        "logo": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
-        "name": "formula",
-        "streams": [
-            {
-                "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "name": "F1",
                 "token_api": ""
             }
         ]
@@ -651,6 +602,97 @@
         ]
     },
     {
+        "id": "48",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBRB8PmDjcsCXaLKlvSrIsdeOg_hyG11C2DJOvwY&usqp=CAU",
+        "name": "rta sports",
+        "streams": [
+            {
+                "drm_key": "null",
+                "drm_scheme": "clearkey",
+                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+                "name": "Link 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8",
+                "name": "Link 2",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8",
+                "name": "Link 3",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8",
+                "name": "Link 4",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "120",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkidscW08J_aBBRrEqI8WLJDYMpW9FC3Dhxw&usqp=CAU",
+        "name": "wwe",
+        "streams": [
+            {
+                "drm_key": "00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102",
+                "drm_scheme": "clearkey",
+                "link": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
+                "name": "WWE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/playlist.m3u8",
+                "name": "WWE - HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
+                "name": "SPORTS TV",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://smart.bengaldigital.live/WWE/index.m3u8",
+                "name": "HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4",
+                "drm_scheme": "clearkey",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+                "name": "Swerve Combat",
+                "token_api": ""
+            },
+            {
+                "drm_key": "{\n    \"keys\": [\n        {\n            \"kty\": \"oct\",\n            \"k\": \"MNW1eZZtgishXsUakdiicQ\",\n            \"kid\": \"YNwIquUvTAuAao5D8koSyA\"\n        }\n    ],\n    \"type\": \"temporary\"\n}",
+                "drm_scheme": "clearkey",
+                "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+                "name": "MLIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+                "drm_scheme": "clearkey",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+                "name": "One Fight",
+                "token_api": ""
+            }
+        ]
+    },
+    {
         "id": "121",
         "logo": "https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png",
         "name": "skysports",
@@ -763,62 +805,6 @@
         ]
     },
     {
-        "id": "120",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkidscW08J_aBBRrEqI8WLJDYMpW9FC3Dhxw&usqp=CAU",
-        "name": "wwe",
-        "streams": [
-            {
-                "drm_key": "00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102",
-                "drm_scheme": "clearkey",
-                "link": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
-                "name": "WWE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/playlist.m3u8",
-                "name": "WWE - HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
-                "name": "SPORTS TV",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://smart.bengaldigital.live/WWE/index.m3u8",
-                "name": "HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4",
-                "drm_scheme": "clearkey",
-                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-                "name": "Swerve Combat",
-                "token_api": ""
-            },
-            {
-                "drm_key": "{\n    \"keys\": [\n        {\n            \"kty\": \"oct\",\n            \"k\": \"MNW1eZZtgishXsUakdiicQ\",\n            \"kid\": \"YNwIquUvTAuAao5D8koSyA\"\n        }\n    ],\n    \"type\": \"temporary\"\n}",
-                "drm_scheme": "clearkey",
-                "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-                "name": "MLIVE",
-                "token_api": ""
-            },
-            {
-                "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
-                "drm_scheme": "clearkey",
-                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-                "name": "One Fight",
-                "token_api": ""
-            }
-        ]
-    },
-    {
         "id": "123",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0rNeWINAiPG9XqsYSMKDkkjt5snpJqcSP_A&usqp=CAU",
         "name": "nba",
@@ -856,6 +842,48 @@
                 "drm_scheme": "",
                 "link": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8?",
                 "name": "MLB - HD",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "167",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU",
+        "name": "astrosuper",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
+                "name": "ASTRO 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://107.175.220.4:11799/go_assp2/playlist.m3u8",
+                "name": "ASTRO 2",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
+                "name": "ASTRO 3",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://107.175.220.4:11799/go_assp3/playlist.m3u8",
+                "name": "ASTRO 4",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://107.175.220.4:11799/go_assp4/playlist.m3u8",
+                "name": "ASTRO 5",
                 "token_api": ""
             }
         ]
@@ -980,43 +1008,85 @@
         ]
     },
     {
-        "id": "167",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU",
-        "name": "astrosuper",
+        "id": "169",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXM3SB1WTqz0hxlJRQsaPCkQktHP-D8UwjHQ&usqp=CAU",
+        "name": "canal++",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-                "name": "ASTRO 1",
+                "link": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
+                "name": "Canal+",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "187",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBWYwzNuq1FbklSy6JF8e8amyCaROadiaPA&usqp=CAU",
+        "name": "cosmotesport",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31578/index.m3u8",
+                "name": "COSMOTE 1",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://107.175.220.4:11799/go_assp2/playlist.m3u8",
-                "name": "ASTRO 2",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31579/index.m3u8",
+                "name": "COSMOTE 2",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-                "name": "ASTRO 3",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8",
+                "name": "COSMOTE 3",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://107.175.220.4:11799/go_assp3/playlist.m3u8",
-                "name": "ASTRO 4",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8",
+                "name": "COSMOTE 4",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://107.175.220.4:11799/go_assp4/playlist.m3u8",
-                "name": "ASTRO 5",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8",
+                "name": "COSMOTE 5",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8",
+                "name": "COSMOTE 6",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8",
+                "name": "COSMOTE 7",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8",
+                "name": "COSMOTE 8",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8",
+                "name": "COSMOTE 9",
                 "token_api": ""
             }
         ]
@@ -1038,41 +1108,6 @@
                 "drm_scheme": "",
                 "link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
                 "name": "Premium 2 - AQ",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "178",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcAvS_KXw1DaXbDM7VZHVhL95gfuIbDNk1Ww&usqp=CAU",
-        "name": "spotv",
-        "streams": [
-            {
-                "drm_key": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
-                "drm_scheme": "clearkey",
-                "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
-                "name": "SPOTV 1 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-                "drm_scheme": "clearkey",
-                "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-                "name": "SPOTV 2 - AQ",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "169",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXM3SB1WTqz0hxlJRQsaPCkQktHP-D8UwjHQ&usqp=CAU",
-        "name": "canal++",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
-                "name": "Canal+",
                 "token_api": ""
             }
         ]
@@ -1183,127 +1218,22 @@
         ]
     },
     {
-        "id": "187",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBWYwzNuq1FbklSy6JF8e8amyCaROadiaPA&usqp=CAU",
-        "name": "cosmotesport",
+        "id": "178",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcAvS_KXw1DaXbDM7VZHVhL95gfuIbDNk1Ww&usqp=CAU",
+        "name": "spotv",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31578/index.m3u8",
-                "name": "COSMOTE 1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31579/index.m3u8",
-                "name": "COSMOTE 2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8",
-                "name": "COSMOTE 3",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8",
-                "name": "COSMOTE 4",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8",
-                "name": "COSMOTE 5",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8",
-                "name": "COSMOTE 6",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8",
-                "name": "COSMOTE 7",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8",
-                "name": "COSMOTE 8",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8",
-                "name": "COSMOTE 9",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "218",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfah2yJLgESmJjBXvh-C3hHpTBr8re_w5pYg&usqp=CAU",
-        "name": "tennis",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-                "name": "TENNIS CHANNEL",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8",
-                "name": "TENNIS PLUS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-                "name": "TRAC SPORTS",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "250",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOOEY8P7cBNGSBiK7sVWUB-sXvhfa7mPSLg&usqp=CAU",
-        "name": "go3 sport",
-        "streams": [
-            {
-                "drm_key": "f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e",
+                "drm_key": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
                 "drm_scheme": "clearkey",
-                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
-                "name": "GO3 SPORT 1 - AQ",
+                "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+                "name": "SPOTV 1 - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b",
+                "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
                 "drm_scheme": "clearkey",
-                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
-                "name": "GO3 SPORT 2 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
-                "drm_scheme": "clearkey",
-                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-                "name": "GO3 OPEN - AQ",
+                "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+                "name": "SPOTV 2 - AQ",
                 "token_api": ""
             }
         ]
@@ -1358,6 +1288,34 @@
         ]
     },
     {
+        "id": "218",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfah2yJLgESmJjBXvh-C3hHpTBr8re_w5pYg&usqp=CAU",
+        "name": "tennis",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+                "name": "TENNIS CHANNEL",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8",
+                "name": "TENNIS PLUS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+                "name": "TRAC SPORTS",
+                "token_api": ""
+            }
+        ]
+    },
+    {
         "id": "216",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovv-3DQ2jDflO0eFPtCiY8OcgwUkGn3XkQw&usqp=CAU",
         "name": "laliga",
@@ -1393,15 +1351,204 @@
         ]
     },
     {
-        "id": "372",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFOyzyD_StzIsw2VF6y6qWNw6mrdvK0OHx4PfHtj5YBjwDdUWz8PixitS&s=10",
-        "name": "dd sports",
+        "id": "320",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyV9OQV_28V8ysYAUzjJpoMz3oWLWPfq9WEjCaf4VOltGDzWp-IsJ2lo&s=10",
+        "name": "sport italia",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-                "name": "link 1",
+                "link": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+                "name": "Link 1",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "223",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CGaNMZllqJ_iTx0PEpY2DCuXWVboKsetUQ&usqp=CAU",
+        "name": "usanetwork",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://s3.us-east-1.amazonaws.com/e.patsay.offece/spurs.m3u8",
+                "name": "USA NETWORK EAST",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "781",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9WjWWMe41X3SoG6InEZGvrXq7Sb6MRoQGIOA6n_FBlEpXnQr1R0N0h8&s=10",
+        "name": "Fubosports",
+        "streams": [
+            {
+                "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+                "name": "Fubo 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+                "name": "Fubo 2",
+                "token_api": ""
+            },
+            {
+                "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                "name": "Fubo 3",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "250",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOOEY8P7cBNGSBiK7sVWUB-sXvhfa7mPSLg&usqp=CAU",
+        "name": "go3 sport",
+        "streams": [
+            {
+                "drm_key": "f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e",
+                "drm_scheme": "clearkey",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+                "name": "GO3 SPORT 1 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b",
+                "drm_scheme": "clearkey",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
+                "name": "GO3 SPORT 2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+                "drm_scheme": "clearkey",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+                "name": "GO3 OPEN - AQ",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "831",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfFET1Q6WrEtJWZbEbjTk37S2VmZXF-b8-NCn7CtbHut-E09EVVag4DE&s=10",
+        "name": "telemundo",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
+                "name": "AQ1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+                "name": "AQ2",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "849",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63bHRzvR7xOj4g8esQHC-V1fIZD2yJfnXVw&usqp=CAU",
+        "name": "cbssports",
+        "streams": [
+            {
+                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "drm_scheme": "clearkey",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "name": "CBS NETWORK",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "drm_scheme": "clearkey",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+                "name": "CBS Golazo",
+                "token_api": ""
+            },
+            {
+                "drm_key": "780cb0938d1399fa631bd6c0b868e560:f8529525ed53f542de966ad548c59f9c",
+                "drm_scheme": "clearkey",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/p04avr57rr/out/v1/25ec3c73680045ce86858d701763a70c/cenc.mpd",
+                "name": "CBS Station Broadcasting",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "782",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyYDpUrlRZ5fQ-iBqOtyhGC7XvuGdi1hdiAmPcvcKjnxIcaQxHUVGa-et&s=10",
+        "name": "rtesports",
+        "streams": [
+            {
+                "drm_key": "575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c",
+                "drm_scheme": "clearkey",
+                "link": "https://dai.google.com/linear/dash/event/OzeyI_8XRUGhaubXc0ZZNQ/manifest.mpd",
+                "name": "RTÉ SPORTS 1 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                "drm_scheme": "clearkey",
+                "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd?|",
+                "name": "RTÉ SPORTS 2 - AQ",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "1284",
+        "logo": "https://i.ibb.co/XX6rKD0/sdf.png",
+        "name": "SPORTDIGITAL",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D",
+                "name": "SPORTDIGITAL FREE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                "drm_scheme": "clearkey",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                "name": "HD1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "name": "HD2",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "472",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCEyyeQiLQdTL2MYowTrIt3ew9OaR-aR1E__4kCKhbg&s=10",
+        "name": "cricbuz",
+        "streams": [
+            {
+                "drm_key": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f",
+                "drm_scheme": "clearkey",
+                "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
+                "name": "CricBuzz 1 - IND IP",
+                "token_api": ""
+            },
+            {
+                "drm_key": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
+                "drm_scheme": "clearkey",
+                "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+                "name": "CricBuzz 2 - IND IP",
                 "token_api": ""
             }
         ]
@@ -1442,99 +1589,15 @@
         ]
     },
     {
-        "id": "223",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CGaNMZllqJ_iTx0PEpY2DCuXWVboKsetUQ&usqp=CAU",
-        "name": "usanetwork",
+        "id": "372",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFOyzyD_StzIsw2VF6y6qWNw6mrdvK0OHx4PfHtj5YBjwDdUWz8PixitS&s=10",
+        "name": "dd sports",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://s3.us-east-1.amazonaws.com/e.patsay.offece/spurs.m3u8",
-                "name": "USA NETWORK EAST",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "472",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCEyyeQiLQdTL2MYowTrIt3ew9OaR-aR1E__4kCKhbg&s=10",
-        "name": "cricbuz",
-        "streams": [
-            {
-                "drm_key": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f",
-                "drm_scheme": "clearkey",
-                "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
-                "name": "CricBuzz 1 - IND IP",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
-                "drm_scheme": "clearkey",
-                "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
-                "name": "CricBuzz 2 - IND IP",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "320",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyV9OQV_28V8ysYAUzjJpoMz3oWLWPfq9WEjCaf4VOltGDzWp-IsJ2lo&s=10",
-        "name": "sport italia",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-                "name": "Link 1",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "781",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9WjWWMe41X3SoG6InEZGvrXq7Sb6MRoQGIOA6n_FBlEpXnQr1R0N0h8&s=10",
-        "name": "Fubosports",
-        "streams": [
-            {
-                "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-                "name": "Fubo 1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
-                "name": "Fubo 2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-                "name": "Fubo 3",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "782",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyYDpUrlRZ5fQ-iBqOtyhGC7XvuGdi1hdiAmPcvcKjnxIcaQxHUVGa-et&s=10",
-        "name": "rtesports",
-        "streams": [
-            {
-                "drm_key": "575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c",
-                "drm_scheme": "clearkey",
-                "link": "https://dai.google.com/linear/dash/event/OzeyI_8XRUGhaubXc0ZZNQ/manifest.mpd",
-                "name": "RTÉ SPORTS 1 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                "drm_scheme": "clearkey",
-                "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd?|",
-                "name": "RTÉ SPORTS 2 - AQ",
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+                "name": "link 1",
                 "token_api": ""
             }
         ]
@@ -1554,55 +1617,6 @@
         ]
     },
     {
-        "id": "849",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63bHRzvR7xOj4g8esQHC-V1fIZD2yJfnXVw&usqp=CAU",
-        "name": "cbssports",
-        "streams": [
-            {
-                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "drm_scheme": "clearkey",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-                "name": "CBS NETWORK",
-                "token_api": ""
-            },
-            {
-                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "drm_scheme": "clearkey",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                "name": "CBS Golazo",
-                "token_api": ""
-            },
-            {
-                "drm_key": "780cb0938d1399fa631bd6c0b868e560:f8529525ed53f542de966ad548c59f9c",
-                "drm_scheme": "clearkey",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/p04avr57rr/out/v1/25ec3c73680045ce86858d701763a70c/cenc.mpd",
-                "name": "CBS Station Broadcasting",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "831",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfFET1Q6WrEtJWZbEbjTk37S2VmZXF-b8-NCn7CtbHut-E09EVVag4DE&s=10",
-        "name": "telemundo",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
-                "name": "AQ1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-                "name": "AQ2",
-                "token_api": ""
-            }
-        ]
-    },
-    {
         "id": "1295",
         "logo": "https://images.icon-icons.com/167/PNG/512/ct_sport_23186.png",
         "name": "CT Sport",
@@ -1612,34 +1626,6 @@
                 "drm_scheme": "",
                 "link": "http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8",
                 "name": "Server 1",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "1284",
-        "logo": "https://i.ibb.co/XX6rKD0/sdf.png",
-        "name": "SPORTDIGITAL",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D",
-                "name": "SPORTDIGITAL FREE",
-                "token_api": ""
-            },
-            {
-                "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                "drm_scheme": "clearkey",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-                "name": "HD1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "drm_scheme": "clearkey",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-                "name": "HD2",
                 "token_api": ""
             }
         ]
@@ -1659,15 +1645,15 @@
         ]
     },
     {
-        "id": "1305",
-        "logo": "https://i.ibb.co/n3sjJ1d/unbeaten.png",
-        "name": "UNBEATEN",
+        "id": "113",
+        "logo": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
+        "name": "formula",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8",
-                "name": "Server 1",
+                "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "name": "F1",
                 "token_api": ""
             }
         ]
@@ -1701,20 +1687,6 @@
         ]
     },
     {
-        "id": "1308",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsPApu5ls96HbcmC1sT7PuifAKvDSiXmTEd7Qz3sDGnioe1rZLKQ6XqNM&s=10",
-        "name": "DRAFTKINGS NETWORK",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951265/hls/playlist.m3u8?ads.xumo_channelId=99951265",
-                "name": "Server 1",
-                "token_api": ""
-            }
-        ]
-    },
-    {
         "id": "1309",
         "logo": "https://image.xumo.com/v1/channels/channel/99951180/500x400.webp?type=color_onBlack",
         "name": "STRONGMAN CHAMPIONS LEAGUE",
@@ -1729,6 +1701,20 @@
         ]
     },
     {
+        "id": "1305",
+        "logo": "https://i.ibb.co/n3sjJ1d/unbeaten.png",
+        "name": "UNBEATEN",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8",
+                "name": "Server 1",
+                "token_api": ""
+            }
+        ]
+    },
+    {
         "id": "1310",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RE6SoPasVYTVfOGbKsrFlP9mmyj_IMvkjBBflQpa4tDg2S9UwvJ8wGsf&s=10",
         "name": "COMBATE GLOBAL",
@@ -1737,6 +1723,41 @@
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": "https://d1u6wgaa8xb3mk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9fazlfu4at6aj/server/distrib/QDLoJT9yeWXS4WJP6/zuvPJYoOOdEMDNF2j2mvmg.u11pIHHxg4zn_J5_7NMwCvbxoAihWCJsSeWRKxhEKeoFgynWSWKVB3Jj4tTtIZWWcoaFPXDCjGvkNCD5r3qc8iuea_TCCOedUj2PegrO6kozyyjPsrlkz2DJ_dCfvxqdTxvlzkjhMHtTFaBoYlyZQf7MVggFEv4XSUNSJIBMujHhn5guG50Cdd9mIqIzFjbAxl4RiWCqeweKVNSQFxI-PA/manifest.m3u8",
+                "name": "Server 1",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "2984",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2D5wfRZOhKgkyVL1xVJHRlDarNcwqbP34wsg6qNmVrF4z_U_71ApixmM&s=10",
+        "name": "tudn",
+        "streams": [
+            {
+                "drm_key": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                "drm_scheme": "clearkey",
+                "link": "https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+                "name": "Server 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+                "name": "Server 2",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "1308",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsPApu5ls96HbcmC1sT7PuifAKvDSiXmTEd7Qz3sDGnioe1rZLKQ6XqNM&s=10",
+        "name": "DRAFTKINGS NETWORK",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951265/hls/playlist.m3u8?ads.xumo_channelId=99951265",
                 "name": "Server 1",
                 "token_api": ""
             }
@@ -1771,22 +1792,43 @@
         ]
     },
     {
-        "id": "2984",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2D5wfRZOhKgkyVL1xVJHRlDarNcwqbP34wsg6qNmVrF4z_U_71ApixmM&s=10",
-        "name": "tudn",
+        "id": "9509",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5a5faffbd0e628cec8bf019f/1516680988569-ELEY4WG7YUCDYA42EU19/JOJ+tv.png",
+        "name": "jojsports",
         "streams": [
             {
-                "drm_key": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                "drm_key": "https://drm.antik.sk/widevine/key*widevine",
                 "drm_scheme": "clearkey",
-                "link": "https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-                "name": "Server 1",
+                "link": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
+                "name": "JOJ Sports 1 - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-                "name": "Server 2",
+                "drm_key": "https://drm.antik.sk/widevine/key*widevine",
+                "drm_scheme": "clearkey",
+                "link": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
+                "name": "JOJ Sports 2 - AQ",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "4380",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KImuhdqvkfFNFW7cMhb1XCgy-FqwVbkGyxpFNwZbxHHG6PV77PqJB1bK&s=10",
+        "name": "dpworldtour",
+        "streams": [
+            {
+                "drm_key": "9fd973abf1593f66685bd1fbd94b79bb:568fd25a2da4a0a74160d0a11d108235",
+                "drm_scheme": "clearkey",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tviyv7mvu6/out/v1/e5eb618ddee5431fbaaa3035bf5592ad/cenc.mpd",
+                "name": "DP Tour",
+                "token_api": ""
+            },
+            {
+                "drm_key": "3403e7c9fd07b11d2d146167dffc8859:d891cc941e65b47606846f8b78bd1cf5",
+                "drm_scheme": "clearkey",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hhnehhkeir/out/v1/02431723198c4049be5025c47e67d611/cenc.mpd",
+                "name": "PGA Tour",
                 "token_api": ""
             }
         ]
@@ -1855,48 +1897,6 @@
         ]
     },
     {
-        "id": "9509",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5a5faffbd0e628cec8bf019f/1516680988569-ELEY4WG7YUCDYA42EU19/JOJ+tv.png",
-        "name": "jojsports",
-        "streams": [
-            {
-                "drm_key": "https://drm.antik.sk/widevine/key*widevine",
-                "drm_scheme": "clearkey",
-                "link": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
-                "name": "JOJ Sports 1 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "https://drm.antik.sk/widevine/key*widevine",
-                "drm_scheme": "clearkey",
-                "link": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
-                "name": "JOJ Sports 2 - AQ",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "4380",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KImuhdqvkfFNFW7cMhb1XCgy-FqwVbkGyxpFNwZbxHHG6PV77PqJB1bK&s=10",
-        "name": "dpworldtour",
-        "streams": [
-            {
-                "drm_key": "9fd973abf1593f66685bd1fbd94b79bb:568fd25a2da4a0a74160d0a11d108235",
-                "drm_scheme": "clearkey",
-                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tviyv7mvu6/out/v1/e5eb618ddee5431fbaaa3035bf5592ad/cenc.mpd",
-                "name": "DP Tour",
-                "token_api": ""
-            },
-            {
-                "drm_key": "3403e7c9fd07b11d2d146167dffc8859:d891cc941e65b47606846f8b78bd1cf5",
-                "drm_scheme": "clearkey",
-                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hhnehhkeir/out/v1/02431723198c4049be5025c47e67d611/cenc.mpd",
-                "name": "PGA Tour",
-                "token_api": ""
-            }
-        ]
-    },
-    {
         "id": "11134",
         "logo": "https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png",
         "name": "cazetv",
@@ -1927,6 +1927,34 @@
                 "drm_scheme": "",
                 "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
                 "name": "Cazé TV BR - AQ",
+                "token_api": ""
+            }
+        ]
+    },
+    {
+        "id": "9510",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xLD__y8czmQebpbPk_PrQwAVD1j1bNe0LKr-TqkYk8EhxdK9elpcJrs&s=10",
+        "name": "sporttvnew",
+        "streams": [
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "name": "Sport TV 1 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd",
+                "name": "Sport TV 1 - AQ (2)",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "name": "Sport TV 2 - AQ",
                 "token_api": ""
             }
         ]
@@ -1997,34 +2025,6 @@
                 "drm_scheme": "clearkey",
                 "link": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd?|",
                 "name": "4S",
-                "token_api": ""
-            }
-        ]
-    },
-    {
-        "id": "9510",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xLD__y8czmQebpbPk_PrQwAVD1j1bNe0LKr-TqkYk8EhxdK9elpcJrs&s=10",
-        "name": "sporttvnew",
-        "streams": [
-            {
-                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "drm_scheme": "clearkey",
-                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-                "name": "Sport TV 1 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "drm_scheme": "clearkey",
-                "link": "https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd",
-                "name": "Sport TV 1 - AQ (2)",
-                "token_api": ""
-            },
-            {
-                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "drm_scheme": "clearkey",
-                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-                "name": "Sport TV 2 - AQ",
                 "token_api": ""
             }
         ]
