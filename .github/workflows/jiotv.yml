@@ -58,5 +58,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add my_master_playlist.m3u
+          git add jiotv.m3u
           git diff --staged --quiet || (git commit -m "Auto-update playlist [skip ci]" && git push)
