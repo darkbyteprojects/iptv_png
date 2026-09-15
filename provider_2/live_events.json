@@ -563,7 +563,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
         },
         "formats": [
-            "BeIN Arabic HD"
+            "BeIN Arabic HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 773,
         "image": "null",
@@ -574,6 +576,18 @@
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
                 "title": "BeIN Arabic HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/BEEEAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/ac85aee4-8d35-4c90-b28a-f73864c4c9c5.m3u8",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -630,7 +644,9 @@
             "PREMIER SPORTS 2 - AQ",
             "ITALIA SPORTS 1 FHD",
             "SPORTS TV PORTUGAL ",
-            "DAZN SPORTS HD"
+            "DAZN SPORTS HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 785,
         "image": "null",
@@ -660,6 +676,18 @@
                 "link": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8",
                 "title": "DAZN SPORTS HD",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/BEEEAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
             }
         ],
         "slug": "coppa-italia1",
@@ -668,12 +696,12 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/14 04:10:01 +0000",
+            "endTime": "2026/09/17 04:25:15 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10",
             "eventName": "CARIBBEAN PREMIER LEAGUE",
             "eventType": "",
-            "startTime": "2026/09/13 23:00:48 +0000",
+            "startTime": "2026/09/16 23:00:43 +0000",
             "teamA": "CPL",
             "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10",
             "teamB": "CPL",
@@ -898,6 +926,12 @@
                 "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8",
                 "title": "SKY FOOTBALL HD",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+                "title": "SPORT TV Portugal ",
+                "type": "0"
             }
         ],
         "slug": "efl-cup4",
@@ -1056,11 +1090,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
         },
         "formats": [
-            "BEIN SPORTS FHD",
-            "GHD SPORTS HD",
-            "GHD SPORTS - SD",
-            "SKY SPORTS HD",
-            "FAST SERVER HD"
+            "Sport TV Portugal "
         ],
         "id": 1008,
         "image": "null",
@@ -1068,38 +1098,60 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "BEIN SPORTS FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "http://193.47.62.41/hls/VEEEAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/5333ebe0-c233-421d-a7e7-180032791c64.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS - SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://fingersoon.st/scripts/application5|origin=https://unxer123.gozo.zip/games/newcastle-united-vs-millwall/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://unxer123.gozo.zip/games/newcastle-united-vs-millwall/",
-                "title": "SKY SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://instreams.pro/live/LHD15/index.m3u8?st=Ji4WH84J9OM3Hm1THghsVQ&e=1788903020|origin=https://instream.click/livetv.php?stream=LHD15&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://instream.click/livetv.php?stream=LHD15",
-                "title": "FAST SERVER HD",
+                "link": "https://tmaxapp.site/pt658svs/sporttv3.m3u8",
+                "title": "Sport TV Portugal ",
                 "type": "0"
             }
         ],
         "slug": "efl-cup5",
         "title": "efl-cup5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/16 17:57:19 +0000",
+            "eventCat": "Cricket",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/19389/image/dark",
+            "eventName": "Women's Caribbean Premier League",
+            "eventType": "",
+            "startTime": "2026/09/16 14:00:09 +0000",
+            "teamA": "CPL",
+            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10",
+            "teamB": "CPL",
+            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10"
+        },
+        "formats": [
+            "Willow Cricbuzz - AQ",
+            "Willow Cricbuzz - HD",
+            "Sky Sports NZ"
+        ],
+        "id": 1041,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "e28f700c0854c3f8cd7ddda798593bff:3f2543cc40178c87540573fb302cbc22",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3d7cq326me/out/v1/fd9665c4a0df4945ae69e83d215157d0/cenc.mpd",
+                "title": "Willow Cricbuzz - AQ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                "title": "Willow Cricbuzz - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8",
+                "title": "Sky Sports NZ",
+                "type": "0"
+            }
+        ],
+        "slug": "cpl2",
+        "title": "cpl2"
     },
     {
         "cat": "Live Events",
