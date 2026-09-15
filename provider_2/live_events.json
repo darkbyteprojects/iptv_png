@@ -359,7 +359,7 @@
             "Premier Sports AQ",
             "D SPORTS - FHD",
             "CAZE TV FHD",
-            "GHD SPORTS HD",
+            "FANCODE - FHD",
             "GHD SPORTS SD"
         ],
         "id": 755,
@@ -368,8 +368,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
                 "title": "beIN ENGLISH FHD",
                 "type": "1"
             },
@@ -392,10 +392,10 @@
                 "type": "1"
             },
             {
-                "api": "",
-                "link": "http://193.47.62.44/hls/CYYYYQq.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "FANCODE - FHD",
+                "type": "1"
             },
             {
                 "api": "",
@@ -553,6 +553,91 @@
         "eventInfo": {
             "endTime": "2026/09/15 18:00:00 +0000",
             "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "eventName": "AFC Champions League Elite",
+            "eventType": "",
+            "startTime": "2026/09/15 16:00:00 +0000",
+            "teamA": "Al-Ain",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+            "teamB": "Al-Nassr",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
+        },
+        "formats": [
+            "AD SPORTS 1 FHD",
+            "GHD SPORTS - HD"
+        ],
+        "id": 773,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
+                "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+                "title": "AD SPORTS 1 FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.40/hls/GGGGF.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            }
+        ],
+        "slug": "afc-champions-league-elite1",
+        "title": "AFC Champions League Elite1"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/15 20:15:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "eventName": "AFC Champions League Elite",
+            "eventType": "",
+            "startTime": "2026/09/15 18:15:00 +0000",
+            "teamA": "Al-Hilal",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+            "teamB": "Al-Gharafa",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image"
+        },
+        "formats": [
+            "HD SERVER ",
+            "HD SERVER ",
+            "HD SERVER "
+        ],
+        "id": 774,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live.vivo200.com/live/hd-en-1-4532864.m3u8?txSecret=09d52fdb99fe48bba69cdd4b7fd03b9c&txTime=69E7E7D2|Referer=https://player.787200.com/",
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo200.com/live/sd-1-4532864.m3u8?txSecret=39bbecd5e68e707a5fc8249ff8e9d81b&txTime=69E7E7D2|Referer=https://player.787200.com/",
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://93.123.109.249/hls/UJJJDQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "HD SERVER ",
+                "type": "0"
+            }
+        ],
+        "slug": "afc-champions-league-elite2",
+        "title": "AFC Champions League Elite2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/15 18:00:00 +0000",
+            "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
             "eventName": "Coppa Italia",
             "eventType": "",
@@ -563,10 +648,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2760/image"
         },
         "formats": [
-            "PREMIER SPORTS - AQ",
-            "CBS SPORTS - FHD",
-            "ITALIA 1 - FHD",
-            " HD SERVER "
+            "PREMIER SPORTS 2 - AQ",
+            "ITALIA SPORTS 1 FHD",
+            "SPORTS TV PORTUGAL ",
+            "DAZN SPORTS HD"
         ],
         "id": 785,
         "image": "null",
@@ -574,27 +659,27 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "title": "PREMIER SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "CBS SPORTS - FHD",
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "PREMIER SPORTS 2 - AQ",
                 "type": "1"
             },
             {
                 "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
                 "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-                "title": "ITALIA 1 - FHD",
+                "title": "ITALIA SPORTS 1 FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/RAAARAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                "title": " HD SERVER ",
+                "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+                "title": "SPORTS TV PORTUGAL ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8",
+                "title": "DAZN SPORTS HD",
                 "type": "0"
             }
         ],
@@ -888,9 +973,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image"
         },
         "formats": [
-            "CBS SPORTS - AQ",
+            "PREMIRE SPORTS 2 FHD",
             "ITALIA SPORTS - AQ",
-            "Sport TV Portugal"
+            "Sport TV Portugal",
+            "DAZN SPORTS HD"
         ],
         "id": 995,
         "image": "null",
@@ -898,9 +984,9 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-                "title": "CBS SPORTS - AQ",
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "PREMIRE SPORTS 2 FHD",
                 "type": "1"
             },
             {
@@ -911,8 +997,14 @@
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+                "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
                 "title": "Sport TV Portugal",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+                "title": "DAZN SPORTS HD",
                 "type": "0"
             }
         ],
