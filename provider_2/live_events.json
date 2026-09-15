@@ -162,7 +162,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
         },
         "formats": [
-            "Willow Cricbizz - AQ"
+            "Willow Cricbizz - AQ",
+            "SonyLiv ENG - AQ",
+            "Willow Cricbizz - HD",
+            "Willow Cricbizz - SD",
+            "SKY CRICKET - AQ",
+            "TAPMAD ENG - AQ"
         ],
         "id": 14,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
@@ -170,10 +175,40 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864",
-                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pwbs8jf2bt/out/v1/de111878c7e741f29d3adb3f6ddf4222/cenc.mpd",
+                "api": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
                 "title": "Willow Cricbizz - AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/criclive1509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=094a5b5df10756737ef2f168da9bc922-1789493400074",
+                "title": "SonyLiv ENG - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                "title": "Willow Cricbizz - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/IVVVAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                "title": "Willow Cricbizz - SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "title": "SKY CRICKET - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "title": "TAPMAD ENG - AQ",
+                "type": "0"
             }
         ],
         "slug": "live4_eng_sri",
