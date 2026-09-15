@@ -916,7 +916,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
             "BEIN SPORTS FHD",
+            "FANCODE  ENG AQ",
+            "BeIN SPORTS HD",
             "CBS SPORTS HD",
             "CBS SPORTS SD",
             "Sport TV Portugal ",
@@ -930,10 +933,28 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "a2d27cc2dd353d88584edc95340aa9c2:2e0f9335c0103738304524cb6762a910",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ltn24l2vde/out/v1/4902fd1a0d3a47c2b8c3eecaedf0e975/cenc.mpd",
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
                 "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "title": "BEIN SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "title": "FANCODE  ENG AQ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://type.futtv.nx.kg/ips/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
+                "title": "BeIN SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -991,6 +1012,12 @@
         },
         "formats": [
             "BeIN SPORTS FHD",
+            "SKY MAIN EVENT",
+            "BeIN SPORTS HD",
+            "FAST SERVER HD",
+            "SKY SPORTS HD",
+            "SKY SPORTS EPL",
+            "CBS SPORTS HD",
             "ESPN SPORTS FHD",
             "BEIN ARABIC HD",
             "SKY MAIN HD",
@@ -1008,6 +1035,42 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
                 "title": "BeIN SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56497/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "SKY MAIN EVENT",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn6.zohanayaan.com:1686/hls/do51.m3u8?md5=v2CyFdRxqR8TE3jtr9_gSw&expires=1789504268|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "BeIN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn6.zohanayaan.com:1686/hls/do5.m3u8?md5=C5K-2OIgT4d0DsYNe3EvBQ&expires=1789504264|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "SKY SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn2.zohanayaan.com:1686/hls/do16.m3u8?md5=hfAuBOB-vNO_FmD0qIY6EQ&expires=1789504266|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "SKY SPORTS EPL",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.pro/live/tv401914257/index.m3u8?st=S5fBWijtz0QXhEr9NURO8A&e=1789507857|origin=https://instream.click/livetv.php?stream=tv401914257&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401914257",
+                "title": "CBS SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
