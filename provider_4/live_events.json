@@ -453,6 +453,102 @@
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "FANCODE ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN+",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnplus3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN USA",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/espn2-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN DEPORTES",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/espndeportes-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "beIN ARABIC",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/beinsports2-sa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SILK SPORTS",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/silksport2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/dazn1-pt",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga"
@@ -539,7 +635,38 @@
         },
         "id": 24,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.dyrur1.com/live/9gklzi1z2veum7x_2982ff1a07bad867373779ad46b968f2_1080p.m3u8?auth_key=1789513378-0-0-51804b02de7ea1227a67d8263a16befe",
+                "name": "DAZN HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4628321.m3u8?txSecret=f82d89843689ab1fdabb365650c59287&txTime=6AA9AAE6|referer=https://player.online909.com/",
+                "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SKY FOOTBALL",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/skysportsfootball-uk",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "EFL Cup"
     },
     {
@@ -555,7 +682,22 @@
         },
         "id": 25,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.dyrur1.com/live/74158486_deef62d182938cdac4f5d5b5cef5d887_1080p.m3u8?auth_key=1789513597-0-0-7a619755d43802c3ce9c6baf3ea3bb77",
+                "name": "beIN SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4628317.m3u8?txSecret=d1bbcf11f5e7f8d9623094f97a094fa3&txTime=6AA9AAE6|referer=https://player.online909.com/",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
         "title": "EFL Cup"
     },
     {
@@ -602,7 +744,22 @@
         },
         "id": 27,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live1.dyrur1.com/live/xvkjoi8ejdni879_59a173538020087cbc4ad1a043d5e8e6_1080p.m3u8?auth_key=1789513679-0-0-add09587f38b19e3cb599eb3ddf8c2b0",
+                "name": "beIN SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4628314.m3u8?txSecret=bf64f53a919253634c1718b3010b064d&txTime=6AA9AC12|referer=https://player.online909.com/",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
         "title": "EFL Cup"
     },
     {
@@ -1514,39 +1671,6 @@
         "category": "Football",
         "event_info": {
             "end_time": "15/09/2026 21:05:00",
-            "event_name": "FA Cup",
-            "start_time": "15/09/2026 18:45:00",
-            "team_a": "Jersey Bulls FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/319212/image",
-            "team_b": "Burgess Hill Town",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/26001/image"
-        },
-        "id": 50,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "SK LIVE",
-                "token_api": {
-                    "api": "https://embedindia.st/embed/efl-championship/2026-09-15/mid-mil",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            }
-        ],
-        "title": "FA Cup"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "15/09/2026 21:05:00",
             "event_name": "Championship",
             "start_time": "15/09/2026 18:45:00",
             "team_a": "Middlesbrough",
@@ -1554,14 +1678,21 @@
             "team_b": "Millwall",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/25/image"
         },
-        "id": 51,
+        "id": 50,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://live1.dyrur1.com/live/72339800_8b6f74cb2951289743445e8007fd0773_1080p.m3u8?auth_key=1789512546-0-0-796db303a97d8c973cbcfcf162b8c5fe",
                 "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4563567.m3u8?txSecret=7f35458c9b09e273935f0ebf76dbce96&txTime=6AA9A9BA|referer=https://player.online909.com/",
+                "name": "HD SERVER",
                 "token_api": ""
             }
         ],
@@ -1578,14 +1709,21 @@
             "team_b": "Lincoln City",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/92/image"
         },
-        "id": 52,
+        "id": 51,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://live.dyrur1.com/live/72339796_60fa308b459d305198eb4248d07b6a3d_1080p.m3u8?auth_key=1789512546-0-0-efe77b5d16fd8e8a25698b9946a81660",
                 "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4563566.m3u8?txSecret=791144497424bda197423e55c1b49a4b&txTime=6AA9A9BA",
+                "name": "HD SERVER",
                 "token_api": ""
             }
         ],
@@ -1602,7 +1740,7 @@
             "team_b": "Heart of Midlothian",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2353/image"
         },
-        "id": 53,
+        "id": 52,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
         "streams": [
             {
@@ -1626,7 +1764,7 @@
             "team_b": "Kilmarnock",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2347/image"
         },
-        "id": 54,
+        "id": 53,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
         "streams": [
             {
@@ -1650,7 +1788,7 @@
             "team_b": "Aberdeen",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2355/image"
         },
-        "id": 55,
+        "id": 54,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
         "streams": [
             {
@@ -1674,7 +1812,7 @@
             "team_b": "CD Toluca",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1931/image"
         },
-        "id": 56,
+        "id": 55,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "streams": [
             {
@@ -1712,7 +1850,7 @@
             "team_b": "Deportes Temuco",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/119072/image"
         },
-        "id": 57,
+        "id": 56,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/1240/image/dark",
         "streams": [
             {
@@ -1736,7 +1874,7 @@
             "team_b": "Club Deportes Antofagasta",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5601/image"
         },
-        "id": 58,
+        "id": 57,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/1240/image/dark",
         "streams": [
             {
@@ -1760,7 +1898,7 @@
             "team_b": "Cancún FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/354926/image"
         },
-        "id": 59,
+        "id": 58,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11611/image/dark",
         "streams": [
             {
@@ -1793,7 +1931,7 @@
             "team_b": "",
             "team_b_flag": ""
         },
-        "id": 60,
+        "id": 59,
         "image": "",
         "streams": [
             {
@@ -1817,7 +1955,7 @@
             "team_b": "Kashiwa Reysol",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3140/image"
         },
-        "id": 61,
+        "id": 60,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -1841,7 +1979,7 @@
             "team_b": "Al-Gharafa",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/34312/image"
         },
-        "id": 62,
+        "id": 61,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -1890,7 +2028,7 @@
             "team_b": "Vissel Kobe",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3146/image"
         },
-        "id": 63,
+        "id": 62,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -1914,7 +2052,7 @@
             "team_b": "Al-Nassr",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/23400/image"
         },
-        "id": 64,
+        "id": 63,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
