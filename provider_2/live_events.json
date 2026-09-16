@@ -926,9 +926,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image"
         },
         "formats": [
-            "PREMIER SPORTS FHD",
-            "BEIN SPORTS FHD",
-            "GHD SPORTS HD",
+            "PREMIER SPORTS 1 FHD",
+            "BEIN SPORTS 1 FHD",
+            "FANCODE - FHD",
             "BeIN SPORTS HD",
             "ESPN DEPORTEES HD",
             "FAST SERVER HD"
@@ -941,20 +941,20 @@
             {
                 "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
                 "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "PREMIER SPORTS FHD",
+                "title": "PREMIER SPORTS 1 FHD",
                 "type": "1"
             },
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "BEIN SPORTS FHD",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "BEIN SPORTS 1 FHD",
                 "type": "1"
             },
             {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/b6cb8398-9e0e-40e9-be7f-7bd7efab463e.m3u8",
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "title": "FANCODE - FHD",
+                "type": "1"
             },
             {
                 "api": "",
@@ -1452,7 +1452,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "TNT SPORTS 4 FHD",
+            "GHD SPORTS HD",
+            "ESPN ARG 2 FHD"
         ],
         "id": 817,
         "image": "null",
@@ -1460,10 +1462,22 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "TNT SPORTS 4 FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.49/hls/nnnnAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/FJJJAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
+            },
+            {
+                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "title": "ESPN ARG 2 FHD",
+                "type": "1"
             }
         ],
         "slug": "uefa-europa-league1",
