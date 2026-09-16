@@ -325,6 +325,415 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/09/17 00:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "eventName": "CONMEBOL Sudamericana",
+            "eventType": "",
+            "startTime": "2026/09/16 22:00:00 +0000",
+            "teamA": "AtlÃ©tico-MG",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+            "teamB": "Santos",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
+        },
+        "formats": [
+            "Premier Sports - AQ",
+            "PREMIERE SPORTS BR"
+        ],
+        "id": 735,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "Premier Sports - AQ",
+                "type": "1"
+            },
+            {
+                "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "PREMIERE SPORTS BR",
+                "type": "1"
+            }
+        ],
+        "slug": "brazilian-serie-a",
+        "title": "Brazilian Serie A"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/18 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "startTime": "2026/09/18 19:00:00 +0000",
+            "teamA": "Brentford",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+            "teamB": "Chelsea",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
+        },
+        "formats": [
+            "FUBO SPORTS FHD",
+            "Astro Grandstand HD",
+            "Astro Grandstand LQ",
+            "USA NETWORK HD",
+            "SKY SPORTS HD",
+            "SPORT+ LIVE HD",
+            "GHD SPORTS HD",
+            "USA SPORTS HD",
+            "SKY SPORTS EPL",
+            "SKY SPORTS NZ HD",
+            "DAZN SPORTS HD"
+        ],
+        "id": 739,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live3.dyrur1.com/live/63kv9igel43cx7e_ede351fc224b9942330c6af5cec9962c_540p.m3u8?auth_key=1789426963-0-0-c9576d45c8e5e6b533b541fe29eb0bd4",
+                "title": "Astro Grandstand HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/aaaa.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "Astro Grandstand LQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn7.zohanayaan.com:1686/hls/do10.m3u8?md5=-ioxc3oLUESJOT6NQCri_w&expires=1789417824|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "USA NETWORK HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn5.zohanayaan.com:1686/hls/do16.m3u8?md5=0hdHMBQGE6YYzcaAFTkZ6Q&expires=1789417826|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "SKY SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn1.zohanayaan.com:1686/hls/do50.m3u8?md5=4JWXWtrO4ygSuwb1DYKDQA&expires=1789417827|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://forgemindly.com/",
+                "title": "SPORT+ LIVE HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/23408853-f32d-4f49-beec-202005a9d272.m3u8|origin=http://www.fawanews.sc/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                "title": "SKY SPORTS EPL",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8",
+                "title": "SKY SPORTS NZ HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league1",
+        "title": "Nottingham Forest"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 13:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "startTime": "2026/09/19 11:30:00 +0000",
+            "teamA": "Tottenham",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+            "teamB": "Aston Villa",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
+        },
+        "formats": [
+            "GHD SPORTS - SD",
+            "PEACOCK TV HD",
+            "PEACOCK TV SD",
+            "HUB PREMIRE HD"
+        ],
+        "id": 747,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/OVVVA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx9hd/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "PEACOCK TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx9md/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "PEACOCK TV SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn5.zohanayaan.com:1686/hls/do31.m3u8?md5=bs-oI2DzT8-pmnTF4sgM0g&expires=1789228876|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "HUB PREMIRE HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league2",
+        "title": "English Premier League2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "startTime": "2026/09/19 14:00:00 +0000",
+            "teamA": "Brighton",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+            "teamB": "Arsenal",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+        },
+        "formats": [
+            "USA SPORTS HD",
+            "USA SPORTS HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "USA SPORTS SD",
+            "USA SPORTS LQ"
+        ],
+        "id": 748,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://cdn6.zohanayaan.com:1686/hls/do10.m3u8?md5=Y1F_QaQ7iHgxuMCE6AsrqQ&expires=1789228859|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx18hd/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/OVVVAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/359d3201-9b94-4dd1-a2f9-afc6ea25bd69.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.pro/live/LHD2/index.m3u8?st=z1p77-cIjBTIdL2n4Kfdrg&e=1789232420|origin=https://instream.click/livetv.php?stream=LHD2&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://instream.click/livetv.php?stream=LHD2",
+                "title": "USA SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://streame.center",
+                "title": "USA SPORTS LQ",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league3",
+        "title": "English Premier League3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "startTime": "2026/09/19 14:00:00 +0000",
+            "teamA": "Everton",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+            "teamB": "Ipswich",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image"
+        },
+        "formats": [
+            "DAZN SPORTS HD",
+            "SKY SPORTS NZ",
+            "USA SPORTS HD",
+            "USA SPORTS SD",
+            "SKY SPORTS HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 749,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn3es.m3u8",
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8",
+                "title": "SKY SPORTS NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx8hd/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx8md/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "USA SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://fingersoon.st/scripts/application3|origin=https://gozowatch.top/updates/aston-villa-vs-nottingham-forest/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://gozowatch.top/updates/aston-villa-vs-nottingham-forest/",
+                "title": "SKY SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/OVVV.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/a604bd7f-87dc-4e65-95ca-20717ff7abc9.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league4",
+        "title": "English Premier League4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "startTime": "2026/09/19 14:00:00 +0000",
+            "teamA": "Newcastle",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+            "teamB": "Hull",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image"
+        },
+        "formats": [
+            "HUB PREMIER HD",
+            "PEACOCK TV HD",
+            "USA SPORTS HD",
+            "USA SPORTS SD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "W SPORTS HD"
+        ],
+        "id": 750,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://cdn5.zohanayaan.com:1686/hls/do33.m3u8?md5=46c6JzEnkaVXhNECKpB-KQ&expires=1789228885|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "HUB PREMIER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://streame.center",
+                "title": "PEACOCK TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx10md/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://is.poltumola.xyz/dx10hd/tracks-v1a1/mono.m3u8|referer=https://megatech.com",
+                "title": "USA SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/OVVVAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/2ae5f1f9-9bf2-4e5e-9897-1b4f58a9aedc.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://fingersoon.st/scripts/application5|origin=https://gozowatch.top/updates/crystal-palace-vs-ipswich-town/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://gozowatch.top/updates/crystal-palace-vs-ipswich-town/",
+                "title": "W SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league5",
+        "title": "English Premier League5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/09/16 19:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -1215,16 +1624,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 20:45:00 +0000",
+            "endTime": "2026/09/16 20:45:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
             "eventName": "EFL Cup",
             "eventType": "",
-            "startTime": "2026/09/15 18:45:00 +0000",
-            "teamA": "West Ham",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-            "teamB": "Fulham",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
+            "startTime": "2026/09/16 18:45:00 +0000",
+            "teamA": "Fleetwood",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/23959/image",
+            "teamB": "Sheffield Utd",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image"
         },
         "formats": [
             "CBS SPORTS FHD",
@@ -1282,16 +1691,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 21:00:00 +0000",
+            "endTime": "2026/09/16 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
             "eventName": "EFL Cup",
             "eventType": "",
-            "startTime": "2026/09/15 19:00:00 +0000",
-            "teamA": "Ipswich",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
-            "teamB": "Arsenal",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+            "startTime": "2026/09/16 19:00:00 +0000",
+            "teamA": "Man Utd",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+            "teamB": "Brighton",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image"
         },
         "formats": [
             "PARAMOUNT+ FHD",
@@ -1377,16 +1786,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 21:00:00 +0000",
+            "endTime": "2026/09/16 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
             "eventName": "EFL Cup",
             "eventType": "",
-            "startTime": "2026/09/15 19:00:00 +0000",
-            "teamA": "Liverpool",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-            "teamB": "Tottenham",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
+            "startTime": "2026/09/16 19:00:00 +0000",
+            "teamA": "Coventry",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+            "teamB": "Aston Villa",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
         },
         "formats": [
             "BeIN SPORTS FHD",
