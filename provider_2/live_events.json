@@ -150,73 +150,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/16 00:00:31 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "eventName": "T20 International",
-            "eventType": "",
-            "startTime": "2026/09/15 17:30:00 +0000",
-            "teamA": "ENG",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-            "teamB": "SL",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
-        },
-        "formats": [
-            "Willow Cricbizz - AQ",
-            "SonyLiv ENG - AQ",
-            "SKY CRICKET - AQ",
-            "Willow Cricbizz - HD",
-            "Willow Cricbizz - SD",
-            "TAPMAD ENG - AQ"
-        ],
-        "id": 14,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
-                "title": "Willow Cricbizz - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/criclive1509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=094a5b5df10756737ef2f168da9bc922-1789493400074",
-                "title": "SonyLiv ENG - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "title": "SKY CRICKET - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-                "title": "Willow Cricbizz - HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/IVVVAAAAA.m3u8|referer=http://www.fawanews.sc/",
-                "title": "Willow Cricbizz - SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
-                "title": "TAPMAD ENG - AQ",
-                "type": "0"
-            }
-        ],
-        "slug": "live4_eng_sri",
-        "title": "live4_ban-ire"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/22 11:30:30 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -279,12 +212,58 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 05:01:40 +0000",
+            "endTime": "2026/09/19 04:00:11 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+            "eventName": "Friday Night SmackDown",
+            "eventType": "",
+            "startTime": "2026/09/19 00:00:01 +0000",
+            "teamA": "SmackDown",
+            "teamAFlag": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+            "teamB": "SmackDown",
+            "teamBFlag": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717"
+        },
+        "formats": [
+            "HD SERVER",
+            "HD SERVER ",
+            "HD SERVER "
+        ],
+        "id": 295,
+        "image": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info",
+                "title": "HD SERVER",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/UIIIAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "HD SERVER ",
+                "type": "0"
+            }
+        ],
+        "slug": "wwe-friday-night-smackdown",
+        "title": "WWE Friday Night SmackDown"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/22 04:00:51 +0000",
             "eventCat": "WWE",
             "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
             "eventName": "WWE Monday Night RAW",
             "eventType": "",
-            "startTime": "2026/09/15 00:00:30 +0000",
+            "startTime": "2026/09/22 00:00:40 +0000",
             "teamA": "RAW",
             "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
             "teamB": "RAW",
@@ -1323,80 +1302,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 18:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
-            "eventName": "Coppa Italia",
-            "eventType": "",
-            "startTime": "2026/09/15 16:00:00 +0000",
-            "teamA": "Genoa",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-            "teamB": "SÃ¼dtirol",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2760/image"
-        },
-        "formats": [
-            "PREMIER SPORTS 2 - AQ",
-            "ITALIA SPORTS 1 FHD",
-            "CBS SPORTS FHD",
-            "SPORTS TV PORTUGAL ",
-            "DAZN SPORTS HD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 785,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "PREMIER SPORTS 2 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-                "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-                "title": "ITALIA SPORTS 1 FHD",
-                "type": "1"
-            },
-            {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "CBS SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
-                "title": "SPORTS TV PORTUGAL ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8",
-                "title": "DAZN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.44/hls/BEEEAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "coppa-italia1",
-        "title": "Coppa Italia1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/17 21:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -1638,6 +1543,45 @@
         ],
         "slug": "uefa-europa-league6",
         "title": "UEFA Europa League6"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/17 04:00:32 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+            "eventName": "AEW Dynamite",
+            "eventType": "",
+            "startTime": "2026/09/17 00:00:21 +0000",
+            "teamA": "AEW",
+            "teamAFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg",
+            "teamB": "AEW",
+            "teamBFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg"
+        },
+        "formats": [
+            "FOX SPORTS FHD",
+            "TSN SPORTS FHD"
+        ],
+        "id": 843,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "title": "FOX SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                "title": "TSN SPORTS FHD",
+                "type": "1"
+            }
+        ],
+        "slug": "aew",
+        "title": "AEW"
     },
     {
         "cat": "Live Events",
@@ -2125,123 +2069,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/15 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
-            "eventName": "Coppa Italia",
-            "eventType": "",
-            "startTime": "2026/09/15 19:00:00 +0000",
-            "teamA": "Fiorentina",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-            "teamB": "Pisa",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image"
-        },
-        "formats": [
-            "PREMIRE SPORTS 2 FHD",
-            "ITALIA SPORTS - AQ",
-            "Sport TV Portugal",
-            "DAZN SPORTS HD"
-        ],
-        "id": 995,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "PREMIRE SPORTS 2 FHD",
-                "type": "1"
-            },
-            {
-                "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-                "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-                "title": "ITALIA SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
-                "title": "Sport TV Portugal",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
-                "title": "DAZN SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "coppa-italia2",
-        "title": "coppa-italia2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-            "eventName": "Championship",
-            "eventType": "",
-            "startTime": "2026/09/15 18:45:00 +0000",
-            "teamA": "Bristol City",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-            "teamB": "Lincoln",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image"
-        },
-        "formats": [
-            "GHD SPORTS FHD"
-        ],
-        "id": 1005,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/f444.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS FHD",
-                "type": "0"
-            }
-        ],
-        "slug": "championship1",
-        "title": "English Championship1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-            "eventName": "Championship",
-            "eventType": "",
-            "startTime": "2026/09/15 18:45:00 +0000",
-            "teamA": "Middlesbrough",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-            "teamB": "Millwall",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image"
-        },
-        "formats": [
-            "GHD SPORTS - HD"
-        ],
-        "id": 1006,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/f444A.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS - HD",
-                "type": "0"
-            }
-        ],
-        "slug": "championship2",
-        "title": "english-championship2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/17 20:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
@@ -2344,165 +2171,5 @@
         ],
         "slug": "cpl2",
         "title": "cpl2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-            "eventName": "Football League Trophy",
-            "eventType": "",
-            "startTime": "2026/09/15 18:00:00 +0000",
-            "teamA": "Leyton Orient",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/83/image",
-            "teamB": "Arsenal U21",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/36554/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1054,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZLLLQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "trophy1",
-        "title": "trophy1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-            "eventName": "Football League Trophy",
-            "eventType": "",
-            "startTime": "2026/09/15 18:00:00 +0000",
-            "teamA": "Chesterfield",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
-            "teamB": "Man City U21",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/36544/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1055,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZLLL.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "trophy2",
-        "title": "trophy2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-            "eventName": "Football League Trophy",
-            "eventType": "",
-            "startTime": "2026/09/15 18:00:00 +0000",
-            "teamA": "Swindon",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/53/image",
-            "teamB": "Crystal Palace U21",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/77869/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1056,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZLLLQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "trophy3",
-        "title": "trophy3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-            "eventName": "Football League Trophy",
-            "eventType": "",
-            "startTime": "2026/09/15 18:00:00 +0000",
-            "teamA": "Wycombe",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
-            "teamB": "Chelsea U21",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/36539/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1057,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZLLLQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "trophy4",
-        "title": "trophy4"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/15 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-            "eventName": "Football League Trophy",
-            "eventType": "",
-            "startTime": "2026/09/15 18:00:00 +0000",
-            "teamA": "York",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/73/image",
-            "teamB": "Newcastle U21",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/43511/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1058,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZLLLQQQQ.m3u8",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "trophy5",
-        "title": "trophy5"
     }
 ]
