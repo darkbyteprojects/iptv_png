@@ -128,10 +128,17 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "drm_scheme": "clearkey",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "name": "ESPN AR",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZE TV",
                 "token_api": ""
             },
             {
@@ -646,6 +653,13 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+                "drm_scheme": "clearkey",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                "name": "ESPN AR",
+                "token_api": ""
+            },
+            {
                 "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -656,64 +670,9 @@
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": "",
-                "name": "SONY SPORTS HD",
-                "token_api": {
-                    "api": "https://epiembeds.online/embed/sonysportsnetwork5-in",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "x",
-                "name": "PARAMOUNT+ HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
                 "name": "ARENA PREMIUM HD",
                 "token_api": {
                     "api": "https://epiembeds.online/embed/arena4premiumserbia",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "ESPN",
-                "token_api": {
-                    "api": "https://la18hd.su/vivo/canales.php?stream=espn3",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "DISNEY+",
-                "token_api": {
-                    "api": "https://la18hd.su/vivo/canales.php?stream=disney3",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -772,6 +731,13 @@
                 "token_api": ""
             },
             {
+                "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "drm_scheme": "clearkey",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "name": "ESPN AR",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": "",
@@ -802,6 +768,13 @@
                     "type": "embed",
                     "url": ""
                 }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.dyrur1.com/live/74259430_8319d776d3eef60ec080ec66661020e6_1080p.m3u8?auth_key=1789590983-0-0-39358ea18e450328f4f522e224501eac",
+                "name": "SK LIVE",
+                "token_api": ""
             },
             {
                 "drm_key": "",
@@ -1031,9 +1004,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1055,9 +1044,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream4.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-pittsburgh-pirates/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1079,9 +1084,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1103,9 +1124,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-minnesota-twins/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1127,9 +1164,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream7.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-texas-rangers/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1198,9 +1251,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream4.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-houston-astros/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1222,9 +1291,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-athletics-vs-tampa-bay-rays/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1246,9 +1331,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-colorado-rockies/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1270,9 +1371,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-mets/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1341,9 +1458,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-chicago-cubs/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1368,6 +1501,22 @@
                 "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-toronto-blue-jays/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1389,9 +1538,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1413,9 +1578,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream4.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-washington-nationals/1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1435,11 +1616,34 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
         "streams": [
             {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SPORTS DIGITAL",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "D SPORTS HD",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=dsports_eventos",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "CONMEBOL Sudamericana"
