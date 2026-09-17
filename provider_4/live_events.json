@@ -211,7 +211,84 @@
         },
         "id": 18,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PREMIER SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "D SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZE TV",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN DEPORTES",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/espndeportes-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN LALIGA",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/daznlaliga-es",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN+",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnplus1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "LaLiga"
     },
     {
@@ -914,7 +991,15 @@
         },
         "id": 34,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
         "title": "Russian Premier League"
     },
     {
@@ -1256,30 +1341,6 @@
     {
         "category": "Basketball",
         "event_info": {
-            "end_time": "17/09/2026 18:45:00",
-            "event_name": "Champions League",
-            "start_time": "17/09/2026 15:45:00",
-            "team_a": "Promitheas Patras BC Vikos Cola",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/232667/image",
-            "team_b": "Glint Korfez Basket",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/268256/image"
-        },
-        "id": 49,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
-            }
-        ],
-        "title": "Champions League"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
             "end_time": "17/09/2026 14:15:00",
             "event_name": "Champions League",
             "start_time": "17/09/2026 11:15:00",
@@ -1288,7 +1349,7 @@
             "team_b": "Dziki Warszawa",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/362905/image"
         },
-        "id": 50,
+        "id": 49,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
         "streams": [
             {
@@ -1319,7 +1380,7 @@
             "team_b": "Río Breogán",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3547/image"
         },
-        "id": 51,
+        "id": 50,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
         "streams": [
             {
@@ -1343,7 +1404,7 @@
             "team_b": "Detroit Lions",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4419/image"
         },
-        "id": 52,
+        "id": 51,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
         "streams": [
             {
@@ -1367,7 +1428,7 @@
             "team_b": "Hong Kong",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/125356/image"
         },
-        "id": 53,
+        "id": 52,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
         "streams": [
             {
@@ -1398,7 +1459,7 @@
             "team_b": "China",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/6127/image"
         },
-        "id": 54,
+        "id": 53,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10707/image/dark",
         "streams": [
             {
@@ -1422,7 +1483,7 @@
             "team_b": "Slovenia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7513/image"
         },
-        "id": 55,
+        "id": 54,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
         "streams": [
             {
@@ -1446,7 +1507,7 @@
             "team_b": "Belgium",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7509/image"
         },
-        "id": 56,
+        "id": 55,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
         "streams": [
             {
@@ -1511,7 +1572,7 @@
             "team_b": "Greece",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/6822/image"
         },
-        "id": 57,
+        "id": 56,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
         "streams": [
             {
@@ -1560,7 +1621,7 @@
             "team_b": "Estonia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/8113/image"
         },
-        "id": 58,
+        "id": 57,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
         "streams": [
             {
@@ -1584,7 +1645,7 @@
             "team_b": "Las Vegas Aces",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/35550/image"
         },
-        "id": 59,
+        "id": 58,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
@@ -1608,7 +1669,7 @@
             "team_b": "Washington Mystics",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3454/image"
         },
-        "id": 60,
+        "id": 59,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
@@ -1632,7 +1693,7 @@
             "team_b": "Los Angeles Sparks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3447/image"
         },
-        "id": 61,
+        "id": 60,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
@@ -1656,7 +1717,7 @@
             "team_b": "Phoenix Mercury",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3444/image"
         },
-        "id": 62,
+        "id": 61,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
@@ -1680,7 +1741,7 @@
             "team_b": "Connecticut Sun",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/35547/image"
         },
-        "id": 63,
+        "id": 62,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
@@ -1704,7 +1765,7 @@
             "team_b": "CD Marathon",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/25355/image"
         },
-        "id": 64,
+        "id": 63,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
         "streams": [
             {
@@ -1728,7 +1789,7 @@
             "team_b": "CD Luis Ángel Firpo",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/24388/image"
         },
-        "id": 65,
+        "id": 64,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
         "streams": [
             {
