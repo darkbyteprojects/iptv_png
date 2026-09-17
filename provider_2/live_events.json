@@ -1346,15 +1346,24 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image"
         },
         "formats": [
+            "CBS SPORTS HD",
             "ESPN SPORTS FHD",
             "CBS NETWORK HD",
-            "BeIN Arabic HD"
+            "BeIN Arabic HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 817,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "CBS SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
                 "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
@@ -1371,6 +1380,18 @@
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
                 "title": "BeIN Arabic HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.48/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/f7a8945f-428d-48ea-a9f5-42056cb0ba56.m3u8",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1393,8 +1414,11 @@
         },
         "formats": [
             "TNT SPORTS FHD",
+            "TNT SPORTS HD",
             "Sony TEN (IN IP)",
-            "BeIN Arabic HD"
+            "BeIN Arabic HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 818,
         "image": "null",
@@ -1409,6 +1433,12 @@
             },
             {
                 "api": "",
+                "link": "https://edgestream2.pro/hls/griogoehvn2.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "TNT SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
                 "link": "https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
                 "title": "Sony TEN (IN IP)",
                 "type": "0"
@@ -1417,6 +1447,18 @@
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/bein7ar.m3u8",
                 "title": "BeIN Arabic HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.48/hls/XAXAXAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/1c7ca3e1-51c3-4e2a-b552-bb7ead666d2c.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
