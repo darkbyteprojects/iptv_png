@@ -387,16 +387,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "PARAMOUNT+ HD",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=266770&w=728&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             },
             {
                 "drm_key": "",
@@ -445,27 +447,6 @@
                     "type": "embed",
                     "url": ""
                 }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "ZIGGO SPORT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "ARENA SPORT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "DAZN HD",
-                "token_api": ""
             },
             {
                 "drm_key": "",
@@ -623,23 +604,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "STAN SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "PARAMOUNT+",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=266770&w=728&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             },
             {
                 "drm_key": "",
@@ -672,13 +648,6 @@
                     "type": "embed",
                     "url": ""
                 }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "s",
-                "name": "DAZN HD",
-                "token_api": ""
             },
             {
                 "drm_key": "",
@@ -743,27 +712,6 @@
                     "type": "embed",
                     "url": ""
                 }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "POLSAT SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "a",
-                "name": "ZIGGO SPORT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "ah",
-                "name": "ARENA PREMIUM",
-                "token_api": ""
             }
         ],
         "title": "UEFA Europa League"
@@ -809,8 +757,15 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "name": "SKY CRICKET ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD ",
                 "token_api": ""
             }
         ],
@@ -1139,9 +1094,32 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://chatgpt.hereisman.net/playlist/56566/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD SERVER ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SERVER 3",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-17/mil-pit",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1211,9 +1189,25 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-17/ath-tb",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1259,9 +1253,32 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://chatgpt.hereisman.net/playlist/56567/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD SERVER ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-17/lad-cin",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLB"
@@ -1627,9 +1644,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=267796&w=728&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "European Championship"
