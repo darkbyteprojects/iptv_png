@@ -1908,11 +1908,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image"
         },
         "formats": [
-            "GHD SPORTS HD",
-            "GHD SPORTS SD",
-            "BeIN SPORTS HD",
-            "SKY SPORTS+ HD",
-            "Sport TV Portugal "
+            "BeIN SPORTS FHD",
+            "Sport TV Portugal ",
+            "BeIN Sports Arabic "
         ],
         "id": 1008,
         "image": "null",
@@ -1920,33 +1918,21 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.55/hls/GPPPRQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
             },
             {
                 "api": "",
-                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://off.futtv.nx.kg/rea-bre/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/rea-bre/playlist.m3u8?tk=y21rjLkIP52THQrvATDQYA&e=1789540253|origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/rea-bre&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/rea-bre",
-                "title": "SKY SPORTS+ HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv3.m3u8",
+                "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
                 "title": "Sport TV Portugal ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+                "title": "BeIN Sports Arabic ",
                 "type": "0"
             }
         ],
