@@ -162,18 +162,24 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
         },
         "formats": [
+            "Willow Cricbizz - AQ",
             "SonyLiv ENG - AQ",
             "SKY CRICKET - AQ",
             "SKY CRICKET - HD",
             "GHD SPORTS - SD",
-            "TAPMAD ENG - AQ",
-            "Willow Cricbizz - AQ"
+            "TAPMAD ENG - AQ"
         ],
         "id": 14,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgpvqhzkk4/out/v1/5923238e6f324fd0bd033fb77f0cd6af/cenc.mpd",
+                "title": "Willow Cricbizz - AQ",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/criclive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f7f699011a1f8c3dbbb3ed5fa4e4845c-1789665004214",
@@ -203,12 +209,6 @@
                 "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com/",
                 "title": "TAPMAD ENG - AQ",
                 "type": "0"
-            },
-            {
-                "api": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
-                "title": "Willow Cricbizz - AQ",
-                "type": "1"
             }
         ],
         "slug": "live4_eng_sri",
@@ -2055,8 +2055,10 @@
         },
         "formats": [
             "BeIN SPORTS FHD",
+            "FANCODE ENG - AQ",
             "Sport TV Portugal ",
-            "BeIN Sports Arabic "
+            "BeIN Sports Arabic ",
+            "SKY SPORTS MAIN "
         ],
         "id": 1008,
         "image": "null",
@@ -2070,6 +2072,12 @@
                 "type": "1"
             },
             {
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "title": "FANCODE ENG - AQ",
+                "type": "1"
+            },
+            {
                 "api": "",
                 "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
                 "title": "Sport TV Portugal ",
@@ -2079,6 +2087,12 @@
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
                 "title": "BeIN Sports Arabic ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "SKY SPORTS MAIN ",
                 "type": "0"
             }
         ],
@@ -2101,7 +2115,8 @@
         },
         "formats": [
             "Willow Cricbuzz - AQ",
-            "TAPMAD ENG - FHD"
+            "WILLOW SPORTS FHD",
+            "SKY SPORTS NZ HD"
         ],
         "id": 1041,
         "image": "null",
@@ -2118,6 +2133,12 @@
                 "api": "",
                 "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com/",
                 "title": "TAPMAD ENG - FHD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/nwp/809395.m3u8",
+                "title": "SKY SPORTS NZ HD",
                 "type": "0"
             }
         ],
