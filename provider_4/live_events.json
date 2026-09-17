@@ -1,5 +1,66 @@
 [
     {
+        "category": "Cycling",
+        "event_info": {
+            "end_time": "",
+            "event_name": "Cycling",
+            "start_time": "17/09/2026 11:30:00",
+            "team_a": "Cycle Racing",
+            "team_a_flag": "https://iili.io/nqavJ49.png",
+            "team_b": "",
+            "team_b_flag": ""
+        },
+        "id": 9,
+        "image": "",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/ded6ccb4fc4a514101ae9addf9a0838e/index.m3u8|referer=https://iplayer.is/",
+                "name": "EUROSPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "EUROSPORT HD",
+                "token_api": {
+                    "api": "https://emb.apl602.online/player/live.php?id=266127&w=700&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+                "name": "EUROSPORT",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS 2",
+                "token_api": ""
+            },
+            {
+                "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                "name": "TNT SPORTS 3",
+                "token_api": ""
+            }
+        ],
+        "title": "Cycling"
+    },
+    {
         "category": "Cricket",
         "event_info": {
             "end_time": "17/09/2026 13:55:00",
@@ -856,5 +917,221 @@
             }
         ],
         "title": "MLB"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "17/09/2026 13:50:00",
+            "event_name": "Türkiye Kupası",
+            "start_time": "17/09/2026 11:30:00",
+            "team_a": "Amasyaspor FK",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/206914/image",
+            "team_b": "Çankırıgücü",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1078462/image"
+        },
+        "id": 48,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Türkiye Kupası"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "17/09/2026 21:20:00",
+            "event_name": "League One",
+            "start_time": "17/09/2026 19:00:00",
+            "team_a": "AFC Wimbledon",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/23957/image",
+            "team_b": "Milton Keynes Dons",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4/image"
+        },
+        "id": 49,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "League One"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "17/09/2026 21:00:00",
+            "event_name": "Champions League",
+            "start_time": "17/09/2026 18:00:00",
+            "team_a": "SL Benfica",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/34994/image",
+            "team_b": "Rasta Vechta",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/80759/image"
+        },
+        "id": 50,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Champions League"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "17/09/2026 18:45:00",
+            "event_name": "Champions League",
+            "start_time": "17/09/2026 15:45:00",
+            "team_a": "Promitheas Patras BC Vikos Cola",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/232667/image",
+            "team_b": "Glint Korfez Basket",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/268256/image"
+        },
+        "id": 51,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Champions League"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "17/09/2026 14:15:00",
+            "event_name": "Champions League",
+            "start_time": "17/09/2026 11:15:00",
+            "team_a": "VEF Rīga",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/38007/image",
+            "team_b": "Dziki Warszawa",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/362905/image"
+        },
+        "id": 52,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Champions League"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "17/09/2026 16:30:00",
+            "event_name": "Champions League",
+            "start_time": "17/09/2026 13:30:00",
+            "team_a": "Manchester Basketball",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/929850/image",
+            "team_b": "Río Breogán",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3547/image"
+        },
+        "id": 53,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Champions League"
+    },
+    {
+        "category": "American football",
+        "event_info": {
+            "end_time": "18/09/2026 03:45:00",
+            "event_name": "NFL",
+            "start_time": "18/09/2026 00:15:00",
+            "team_a": "Buffalo Bills",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4414/image",
+            "team_b": "Detroit Lions",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4419/image"
+        },
+        "id": 54,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "NFL"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "17/09/2026 13:00:00",
+            "event_name": "Asian Games, Women",
+            "start_time": "17/09/2026 10:00:00",
+            "team_a": "Japan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/22789/image",
+            "team_b": "Hong Kong",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/125356/image"
+        },
+        "id": 55,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Asian Games, Women"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "18/09/2026 13:20:00",
+            "event_name": "Asian Games, Men",
+            "start_time": "18/09/2026 10:20:00",
+            "team_a": "Japan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6130/image",
+            "team_b": "China",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6127/image"
+        },
+        "id": 56,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/10707/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Asian Games, Men"
     }
 ]
