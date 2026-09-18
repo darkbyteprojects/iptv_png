@@ -437,9 +437,41 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://netanjahu.hls.st/t/96e2fe8c58c0a3830b331656ade67c87/index.m3u8|referer=https://iplayer.is/",
                 "name": "ARENA SPORT",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SD SERVER  🇩🇪",
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=266848&w=728&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SD SERVER 🇷🇸",
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=267871&w=728&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Austrian Bundesliga"
@@ -1110,35 +1142,50 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "name": "FOX DEPORTES ",
                 "token_api": ""
-            }
-        ],
-        "title": "Liga MX, Apertura"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "19/09/2026 03:20:00",
-            "event_name": "Liga MX, Apertura",
-            "start_time": "19/09/2026 01:00:00",
-            "team_a": "Club Puebla",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1941/image",
-            "team_b": "Atlante FC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1943/image"
-        },
-        "id": 45,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "streams": [
+            },
+            {
+                "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "NBC SPORTS ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "AZTECA 7",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=azteca7",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UNIVERSO ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=universo",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga MX, Apertura"
@@ -1154,15 +1201,40 @@
             "team_b": "CS 2 de Mayo",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5992/image"
         },
-        "id": 46,
+        "id": 45,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=fanatiz2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=tigopy",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera División"
@@ -1178,7 +1250,7 @@
             "team_b": "Guaraní",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5994/image"
         },
-        "id": 47,
+        "id": 46,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
         "streams": [
             {
@@ -1211,7 +1283,7 @@
             "team_b": "PEC Zwolle",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2971/image"
         },
-        "id": 48,
+        "id": 47,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
@@ -1235,7 +1307,7 @@
             "team_b": "Jaguares de Córdoba",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/89370/image"
         },
-        "id": 49,
+        "id": 48,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "streams": [
             {
@@ -1284,7 +1356,7 @@
             "team_b": "Deportivo Pereira",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/6109/image"
         },
-        "id": 50,
+        "id": 49,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "streams": [
             {
@@ -1333,7 +1405,7 @@
             "team_b": "Asociación Deportiva Tarma",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/335557/image"
         },
-        "id": 51,
+        "id": 50,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "streams": [
             {
@@ -1382,7 +1454,7 @@
             "team_b": "Comerciantes Unidos",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/213609/image"
         },
-        "id": 52,
+        "id": 51,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "streams": [
             {
@@ -1431,7 +1503,7 @@
             "team_b": "CSM Oradea",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/110317/image"
         },
-        "id": 53,
+        "id": 52,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
         "streams": [
             {
@@ -1455,7 +1527,7 @@
             "team_b": "Bakken Bears",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/45075/image"
         },
-        "id": 54,
+        "id": 53,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/9357/image/dark",
         "streams": [
             {
@@ -1479,7 +1551,7 @@
             "team_b": "Real Madrid",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3540/image"
         },
-        "id": 55,
+        "id": 54,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
         "streams": [
             {
@@ -1510,7 +1582,7 @@
             "team_b": "San Francisco Giants",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3634/image"
         },
-        "id": 56,
+        "id": 55,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1550,7 +1622,7 @@
             "team_b": "New York Yankees",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3654/image"
         },
-        "id": 57,
+        "id": 56,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1566,7 +1638,7 @@
             "team_b": "Seattle Mariners",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3641/image"
         },
-        "id": 58,
+        "id": 57,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1582,7 +1654,7 @@
             "team_b": "Atlanta Braves",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3656/image"
         },
-        "id": 59,
+        "id": 58,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1622,7 +1694,7 @@
             "team_b": "Washington Nationals",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5930/image"
         },
-        "id": 60,
+        "id": 59,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1662,7 +1734,7 @@
             "team_b": "Detroit Tigers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3648/image"
         },
-        "id": 61,
+        "id": 60,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1702,7 +1774,7 @@
             "team_b": "Milwaukee Brewers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3630/image"
         },
-        "id": 62,
+        "id": 61,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1742,7 +1814,7 @@
             "team_b": "Minnesota Twins",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3649/image"
         },
-        "id": 63,
+        "id": 62,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1758,7 +1830,7 @@
             "team_b": "Boston Red Sox",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3646/image"
         },
-        "id": 64,
+        "id": 63,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1798,7 +1870,7 @@
             "team_b": "Toronto Blue Jays",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3642/image"
         },
-        "id": 65,
+        "id": 64,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1814,7 +1886,7 @@
             "team_b": "Miami Marlins",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3639/image"
         },
-        "id": 66,
+        "id": 65,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1830,7 +1902,7 @@
             "team_b": "Kansas City Royals",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3651/image"
         },
-        "id": 67,
+        "id": 66,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1870,7 +1942,7 @@
             "team_b": "Chicago Cubs",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3627/image"
         },
-        "id": 68,
+        "id": 67,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1910,7 +1982,7 @@
             "team_b": "Athletics",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3645/image"
         },
-        "id": 69,
+        "id": 68,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1950,7 +2022,7 @@
             "team_b": "Philadelphia Phillies",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3635/image"
         },
-        "id": 70,
+        "id": 69,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
@@ -1990,9 +2062,96 @@
             "team_b": "New York Red Bulls",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2506/image"
         },
-        "id": 71,
+        "id": 70,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MLS",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=mls1es",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLS"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 03:20:00",
+            "event_name": "Liga MX, Apertura",
+            "start_time": "19/09/2026 01:00:00",
+            "team_a": "Club Puebla",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1941/image",
+            "team_b": "Atlante FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1943/image"
+        },
+        "id": 71,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "streams": [
+            {
+                "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "name": "CANAL MX",
+                "token_api": ""
+            },
+            {
+                "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TUDN ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN MX",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnmx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TUDN",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=tudn",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "Liga MX, Apertura"
     }
 ]
