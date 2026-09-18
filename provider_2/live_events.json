@@ -2877,7 +2877,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image"
         },
         "formats": [
-            "CBS NETWORK HD"
+            "CBS SPORTS HD",
+            "CBS SPORTS SD",
+            "GHD SPORTS HD",
+            "FANCODE HD"
         ],
         "id": 1050,
         "image": "null",
@@ -2886,8 +2889,26 @@
         "resolved_streams": [
             {
                 "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db521e4f896100fb57fb5-fancode/chunks.m3u8?is_vip=false&token=1789839183-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a47bba0639064dc2b8facae8e509913a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "CBS SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                "title": "CBS NETWORK HD",
+                "title": "CBS SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/GAAAFAAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db521e4f896100fb57fb5/chunks.m3u8?is_vip=false&token=1789839183-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-323775af4af3e92c9d428a901fb90ac1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "FANCODE HD",
                 "type": "0"
             }
         ],
