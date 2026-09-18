@@ -403,6 +403,45 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/09/19 23:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "eventName": "BrasileirÃ£o Betano",
+            "eventType": "",
+            "startTime": "2026/09/19 21:30:00 +0000",
+            "teamA": "Remo",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+            "teamB": "Santos",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
+        },
+        "formats": [
+            "Premier Sports - AQ",
+            "PREMIERE SPORTS BR"
+        ],
+        "id": 735,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "Premier Sports - AQ",
+                "type": "1"
+            },
+            {
+                "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "PREMIERE SPORTS BR",
+                "type": "1"
+            }
+        ],
+        "slug": "brazilian-serie-a",
+        "title": "Brazilian Serie A"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/09/18 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -1870,73 +1909,6 @@
         ],
         "slug": "portuguese-primeira-liga2",
         "title": "Portuguese Primeira Liga2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/17 18:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-            "eventName": "UEFA Europa League",
-            "eventType": "",
-            "startTime": "2026/09/17 16:45:00 +0000",
-            "teamA": "Levski Sofia",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3273/image",
-            "teamB": "RB Salzburg",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image"
-        },
-        "formats": [
-            "CBS SPORTS HD",
-            "SonyLiv ENG - AQ",
-            "CBS NETWORK HD",
-            "BeIN Arabic HD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 817,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "CBS SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f7f699011a1f8c3dbbb3ed5fa4e4845c-1789665004214",
-                "title": "SonyLiv ENG - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                "title": "CBS NETWORK HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
-                "title": "BeIN Arabic HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.48/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/f7a8945f-428d-48ea-a9f5-42056cb0ba56.m3u8",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "uefa-europa-league1",
-        "title": "UEFA Europa League1"
     },
     {
         "cat": "Live Events",
@@ -3908,5 +3880,133 @@
         ],
         "slug": "portuguese-primeira-liga4",
         "title": "portuguese-primeira-liga4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 12:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "eventName": "Liga F Moeve",
+            "eventType": "",
+            "startTime": "2026/09/19 10:00:00 +0000",
+            "teamA": "FC Badalona",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+            "teamB": "R. Sociedad",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1064,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "vz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "liga-f1",
+        "title": "Liga F1"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 18:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "eventName": "Liga F Moeve",
+            "eventType": "",
+            "startTime": "2026/09/19 16:00:00 +0000",
+            "teamA": "AtlÃ©tico de Madrid",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/77879/image",
+            "teamB": "LogroÃ±o",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/861598/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1065,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "bz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "liga-f2",
+        "title": "Liga F2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "eventName": "Liga F Moeve",
+            "eventType": "",
+            "startTime": "2026/09/19 14:00:00 +0000",
+            "teamA": "Espanyol",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+            "teamB": "Madrid CFF",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1066,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "vz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "liga-f3",
+        "title": "Liga F3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/19 20:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "eventName": "Liga F Moeve",
+            "eventType": "",
+            "startTime": "2026/09/19 18:30:00 +0000",
+            "teamA": "Real Madrid",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+            "teamB": "Valencia",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1067,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "vs",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "liga-f4",
+        "title": "Liga F4"
     }
 ]
