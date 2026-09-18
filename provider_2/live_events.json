@@ -122,80 +122,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/18 08:10:00 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark",
-            "eventName": "Asian Games Women",
-            "eventType": "",
-            "startTime": "2026/09/18 05:00:00 +0000",
-            "teamA": "JPN-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/453169/image",
-            "teamB": "IND-W",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
-        },
-        "formats": [
-            "Willow Cricbuzz - AQ",
-            "SonyLiv HIN - AQ",
-            "SonyLiv ENG - AQ",
-            "SonyLiv TAM - AQ",
-            "SonyLiv TEL - AQ",
-            "SonyLiv KAN - AQ",
-            "PTV SPORTS HD"
-        ],
-        "id": 17,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7WEUoPwDXanoJFsG7SSPjj4rOVEPGkGl4AMHgGBseg&s",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3",
-                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
-                "title": "Willow Cricbuzz - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
-                "title": "SonyLiv HIN - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
-                "title": "SonyLiv ENG - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1809/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
-                "title": "SonyLiv TAM - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1809/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
-                "title": "SonyLiv TEL - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1809/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
-                "title": "SonyLiv KAN - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://baila-lentoo.pages.dev/nwp/809398.m3u8",
-                "title": "PTV SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "live6-ind-jap",
-        "title": "live6-zim-afg"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/18 15:30:57 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
@@ -209,6 +135,7 @@
         },
         "formats": [
             "FANCODE ENG - FHD",
+            "FOX CRICKET HD",
             "TAPMAD ENG - FHD",
             "FANCODE ENG - IN"
         ],
@@ -2154,7 +2081,8 @@
             "TNT SPORTS - AQ",
             "MotoGp Live - AQ",
             "SPOTV - FHD",
-            "SPORTS4 TV HD"
+            "SPORTS4 TV HD",
+            "TNT SPORTS HD"
         ],
         "id": 863,
         "image": "null",
@@ -2183,6 +2111,12 @@
                 "api": "",
                 "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
                 "title": "SPORTS4 TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/ssssAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "TNT SPORTS HD",
                 "type": "0"
             }
         ],
