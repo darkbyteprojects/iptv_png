@@ -1433,11 +1433,12 @@
         },
         "formats": [
             "BeIN SPORTS FHD",
-            "NBC SPORTS FHD",
+            "CBS SPORTS HD",
             "Sport TV Portugal ",
             "DAZN SPORTS HD",
             "ESPN ARG FHD",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "CBS SPORTS SD"
         ],
         "id": 769,
         "image": "null",
@@ -1451,10 +1452,10 @@
                 "type": "1"
             },
             {
-                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "NBC SPORTS FHD",
-                "type": "1"
+                "api": "",
+                "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "CBS SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -1478,6 +1479,12 @@
                 "api": "",
                 "link": "http://193.47.62.55/hls/USSSQQQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-18/mon-sas/playlist.m3u8?tk=wwiZq79PgyMDTYdYOxJoWA&e=1789799451|origin=https://ondemand.st/embed/?id=seriea/2026-09-18/mon-sas&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=seriea/2026-09-18/mon-sas",
+                "title": "CBS SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1905,18 +1912,26 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image"
         },
         "formats": [
+            "BEIN SPORTS HD",
             "BeIN SPORTS USA",
             "Ligue1+ France",
             "GHD SPORTS HD",
             "Sport TV Portugal ",
             "DAZN SPORTS HD",
-            "BEIN Arabic HD"
+            "BEIN Arabic HD",
+            "Ligue+ France HD"
         ],
         "id": 824,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "BEIN SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8",
