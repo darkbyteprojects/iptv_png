@@ -134,7 +134,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
         },
         "formats": [
-            "T SPORTS - HD"
+            "SonyLiv HIN - AQ",
+            "SonyLiv ENG - AQ",
+            "SonyLiv TAM - AQ",
+            "SonyLiv TEL - AQ",
+            "SonyLiv KAN - AQ"
         ],
         "id": 17,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7WEUoPwDXanoJFsG7SSPjj4rOVEPGkGl4AMHgGBseg&s",
@@ -143,8 +147,32 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8",
-                "title": "T SPORTS - HD",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
+                "title": "SonyLiv HIN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
+                "title": "SonyLiv ENG - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1809/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
+                "title": "SonyLiv TAM - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1809/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
+                "title": "SonyLiv TEL - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1809/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982",
+                "title": "SonyLiv KAN - AQ",
                 "type": "0"
             }
         ],
@@ -2096,59 +2124,6 @@
         ],
         "slug": "french-ligue-3",
         "title": "French Ligue 3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/17 04:00:32 +0000",
-            "eventCat": "WWE",
-            "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
-            "eventName": "AEW Dynamite",
-            "eventType": "",
-            "startTime": "2026/09/17 00:00:21 +0000",
-            "teamA": "AEW",
-            "teamAFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg",
-            "teamB": "AEW",
-            "teamBFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg"
-        },
-        "formats": [
-            "FOX SPORTS FHD",
-            "TSN SPORTS FHD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 843,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "title": "FOX SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "TSN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.52/hls/foooAAa.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "aew",
-        "title": "AEW"
     },
     {
         "cat": "Live Events",
