@@ -797,6 +797,38 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "FUBO SPORTS",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espn2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=disney4",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Premier League"
@@ -863,10 +895,17 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CBS SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS ",
                 "token_api": ""
             }
         ],
@@ -959,11 +998,50 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "streams": [
             {
+                "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PREMIER SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "name": "FOX DEPORTES ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "TNT SPORTS ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=tntsports",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TNT SPORTS ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=tntsports",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga Profesional de Fútbol"
@@ -985,9 +1063,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga Profesional de Fútbol"
@@ -1081,9 +1184,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=tigopy",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera División"
@@ -1129,9 +1241,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "WIN +",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=winplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "WIN + 2",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=winsports2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera A"
@@ -1153,9 +1290,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "WIN +",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=winplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "WIN + 2",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=winsports2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera A"
@@ -1177,9 +1339,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "",
                 "name": "SK LIVE",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=liga1max",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "LIGA 1 MX",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga 1 Te Apuesto"
@@ -1201,9 +1388,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "LIGA 1 MX",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=liga1max",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "LIGA 1 MX",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga 1 Te Apuesto"
@@ -1259,62 +1471,6 @@
     {
         "category": "Basketball",
         "event_info": {
-            "end_time": "18/09/2026 17:00:00",
-            "event_name": "Euroleague SuperCup",
-            "start_time": "18/09/2026 14:00:00",
-            "team_a": "Olympiacos BC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3501/image",
-            "team_b": "Fenerbahçe Tarfin",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3514/image"
-        },
-        "id": 55,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://netanjahu.hls.st/t/c120e054965fd94993284ac1ee4e2ab3/index.m3u8|referer=https://iplayer.is/",
-                "name": "POLSAT SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "OKKO SPORT",
-                "token_api": {
-                    "api": "https://epiembeds.online/embed/okkosport2",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "ARENA PREMIUM",
-                "token_api": {
-                    "api": "https://epiembeds.online/embed/arena2premiumserbia",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            }
-        ],
-        "title": "Euroleague SuperCup"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
             "end_time": "18/09/2026 20:00:00",
             "event_name": "Euroleague SuperCup",
             "start_time": "18/09/2026 17:00:00",
@@ -1323,7 +1479,7 @@
             "team_b": "Real Madrid",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3540/image"
         },
-        "id": 56,
+        "id": 55,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
         "streams": [
             {
@@ -1354,9 +1510,33 @@
             "team_b": "San Francisco Giants",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3634/image"
         },
-        "id": 57,
+        "id": 56,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/sf-lad",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1370,7 +1550,7 @@
             "team_b": "New York Yankees",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3654/image"
         },
-        "id": 58,
+        "id": 57,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1386,7 +1566,7 @@
             "team_b": "Seattle Mariners",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3641/image"
         },
-        "id": 59,
+        "id": 58,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1402,9 +1582,33 @@
             "team_b": "Atlanta Braves",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3656/image"
         },
-        "id": 60,
+        "id": 59,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/atl-hou",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1418,9 +1622,33 @@
             "team_b": "Washington Nationals",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5930/image"
         },
-        "id": 61,
+        "id": 60,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/wsh-stl",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1434,9 +1662,33 @@
             "team_b": "Detroit Tigers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3648/image"
         },
-        "id": 62,
+        "id": 61,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/det-chw",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1450,9 +1702,33 @@
             "team_b": "Milwaukee Brewers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3630/image"
         },
-        "id": 63,
+        "id": 62,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/mil-bal",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1466,7 +1742,7 @@
             "team_b": "Minnesota Twins",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3649/image"
         },
-        "id": 64,
+        "id": 63,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1482,9 +1758,33 @@
             "team_b": "Boston Red Sox",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3646/image"
         },
-        "id": 65,
+        "id": 64,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/bos-tb",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1498,7 +1798,7 @@
             "team_b": "Toronto Blue Jays",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3642/image"
         },
-        "id": 66,
+        "id": 65,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1514,7 +1814,7 @@
             "team_b": "Miami Marlins",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3639/image"
         },
-        "id": 67,
+        "id": 66,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [],
         "title": "MLB"
@@ -1530,9 +1830,33 @@
             "team_b": "Kansas City Royals",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3651/image"
         },
-        "id": 68,
+        "id": 67,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "5https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/kc-pit",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1546,9 +1870,33 @@
             "team_b": "Chicago Cubs",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3627/image"
         },
-        "id": 69,
+        "id": 68,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream4.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/chc-cin",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1562,9 +1910,33 @@
             "team_b": "Athletics",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3645/image"
         },
-        "id": 70,
+        "id": 69,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream5.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/ath-cle",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1578,9 +1950,33 @@
             "team_b": "Philadelphia Phillies",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3635/image"
         },
-        "id": 71,
+        "id": 70,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream4.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "SK LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mlb/2026-09-18/phi-nym",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLB"
     },
     {
@@ -1594,7 +1990,7 @@
             "team_b": "New York Red Bulls",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2506/image"
         },
-        "id": 72,
+        "id": 71,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "streams": [],
         "title": "MLS"
