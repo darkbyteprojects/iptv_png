@@ -421,7 +421,7 @@
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "name": "ARENA SPORT",
                 "token_api": ""
             }
         ],
@@ -958,15 +958,7 @@
         },
         "id": 47,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Primera División"
     },
     {
@@ -1184,5 +1176,85 @@
             }
         ],
         "title": "One Day International"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "18/09/2026 17:00:00",
+            "event_name": "Euroleague SuperCup",
+            "start_time": "18/09/2026 14:00:00",
+            "team_a": "Olympiacos BC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3501/image",
+            "team_b": "Fenerbahçe Tarfin",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3514/image"
+        },
+        "id": 57,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "POLSAT SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "OKKO SPORT",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/okkosport2",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ARENA PREMIUM",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/arena2premiumserbia",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "Euroleague SuperCup"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "18/09/2026 20:00:00",
+            "event_name": "Euroleague SuperCup",
+            "start_time": "18/09/2026 17:00:00",
+            "team_a": "BC Dubai",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/526165/image",
+            "team_b": "Real Madrid",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3540/image"
+        },
+        "id": 58,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Euroleague SuperCup"
     }
 ]
