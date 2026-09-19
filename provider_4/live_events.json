@@ -2051,11 +2051,57 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
+                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "D SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FANCODE ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN +",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnplus5",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN DEPORTES ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espndeportes",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga"
@@ -3629,7 +3675,40 @@
         },
         "id": 85,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MLS",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=mls4es",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mls/2026-09-19/min-la",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -3645,7 +3724,24 @@
         },
         "id": 86,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mls/2026-09-19/dal-atx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -3847,7 +3943,24 @@
         },
         "id": 93,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mls/2026-09-19/stl-tor",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -5688,5 +5801,166 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
         "streams": [],
         "title": "SuperLiga României"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 02:35:00",
+            "event_name": "Liga Profesional de Fútbol",
+            "start_time": "20/09/2026 00:15:00",
+            "team_a": "Instituto De Córdoba",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4937/image",
+            "team_b": "CA Talleres",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3210/image"
+        },
+        "id": 145,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TNT SPORTS ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=tntsports",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TNT SPORTS ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=tntsports",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "Liga Profesional de Fútbol"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 00:20:00",
+            "event_name": "Liga Profesional de Fútbol",
+            "start_time": "19/09/2026 22:00:00",
+            "team_a": "River Plate",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3211/image",
+            "team_b": "Huracán",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7629/image"
+        },
+        "id": 146,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "streams": [
+            {
+                "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "name": "FOX DEPORTES ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "name": "SPORT DIGITAL ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "Liga Profesional de Fútbol"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 22:05:00",
+            "event_name": "Liga Profesional de Fútbol",
+            "start_time": "19/09/2026 19:45:00",
+            "team_a": "Club Atlético Unión de Santa Fe",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3204/image",
+            "team_b": "CA Independiente",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3209/image"
+        },
+        "id": 147,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
+        "title": "Liga Profesional de Fútbol"
     }
 ]
