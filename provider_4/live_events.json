@@ -398,11 +398,50 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FUBO SPORTS ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espn",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UNIVERSO",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=universo",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Premier League"
@@ -1926,5 +1965,69 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "streams": [],
         "title": "MLS"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 21:20:00",
+            "event_name": "Primera A",
+            "start_time": "19/09/2026 19:00:00",
+            "team_a": "Millonarios",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6117/image",
+            "team_b": "Boyacá Chicó FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6107/image"
+        },
+        "id": 96,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "streams": [],
+        "title": "Primera A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 01:30:00",
+            "event_name": "Primera A",
+            "start_time": "19/09/2026 23:10:00",
+            "team_a": "Deportivo Cali",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6112/image",
+            "team_b": "Cúcuta Deportivo",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6108/image"
+        },
+        "id": 97,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "streams": [],
+        "title": "Primera A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 23:25:00",
+            "event_name": "Primera A",
+            "start_time": "19/09/2026 21:05:00",
+            "team_a": "Alianza Valledupar FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/504899/image",
+            "team_b": "Independiente Santa Fe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6116/image"
+        },
+        "id": 98,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "streams": [],
+        "title": "Primera A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 03:35:00",
+            "event_name": "Primera A",
+            "start_time": "20/09/2026 01:15:00",
+            "team_a": "Deportivo Pasto",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6113/image",
+            "team_b": "Once Caldas",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6118/image"
+        },
+        "id": 99,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "streams": [],
+        "title": "Primera A"
     }
 ]
