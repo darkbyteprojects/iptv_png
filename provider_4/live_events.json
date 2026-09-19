@@ -137,7 +137,7 @@
                 "link": "",
                 "name": "DAZN SPANISH",
                 "token_api": {
-                    "api": "https://intac.live/mobi/motogpes.php",
+                    "api": "https://buzznews4u.com/live/motogp_spain.php",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -339,11 +339,43 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN MX",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=espnmx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY ",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=disney9",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Serie A"
@@ -1050,9 +1082,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "HYPER 1",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=hypermotion1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga 2"
@@ -1170,9 +1211,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "HYPER 1",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=hypermotion1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga 2"
@@ -1218,9 +1268,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "HYPER 1",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=hypermotion1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga 2"
@@ -2160,5 +2219,365 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "streams": [],
         "title": "Primera A"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 02:15:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 23:15:00",
+            "team_a": "St. Louis Cardinals",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3632/image",
+            "team_b": "Washington Nationals",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/5930/image"
+        },
+        "id": 100,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "19/09/2026 23:05:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 20:05:00",
+            "team_a": "Baltimore Orioles",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3652/image",
+            "team_b": "Milwaukee Brewers",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3630/image"
+        },
+        "id": 101,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 02:10:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 23:10:00",
+            "team_a": "Chicago White Sox",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3644/image",
+            "team_b": "Detroit Tigers",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3648/image"
+        },
+        "id": 102,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 01:40:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 22:40:00",
+            "team_a": "Pittsburgh Pirates",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3637/image",
+            "team_b": "Kansas City Royals",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3651/image"
+        },
+        "id": 103,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 04:10:00",
+            "event_name": "MLB",
+            "start_time": "20/09/2026 01:10:00",
+            "team_a": "Los Angeles Dodgers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3638/image",
+            "team_b": "San Francisco Giants",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3634/image"
+        },
+        "id": 104,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 03:10:00",
+            "event_name": "MLB",
+            "start_time": "20/09/2026 00:10:00",
+            "team_a": "Arizona Diamondbacks",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3640/image",
+            "team_b": "New York Yankees",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3654/image"
+        },
+        "id": 105,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 01:10:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 22:10:00",
+            "team_a": "Cleveland Guardians",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3650/image",
+            "team_b": "Athletics",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3645/image"
+        },
+        "id": 106,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 02:05:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 23:05:00",
+            "team_a": "Texas Rangers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3647/image",
+            "team_b": "Toronto Blue Jays",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3642/image"
+        },
+        "id": 107,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "19/09/2026 23:10:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 20:10:00",
+            "team_a": "Tampa Bay Rays",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3653/image",
+            "team_b": "Boston Red Sox",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3646/image"
+        },
+        "id": 108,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 03:10:00",
+            "event_name": "MLB",
+            "start_time": "20/09/2026 00:10:00",
+            "team_a": "Colorado Rockies",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3628/image",
+            "team_b": "Seattle Mariners",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3641/image"
+        },
+        "id": 109,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 02:10:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 23:10:00",
+            "team_a": "Houston Astros",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3655/image",
+            "team_b": "Atlanta Braves",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3656/image"
+        },
+        "id": 110,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 04:38:00",
+            "event_name": "MLB",
+            "start_time": "20/09/2026 01:38:00",
+            "team_a": "Los Angeles Angels",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/5929/image",
+            "team_b": "Minnesota Twins",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3649/image"
+        },
+        "id": 111,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "19/09/2026 23:10:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 20:10:00",
+            "team_a": "New York Mets",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3629/image",
+            "team_b": "Philadelphia Phillies",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3635/image"
+        },
+        "id": 112,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 03:40:00",
+            "event_name": "MLB",
+            "start_time": "20/09/2026 00:40:00",
+            "team_a": "San Diego Padres",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3636/image",
+            "team_b": "Miami Marlins",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3639/image"
+        },
+        "id": 113,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
+    },
+    {
+        "category": "Baseball",
+        "event_info": {
+            "end_time": "20/09/2026 01:40:00",
+            "event_name": "MLB",
+            "start_time": "19/09/2026 22:40:00",
+            "team_a": "Cincinnati Reds",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3633/image",
+            "team_b": "Chicago Cubs",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3627/image"
+        },
+        "id": 114,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "MLB"
     }
 ]
