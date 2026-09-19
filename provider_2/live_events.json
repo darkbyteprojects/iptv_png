@@ -122,73 +122,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/19 17:00:10 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-            "eventName": "Twenty20 International Women",
-            "eventType": "",
-            "startTime": "2026/09/19 11:30:55 +0000",
-            "teamA": "ZIM-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-            "teamB": "SA-W",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image"
-        },
-        "formats": [
-            "FANCODE - AQ",
-            "FANCODE - SD",
-            "TNT SPORTS - HD",
-            "TapMad Asia - AQ",
-            "FanCode - AQ (IND-IP)",
-            "FanCode - AQ (BD-IP)"
-        ],
-        "id": 20,
-        "image": "https://www.prokabaddi.com/static-assets/images/default-social-share.png?v=1.01?v=2.21",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "FANCODE - AQ",
-                "type": "1"
-            },
-            {
-                "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                "title": "FANCODE - SD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
-                "title": "TNT SPORTS - HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com",
-                "title": "TapMad Asia - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8",
-                "title": "FanCode - AQ (IND-IP)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8",
-                "title": "FanCode - AQ (BD-IP)",
-                "type": "0"
-            }
-        ],
-        "slug": "live7-zim-sa",
-        "title": "live7-icc-nepal"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/20 14:30:04 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
@@ -443,6 +376,8 @@
         "formats": [
             "TNT SPORTS FHD",
             "FUBO SPORTS FHD",
+            "Astro Premier HD",
+            "HUB PREMIER HD",
             "TNT SPORTS HD",
             "GHD SPORTS HD",
             "GHD SPORTS SD"
@@ -463,6 +398,18 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
                 "title": "FUBO SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_720p.m3u8?auth_key=1789831984-0-0-c1002c72ed1e32c1ef03aebcd5ac0df4",
+                "title": "Astro Premier HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a8db522e4f896100fb57fff-fhd/720p/chunks.m3u8?is_vip=false&token=1789904843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f403cec3118797ff434762509acd63f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "HUB PREMIER HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -716,7 +663,8 @@
             "Premier Sports - FHD",
             "D SPORTS FHD",
             "ESPN ARG FHD",
-            "FANCODE FHD"
+            "FANCODE FHD",
+            "GHD SPORTS HD"
         ],
         "id": 756,
         "image": "null",
@@ -746,6 +694,12 @@
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "title": "FANCODE FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/eeeeffff.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "laliga3",
@@ -1861,6 +1815,7 @@
         "formats": [
             "BeIN SPORTS FHD",
             "CBS SPORTS FHD",
+            "FANCODE AQ",
             "SKY SPORTS HD",
             "GHD SPORTS - HD",
             "GHD SPORTS SD"
@@ -1880,6 +1835,12 @@
                 "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                 "title": "CBS SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "title": "FANCODE AQ",
                 "type": "1"
             },
             {
