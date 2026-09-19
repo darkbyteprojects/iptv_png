@@ -261,9 +261,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/461847/image"
         },
         "formats": [
+            "SportsNet FHD",
             "UFC TV - FHD",
             "TNT SPORTS  - AQ",
-            "SportsNet FHD"
+            "PARAMOUNT+ HD",
+            "PARAMOUNT+ SD"
         ],
         "id": 294,
         "image": "https://img.sofascore.com/api/v1/team/470006/image",
@@ -271,22 +273,34 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "SportsNet FHD",
+                "type": "1"
+            },
+            {
                 "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
                 "title": "UFC TV - FHD",
                 "type": "1"
             },
             {
-                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "title": "TNT SPORTS  - AQ",
                 "type": "1"
             },
             {
-                "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "SportsNet FHD",
-                "type": "1"
+                "api": "",
+                "link": "http://193.47.62.59/hls/viii.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "PARAMOUNT+ HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://plex.fromthyheart.site/dailymotion/live/playlist/25.m3u8",
+                "title": "PARAMOUNT+ SD",
+                "type": "0"
             }
         ],
         "slug": "ufc-fight-night",
