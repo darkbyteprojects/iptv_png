@@ -1123,6 +1123,8 @@
         },
         "formats": [
             "CBS Golazo FHD",
+            "PARAMOUNT+ HD",
+            "GHD SPORTS HD",
             "ESPN SPORTS AQ"
         ],
         "id": 795,
@@ -1135,6 +1137,18 @@
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                 "title": "CBS Golazo FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "PARAMOUNT+ HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/RKKKAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
@@ -1628,11 +1642,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image"
         },
         "formats": [
-            "Ligue France - HD",
-            "BeIN SPORTS USA",
-            "Sport TV Portugal ",
+            "beiN SPORTS HD",
             "GHD SPORTS HD",
-            "ESPN SPORTA FHD"
+            "Ligue1+ Live HD ",
+            "BeIN SPORTS SD"
         ],
         "id": 1004,
         "image": "null",
@@ -1641,33 +1654,21 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://tmaxapp.site/ligue6sc6/ligue3.m3u8",
-                "title": "Ligue France - HD",
+                "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+                "title": "beiN SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8",
-                "title": "BeIN SPORTS USA",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
-                "title": "Sport TV Portugal ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://live.uu6611.com/live/hd-en-1-4550875.m3u8?txSecret=2bf8461cab4fe402c7ff5e582e060284&txTime=6AA5E090|Referer=https://player.up909.com/",
+                "link": "http://193.47.62.50/hls/RKKKAAA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
-                "api": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
-                "title": "ESPN SPORTA FHD",
-                "type": "1"
+                "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abca8-hd/chunks.m3u8?is_vip=false&token=1789928330-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce6333a78b1c1b6d0a1285695c7c7666|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "Ligue1+ Live HD ",
+                "type": "0"
             }
         ],
         "slug": "french-ligue-5",
@@ -2021,7 +2022,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image"
         },
         "formats": [
-            ""
+            "GHD SPORTS HD"
         ],
         "id": 1067,
         "image": "null",
@@ -2030,8 +2031,8 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "vs",
-                "title": "",
+                "link": "http://193.47.62.50/hls/TTTT.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
