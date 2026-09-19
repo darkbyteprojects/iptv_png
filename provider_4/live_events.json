@@ -1,10 +1,71 @@
 [
     {
+        "category": "Cycling",
+        "event_info": {
+            "end_time": "",
+            "event_name": "Cycling",
+            "start_time": "19/09/2026 13:15:00",
+            "team_a": "Cycle Racing",
+            "team_a_flag": "https://iili.io/nqavJ49.png",
+            "team_b": "",
+            "team_b_flag": ""
+        },
+        "id": 9,
+        "image": "",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/8f63ce5ded7de4a4ad603e27cfca9194/index.m3u8|referer=https://iplayer.is/",
+                "name": "EUROSPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "EUROSPORT HD",
+                "token_api": {
+                    "api": "https://emb.apl605.online/player/live.php?id=266905&w=700&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+                "name": "EUROSPORT",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS 2",
+                "token_api": ""
+            },
+            {
+                "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                "name": "TNT SPORTS 3",
+                "token_api": ""
+            }
+        ],
+        "title": "Cycling"
+    },
+    {
         "category": "Cricket",
         "event_info": {
-            "end_time": "17/09/2026 13:55:00",
+            "end_time": "",
             "event_name": "EUROPEAN T20 Premier League",
-            "start_time": "17/09/2026 09:30:00",
+            "start_time": "19/09/2026 13:15:00",
             "team_a": "EUROPEAN T20 Premier League",
             "team_a_flag": "https://iili.io/CbCaLI1.png",
             "team_b": "",
@@ -490,6 +551,54 @@
                     "type": "embed",
                     "url": ""
                 }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN ITALY",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/dazn1it",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "QSPORT LEAGUE",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/qsportleague",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MATCH TV",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/match1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Serie A"
@@ -523,6 +632,22 @@
                     "type": "embed",
                     "url": ""
                 }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MATCH FUTBOL",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/match3",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Serie A"
@@ -542,17 +667,17 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
-                "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-                "drm_scheme": "clearkey",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-                "name": "ESPN 2",
-                "token_api": ""
-            },
-            {
                 "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "PREMIER SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "drm_scheme": "clearkey",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "name": "ESPN 2",
                 "token_api": ""
             },
             {
@@ -585,6 +710,38 @@
                 "name": "ESPN +",
                 "token_api": {
                     "api": "https://la18hd.su/vivo/canales.php?stream=espnplus1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MOVISTAR+ LALIGA",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/movistarlaliga1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ARENA PREMIUM",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/arena4premiumserbia",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -3032,7 +3189,14 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://netanjahu.hls.st/t/19618202ee07f91894c73c439c029c09/index.m3u8|referer=https://iplayer.is/",
+                "name": "STAN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4555214.m3u8?txSecret=eb2da626cfa32a8f6a0e23f94911c71d&txTime=6AAE6AC0|referer=https://player.online909.com/",
                 "name": "SK LIVE",
                 "token_api": ""
             }
@@ -3080,8 +3244,8 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
+                "link": "https://netanjahu.hls.st/t/4c1942cc9008f5fb2f4a7035b7a698a9/index.m3u8|referer=https://iplayer.is/",
+                "name": "STAN SPORTS",
                 "token_api": ""
             }
         ],
@@ -3206,5 +3370,125 @@
             }
         ],
         "title": "League One"
+    },
+    {
+        "category": "Volleyball",
+        "event_info": {
+            "end_time": "20/09/2026 16:00:00",
+            "event_name": "European Championship",
+            "start_time": "20/09/2026 13:00:00",
+            "team_a": "Ukraine",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/23408/image",
+            "team_b": "Romania",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7571/image"
+        },
+        "id": 126,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "European Championship"
+    },
+    {
+        "category": "Volleyball",
+        "event_info": {
+            "end_time": "19/09/2026 19:00:00",
+            "event_name": "European Championship",
+            "start_time": "19/09/2026 16:00:00",
+            "team_a": "Germany",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6821/image",
+            "team_b": "Bulgaria",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6814/image"
+        },
+        "id": 127,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "European Championship"
+    },
+    {
+        "category": "Volleyball",
+        "event_info": {
+            "end_time": "19/09/2026 16:00:00",
+            "event_name": "European Championship",
+            "start_time": "19/09/2026 13:00:00",
+            "team_a": "Poland",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6827/image",
+            "team_b": "Latvia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7569/image"
+        },
+        "id": 128,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "European Championship"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 15:20:00",
+            "event_name": "FIFA Intercontinental Cup",
+            "start_time": "19/09/2026 13:00:00",
+            "team_a": "Mamelodi Sundowns",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/7665/image",
+            "team_b": "Al-Ahli",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/34469/image"
+        },
+        "id": 129,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "FIFA Intercontinental Cup"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "19/09/2026 13:30:00",
+            "team_a": "England",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
+            "team_b": "Sri Lanka",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
+        },
+        "id": 130,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "T20 International"
     }
 ]
