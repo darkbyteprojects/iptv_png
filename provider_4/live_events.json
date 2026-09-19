@@ -661,6 +661,13 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
+                "link": "24.pl",
+                "name": "STAN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
                 "link": "",
                 "name": "ESPN",
                 "token_api": {
@@ -689,6 +696,75 @@
                     "type": "embed",
                     "url": ""
                 }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "USA NETWORK",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/usanetwork-usa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SKY NZ",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/skysport8-nz",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "beIN ARABIC",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/beinsports1-sa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "24.pl",
+                "name": "SKY PREMIER LEAGUE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "24.pl",
+                "name": "DAZN 🇵🇹",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "24.pl",
+                "name": "CANAL+ EXTRA",
+                "token_api": ""
             }
         ],
         "title": "Premier League"
@@ -744,6 +820,38 @@
                 "name": "ESPN MX",
                 "token_api": {
                     "api": "https://la18hd.su/vivo/canales.php?stream=espn3mx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SKY MAIN EVENT",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/skymain",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "beIN ARABIC",
+                "token_api": {
+                    "api": "https://epiembeds.online/embed/beinsports3-sa",
                     "default_string": "N8x7Y%m+6n",
                     "ip_api": "https://api.ipify.org/",
                     "link_key": "playback_url",
@@ -2834,5 +2942,269 @@
             }
         ],
         "title": "MLB"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 12:20:00",
+            "event_name": "J1 League",
+            "start_time": "19/09/2026 10:00:00",
+            "team_a": "Fagiano Okayama",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/34034/image",
+            "team_b": "Kyoto Sanga FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3149/image"
+        },
+        "id": 115,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "J1 League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 10:20:00",
+            "event_name": "J1 League",
+            "start_time": "20/09/2026 08:00:00",
+            "team_a": "Machida Zelvia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/44409/image",
+            "team_b": "Kashiwa Reysol",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3140/image"
+        },
+        "id": 116,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "J1 League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 12:50:00",
+            "event_name": "J1 League",
+            "start_time": "19/09/2026 10:30:00",
+            "team_a": "Yokohama F. Marinos",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3137/image",
+            "team_b": "Mito Hollyhock",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/21901/image"
+        },
+        "id": 117,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "J1 League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 12:20:00",
+            "event_name": "J1 League",
+            "start_time": "19/09/2026 10:00:00",
+            "team_a": "FC Tokyo",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3147/image",
+            "team_b": "Nagoya Grampus",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3136/image"
+        },
+        "id": 118,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "J1 League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 10:20:00",
+            "event_name": "J1 League",
+            "start_time": "20/09/2026 08:00:00",
+            "team_a": "Gamba Osaka",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3138/image",
+            "team_b": "Vissel Kobe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3146/image"
+        },
+        "id": 119,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "J1 League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 12:20:00",
+            "event_name": "K League 1",
+            "start_time": "19/09/2026 10:00:00",
+            "team_a": "FC Anyang",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/32675/image",
+            "team_b": "Ulsan HD",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7653/image"
+        },
+        "id": 120,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "K League 1"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 12:20:00",
+            "event_name": "K League 1",
+            "start_time": "20/09/2026 10:00:00",
+            "team_a": "Pohang Steelers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/7650/image",
+            "team_b": "FC Seoul",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7646/image"
+        },
+        "id": 121,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "K League 1"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 09:50:00",
+            "event_name": "K League 1",
+            "start_time": "20/09/2026 07:30:00",
+            "team_a": "Jeonbuk Hyundai Motors",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6908/image",
+            "team_b": "Gwangju FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/48912/image"
+        },
+        "id": 122,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "K League 1"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 09:50:00",
+            "event_name": "K League 1",
+            "start_time": "20/09/2026 07:30:00",
+            "team_a": "Gangwon FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/34220/image",
+            "team_b": "Jeju SK",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7649/image"
+        },
+        "id": 123,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "K League 1"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/09/2026 12:20:00",
+            "event_name": "K League 1",
+            "start_time": "20/09/2026 10:00:00",
+            "team_a": "Incheon United",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/7648/image",
+            "team_b": "Daejeon Hana Citizen",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7645/image"
+        },
+        "id": 124,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "K League 1"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "19/09/2026 13:50:00",
+            "event_name": "League One",
+            "start_time": "19/09/2026 11:30:00",
+            "team_a": "Barnsley",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/23/image",
+            "team_b": "Leicester City",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/31/image"
+        },
+        "id": 125,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "League One"
     }
 ]
