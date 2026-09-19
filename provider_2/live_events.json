@@ -25,8 +25,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "b5c753aa1a570084a6ce60b251d1193d:9c52c44a532dd1480f8f0be10351dbb1",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hxcaiulcs1/out/v1/66224f834bde4f0ea5859a30c09056fe/cenc.mpd",
+                "api": "b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
@@ -1043,9 +1043,11 @@
         },
         "formats": [
             "BEIN SPORTS FHD",
+            "PARAMOUNT+ FHD",
+            "CBS SPORTS HD",
             "GHD SPORTS HD",
             "ESPN SPORTS HD",
-            "CBS SPORTS HD"
+            "CBS SPORTS SD"
         ],
         "id": 770,
         "image": "null",
@@ -1059,6 +1061,18 @@
                 "type": "1"
             },
             {
+                "api": "b581520dfab6d149817a0bb44ca94e98:4db44bde308622ab84cb2c9f853e73c9",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/manipulated-manifest-pdx-prod/enc/xxypw2rpia/out/v1/5f5ed7c97abe476eba999f814ff74a02/96e22830-dda6-4493-8300-9c150ca980c1-cenc.mpd",
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abbe0-hd/chunks.m3u8?is_vip=false&token=1789908459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c11c99e93b111766b306d23816c50123|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "CBS SPORTS HD",
+                "type": "0"
+            },
+            {
                 "api": "",
                 "link": "http://193.47.62.44/hls/DYYYAA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
@@ -1069,6 +1083,12 @@
                 "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
                 "title": "ESPN SPORTS HD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56646/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "CBS SPORTS SD",
+                "type": "0"
             }
         ],
         "slug": "series-a2",
@@ -1089,6 +1109,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
+            "PARAMOUNT+ HD",
+            "CBS SPORTS HD",
+            "GHD SPORTS SD",
             "GHD SPORTS HD"
         ],
         "id": 771,
@@ -1096,6 +1120,30 @@
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "ddd0a45f77349ec6ddcfd663b2482188:d01dccdb7060bc71000e7143011b0e2a",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/manipulated-manifest-iad-prod/enc/mp7c1feoiv/out/v1/08d49060e7c143bc8c9c1be423fa6f2c/ab22133a-4006-4671-bebe-6012c30331c3-cenc.mpd",
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56647/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "PARAMOUNT+ HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abbe1-hd/chunks.m3u8?is_vip=false&token=1789908455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-093993ade2e75de911703e25cdd34235|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "CBS SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/ec0098b5-9bbf-47c2-80f6-28d4ac2697bb.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.44/hls/DYYYAAA.m3u8|Referer=http://www.fawanews.sc/",
