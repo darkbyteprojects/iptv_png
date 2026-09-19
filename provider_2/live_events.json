@@ -589,17 +589,33 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
+            "NBC SPORTS FHD",
             "SKY SPORTS EPL HD",
             "SKY SPORTS EPL SD",
-            "GHD SPORTS HD",
             "GHD SPORTS SD",
-            "SKY SPORTS NZ"
+            "SKY SPORTS NZ",
+            "GHD SPORTS HD",
+            "ESPN2 ARG FHD",
+            "SKY SPORT HD"
         ],
         "id": 751,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "69b60e9997566119af51bc6c7eeffd4b:a3ba127ddc361c2dd5306bc98579902e",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r3qwa00cyc/out/v1/6c9278592f634b86b46d302dd2b70fec/cenc.mpd",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "NBC SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8",
@@ -614,12 +630,6 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/PPPPQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
                 "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -628,6 +638,24 @@
                 "api": "",
                 "link": "https://fingersoon.st/scripts/application1|origin=https://monperson.shop/updates/nottingham-forest-vs-coventry-city/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://monperson.shop/updates/nottingham-forest-vs-coventry-city/",
                 "title": "SKY SPORTS NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/PPPPQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "title": "ESPN2 ARG FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56671/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "SKY SPORT HD",
                 "type": "0"
             }
         ],
@@ -1363,6 +1391,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/301455/image"
         },
         "formats": [
+            "CBS Golazo - AQ ",
             "FANCODE HD",
             "GHD SPORTS HD",
             "FAST SERVER HD"
@@ -1389,6 +1418,12 @@
                 "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09af0/chunks.m3u8?is_vip=false&token=1789921100-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9af32323d9de1c66d8f3e02627b93ea6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
                 "title": "FAST SERVER HD",
                 "type": "0"
+            },
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "CBS Golazo - AQ ",
+                "type": "1"
             }
         ],
         "slug": "ewsl2",
@@ -1455,8 +1490,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image"
         },
         "formats": [
-            "Sport Digital FHD",
-            "SPORTS TV HD"
+            "SPORT TV HD",
+            " GHD SPORTS HD"
         ],
         "id": 989,
         "image": "null",
@@ -1464,15 +1499,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-                "title": "Sport Digital FHD",
-                "type": "1"
+                "api": "",
+                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d8c/chunks.m3u8?is_vip=false&token=1789922908-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-673a042d4ccbed32de70f167492e792c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "title": "SPORT TV HD",
+                "type": "0"
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
-                "title": "SPORTS TV HD",
+                "link": "http://193.47.62.59/hls/EIIIQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": " GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1678,16 +1713,24 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image"
         },
         "formats": [
+            "BeIN SPORTS FHD",
             "ONE SOCCER HD",
             "USA SPORTS HD",
             "GHD SPORTS HD",
-            "SKY FOOTBALL HD"
+            "SKY FOOTBALL HD",
+            "CANAL SPORTS HD"
         ],
         "id": 1025,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://fingersoon.st/scripts/application3|origin=https://monperson.shop/updates/stuttgart-vs-borussia-dortmund/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://monperson.shop/updates/stuttgart-vs-borussia-dortmund/",
@@ -1710,6 +1753,12 @@
                 "api": "",
                 "link": "https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
                 "title": "SKY FOOTBALL HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "CANAL SPORTS HD",
                 "type": "0"
             }
         ],
