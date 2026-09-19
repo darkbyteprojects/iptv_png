@@ -442,7 +442,8 @@
         },
         "formats": [
             "GHD SPORTS HD",
-            "GHD SPORTS SD"
+            "GHD SPORTS SD",
+            "ESPN SPORTS FHD"
         ],
         "id": 748,
         "image": "null",
@@ -460,6 +461,12 @@
                 "link": "https://www.rtmpcdn.com/live/6989cffb-42d9-4998-af07-8e569a934ada.m3u8",
                 "title": "GHD SPORTS SD",
                 "type": "0"
+            },
+            {
+                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                "title": "ESPN SPORTS FHD",
+                "type": "1"
             }
         ],
         "slug": "english-premier-league3",
@@ -2293,38 +2300,6 @@
         ],
         "slug": "liga-f2",
         "title": "Liga F2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/19 16:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-            "eventName": "Liga F Moeve",
-            "eventType": "",
-            "startTime": "2026/09/19 14:00:00 +0000",
-            "teamA": "Espanyol",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-            "teamB": "Madrid CFF",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image"
-        },
-        "formats": [
-            ""
-        ],
-        "id": 1066,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "vz",
-                "title": "",
-                "type": "0"
-            }
-        ],
-        "slug": "liga-f3",
-        "title": "Liga F3"
     },
     {
         "cat": "Live Events",
