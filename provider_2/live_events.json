@@ -462,6 +462,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
         },
         "formats": [
+            "ASTRO PREMIRE HD",
             "SKY SPORTS EPL AQ",
             "SKY SPORTS EPL HD",
             "PEACOCK TV HD",
@@ -476,6 +477,12 @@
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live.dyrur1.com/live/j374oi0ymlofgqo_2e7f4d8f56dc9f8736f86945054b3627_540p.m3u8?auth_key=1789924969-0-0-67332f406a0ef8be87a43d34c3d27d85",
+                "title": "ASTRO PREMIRE HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
@@ -656,7 +663,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "PREMIER SPORTS FHD",
+            "BeIN SPORTS FHD",
+            "FANCODE - FHD"
         ],
         "id": 755,
         "image": "null",
@@ -668,6 +678,24 @@
                 "link": "http://193.47.62.55/hls/GAAAFAAQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
+            },
+            {
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "title": "PREMIER SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "FANCODE - FHD",
+                "type": "1"
             }
         ],
         "slug": "laliga2",
