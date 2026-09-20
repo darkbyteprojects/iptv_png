@@ -1368,6 +1368,7 @@
             "BeIN SPORTS AQ",
             "TNT SPORTS FHD",
             "CBS GOLAZO AQ",
+            "CBS SPORTS HD",
             "ESPN SPORTS FHD",
             "TNT SPORTS HD",
             "GHD SPORTS HD",
@@ -1395,6 +1396,12 @@
                 "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                 "title": "CBS GOLAZO AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/mil-lec/playlist.m3u8?tk=syl0Idnt0dxjcP8FWRD8DA&e=1789972211|origin=https://ondemand.st/embed/?id=seriea/2026-09-20/mil-lec&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=seriea/2026-09-20/mil-lec",
+                "title": "CBS SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
@@ -1510,6 +1517,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
         },
         "formats": [
+            "PEIME VIDEO FHD",
+            "DAZN SPORTS FHD",
             "LIGUE+ LIVE HD",
             "LIGUE+ LIVE SD",
             "BeIN SPORTS USA",
@@ -1521,6 +1530,18 @@
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd",
+                "title": "PEIME VIDEO FHD",
+                "type": "1"
+            },
+            {
+                "api": "8c39534c92ffb832fbb8df4a8827e11e:a01fb6091ccdfa007597f1622bb1c8b6",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h8dubv8uqy/out/v1/cc3cc9c9e5d74e218d98e8899efab4e5/cenc.mpd",
+                "title": "DAZN SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.50/hls/doooaAA.m3u8|Referer=http://www.fawanews.sc/",
