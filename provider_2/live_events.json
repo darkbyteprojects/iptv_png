@@ -85,8 +85,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1",
-                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd",
+                "api": "8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
@@ -307,24 +307,18 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image"
         },
         "formats": [
-            "FUBO SPORTS FHD",
             "SKY MAIN EVENT",
             "USA SPORTS HD",
             "GHD SPORTS HD",
             "SKY MAIN EVENT",
-            "GHD SPORTS SD"
+            "GHD SPORTS SD",
+            "SKY SPORTS FAST"
         ],
         "id": 739,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
-            {
-                "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-                "title": "FUBO SPORTS FHD",
-                "type": "1"
-            },
             {
                 "api": "",
                 "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d09-hd/chunks.m3u8?is_vip=false&token=1789994012-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7119261bf4e40351ca691057aa038224|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
@@ -354,6 +348,12 @@
                 "link": "https://www.rtmpcdn.com/live/c482b572-08ff-41f1-a3e8-fdbd06b7ffdd.m3u8",
                 "title": "GHD SPORTS SD",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/bou-liv/playlist.m3u8?tk=3wbUvo2F73SIh1tQwTs-IA&e=1789952410|origin=https://ondemand.st/embed/?id=pl/2026-09-20/bou-liv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-20/bou-liv",
+                "title": "SKY SPORTS FAST",
+                "type": "0"
             }
         ],
         "slug": "english-premier-league1",
@@ -374,17 +374,25 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
             "SKY SPORTS FHD",
             "SKY SPORTS HD",
             "SKY SPORTS NZ",
             "GHD SPORTS HD",
-            "GHD SPORTS SD"
+            "GHD SPORTS SD",
+            "SKY SPORTS FAST"
         ],
         "id": 747,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ey78I85UBI0z8ivVfEQ8xA&e=2089870147&scheme=https|user-agent=Mozilla",
@@ -414,6 +422,12 @@
                 "link": "https://www.rtmpcdn.com/live/c00713ea-ee78-48c6-9fdd-e642f44ceb00.m3u8",
                 "title": "GHD SPORTS SD",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/lee-cry/playlist.m3u8?tk=3wbUvo2F73SIh1tQwTs-IA&e=1789952410|origin=https://ondemand.st/embed/?id=pl/2026-09-20/lee-cry&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-20/lee-cry",
+                "title": "SKY SPORTS FAST",
+                "type": "0"
             }
         ],
         "slug": "english-premier-league2",
@@ -436,11 +450,12 @@
         "formats": [
             "SKY SPORTS EPL AQ",
             "SKY SPORTS EPL HD",
+            "PEACOCK TV HD",
             "GHD SPORTS HD",
             "SKY SPORTS HD",
             "SKY SPORTS NZ",
             "GHD SPORTS SD",
-            "NBC SPORTS FHD"
+            "SKY SPORTS FAST"
         ],
         "id": 748,
         "image": "null",
@@ -455,8 +470,14 @@
             },
             {
                 "api": "",
-                "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla",
                 "title": "SKY SPORTS EPL HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56797/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "PEACOCK TV HD",
                 "type": "0"
             },
             {
@@ -484,10 +505,10 @@
                 "type": "0"
             },
             {
-                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "NBC SPORTS FHD",
-                "type": "1"
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/mci-sun/playlist.m3u8?tk=N2jw4ykPUJrzoD_1f7IsPA&e=1789952411|origin=https://ondemand.st/embed/?id=pl/2026-09-20/mci-sun&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-20/mci-sun",
+                "title": "SKY SPORTS FAST",
+                "type": "0"
             }
         ],
         "slug": "english-premier-league3",
@@ -766,24 +787,14 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image"
         },
         "formats": [
-            "BeIN2 SPORTS FHD",
             "SPORT TV - FHD",
-            "USA SPORTS HD",
-            "SKY BUNDESLIGA HD",
-            "GHD SPORTS HD",
-            "SKY SPORTS HD"
+            "GHD SPORTS HD"
         ],
         "id": 764,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
-            {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "title": "BeIN2 SPORTS FHD",
-                "type": "1"
-            },
             {
                 "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -792,26 +803,8 @@
             },
             {
                 "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-18/bay-fcu/playlist.m3u8?tk=iTZAnTO2yj0wWeqjgKUTbg&e=1789797651|origin=https://ondemand.st/embed/?id=bundesliga/2026-09-18/bay-fcu&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=bundesliga/2026-09-18/bay-fcu",
-                "title": "USA SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/ligue6sc6/skybundesliga1.m3u8",
-                "title": "SKY BUNDESLIGA HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/IPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.59/hls/T666Aa.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "SKY SPORTS HD",
                 "type": "0"
             }
         ],
