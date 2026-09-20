@@ -564,6 +564,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
             "SKY SPORTS EPL AQ",
             "GHD SPORTS HD",
             "SKY SPORTS EPL HD",
@@ -575,6 +576,12 @@
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
@@ -1515,7 +1522,8 @@
         },
         "formats": [
             "GHD SPORTS HD",
-            "BeIN SPORTS HD"
+            "BeIN SPORTS HD",
+            "Ligue+ Live HD"
         ],
         "id": 825,
         "image": "null",
