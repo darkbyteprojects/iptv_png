@@ -681,7 +681,12 @@
             "PREMIER SPORTS ",
             "BeIN SPORTS FHD",
             "FANCODE - FHD",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "CazÃ©TV - FHD",
+            "ESPN DEPORTES HD",
+            "FAST SERVER HD",
+            "ESPN SPORTS HD",
+            "EAPN SPORTS SD"
         ],
         "id": 755,
         "image": "null",
@@ -714,8 +719,38 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/CIII.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/CIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "CazÃ©TV - FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56801/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "ESPN DEPORTES HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.uu6611.com/live/hd-en-1-4565421.m3u8?txSecret=0ff06078ddc8722f12e7c2f04fe870ee&txTime=6AB02838|Referer=https://player.up909.com/",
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56802/load-playlist?|Referer=https://gooz.aapmains.net",
+                "title": "ESPN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                "title": "EAPN SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1313,6 +1348,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3022/image"
         },
         "formats": [
+            "Sport Digital FHD",
             "Sport TV Portugal "
         ],
         "id": 804,
@@ -1321,8 +1357,14 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "title": "Sport Digital FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.44/hls/HHHHAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.59/hls/U888AAAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "Sport TV Portugal ",
                 "type": "0"
             }
