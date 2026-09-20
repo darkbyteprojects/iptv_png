@@ -307,6 +307,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
+            "USA NETWORK HD",
             "SKY MAIN EVENT",
             "USA SPORTS HD",
             "GHD SPORTS HD",
@@ -319,6 +321,18 @@
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "5667d6e86c780df274b842525af51b71:6a3152c6abd14ce16e1584af2ac69983",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ovcmulril/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56798/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "USA NETWORK HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d09-hd/chunks.m3u8?is_vip=false&token=1789994012-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7119261bf4e40351ca691057aa038224|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
@@ -1770,6 +1784,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image"
         },
         "formats": [
+            "GHD SPORTS SD",
             "GHD SPORTS SD"
         ],
         "id": 1006,
@@ -1780,6 +1795,12 @@
             {
                 "api": "",
                 "link": "http://193.47.62.59/hls/NIIIQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.dyrur1.com/live/72339852_85a7056472e51a22a5911e05206150f8_540p.m3u8?auth_key=1789921397-0-0-838390501288f5e8e100188c41b12fb0",
                 "title": "GHD SPORTS SD",
                 "type": "0"
             }
