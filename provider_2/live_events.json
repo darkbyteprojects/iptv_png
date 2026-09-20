@@ -1133,8 +1133,8 @@
         },
         "formats": [
             "Premier Sports FHD",
+            "BEIN SPORTS FHD",
             "GHD SPORTS HD",
-            "ESPN DEPORTES HD",
             "GHD SPORTS SD"
         ],
         "id": 768,
@@ -1143,21 +1143,21 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                 "title": "Premier Sports FHD",
+                "type": "1"
+            },
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "BEIN SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
                 "link": "http://193.47.62.55/hls/YPPPQQQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "ESPN DEPORTES HD",
                 "type": "0"
             },
             {
@@ -1368,7 +1368,10 @@
             "BeIN SPORTS AQ",
             "TNT SPORTS FHD",
             "CBS GOLAZO AQ",
-            "TNT SPORTS HD"
+            "ESPN SPORTS FHD",
+            "TNT SPORTS HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 796,
         "image": "null",
@@ -1394,9 +1397,27 @@
                 "type": "1"
             },
             {
+                "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                "title": "ESPN SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
                 "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
                 "title": "TNT SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/doooaA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/99744c54-3d8b-4347-b02c-e8eadc10b77c.m3u8",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1489,15 +1510,29 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
         },
         "formats": [
+            "LIGUE+ LIVE HD",
+            "LIGUE+ LIVE SD",
             "BeIN SPORTS USA",
             "ESPN SPORTS FHD",
-            "LIGUE+ LIVE HD"
+            "GHD SPORTS HD"
         ],
         "id": 824,
         "image": "null",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/doooaAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "LIGUE+ LIVE HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://futbolx.ryzn.pro/psg/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
+                "title": "LIGUE+ LIVE SD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1512,8 +1547,8 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/doooaAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "LIGUE+ LIVE HD",
+                "link": "https://www.rtmpcdn.com/live/3e0cfd2e-ab15-4db7-99e2-d849fcff115a.m3u8",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
