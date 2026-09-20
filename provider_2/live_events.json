@@ -1134,8 +1134,10 @@
         "formats": [
             "Premier Sports FHD",
             "BEIN SPORTS FHD",
+            "FANCODE - FHD ",
             "GHD SPORTS HD",
-            "GHD SPORTS SD"
+            "GHD SPORTS SD",
+            "ESPN DEPORTES HD"
         ],
         "id": 768,
         "image": "null",
@@ -1155,15 +1157,27 @@
                 "type": "1"
             },
             {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "title": "FANCODE - FHD ",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.55/hls/YPPPQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.59/hls/vlllq.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/cel-rac/playlist.m3u8?tk=kDlM8pZMxOyRHKQlrQkCCA&e=1789876809|origin=https://ondemand.st/embed/?id=laliga/2026-09-19/cel-rac&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=laliga/2026-09-19/cel-rac",
+                "link": "https://play.aarray.cn/rrty/hd-zh-1-4565429_gqzm.m3u8?auth_key=1789934647-0-0-5c0323126b2ef77b2c30a2f0e4a75c25&token=71a89ee106e862fe&device=4&platform=rrty",
                 "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56850/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "ESPN DEPORTES HD",
                 "type": "0"
             }
         ],
@@ -1494,7 +1508,7 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/HHHHAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.59/hls/vlllqQQQq.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "SPORT DIGITAL FHD",
                 "type": "0"
             }
@@ -1517,9 +1531,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
         },
         "formats": [
-            "PEIME VIDEO FHD",
+            "PRIME VIDEO FHD",
             "DAZN SPORTS FHD",
             "LIGUE+ LIVE HD",
+            "MAX SPORTS HD",
             "LIGUE+ LIVE SD",
             "BeIN SPORTS USA",
             "ESPN SPORTS FHD",
@@ -1533,7 +1548,7 @@
             {
                 "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
                 "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd",
-                "title": "PEIME VIDEO FHD",
+                "title": "PRIME VIDEO FHD",
                 "type": "1"
             },
             {
@@ -1546,6 +1561,12 @@
                 "api": "",
                 "link": "http://193.47.62.50/hls/doooaAA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "LIGUE+ LIVE HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/56852/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "title": "MAX SPORTS HD",
                 "type": "0"
             },
             {
@@ -1674,6 +1695,38 @@
         ],
         "slug": "french-ligue-3",
         "title": "French Ligue 3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/22 02:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "eventName": "International Friendly Games",
+            "eventType": "",
+            "startTime": "2026/09/22 00:00:00 +0000",
+            "teamA": "Dominica",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+            "teamB": "Anguilla",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/21804/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD"
+        ],
+        "id": 831,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.57/hls/TITITI.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            }
+        ],
+        "slug": "international-friendly1",
+        "title": "international friendly"
     },
     {
         "cat": "Live Events",
