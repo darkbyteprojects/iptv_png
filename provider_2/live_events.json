@@ -309,6 +309,7 @@
         "formats": [
             "FUBO SPORTS FHD",
             "USA NETWORK HD",
+            "ASTRO PREMIRE HD",
             "SKY MAIN EVENT",
             "USA SPORTS HD",
             "GHD SPORTS HD",
@@ -331,6 +332,12 @@
                 "api": "",
                 "link": "https://chatgpt.hereisman.net/playlist/56798/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                 "title": "USA NETWORK HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live1.dyrur1.com/live/zrkn6i4gw9wcwql_95b9cb8a802acb81c90e45cf7c493104_540p.m3u8?auth_key=1789924969-0-0-3e997eae0652c5928947cd777b3264fe",
+                "title": "ASTRO PREMIRE HD",
                 "type": "0"
             },
             {
@@ -389,6 +396,7 @@
         },
         "formats": [
             "FUBO SPORTS FHD",
+            "ASTRO PREMIRE HD",
             "SKY SPORTS FHD",
             "SKY SPORTS HD",
             "SKY SPORTS NZ",
@@ -406,6 +414,12 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "title": "FUBO SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live3.dyrur1.com/live/72221282_78545aad5528b6400aa4b99a9da7b304_540p.m3u8?auth_key=1789924953-0-0-bdf9d98b64134aebb23073c91930f380",
+                "title": "ASTRO PREMIRE HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -663,10 +677,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
         },
         "formats": [
-            "GHD SPORTS HD",
-            "PREMIER SPORTS FHD",
+            "TSN SPORTS FHD",
+            "PREMIER SPORTS ",
             "BeIN SPORTS FHD",
-            "FANCODE - FHD"
+            "FANCODE - FHD",
+            "GHD SPORTS HD"
         ],
         "id": 755,
         "image": "null",
@@ -674,15 +689,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.55/hls/GAAAFAAQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "title": "TSN SPORTS FHD",
+                "type": "1"
             },
             {
                 "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "title": "PREMIER SPORTS FHD",
+                "title": "PREMIER SPORTS ",
                 "type": "1"
             },
             {
@@ -696,6 +711,12 @@
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "title": "FANCODE - FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/CIII.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "laliga2",
