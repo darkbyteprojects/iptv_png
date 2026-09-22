@@ -17,7 +17,7 @@ jobs:
       PAT: ${{ secrets.REPO_SECRET }}
       OWNER: ${{ github.repository_owner }}
       REPO: ${{ secrets.REPO_NAME }}
-      FILE: ${{ secrets.SCRIPT_5 }}
+      FILE: ${{ secrets.JIOTV }}
 
     steps:
       # 1. Checkout the public repo (where the output will be saved)
