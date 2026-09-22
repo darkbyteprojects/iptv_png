@@ -7,8 +7,8 @@
 ---
 ## Playlists
 
-https://sliv.dbprojects.workers.dev/
-https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/jiotv.m3u
+- **https://sliv.dbprojects.workers.dev**
+- **https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/jiotv.m3u**
 
 ---
 
