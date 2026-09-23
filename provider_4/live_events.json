@@ -115,30 +115,6 @@
         "title": "WWE: SmackDown"
     },
     {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "21/09/2026 03:30:00",
-            "event_name": "CPL",
-            "start_time": "20/09/2026 23:00:00",
-            "team_a": "Caribbean Premier League 2026",
-            "team_a_flag": "https://iili.io/CPjn2DX.png",
-            "team_b": "",
-            "team_b_flag": ""
-        },
-        "id": 16,
-        "image": "",
-        "streams": [
-            {
-                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-                "name": "TNT SPORTS ",
-                "token_api": ""
-            }
-        ],
-        "title": "CPL"
-    },
-    {
         "category": "Basketball",
         "event_info": {
             "end_time": "23/09/2026 14:30:00",
@@ -149,15 +125,38 @@
             "team_b": "NBA G League United",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/827090/image"
         },
-        "id": 17,
+        "id": 16,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/1512/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://live.dyrur1.com/live/73609474_61262a4b489db144d52d49559deef117_1080p.m3u8?auth_key=1790177311-0-0-4d74d9bd3e4c71bd905e716bebb8f458",
                 "name": "SK LIVE",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-2-3931121.m3u8?txSecret=78cb9bf9eb3d34492ab9521cbfb7a685&txTime=6AB3D0F2|referer=https://player.online909.com/",
+                "name": "FAST SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SD SERVER",
+                "token_api": {
+                    "api": "https://emb.apl614.online/player/live.php?id=268258&w=700&h=480",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Intercontinental Cup"
@@ -173,7 +172,7 @@
             "team_b": "Australia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187746/image"
         },
-        "id": 18,
+        "id": 17,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -197,7 +196,7 @@
             "team_b": "Sri Lanka",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
         },
-        "id": 19,
+        "id": 18,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -221,7 +220,7 @@
             "team_b": "Japan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/445296/image"
         },
-        "id": 20,
+        "id": 19,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
         "streams": [
             {
@@ -233,5 +232,714 @@
             }
         ],
         "title": "Asian Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 12:50:00",
+            "event_name": "Asian Games",
+            "start_time": "23/09/2026 10:30:00",
+            "team_a": "Japan U23",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/24254/image",
+            "team_b": "Thailand U23",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/49102/image"
+        },
+        "id": 20,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.dyrur1.com/live/73841612_7942b3a532cccfd7a4ca39fe3a77153f_1080p.m3u8?auth_key=1790173698-0-0-832d3a89628b7a83e6a5d2b96dc75f39",
+                "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4594052.m3u8?txSecret=ea18312d9d11ae795d48ab2574e0bdfc&txTime=6AB3BD8F|referer=https://player.online909.com/",
+                "name": "HD SERVER ",
+                "token_api": ""
+            }
+        ],
+        "title": "Asian Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 12:50:00",
+            "event_name": "Asian Games",
+            "start_time": "23/09/2026 10:30:00",
+            "team_a": "Kyrgyzstan U23",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/49059/image",
+            "team_b": "Hong Kong U23",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/49048/image"
+        },
+        "id": 21,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live1.dyrur1.com/live/73841614_29de586697a978b8f98e5a621282d7ab_1080p.m3u8?auth_key=1790174062-0-0-79d98d0a4ce93807dd8e003d9bd5879f",
+                "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4594057.m3u8?txSecret=ca5e29b825d4f57c17e848d5282e4458&txTime=6AB3BF5E|referer=https://player.online909.com/",
+                "name": "HD SERVER ",
+                "token_api": ""
+            }
+        ],
+        "title": "Asian Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 16:50:00",
+            "event_name": "Gulf Cup",
+            "start_time": "23/09/2026 14:30:00",
+            "team_a": "Iraq",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4767/image",
+            "team_b": "Oman",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4787/image"
+        },
+        "id": 22,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+                "name": "KUWAIT SPORT",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
+                "name": "ALKASS",
+                "token_api": ""
+            }
+        ],
+        "title": "Gulf Cup"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 20:20:00",
+            "event_name": "Gulf Cup",
+            "start_time": "23/09/2026 18:00:00",
+            "team_a": "Saudi Arabia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4834/image",
+            "team_b": "Kuwait",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/5368/image"
+        },
+        "id": 23,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+        "streams": [],
+        "title": "Gulf Cup"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 21:20:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "23/09/2026 19:00:00",
+            "team_a": "Fútbol Club Barcelona",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/77889/image",
+            "team_b": "Paris FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/264964/image"
+        },
+        "id": 24,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 21:20:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "23/09/2026 19:00:00",
+            "team_a": "Chelsea FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/66768/image",
+            "team_b": "FK Austria Wien",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/229911/image"
+        },
+        "id": 25,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 19:05:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "23/09/2026 16:45:00",
+            "team_a": "Oud-Heverlee Leuven",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/178246/image",
+            "team_b": "AS Roma",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/301414/image"
+        },
+        "id": 26,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 18:20:00",
+            "event_name": "International Friendly Games",
+            "start_time": "23/09/2026 16:00:00",
+            "team_a": "Gibraltar",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/129264/image",
+            "team_b": "São Tomé and Príncipe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/33813/image"
+        },
+        "id": 27,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 11:50:00",
+            "event_name": "International Friendly Games",
+            "start_time": "24/09/2026 09:30:00",
+            "team_a": "Palestine",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4788/image",
+            "team_b": "New Zealand",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4784/image"
+        },
+        "id": 28,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 13:55:00",
+            "event_name": "International Friendly Games",
+            "start_time": "24/09/2026 11:35:00",
+            "team_a": "China",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4755/image",
+            "team_b": "Maldives",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6911/image"
+        },
+        "id": 29,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 12:25:00",
+            "event_name": "International Friendly Games",
+            "start_time": "24/09/2026 10:05:00",
+            "team_a": "Japan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4770/image",
+            "team_b": "Uruguay",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4725/image"
+        },
+        "id": 30,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 13:20:00",
+            "event_name": "International Friendly Games",
+            "start_time": "24/09/2026 11:00:00",
+            "team_a": "South Korea",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4735/image",
+            "team_b": "Ecuador",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4757/image"
+        },
+        "id": 31,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 18:20:00",
+            "event_name": "International Friendly Games",
+            "start_time": "23/09/2026 16:00:00",
+            "team_a": "Azerbaijan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4742/image",
+            "team_b": "Tajikistan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/23488/image"
+        },
+        "id": 32,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 19:05:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "23/09/2026 16:45:00",
+            "team_a": "Servette FC Chênois Féminin",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/305811/image",
+            "team_b": "OL Lyonnes",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/26245/image"
+        },
+        "id": 33,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 22:20:00",
+            "event_name": "Liga 1 Te Apuesto",
+            "start_time": "23/09/2026 20:00:00",
+            "team_a": "Asociación Deportiva Tarma",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/335557/image",
+            "team_b": "Cienciano",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2301/image"
+        },
+        "id": 34,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Liga 1 Te Apuesto"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 01:20:00",
+            "event_name": "CONCACAF Nations League",
+            "start_time": "23/09/2026 23:00:00",
+            "team_a": "Aruba",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/21806/image",
+            "team_b": "Antigua and Barbuda",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/21805/image"
+        },
+        "id": 35,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "CONCACAF Nations League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 21:20:00",
+            "event_name": "CONCACAF Nations League",
+            "start_time": "23/09/2026 19:00:00",
+            "team_a": "Turks and Caicos Islands",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/21823/image",
+            "team_b": "Montserrat",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/21815/image"
+        },
+        "id": 36,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "CONCACAF Nations League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 22:20:00",
+            "event_name": "CONCACAF Nations League",
+            "start_time": "23/09/2026 20:00:00",
+            "team_a": "Bahamas",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/21807/image",
+            "team_b": "Saint Martin",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/33812/image"
+        },
+        "id": 37,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "CONCACAF Nations League"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 17:00:00",
+            "event_name": "Greek Basketball Cup Qualifiers",
+            "start_time": "23/09/2026 14:00:00",
+            "team_a": "AS Ionikos Ionias",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/505158/image",
+            "team_b": "AEO Proteas Voulas",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/458998/image"
+        },
+        "id": 38,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/26103/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Greek Basketball Cup Qualifiers"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 17:45:00",
+            "event_name": "Greek Basketball Cup Qualifiers",
+            "start_time": "23/09/2026 14:45:00",
+            "team_a": "XANTH BC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/459032/image",
+            "team_b": "AS Anagennisi Arkaloxoriou",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/488676/image"
+        },
+        "id": 39,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/26103/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Greek Basketball Cup Qualifiers"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 19:00:00",
+            "event_name": "Greek Basketball Cup Qualifiers",
+            "start_time": "23/09/2026 16:00:00",
+            "team_a": "GS Kronos Agiou Dimitriou",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/505141/image",
+            "team_b": "NE Megaridos",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/267472/image"
+        },
+        "id": 40,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/26103/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Greek Basketball Cup Qualifiers"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 21:00:00",
+            "event_name": "Europe Cup",
+            "start_time": "23/09/2026 18:00:00",
+            "team_a": "KK Samobor",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/368485/image",
+            "team_b": "BC Prievidza",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/124616/image"
+        },
+        "id": 41,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2165/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Europe Cup"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 18:00:00",
+            "event_name": "Europe Cup",
+            "start_time": "23/09/2026 15:00:00",
+            "team_a": "Neftchi BC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/940383/image",
+            "team_b": "BC Pärnu",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/58773/image"
+        },
+        "id": 42,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2165/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Europe Cup"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/09/2026 21:15:00",
+            "event_name": "Europe Cup",
+            "start_time": "23/09/2026 18:15:00",
+            "team_a": "KB Peja",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/183571/image",
+            "team_b": "CS Dinamo București",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/203055/image"
+        },
+        "id": 43,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2165/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Europe Cup"
+    },
+    {
+        "category": "Volleyball",
+        "event_info": {
+            "end_time": "23/09/2026 17:00:00",
+            "event_name": "European Championship",
+            "start_time": "23/09/2026 14:00:00",
+            "team_a": "Belgium",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/7509/image",
+            "team_b": "Slovenia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7513/image"
+        },
+        "id": 44,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "European Championship"
+    },
+    {
+        "category": "Volleyball",
+        "event_info": {
+            "end_time": "23/09/2026 22:05:00",
+            "event_name": "European Championship",
+            "start_time": "23/09/2026 19:05:00",
+            "team_a": "Italy",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6824/image",
+            "team_b": "Finland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7387/image"
+        },
+        "id": 45,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "European Championship"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/09/2026 23:20:00",
+            "event_name": "Copa Chile",
+            "start_time": "23/09/2026 21:00:00",
+            "team_a": "Curicó Unido",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/33595/image",
+            "team_b": "Deportes Concepción",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3160/image"
+        },
+        "id": 46,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Copa Chile"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 01:50:00",
+            "event_name": "Copa Chile",
+            "start_time": "23/09/2026 23:30:00",
+            "team_a": "Unión La Calera",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/48242/image",
+            "team_b": "Universidad Católica",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3151/image"
+        },
+        "id": 47,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Copa Chile"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 01:50:00",
+            "event_name": "Copa Chile",
+            "start_time": "23/09/2026 23:30:00",
+            "team_a": "Deportes Iquique",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/33596/image",
+            "team_b": "Club Deportes Antofagasta",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/5601/image"
+        },
+        "id": 48,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Copa Chile"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/09/2026 02:50:00",
+            "event_name": "Primera A",
+            "start_time": "24/09/2026 00:30:00",
+            "team_a": "América de Cali",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6102/image",
+            "team_b": "Rionegro Águilas Doradas",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/48244/image"
+        },
+        "id": 49,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "name": "SK LIVE",
+                "token_api": ""
+            }
+        ],
+        "title": "Primera A"
     }
 ]
