@@ -1450,10 +1450,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image"
         },
         "formats": [
-            "CBS SPORTS FHD",
-            "ESPN SPORTS FHD",
-            "CBS NETWORK HD",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "BeIN SPORTS XTRA",
+            "FANCODE - FHD",
+            "ESPN DEPORTES HD",
+            "beIN sports Xtra HD",
+            "CABLENET SPORTS HD"
         ],
         "id": 807,
         "image": "null",
@@ -1461,27 +1463,39 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "c3c9543a74d78a005c82719a6a662db9:2fcf3569cb18f2cf2b4648fb8728b4f9",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3i0e0ntjj3/out/v1/2ef18dfe418f4b7a995479a22929cc8a/d74227da-c61e-4d2b-94b4-72beafd1424d-cenc.mpd?aws_sessionId=1f6cfae6-45ff-4e0f-8a7f-f0ef52d46861",
-                "title": "CBS SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-                "title": "ESPN SPORTS FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                "title": "CBS NETWORK HD",
+                "link": "http://193.47.62.50/hls/JFFFAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/diiiAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
+                "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+                "title": "BeIN SPORTS XTRA",
+                "type": "0"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "FANCODE - FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=264911",
+                "title": "ESPN DEPORTES HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+                "title": "beIN sports Xtra HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=851533",
+                "title": "CABLENET SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1504,9 +1518,7 @@
         },
         "formats": [
             "FANCODE - FHD",
-            "ESPN SPORTS HD",
-            "GHD SPORTS HD",
-            "CBS NETWORK HD"
+            "GHD SPORTS HD"
         ],
         "id": 808,
         "image": "null",
@@ -1521,20 +1533,8 @@
             },
             {
                 "api": "",
-                "link": "https://instreams.pro/live/tv401917016/index.m3u8?st=W4slvKPYbpcaCtDcjbBfJw&e=1790112612|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401917016",
-                "title": "ESPN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/i555AAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/JFFFAAAAA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                "title": "CBS NETWORK HD",
                 "type": "0"
             }
         ],
@@ -1821,7 +1821,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/23488/image"
         },
         "formats": [
-            "GHD SPORTS - HD"
+            "BEIN SPORTS FHD",
+            "GHD SPORTS - HD",
+            "FOX SOCCER HD"
         ],
         "id": 831,
         "image": "null",
@@ -1829,9 +1831,21 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "BEIN SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.57/hls/TITITI.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/JFFF.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8",
+                "title": "FOX SOCCER HD",
                 "type": "0"
             }
         ],
@@ -1915,7 +1929,7 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/RBBBAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/JFFFA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS  - HD",
                 "type": "0"
             }
