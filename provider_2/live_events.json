@@ -390,6 +390,105 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/09/24 15:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 13:00:00 +0000",
+            "teamA": "Namibia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4832/image",
+            "teamB": "Congo Republic",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/8040/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD"
+        ],
+        "id": 395,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.40/hls/HHHHZAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup1",
+        "title": "Cameroon"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 18:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 16:00:00 +0000",
+            "teamA": "DR Congo",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+            "teamB": "Equatorial Guinea",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image"
+        },
+        "formats": [
+            "BEIN SPORTS",
+            "SPORT DIGITAL",
+            "CHANNEL 4",
+            "BEIN HD",
+            "BEIN MAX",
+            "BEIN ACTION"
+        ],
+        "id": 441,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "title": "BEIN SPORTS",
+                "type": "1"
+            },
+            {
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "title": "SPORT DIGITAL",
+                "type": "1"
+            },
+            {
+                "api": "0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8",
+                "link": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd",
+                "title": "CHANNEL 4",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://broadcasthub.click/hls/Mdplz23MNkdi/index.m3u8",
+                "title": "BEIN HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://iptv.mustafatv.xyz/live/1995/1995/53.m3u8",
+                "title": "BEIN MAX",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8",
+                "title": "BEIN ACTION",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup2",
+        "title": "Nigeria"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/10 13:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -1066,45 +1165,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/24 05:00:51 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
-            "eventName": "Asian Games",
-            "eventType": "",
-            "startTime": "2026/09/24 00:00:00 +0000",
-            "teamA": "AFG",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-            "teamB": "JPN",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/445296/image"
-        },
-        "formats": [
-            "Willow Cricbuzz AQ",
-            "SonyLiv ENG AQ"
-        ],
-        "id": 760,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uwxerw2eey/out/v1/14e8580d2e304df391b94c8eb68553a9/cenc.mpd",
-                "title": "Willow Cricbuzz AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=56c5f903c2a3a08ee8646fcc8b0a1bba-1790206204794",
-                "title": "SonyLiv ENG AQ",
-                "type": "0"
-            }
-        ],
-        "slug": "icc-women3",
-        "title": "warmup3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/24 10:00:20 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
@@ -1117,8 +1177,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187811/image"
         },
         "formats": [
-            "FANCODE IN",
-            "FANCODE IN"
+            "Willow cricket FHD",
+            "SonyLiv ENG AQ"
         ],
         "id": 761,
         "image": "null",
@@ -1126,15 +1186,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249173_english_hls_7428890b2635008_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "title": "FANCODE IN",
-                "type": "0"
+                "api": "38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xyod0psaxc/out/v1/a6643b443bf84856a6e2ca892bc38c14/cenc.mpd|drmScheme=clearkey&drmLicense=",
+                "title": "Willow cricket FHD",
+                "type": "1"
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249173_english_hls_7428890b2635008_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "title": "FANCODE IN",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a4a31469f0c707d595a02ef98e6dfdbb-1790224200261",
+                "title": "SonyLiv ENG AQ",
                 "type": "0"
             }
         ],
@@ -1441,211 +1501,6 @@
         ],
         "slug": "portuguese-primeira-liga2",
         "title": "Portuguese Primeira Liga2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/23 18:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "eventName": "UEFA Women's Champions League",
-            "eventType": "",
-            "startTime": "2026/09/23 16:45:00 +0000",
-            "teamA": "OH Leuven",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
-            "teamB": "Roma",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image"
-        },
-        "formats": [
-            "FANCODE - FHD",
-            "GHD SPORTS HD",
-            "CBS SPORTS FHD",
-            "Bein ARABIC HD",
-            "FANCODE HD",
-            "CBS SPORTS HD"
-        ],
-        "id": 807,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                "title": "FANCODE - FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/JFFFAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "6fc55289aea6fe9032310fb1d8255ed9:c653b155ae613c4cc1670bf8cd380980",
-                "link": "https://otte.live.cache-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ildsgxtg8v/out/v1/45871796294349fc85974dd035c8254b/7074e10d-4852-4e90-ac0f-169ec4abdd44-cenc.mpd|referer=https://www.amazon.com/&origin=https://www.amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0",
-                "title": "CBS SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://fhlsport954.tm3drop33weeps.ru/token-IkR4nLCcKPeG7mchxfY6yD6ElMCBgirjZCaow6NGQWWjs7WdHUFaCZQkqwtJVU8GRXjBwzNpk%2F55fpNIUxMK%2FJFgREK%2BMA%3D%3Da/cfall/s2001/v3b/qs18rp3qnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_829391/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
-                "title": "Bein ARABIC HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/chunks.m3u8?is_vip=false&token=1790269423-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-246321b9456ed0d6b96d239ff1f4f930|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "FANCODE HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/chunks.m3u8?is_vip=false&token=1790269427-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d8988b14aaaec7552ad417d832a5b22e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "CBS SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "uefa-champions-league1",
-        "title": "UEFA Champions League1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/23 18:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "eventName": "UEFA Women's Champions League",
-            "eventType": "",
-            "startTime": "2026/09/23 16:45:00 +0000",
-            "teamA": "Servette FCCF",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/305811/image",
-            "teamB": "Lyonnes",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image"
-        },
-        "formats": [
-            "FANCODE - FHD",
-            "GHD SPORTS HD"
-        ],
-        "id": 808,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                "title": "FANCODE - FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/JFFFAAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "uefa-champions-league2",
-        "title": "UEFA Champions League2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/23 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "eventName": "UEFA Women's Champions League",
-            "eventType": "",
-            "startTime": "2026/09/23 19:00:00 +0000",
-            "teamA": "FC Barcelona",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-            "teamB": "Paris",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image"
-        },
-        "formats": [
-            "FANCODE - FHD",
-            "CBS SPORTS AQ",
-            "GHD SPORTS HD"
-        ],
-        "id": 809,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "title": "FANCODE - FHD",
-                "type": "1"
-            },
-            {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "CBS SPORTS AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/IQQQEEEEQAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "uefa-champions-league3",
-        "title": "UEFA Champions League3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/23 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "eventName": "UEFA Women's Champions League",
-            "eventType": "",
-            "startTime": "2026/09/23 19:00:00 +0000",
-            "teamA": "Chelsea",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-            "teamB": "Austria Wien",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/229911/image"
-        },
-        "formats": [
-            "GHD SPORTS HD",
-            "GHD SPORTS SD",
-            "ESPN ARG FHD",
-            "FANCODE - FHD"
-        ],
-        "id": 810,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/IQQQEEEEQAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/i555.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-                "title": "ESPN ARG FHD",
-                "type": "1"
-            },
-            {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                "title": "FANCODE - FHD",
-                "type": "1"
-            }
-        ],
-        "slug": "uefa-champions-league4",
-        "title": "UEFA Champions League4"
     },
     {
         "cat": "Live Events",
@@ -2583,6 +2438,486 @@
         ],
         "slug": "asian-game-4",
         "title": "asian game 4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 18:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 16:00:00 +0000",
+            "teamA": "Andorra",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+            "teamB": "Malta",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1080,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "vx",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league1",
+        "title": "Nations League1"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Austria",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
+            "teamB": "Israel",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4480/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1081,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "hx",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league2",
+        "title": "Nations League2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Kosovo",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
+            "teamB": "Ireland",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1082,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "bz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league3",
+        "title": "Nations League3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Netherlands",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+            "teamB": "Germany",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1083,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "gd",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league4",
+        "title": "Nations League4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Liechtenstein",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+            "teamB": "Lithuania",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1084,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "gx",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league5",
+        "title": "Nations League5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Netherlands",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+            "teamB": "Germany",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1085,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "gx",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league5",
+        "title": "Nations League5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Norway",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+            "teamB": "Denmark",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4476/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1086,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "hz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league6",
+        "title": "Nations League6"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Portugal",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
+            "teamB": "Wales",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1087,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "bz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league7",
+        "title": "Nations League7,"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "eventName": "UEFA Nations League",
+            "eventType": "",
+            "startTime": "2026/09/24 18:45:00 +0000",
+            "teamA": "Serbia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+            "teamB": "Greece",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1088,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "sv",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "nations-league8",
+        "title": "Nations League8"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 18:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 16:00:00 +0000",
+            "teamA": "Libya",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
+            "teamB": "Botswana",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1089,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "xb",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup3",
+        "title": "africacup3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 18:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 16:00:00 +0000",
+            "teamA": "Mauritania",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
+            "teamB": "African Republic",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23470/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1090,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "hz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup4",
+        "title": "africacup4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 19:00:00 +0000",
+            "teamA": "Sierra Leone",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+            "teamB": "Zimbabwe",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4719/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1091,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "uz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup5",
+        "title": "africacup5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 19:00:00 +0000",
+            "teamA": "CÃ´te d'Ivoire",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+            "teamB": "Ghana",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1092,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "bx",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup6",
+        "title": "africacup6"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 19:00:00 +0000",
+            "teamA": "Tunisia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4729/image",
+            "teamB": "Uganda",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1093,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "hz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup7",
+        "title": "africacup7"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/24 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "eventName": "Africa Cup of Nations Qual.",
+            "eventType": "",
+            "startTime": "2026/09/24 19:00:00 +0000",
+            "teamA": "Cameroon",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4751/image",
+            "teamB": "Comoros",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1094,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "yz",
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "africacup8",
+        "title": "africacup8"
     },
     {
         "cat": "Live Events",
