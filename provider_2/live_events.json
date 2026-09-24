@@ -1078,7 +1078,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/445296/image"
         },
         "formats": [
-            "Sky Sports Cricket - HD"
+            "Willow Cricbuzz AQ",
+            "SonyLiv ENG AQ"
         ],
         "id": 760,
         "image": "null",
@@ -1086,9 +1087,15 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uwxerw2eey/out/v1/14e8580d2e304df391b94c8eb68553a9/cenc.mpd",
+                "title": "Willow Cricbuzz AQ",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.42/hls/YVVV.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "Sky Sports Cricket - HD",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=56c5f903c2a3a08ee8646fcc8b0a1bba-1790206204794",
+                "title": "SonyLiv ENG AQ",
                 "type": "0"
             }
         ],
@@ -1099,7 +1106,7 @@
         "cat": "Live Events",
         "eventInfo": {
             "endTime": "2026/09/24 10:00:20 +0000",
-            "eventCat": "Football",
+            "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
             "eventName": "Asian Games",
             "eventType": "",
