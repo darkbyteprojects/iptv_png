@@ -1,75 +1,5 @@
 [
     {
-        "category": "Cycling",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Cycling",
-            "start_time": "22/09/2026 12:00:00",
-            "team_a": "Cycle Racing",
-            "team_a_flag": "https://iili.io/nqavJ49.png",
-            "team_b": "",
-            "team_b_flag": ""
-        },
-        "id": 9,
-        "image": "",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "SPORTKLUB HD",
-                "token_api": {
-                    "api": "https://emb.apl614.online/player/live.php?id=268048&w=700&h=480",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "EUROSPORT HD",
-                "token_api": {
-                    "api": "https://emb.apl614.online/player/live.php?id=267826&w=700&h=480",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
-            },
-            {
-                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "drm_scheme": "clearkey",
-                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-                "name": "EUROSPORT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TNT SPORTS 2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-                "name": "TNT SPORTS 3",
-                "token_api": ""
-            }
-        ],
-        "title": "Cycling"
-    },
-    {
         "category": "Boxing ",
         "event_info": {
             "end_time": "26/09/2026 04:00:00",
@@ -807,5 +737,36 @@
             }
         ],
         "title": "MLB"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "Asian Games",
+            "start_time": "24/09/2026 05:00:00",
+            "team_a": "Hong Kong C.",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187774/image",
+            "team_b": "Malaysia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187811/image"
+        },
+        "id": 40,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "streams": [
+            {
+                "drm_key": "38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kruwwv8vzc/out/v1/4f0dd7998d154a98add6386f9de61f58/cenc.mpd",
+                "name": "WILLOW",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a4a31469f0c707d595a02ef98e6dfdbb-1790224200261",
+                "name": "SONYLIV",
+                "token_api": ""
+            }
+        ],
+        "title": "Asian Games"
     }
 ]
