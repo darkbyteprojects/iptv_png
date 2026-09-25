@@ -268,9 +268,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image"
         },
         "formats": [
-            "BEIN SPORTS FHD",
-            "GHD SPORTS - HD",
-            "GHD SPORTS SD"
+            "BeIN SPORTS FHD",
+            "BEIN SPORTS HD",
+            "beIN sports Xtra HD",
+            "FAST SERVER HD"
         ],
         "id": 395,
         "image": "null",
@@ -279,20 +280,26 @@
         "resolved_streams": [
             {
                 "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "BEIN SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|referer=https://www.amazon.com/&origin=https://www.amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0",
+                "title": "BeIN SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/ELLLAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS - HD",
+                "link": "http://193.47.62.50/hls/NAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "BEIN SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/039a19f5-0fee-4e35-a534-e33fa11bb5cd.m3u8",
-                "title": "GHD SPORTS SD",
+                "link": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+                "title": "beIN sports Xtra HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207",
+                "title": "FAST SERVER HD",
                 "type": "0"
             }
         ],
@@ -1636,7 +1643,7 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/25 12:00:00 +0000",
+            "endTime": "2026/09/25 12:20:01 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "eventName": "International Friendly Games",
@@ -1649,7 +1656,8 @@
         },
         "formats": [
             "SPORT TV BR FHD",
-            "TYC SPORTS HD"
+            "GHD SPORTS SD",
+            "GHD SPORTS HD"
         ],
         "id": 831,
         "image": "null",
@@ -1664,8 +1672,14 @@
             },
             {
                 "api": "",
-                "link": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-                "title": "TYC SPORTS HD",
+                "link": "https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://soco.domainkqt.cc/",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1687,7 +1701,15 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image"
         },
         "formats": [
-            "GHD SPORTS  - HD"
+            "GHD SPORTS HD",
+            "SonyLiv HIN - AQ",
+            "SonyLiv ENG - AQ",
+            "SonyLiv TAM - AQ",
+            "SonyLiv TEL - AQ",
+            "SonyLiv KAN - AQ",
+            "SonyLiv BEN - AQ",
+            "Sony TEN 2 HD (IND IP)",
+            "Sony TEN 2 SD (IND IP)"
         ],
         "id": 856,
         "image": "null",
@@ -1696,8 +1718,56 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/JFFFA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS  - HD",
+                "link": "http://193.47.62.41/hls/GIIIA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive2509/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv HIN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv ENG - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive2509/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv TAM - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive2509/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv TEL - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive2509/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv KAN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2509/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321",
+                "title": "SonyLiv BEN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "title": "Sony TEN 2 HD (IND IP)",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cloudplay-sonyliv.pages.dev/ten2.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "title": "Sony TEN 2 SD (IND IP)",
                 "type": "0"
             }
         ],
@@ -2164,20 +2234,23 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/25 11:00:00 +0000",
+            "endTime": "2026/09/25 15:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
             "eventName": "ASEAN Cup",
             "eventType": "",
-            "startTime": "2026/09/25 09:00:00 +0000",
-            "teamA": "Bangladesh",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-            "teamB": "Malaysia",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image"
+            "startTime": "2026/09/25 13:00:00 +0000",
+            "teamA": "Indonesia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+            "teamB": "Singapore",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image"
         },
         "formats": [
-            "Tapmad ENG AQ",
-            "HD SERVER "
+            "GHD SPORTS FHD",
+            "GHD SPORTS HD",
+            "TAPMAD ENG FHD",
+            "DAZN SPORTS HD",
+            "FAST SERVER HD"
         ],
         "id": 1075,
         "image": "null",
@@ -2185,15 +2258,33 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368",
+                "link": "https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd",
+                "title": "GHD SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "Tapmad ENG AQ",
+                "link": "http://193.47.62.41/hls/NAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/dooo.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "HD SERVER ",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "title": "TAPMAD ENG FHD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://godfather.bondsplive.online/borehd/logo.png?&e=.m3u8",
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8",
+                "title": "FAST SERVER HD",
                 "type": "0"
             }
         ],
@@ -2215,8 +2306,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4706/image"
         },
         "formats": [
-            "GHD SPORTS HD",
-            "FOX SOCCER + HD",
+            "SPORT TV BR AQ",
             "GHD SPORTS SD"
         ],
         "id": 1080,
@@ -2225,16 +2315,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/af91c0fd-6732-4310-a7ea-01c14768668f.m3u8",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56993/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "FOX SOCCER + HD",
-                "type": "0"
+                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                "link": "https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+                "title": "SPORT TV BR AQ",
+                "type": "1"
             },
             {
                 "api": "",
