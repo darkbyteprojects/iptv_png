@@ -1054,8 +1054,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f",
-                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+                "api": "ba8896d605246871ac424878491d86a1:8600d4153034b3cbc852f13ea4b7482c",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cumxaj9bgt/out/v1/84156aa620d84a00bf9ec1a949d1cbd9/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
@@ -1200,6 +1200,45 @@
         ],
         "slug": "icc-women3",
         "title": "warmup3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/26 07:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+            "eventName": "Asian Games",
+            "eventType": "",
+            "startTime": "2026/09/26 05:00:00 +0000",
+            "teamA": "MAS",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187811/image",
+            "teamB": "OMA",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/199279/image"
+        },
+        "formats": [
+            "Willow cricket FHD",
+            "SonyLiv ENG AQ"
+        ],
+        "id": 761,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xyod0psaxc/out/v1/a6643b443bf84856a6e2ca892bc38c14/cenc.mpd|drmScheme=clearkey&drmLicense=",
+                "title": "Willow cricket FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a4a31469f0c707d595a02ef98e6dfdbb-1790224200261",
+                "title": "SonyLiv ENG AQ",
+                "type": "0"
+            }
+        ],
+        "slug": "icc-women4",
+        "title": "warmup4"
     },
     {
         "cat": "Live Events",
