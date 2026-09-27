@@ -1863,16 +1863,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 22:30:00 +0000",
+            "endTime": "2026/09/27 06:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "eventName": "International Friendly Games",
             "eventType": "",
-            "startTime": "2026/09/26 20:30:00 +0000",
-            "teamA": "USA",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-            "teamB": "Peru",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image"
+            "startTime": "2026/09/27 04:00:00 +0000",
+            "teamA": "Cook Islands",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/23475/image",
+            "teamB": "Tahiti",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23477/image"
         },
         "formats": [
             "GHD SPORTS HD",
@@ -1916,16 +1916,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/27 01:00:00 +0000",
+            "endTime": "2026/09/27 13:35:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "eventName": "International Friendly Games",
             "eventType": "",
-            "startTime": "2026/09/26 23:00:00 +0000",
-            "teamA": "Canada",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-            "teamB": "Chile",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image"
+            "startTime": "2026/09/27 11:35:00 +0000",
+            "teamA": "China",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+            "teamB": "New Zealand",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image"
         },
         "formats": [
             "TSN SPORTS FHD",
@@ -1976,19 +1976,22 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/27 03:00:00 +0000",
+            "endTime": "2026/09/27 14:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "eventName": "International Friendly Games",
             "eventType": "",
-            "startTime": "2026/09/27 01:00:00 +0000",
-            "teamA": "Mexico",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-            "teamB": "Colombia",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image"
+            "startTime": "2026/09/27 12:00:00 +0000",
+            "teamA": "Seychelles",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/8038/image",
+            "teamB": "Sri Lanka",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "TUDN MEXICO FHD",
+            "CANAL SPORTS FHD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 857,
         "image": "null",
@@ -1996,14 +1999,96 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "TUDN MEXICO FHD",
+                "type": "1"
+            },
+            {
+                "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "CANAL SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.42/hls/AMMMAAAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/dyyyQQQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/58d01db3-24fa-4b30-86c1-7854038947e7.m3u8",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
         "slug": "international-friendly3",
         "title": "International Friendly3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/27 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "eventName": "International Friendly Games",
+            "eventType": "",
+            "startTime": "2026/09/27 16:30:00 +0000",
+            "teamA": "Malta",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+            "teamB": "Liechtenstein",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image"
+        },
+        "formats": [
+            "GHD SPORTS HD"
+        ],
+        "id": 858,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/FUUUAaA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "international-friendly4",
+        "title": "International Friendly4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/27 22:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "eventName": "International Friendly Games",
+            "eventType": "",
+            "startTime": "2026/09/27 20:30:00 +0000",
+            "teamA": "Bolivia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4746/image",
+            "teamB": "Paraguay",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD"
+        ],
+        "id": 859,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/FUUUAaAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            }
+        ],
+        "slug": "international-friendly5",
+        "title": "International Friendly5"
     },
     {
         "cat": "Live Events",
@@ -2081,6 +2166,38 @@
             }
         ],
         "slug": "ewsl2",
+        "title": "null"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/27 19:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "eventName": "International Friendly Games",
+            "eventType": "",
+            "startTime": "2026/09/27 17:00:00 +0000",
+            "teamA": "Jordan",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
+            "teamB": "Syria",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD"
+        ],
+        "id": 874,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/FUUUAaAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            }
+        ],
+        "slug": "international-friendly6",
         "title": "null"
     },
     {
@@ -2564,16 +2681,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 15:00:00 +0000",
+            "endTime": "2026/09/27 15:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 13:00:00 +0000",
-            "teamA": "Slovenia",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4484/image",
-            "teamB": "Scotland",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image"
+            "startTime": "2026/09/27 13:00:00 +0000",
+            "teamA": "Lithuania",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+            "teamB": "Azerbaijan",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image"
         },
         "formats": [
             "GHD SPORTS HD",
@@ -2610,16 +2727,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 18:00:00 +0000",
+            "endTime": "2026/09/27 18:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 16:00:00 +0000",
-            "teamA": "Faroe Islands",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
-            "teamB": "Kazakhstan",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4772/image"
+            "startTime": "2026/09/27 16:00:00 +0000",
+            "teamA": "Denmark",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
+            "teamB": "Wales",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image"
         },
         "formats": [
             "GHD SPORTS HD",
@@ -2656,16 +2773,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 18:00:00 +0000",
+            "endTime": "2026/09/27 18:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 16:00:00 +0000",
-            "teamA": "Bulgaria",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-            "teamB": "Luxembourg",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image"
+            "startTime": "2026/09/27 16:00:00 +0000",
+            "teamA": "Austria",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
+            "teamB": "Kosovo",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image"
         },
         "formats": [
             "BeIN SPORTS FHD",
@@ -2709,16 +2826,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 18:00:00 +0000",
+            "endTime": "2026/09/27 18:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 16:00:00 +0000",
-            "teamA": "San Marino",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
-            "teamB": "Finland",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4712/image"
+            "startTime": "2026/09/27 16:00:00 +0000",
+            "teamA": "Serbia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+            "teamB": "Netherlands",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image"
         },
         "formats": [
             "BEIN SPORTS FHD",
@@ -2762,16 +2879,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 18:00:00 +0000",
+            "endTime": "2026/09/27 18:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 16:00:00 +0000",
-            "teamA": "Iceland",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-            "teamB": "Estonia",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4759/image"
+            "startTime": "2026/09/27 16:00:00 +0000",
+            "teamA": "Gibraltar",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+            "teamB": "Andorra",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image"
         },
         "formats": [
             "SPORT TV BR FHD",
@@ -2829,16 +2946,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 20:45:00 +0000",
+            "endTime": "2026/09/27 20:45:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 18:45:00 +0000",
-            "teamA": "Czechia",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-            "teamB": "Croatia",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image"
+            "startTime": "2026/09/27 18:45:00 +0000",
+            "teamA": "Germany",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+            "teamB": "Greece",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image"
         },
         "formats": [
             "BeIN SPORTS FHD",
@@ -2903,16 +3020,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 20:45:00 +0000",
+            "endTime": "2026/09/27 20:45:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 18:45:00 +0000",
-            "teamA": "Albania",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4690/image",
-            "teamB": "Belarus",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image"
+            "startTime": "2026/09/27 18:45:00 +0000",
+            "teamA": "Israel",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4480/image",
+            "teamB": "Ireland",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image"
         },
         "formats": [
             "GHD SPORTS HD",
@@ -2963,16 +3080,16 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/26 20:45:00 +0000",
+            "endTime": "2026/09/27 20:45:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "eventName": "UEFA Nations League",
             "eventType": "",
-            "startTime": "2026/09/26 18:45:00 +0000",
-            "teamA": "North Macedonia",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-            "teamB": "Switzerland",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image"
+            "startTime": "2026/09/27 18:45:00 +0000",
+            "teamA": "Norway",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+            "teamB": "Portugal",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image"
         },
         "formats": [
             "BEIN SPORTS FHD",
@@ -3019,108 +3136,6 @@
         ],
         "slug": "nations-league8",
         "title": "Nations League8"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/09/26 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "eventName": "UEFA Nations League",
-            "eventType": "",
-            "startTime": "2026/09/26 18:45:00 +0000",
-            "teamA": "England",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-            "teamB": "Spain",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image"
-        },
-        "formats": [
-            "BeIN SPORTS FHD",
-            "FOX SPORTS FHD",
-            "ONE SPORTS HD",
-            "BeIN SPORTS HD",
-            "FOX SPORTS LQ",
-            "FOX SPORTS HD",
-            "SonyLive ENG AQ",
-            "GHD SPORTS HD",
-            "ESPN ARG FHD",
-            "FOX SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 1096,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "BeIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                "title": "FOX SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://hey.futbol-tv.online/esp/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
-                "title": "ONE SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://hey.futbol-tv.online/ar/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://hey.futbol-tv.online/en/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
-                "title": "FOX SPORTS LQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/eng-esp/playlist.m3u8?tk=GEaTjSNHsNxB_Jpl7U994w&e=1790490667|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/eng-esp",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/UNL_engv2609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d6ff4f48412d6cc20b23b9ca66d43e18-1790446804979",
-                "title": "SonyLive ENG AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.41/hls/DKKKAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-                "title": "ESPN ARG FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://instreams.live/live/tv401861066/index.m3u8?st=zJDD4FqEQEmocaWRYgeBRA&e=1790458274|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401861066",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "nations-league9",
-        "title": "nations-league9"
     },
     {
         "cat": "Live Events",
