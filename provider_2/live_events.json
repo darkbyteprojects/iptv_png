@@ -2648,11 +2648,11 @@
         "formats": [
             "BEIN SPORTS FHD",
             "FOX SPORTS FHD",
-            "ESPN ARG FHD",
+            "FOX SPORTS HD",
             "SonyLiv ENG AQ",
+            "ESPN ARG FHD",
             "GHD SPORTS HD",
             "GHD SPORTS SD",
-            "FOX SPORTS HD",
             "FAST SERVER HD"
         ],
         "id": 1083,
@@ -2673,16 +2673,22 @@
                 "type": "1"
             },
             {
-                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-                "title": "ESPN ARG FHD",
-                "type": "1"
+                "api": "",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "title": "FOX SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
                 "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=62f70138dd37c4cf1ecf6a6254749dde-1790618702001",
                 "title": "SonyLiv ENG AQ",
                 "type": "0"
+            },
+            {
+                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                "title": "ESPN ARG FHD",
+                "type": "1"
             },
             {
                 "api": "",
@@ -2692,14 +2698,8 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/AGGGQQQ.m3u8",
+                "link": "http://193.47.62.59/hls/AGGGQQQ.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                "title": "FOX SPORTS HD",
                 "type": "0"
             },
             {
@@ -2970,7 +2970,9 @@
             "SonyLiv ENG AQ",
             "GHD SPORTS SD",
             "FUBO SPORTS HD",
-            "DAZN SPORTS HD"
+            "DAZN SPORTS HD",
+            "FAST SERVER HD",
+            "DAZN SPORTS SD"
         ],
         "id": 1088,
         "image": "null",
@@ -3017,6 +3019,24 @@
                 "api": "",
                 "link": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/tur-ita/playlist.m3u8?tk=SWtzkcU7Zj28ne-PaXeoIw&e=1790663434|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-28/tur-ita",
                 "title": "FUBO SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://fingersoon.st/scripts/application2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://otaghera.site/updates/turkey-vs-italy/",
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.pro/live/tv401861077/index.m3u8?st=d6mVZ9ho_-w9aIv2Agt_Kg&e=1790631038|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401861077",
+                "title": "DAZN SPORTS SD",
                 "type": "0"
             }
         ],
