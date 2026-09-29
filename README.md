@@ -5,11 +5,6 @@
 - **Playlists Index:** Browse generated playlists and categories at [https://playlists.dbprojects.workers.dev/](https://playlists.dbprojects.workers.dev/)
 
 ---
-## Playlists
-
-- **https://sliv.dbprojects.workers.dev**
-
----
 
 ## 🌟 Support & Feedback
 
