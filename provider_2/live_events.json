@@ -142,10 +142,8 @@
         },
         "formats": [
             "Willow Cricbuzz - AQ",
-            "Willow Cricbuzz - ALT",
             "FANCODE ENG FHD",
             "SKY SPORTS+ HD",
-            "TAPMAD ENG - AQ",
             "FANCODE ENG - (IN IP)"
         ],
         "id": 21,
@@ -154,15 +152,9 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731",
-                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/vndotdb9zh/out/v1/3abc0c10da4e4215a3633b41044bf310/cenc.mpd",
+                "api": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
                 "title": "Willow Cricbuzz - AQ",
-                "type": "1"
-            },
-            {
-                "api": "a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd",
-                "title": "Willow Cricbuzz - ALT",
                 "type": "1"
             },
             {
@@ -173,19 +165,13 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/bbbbbA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/fafafaAA.m3u8|Referer=http://www.fawanews.sc/",
                 "title": "SKY SPORTS+ HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
-                "title": "TAPMAD ENG - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249779_english_hls_5b5f2be03a98278_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "title": "FANCODE ENG - (IN IP)",
                 "type": "0"
             }
@@ -1615,38 +1601,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/09/30 15:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "eventName": "International Friendly Games",
-            "eventType": "",
-            "startTime": "2026/09/30 13:00:00 +0000",
-            "teamA": "Seychelles",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/8038/image",
-            "teamB": "Sri Lanka",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image"
-        },
-        "formats": [
-            "GHD SPORTS SD"
-        ],
-        "id": 831,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "international-friendly1",
-        "title": "international friendly"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/09/30 18:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
@@ -1774,6 +1728,45 @@
         ],
         "slug": "international-friendly4",
         "title": "International Friendly4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/30 19:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "eventName": "International Friendly Games",
+            "eventType": "",
+            "startTime": "2026/09/30 17:00:00 +0000",
+            "teamA": "Konyaspor",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+            "teamB": "Palestine",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4788/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 859,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/auuuQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/69bc2047-4aba-4e15-af49-f998f4ccf5cc.m3u8",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "international-friendly5",
+        "title": "International Friendly5"
     },
     {
         "cat": "Live Events",
@@ -2407,6 +2400,70 @@
         ],
         "slug": "ewsl5",
         "title": "ewsl5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/30 11:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+            "eventName": "ASEAN Cup",
+            "eventType": "",
+            "startTime": "2026/09/30 09:00:00 +0000",
+            "teamA": "East Timor",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/23497/image",
+            "teamB": "Cambodia",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image"
+        },
+        "formats": [
+            "GHD SPORTS SD"
+        ],
+        "id": 1075,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/ARRRaa.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "asian-game-1",
+        "title": "asian game 1"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/09/30 14:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+            "eventName": "ASEAN Cup",
+            "eventType": "",
+            "startTime": "2026/09/30 12:00:00 +0000",
+            "teamA": "Brunei",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/23491/image",
+            "teamB": "Hong Kong",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image"
+        },
+        "formats": [
+            "GHD SPORTS HD"
+        ],
+        "id": 1076,
+        "image": "null",
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/fafafaAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "asian-game-2",
+        "title": "asian game 2"
     },
     {
         "cat": "Live Events",
