@@ -1452,8 +1452,15 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://live.dyrur1.com/live/73220756_7d2e3c1ec524d9f77d125649db297c07_1080p.m3u8?auth_key=1790906384-0-0-d258586cf7d6c5111cf6233f78724b0d",
                 "name": "SK LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4642655.m3u8?txSecret=61cd7140bd668a25dacb5105d23446d4&txTime=6ABEE955|referer=https://player.online909.com/",
+                "name": "HD SERVER",
                 "token_api": ""
             }
         ],
@@ -1796,9 +1803,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "WIN SPORTS+",
+                "token_api": {
+                    "api": "https://la18hd.su/vivo/canales.php?stream=winsportsplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "WIN SPORTS+",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=winplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera A"
@@ -1820,9 +1852,50 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
-                "name": "SK LIVE",
-                "token_api": ""
+                "link": "",
+                "name": "MLS SD",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=mls1es",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "MLS HD",
+                "token_api": {
+                    "api": "https://embedindia.st/embed/mls/2026-10-01/sea-skc",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "RAPID SERVER",
+                "token_api": {
+                    "api": "https://ondemand.st/player/hls/?v=539&url=https%3A%2F%2Fmessi.damitv.st%2Flive-sd%2Fstreamed%2Fadmin%2Fppv-seattle-sounders-fc-vs-sporting-kansas-city%2F2%2Fplaylist.m3u8%3Ftk%3DLcaWgH1zGU12MUkmlhN0Yg%26e%3D1790935676&name=Live",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "MLS"
@@ -1868,7 +1941,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+                "link": "https://live.dyrur1.com/live/73220756_7d2e3c1ec524d9f77d125649db297c07_1080p.m3u8?auth_key=1790906323-0-0-3db36a41f89068bc4ab87145af6f28fe",
                 "name": "SK LIVE",
                 "token_api": ""
             },
