@@ -53,7 +53,7 @@ jobs:
 
           TIMESTAMP=$(TZ='Asia/Kolkata' date '+%d/%m/%Y %I:%M:%S %p IST')
 
-          git add .
+          git add provider_3/
 
           if git diff --staged --quiet; then
             echo "[INFO] No data changes detected."
