@@ -90,34 +90,41 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/03 16:40:52 +0000",
+            "endTime": "2026/10/03 20:00:39 +0000",
             "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
-            "eventName": "One Day International Women",
+            "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10",
+            "eventName": "WORLD CHAMPIONSHIP OF LEGENDS",
             "eventType": "",
-            "startTime": "2026/10/03 11:00:43 +0000",
-            "teamA": "ZIM-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-            "teamB": "WI-W",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image"
+            "startTime": "2026/10/03 11:30:30 +0000",
+            "teamA": "WCL",
+            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10",
+            "teamB": "WCL",
+            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10"
         },
         "formats": [
-            "FANCODE - AQ"
+            "Willow Cricbuzz AQ",
+            "FANCODE - FHD"
         ],
-        "id": 20,
-        "image": "https://www.prokabaddi.com/static-assets/images/default-social-share.png?v=1.01?v=2.21",
+        "id": 42,
+        "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/chn.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "position": 0,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://51.77.217.114:8089/WIvsZIM/index.m3u8",
-                "title": "FANCODE - AQ",
-                "type": "0"
+                "api": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fh0rvu2vmm/out/v1/db5c8bb455b2458bb00a0ecb9d176abe/cenc.mpd",
+                "title": "Willow Cricbuzz AQ",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "FANCODE - FHD",
+                "type": "1"
             }
         ],
-        "slug": "live7-zim-wi",
-        "title": "live7-icc-nepal"
+        "slug": "live14-wcl",
+        "title": "live14-npl"
     },
     {
         "cat": "Live Events",
@@ -1605,8 +1612,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
+            "FANCODE -  FHD",
             "GHD SPORTS HD",
-            "CBS NETWORK HD"
+            "BBC ONE FHD"
         ],
         "id": 865,
         "image": "null",
@@ -1614,15 +1623,27 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "23bb1458b7a635429f2125537c704219:4f41068c723f8f64558e5589dfc993f0",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/h5h5ei59eu/out/v1/210bb74c183549d09cbb6451151f2a94/91ae3c8f-7eb0-411c-925e-6b8ed2fbb417-cenc.mpd?aws_sessionId=9770a8a8-5fe3-4554-8a33-f379ec20cdec",
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "title": "FANCODE -  FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/shhhhaAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                "title": "CBS NETWORK HD",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/bone.m3u8",
+                "title": "BBC ONE FHD",
                 "type": "0"
             }
         ],
@@ -2033,9 +2054,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4690/image"
         },
         "formats": [
-            "FOX SPORTS FHD",
-            "FOX SPORTS HD",
+            "BEIN SPORTS FHD",
             "GHD SPORTS HD",
+            "SonyLiv ENG AQ",
+            "DAZN SPORTS HD",
+            "BEIN ARABIC HD",
             "GHD SPORTS SD"
         ],
         "id": 1080,
@@ -2044,26 +2067,38 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                "title": "FOX SPORTS FHD",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "BEIN SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/RIIIAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/ZOOO.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f7826509e7bd972c807e3f8a84032fdc-1791031501598",
+                "title": "SonyLiv ENG AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-03/fin-alb/playlist.m3u8?tk=PYMTYfowByjiKWocr68Xnw&e=1791075649|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-03/fin-alb",
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
+                "title": "BEIN ARABIC HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/c6a03c84-16dd-4b81-9eed-7841f4bd150d.m3u8",
                 "title": "GHD SPORTS SD",
                 "type": "0"
             }
@@ -2643,7 +2678,16 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image"
         },
         "formats": [
-            ""
+            "Spor TV BR FHD",
+            "SPORT TV  HD",
+            "GHD SPORTS HD",
+            "SonyLiv HIN - AQ",
+            "SonyLiv ENG - AQ",
+            "SonyLiv TAM - AQ",
+            "SonyLiv TEL - AQ",
+            "SonyLiv KAN - AQ",
+            "SonyLiv MAL - AQ",
+            "SonyLiv BEN - AQ"
         ],
         "id": 1116,
         "image": "null",
@@ -2651,9 +2695,63 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "Spor TV BR FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "hs",
-                "title": "",
+                "link": "http://193.47.62.55/hls/YLLLAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "title": "SPORT TV  HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/d5b3f73e-2a19-49cf-afdb-b4c0204d7f06.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv HIN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv ENG - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv TAM - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv TEL - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv KAN - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/MAL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d669b3e8e57ad08a057297c72563b145-1791032101662",
+                "title": "SonyLiv MAL - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0310/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
+                "title": "SonyLiv BEN - AQ",
                 "type": "0"
             }
         ],
@@ -2722,38 +2820,6 @@
             }
         ],
         "slug": "nulls",
-        "title": "null"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/03 14:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "eventName": "International Friendly Games",
-            "eventType": "",
-            "startTime": "2026/10/03 12:00:00 +0000",
-            "teamA": "Sri Lanka",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/23487/image",
-            "teamB": "Djibouti",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/8042/image"
-        },
-        "formats": [
-            ""
-        ],
-        "id": 1119,
-        "image": "null",
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "ksn",
-                "title": "",
-                "type": "0"
-            }
-        ],
-        "slug": "hsnsv",
         "title": "null"
     },
     {
