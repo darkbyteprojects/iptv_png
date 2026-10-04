@@ -10,8 +10,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "04/10/2026",
-        "time": "05:00:00",
+        "date": "09/10/2026",
+        "time": "01:00:00",
         "category": "Motorsport",
         "eventName": "MotoGP",
         "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
@@ -566,90 +566,6 @@
     },
     {
         "teamA": {
-            "name": "Azerbaijan",
-            "logo": "https://img.sofascore.com/api/v1/team/4742/image"
-        },
-        "teamB": {
-            "name": "Lithuania",
-            "logo": "https://img.sofascore.com/api/v1/team/4776/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "UEFA Nations League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD +",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/uefa-nations-league/2026-10-04/aze-ltu",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "FS2",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://01streameastslive-com.sportiskes.space/frame.html?url=https://sportiskes.space/streame.html?key=346-1",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Real Sociedad B",
-            "logo": "https://img.sofascore.com/api/v1/team/24360/image"
-        },
-        "teamB": {
-            "name": "Granada",
-            "logo": "https://img.sofascore.com/api/v1/team/33779/image"
-        },
-        "visible": true,
-        "date": "04/10/2026",
-        "time": "12:00:00",
-        "category": "Football",
-        "eventName": "LaLiga 2",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "14:20:00"
-    },
-    {
-        "teamA": {
             "name": "Dream",
             "logo": "https://img.sofascore.com/api/v1/team/35545/image"
         },
@@ -1011,6 +927,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
+                "name": "beIN ENGLISH - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": null
+            },
+            {
+                "name": "FOX SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
                 "scheme": 0,
@@ -1032,6 +962,20 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live.vivo155.com/live/sd-1-4603705.m3u8?txSecret=82bcec1d74bdc6a051522937c7888892&txTime=6AC2597C|Referer=https://player.online909.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/LTTTQQQAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "04/10/2026",
@@ -1060,80 +1004,6 @@
         ],
         "end_date": "04/10/2026",
         "end_time": "20:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Aston Villa",
-            "logo": "https://img.sofascore.com/api/v1/team/266375/image"
-        },
-        "teamB": {
-            "name": "Crystal Palace",
-            "logo": "https://img.sofascore.com/api/v1/team/234204/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "Women's Super League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/womens-super-league/2026-10-04/avl-cry",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
-    },
-    {
-        "teamA": {
-            "name": "West Ham",
-            "logo": "https://img.sofascore.com/api/v1/team/297802/image"
-        },
-        "teamB": {
-            "name": "Chelsea",
-            "logo": "https://img.sofascore.com/api/v1/team/66768/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "Women's Super League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/womens-super-league/2026-10-04/whu-che",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
     },
     {
         "teamA": {
@@ -1193,6 +1063,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/24336/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "04/10/2026",
         "time": "14:15:00",
         "category": "Football",
@@ -1200,36 +1071,15 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/rlllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "04/10/2026",
         "end_time": "16:35:00"
-    },
-    {
-        "teamA": {
-            "name": "Brighton",
-            "logo": "https://img.sofascore.com/api/v1/team/266376/image"
-        },
-        "teamB": {
-            "name": "Charlton",
-            "logo": "https://img.sofascore.com/api/v1/team/234203/image"
-        },
-        "visible": true,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "Women's Super League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
     },
     {
         "teamA": {
@@ -1273,6 +1123,13 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "streams": [
             {
+                "name": "CBS NETWORK - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1287,6 +1144,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/ZEEEAAAQQQAA.m3u8?|referer=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "04/10/2026",
@@ -1318,67 +1182,6 @@
     },
     {
         "teamA": {
-            "name": "Comoros",
-            "logo": "https://img.sofascore.com/api/v1/team/23494/image"
-        },
-        "teamB": {
-            "name": "Senegal",
-            "logo": "https://img.sofascore.com/api/v1/team/4739/image"
-        },
-        "visible": true,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "International Friendly Games",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Tottenham",
-            "logo": "https://img.sofascore.com/api/v1/team/273547/image"
-        },
-        "teamB": {
-            "name": "London City",
-            "logo": "https://img.sofascore.com/api/v1/team/326573/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "Women's Super League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/womens-super-league/2026-10-04/tot-lcl",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
-    },
-    {
-        "teamA": {
             "name": "Japan",
             "logo": "https://img.sofascore.com/api/v1/team/4770/image"
         },
@@ -1403,43 +1206,6 @@
     },
     {
         "teamA": {
-            "name": "Everton",
-            "logo": "https://img.sofascore.com/api/v1/team/36704/image"
-        },
-        "teamB": {
-            "name": "Birmingham",
-            "logo": "https://img.sofascore.com/api/v1/team/66766/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "04/10/2026",
-        "time": "13:00:00",
-        "category": "Football",
-        "eventName": "Women's Super League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/womens-super-league/2026-10-04/eve-bir",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "04/10/2026",
-        "end_time": "15:20:00"
-    },
-    {
-        "teamA": {
             "name": "Kyrgyzstan",
             "logo": "https://img.sofascore.com/api/v1/team/7930/image"
         },
@@ -1448,6 +1214,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4774/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "04/10/2026",
         "time": "14:00:00",
         "category": "Football",
@@ -1455,8 +1222,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/ZEEE.m3u8?|referer=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "04/10/2026",
@@ -2048,6 +1818,27 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
+                "name": "beIN ENGLISH - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": null
+            },
+            {
+                "name": "FUBO NETWORK USA - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                "tokenApi": null
+            },
+            {
+                "name": "SporTV BR - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8|referer=https://streame.center/",
                 "scheme": 0,
@@ -2073,5 +1864,104 @@
         ],
         "end_date": "04/10/2026",
         "end_time": "18:20:00"
+    },
+    {
+        "teamA": {
+            "name": "WCL",
+            "logo": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png"
+        },
+        "teamB": {
+            "name": "WCL",
+            "logo": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "04/10/2026",
+        "time": "11:30:00",
+        "category": "Cricket",
+        "eventName": "WCL",
+        "eventLogo": "o",
+        "streams": [
+            {
+                "name": "WILLOW - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT - AQ",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd",
+                "scheme": 0,
+                "api": "4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE - IN",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249221_english_hls_f7489000ae32024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "VfB Stuttgart",
+            "logo": "https://img.sofascore.com/api/v1/team/527815/image"
+        },
+        "teamB": {
+            "name": "Union Berlin",
+            "logo": "https://img.sofascore.com/api/v1/team/36618/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "04/10/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Frauen-Bundesliga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "streams": [
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/ZEEEA.m3u8?|referer=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "04/10/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "FC Barcelona",
+            "logo": "https://img.sofascore.com/api/v1/team/77889/image"
+        },
+        "teamB": {
+            "name": "Real Madrid",
+            "logo": "https://img.sofascore.com/api/v1/team/305051/image"
+        },
+        "visible": true,
+        "date": "04/10/2026",
+        "time": "17:00:00",
+        "category": "Football",
+        "eventName": "Liga F Moeve",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "04/10/2026",
+        "end_time": "19:20:00"
     }
 ]
