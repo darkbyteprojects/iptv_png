@@ -1198,19 +1198,7 @@
         },
         "id": 64,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=MS4lMjBGQyUyMEslQzMlQjZsbi12cy1Cb3J1c3NpYSUyME0lMjdnbGFkYmFjaA==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -1396,17 +1384,6 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QXJnZW50aW5hLXZzLUJlbmlu",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
-            {
                 "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -1426,6 +1403,17 @@
                 "link": "https://dash2.antik.sk/stream/nvidia_sport_2/playlist_cenc.mpd",
                 "name": "SPORT CZ - AQ ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QXJnZW50aW5hLXZzLUJlbmlu",
+                    "type": "sp",
+                    "url": "Ok"
+                }
             }
         ],
         "title": "International Friendly Games"
@@ -1445,6 +1433,13 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
         "streams": [
             {
+                "drm_key": "4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe",
+                "drm_scheme": "clearkey",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd",
+                "name": "WILLOW - AQ ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
@@ -1454,21 +1449,14 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com/",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD - AQ ",
                 "token_api": ""
             },
             {
-                "drm_key": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
+                "drm_key": "4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe",
                 "drm_scheme": "clearkey",
-                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-                "name": "WILLOW - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd",
                 "name": "WILLOW S2 - AQ",
                 "token_api": ""
             },
@@ -1480,72 +1468,51 @@
                 "token_api": ""
             },
             {
-                "drm_key": "effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc",
+                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
                 "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791333009~acl=%2f*~id=abe70f7614a8e9b6b28a244a8016f5d1~data=hdntl~hmac=395593bbc81bd04d40849bc727d3ea2586b2e8a485c0f0bdce5b205266bc6568&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
                 "name": "HOTSTAR HINDI - IN",
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS HINDI - IN",
+                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "HOTSTAR DT HIN - IN",
                 "token_api": ""
             },
             {
-                "drm_key": "14d0c8ee09944c32bafea44a987d0000:74d35f4034b14854bd3ca83dd3aa2fb1",
+                "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
                 "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068250/1d0752e2f605404886fec4ab49cc3350/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "HOTSTAR 2 IN - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4de245d511444b37a263c1d86ce70000:b326780ffb3d4dcf8d30fbc0f3008a22",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068283/9fdb797729344658957bd7382590c557/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791333009~acl=%2f*~id=abe70f7614a8e9b6b28a244a8016f5d1~data=hdntl~hmac=395593bbc81bd04d40849bc727d3ea2586b2e8a485c0f0bdce5b205266bc6568&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
                 "name": "HOTSTAR TEL - IN",
                 "token_api": ""
             },
             {
-                "drm_key": "8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0",
+                "drm_key": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
                 "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791333009~acl=%2f*~id=abe70f7614a8e9b6b28a244a8016f5d1~data=hdntl~hmac=395593bbc81bd04d40849bc727d3ea2586b2e8a485c0f0bdce5b205266bc6568&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
                 "name": "HOTSTAR TAMIL - IN",
                 "token_api": ""
             },
             {
-                "drm_key": "ae315fa52d544372a525f8b947a50000:8224183f754244c09664e825535aea4e",
+                "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
                 "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068325/822fe9161d924f25a8f14d9a4e6f1b34/index.mpd?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791333009~acl=%2f*~id=abe70f7614a8e9b6b28a244a8016f5d1~data=hdntl~hmac=395593bbc81bd04d40849bc727d3ea2586b2e8a485c0f0bdce5b205266bc6568&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
                 "name": "HOTSTAR KAN - IN",
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://jcevents.hotstar.com/bpk-tv/3e2fc1dd48093e6be356a1120c941e84/JioHotstar/3e2fc1dd48093e6be356a1120c941e84.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS HD HIN - IN",
+                "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "HOTSTAR DIGITAL",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://jcevents.hotstar.com/bpk-tv/ee610073191492bdc18f85cafadf2751/JioHotstar/ee610073191492bdc18f85cafadf2751.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS TAM - IN ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://jcevents.hotstar.com/bpk-tv/b4c84678b55d580d7a9037d265be102f/JioHotstar/b4c84678b55d580d7a9037d265be102f.m3u8?|cookie=hdntl=exp=1791111125~acl=%2f*~id=7deede707fdb214536d0d627f3d5c94c~data=hdntl~hmac=0e5144eb1bbb831c7197b3aacdc681ae377ac89f92c6348f80bb640ac7c35e2d&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS TEL - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.50/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/VUUUAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                 "name": "LOW SERVER",
                 "token_api": ""
             }
@@ -1831,9 +1798,9 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "06/10/2026 15:10:00",
+            "end_time": "",
             "event_name": "WORLD CHAMPIONSHIP OF LEGENDS",
-            "start_time": "06/10/2026 11:30:00",
+            "start_time": "07/10/2026 11:30:00",
             "team_a": "WCL",
             "team_a_flag": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png",
             "team_b": "WCL",
@@ -1902,102 +1869,19 @@
         "title": "WORLD CHAMPIONSHIP OF LEGENDS"
     },
     {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "ICC Men's T20 World Cup Qualifier",
-            "start_time": "06/10/2026 06:00:00",
-            "team_a": "Bahrain",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/412036/image",
-            "team_b": "Bhutan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/419424/image"
-        },
-        "id": 87,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "streams": [
-            {
-                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "drm_scheme": "clearkey",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791294332~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9f49566ce34398e27c6f70653e8a8783699dcf7c4fb0bf5b55ea39bd1d10d7ab/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                "name": "ICC TV ",
-                "token_api": ""
-            }
-        ],
-        "title": "ICC Men's T20 World Cup Qualifier"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "ICC Men's T20 World Cup Qualifier",
-            "start_time": "06/10/2026 06:00:00",
-            "team_a": "Mongolia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/490008/image",
-            "team_b": "Kuwait",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187773/image"
-        },
-        "id": 88,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "streams": [
-            {
-                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "drm_scheme": "clearkey",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791294333~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=64cdedf2ece85a11ca9cd0a5c8405cd01a532209c6f2e0f449cd208c17ec7fa6/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                "name": "ICC TV ",
-                "token_api": ""
-            }
-        ],
-        "title": "ICC Men's T20 World Cup Qualifier"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "06/10/2026 13:55:00",
-            "event_name": "International Friendly Games",
-            "start_time": "06/10/2026 11:35:00",
-            "team_a": "China",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4755/image",
-            "team_b": "Tajikistan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/23488/image"
-        },
-        "id": 89,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=Q2hpbmElMjB2cyUyMFRhamlraXN0YW4=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
         "category": "Table tennis",
         "event_info": {
-            "end_time": "06/10/2026 06:30:00",
+            "end_time": "06/10/2026 12:30:00",
             "event_name": "China Smash 2024, WD",
-            "start_time": "06/10/2026 04:30:00",
+            "start_time": "06/10/2026 10:30:00",
             "team_a": "China Smash",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPeUf5SGxZgN4FtG0kE7T_5IgtQykkJCDLljkW-w9QSrqBdRMtCghSZoM&s=10",
             "team_b": "China Smash",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPeUf5SGxZgN4FtG0kE7T_5IgtQykkJCDLljkW-w9QSrqBdRMtCghSZoM&s=10"
         },
-        "id": 90,
+        "id": 87,
         "image": "https://img.magnific.com/premium-vector/simple-table-tennis-logo-table-tennis-logo-vector-image-ping-pong-icon-logo-table-tennis-logo_911863-625.jpg",
         "streams": [
-            {
-                "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-                "drm_scheme": "clearkey",
-                "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-                "name": "SPOTV - AQ ",
-                "token_api": ""
-            },
             {
                 "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
                 "drm_scheme": "clearkey",
@@ -2030,7 +1914,7 @@
             "team_b": "Los Angeles Lakers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3427/image"
         },
-        "id": 91,
+        "id": 88,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [
             {
@@ -2065,19 +1949,92 @@
             "team_b": "Uruguay",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4725/image"
         },
-        "id": 92,
+        "id": 89,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=SW5kaWElMjB2cyUyMFVydWd1YXk=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791337894~acl=/*~id=71626779119576742962277424255685~hmac=52e2d293cb222020998e9d70c7ef13a985eb10249885f095510a4ff0d307f251",
+                "name": "SONYLIV EN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4650120.m3u8?txSecret=4757c27d1faee305e65c5201f76eb602&txTime=6AC5162D|Referer=https://player.online909.com/",
+                "name": "PlayZ TV Live ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8",
+                "name": "HD SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/15c5d5a0053b009f608fab96bad1941d/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "Sport TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791337894~acl=/*~id=71626779119576742962277424255685~hmac=52e2d293cb222020998e9d70c7ef13a985eb10249885f095510a4ff0d307f251",
+                "name": "SONYLIV HIN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive0610/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=303e2d38ac3b500519709c227064da51-1791289803406",
+                "name": "SONYLIV BEN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/13a80d8a377f5cdffa9dc4183a3f346b/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "Arena Sports HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.zundrixmediapipeline.com/live/channel12.m3u8|referer=https://soco.domainkqt.cc/",
+                "name": "HD STREAM",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=303e2d38ac3b500519709c227064da51-1791289803406",
+                "name": "SONYLIV TAM - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=303e2d38ac3b500519709c227064da51-1791289803406",
+                "name": "SONYLIV TEL - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=303e2d38ac3b500519709c227064da51-1791289803406",
+                "name": "SONYLIV KAN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.41/hls/VUUUAAAAAAx.m3u8|referer=http://www.fawanews.sc/",
+                "name": "SD STREAM ",
+                "token_api": ""
             }
         ],
         "title": "International Friendly Games"
@@ -2093,20 +2050,9 @@
             "team_b": "Canada",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4752/image"
         },
-        "id": 93,
+        "id": 90,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=VVNBJTIwdnMlMjBDYW5hZGE=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                 "drm_scheme": "clearkey",
@@ -2120,6 +2066,17 @@
                 "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
                 "name": "NBC UNIVERSO - AQ (US VPN) ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=VVNBJTIwdnMlMjBDYW5hZGE=",
+                    "type": "sp",
+                    "url": "Ok"
+                }
             }
         ],
         "title": "International Friendly Games"
@@ -2135,20 +2092,9 @@
             "team_b": "Chile",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4754/image"
         },
-        "id": 94,
+        "id": 91,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TWV4aWNvJTIwdnMlMjBDaGlsZQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
                 "drm_scheme": "clearkey",
@@ -2162,6 +2108,17 @@
                 "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
                 "name": "NBC UNIVERSO - AQ (US VPN) ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=TWV4aWNvJTIwdnMlMjBDaGlsZQ==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
             }
         ],
         "title": "International Friendly Games"
@@ -2177,7 +2134,7 @@
             "team_b": "Niger",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/8031/image"
         },
-        "id": 95,
+        "id": 92,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2205,7 +2162,7 @@
             "team_b": "Peru",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4790/image"
         },
-        "id": 96,
+        "id": 93,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2233,20 +2190,9 @@
             "team_b": "United Arab Emirates",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4727/image"
         },
-        "id": 97,
+        "id": 94,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=U2F1ZGklMjBBcmFiaWElMjB2cyUyMFVuaXRlZCUyMEFyYWIlMjBFbWlyYXRlcw==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
                 "drm_scheme": "clearkey",
@@ -2295,20 +2241,6 @@
                 "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
                 "name": "KTV SPORT HD",
                 "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://www.rtmpcdn.com/live/135291f5-fda8-46b5-af7a-d422e9cd725a.m3u8",
-                "name": "HD SERVER",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                "name": "SD SERVER",
-                "token_api": ""
             }
         ],
         "title": "Gulf Cup"
@@ -2324,7 +2256,7 @@
             "team_b": "Venezuela",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4722/image"
         },
-        "id": 98,
+        "id": 95,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2352,99 +2284,25 @@
             "team_b": "Nigeria",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4785/image"
         },
-        "id": 99,
+        "id": 96,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=UnVzc2lhJTIwdnMlMjBOaWdlcmlh",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "06/10/2026 13:20:00",
-            "event_name": "International Friendly Games",
-            "start_time": "06/10/2026 11:00:00",
-            "team_a": "South Korea",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4735/image",
-            "team_b": "Uzbekistan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4723/image"
-        },
-        "id": 100,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=U291dGglMjBLb3JlYSUyMHZzJTIwVXpiZWtpc3Rhbg==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "06/10/2026 16:20:00",
-            "event_name": "UEFA Nations League",
-            "start_time": "06/10/2026 14:00:00",
-            "team_a": "Kazakhstan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4772/image",
-            "team_b": "Faroe Islands",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4760/image"
-        },
-        "id": 101,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
-                "name": "BeIN SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                "name": "FOX SPORTS - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-                "name": "Sportv BR - AQ",
+                "link": "https://live.vivo155.com/live/sd-1-4650121.m3u8?txSecret=f8d245437f4ab307dacd971b8f994b35&txTime=6AC52D47|Referer=https://player.online909.com/",
+                "name": "PLAYZ TV LIVE ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=S2F6YWtoc3RhbiUyMHZzJTIwRmFyb2UlMjBJc2xhbmRz",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "http://193.47.62.44/hls/kokoko.m3u8|referer=http://www.fawanews.sc/",
+                "name": "SD STREAM ",
+                "token_api": ""
             }
         ],
-        "title": "UEFA Nations League"
+        "title": "International Friendly Games"
     },
     {
         "category": "Football",
@@ -2457,7 +2315,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/213119/image"
         },
-        "id": 102,
+        "id": 97,
         "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/2026_SAFF_Championship.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
         "streams": [
             {
@@ -2481,7 +2339,7 @@
             "team_b": "Spain",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4698/image"
         },
-        "id": 103,
+        "id": 98,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2523,20 +2381,9 @@
             "team_b": "Czechia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4714/image"
         },
-        "id": 104,
+        "id": 99,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=RW5nbGFuZCUyMHZzJTIwQ3plY2hpYQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                 "drm_scheme": "clearkey",
@@ -2572,7 +2419,7 @@
             "team_b": "Slovakia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4697/image"
         },
-        "id": 105,
+        "id": 100,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2600,7 +2447,7 @@
             "team_b": "Finland",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4712/image"
         },
-        "id": 106,
+        "id": 101,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2628,20 +2475,9 @@
             "team_b": "North Macedonia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4777/image"
         },
-        "id": 107,
+        "id": 102,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=U3dpdHplcmxhbmQlMjB2cyUyME5vcnRoJTIwTWFjZWRvbmlh",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
                 "drm_scheme": "clearkey",
@@ -2670,7 +2506,7 @@
             "team_b": "Iceland",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4708/image"
         },
-        "id": 108,
+        "id": 103,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2698,7 +2534,7 @@
             "team_b": "Bulgaria",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4716/image"
         },
-        "id": 109,
+        "id": 104,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2726,20 +2562,9 @@
             "team_b": "Slovenia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4484/image"
         },
-        "id": 110,
+        "id": 105,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=U2NvdGxhbmQlMjB2cyUyMFNsb3Zlbmlh",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
             {
                 "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
                 "drm_scheme": "clearkey",
@@ -2761,7 +2586,7 @@
             "team_b": "San Marino",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4833/image"
         },
-        "id": 111,
+        "id": 106,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -2789,9 +2614,23 @@
             "team_b": "Los Angeles Dodgers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3638/image"
         },
-        "id": 112,
+        "id": 107,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                "name": "FOX SPORTS - AQ ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -2802,13 +2641,6 @@
                     "type": "sp",
                     "url": "Ok"
                 }
-            },
-            {
-                "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-                "name": "FOX SPORTS - AQ ",
-                "token_api": ""
             }
         ],
         "title": "MLB"
@@ -2824,9 +2656,23 @@
             "team_b": "Milwaukee Brewers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3630/image"
         },
-        "id": 113,
+        "id": 108,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
+            {
+                "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                "name": "FOX SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -2837,13 +2683,6 @@
                     "type": "sp",
                     "url": "Ok"
                 }
-            },
-            {
-                "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-                "name": "FOX SPORTS - AQ ",
-                "token_api": ""
             }
         ],
         "title": "MLB"
