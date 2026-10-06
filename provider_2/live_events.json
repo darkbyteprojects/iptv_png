@@ -15,7 +15,8 @@
             "teamBFlag": "https://api.sofascore.com/api/v1/team/376481/image"
         },
         "formats": [
-            ""
+            "embed",
+            "web"
         ],
         "id": 1132,
         "image": "null",
@@ -25,10 +26,17 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "hsbs",
+                "link": "<iframe src=\"https://dlive.sx/stream/stream-32.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
                 "publish": 1,
-                "title": "",
+                "title": "embed",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dlive.sx/stream/stream-32.php",
+                "publish": 1,
+                "title": "web",
+                "type": "2"
             }
         ],
         "slug": "kantonalna-liga-hnk",
@@ -537,7 +545,7 @@
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "eventName": "International Friendly Games",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/10/06 23:00:00 +0000",
             "teamA": "Argentina",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
@@ -545,15 +553,30 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image"
         },
         "formats": [
+            "beIN SPORTS FHD",
             "PREMIERE SPORTS FHD",
-            "Spor TV BR FHD"
+            "Spor TV BR FHD",
+            "D SPORTS + FHD",
+            "TYC SPORTS HD",
+            "Sport TV - HD",
+            "Premier Sports SD",
+            "SPORT TV CZ FHD",
+            "MATH FOOTBALL HD",
+            "D SPORTS+ HD"
         ],
         "id": 874,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 1,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "beIN SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -567,6 +590,55 @@
                 "publish": 1,
                 "title": "Spor TV BR FHD",
                 "type": "1"
+            },
+            {
+                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "D SPORTS + FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/HUHUHU.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "TYC SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/HUHUHUX.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "Sport TV - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/mens-international-friendly/2026-10-06/arg-ben/playlist.m3u8?tk=QVqE6kmEccM1t9oAO8WyAQ&e=1791369016",
+                "publish": 1,
+                "title": "Premier Sports SD",
+                "type": "0"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "SPORT TV CZ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live.dyrur1.com/live/74996592_b60f972023d07d7c62c060c396a0182d_540p.m3u8",
+                "publish": 1,
+                "title": "MATH FOOTBALL HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.online/live3/tv401921408/index.m3u8?st=Yyk771EiQsXAJUcAeceJkg&e=1791336618",
+                "publish": 1,
+                "title": "D SPORTS+ HD",
+                "type": "0"
             }
         ],
         "slug": "international-friendly6",
@@ -632,7 +704,9 @@
         },
         "formats": [
             "TSN SPORTS FHD",
-            "NBCNY USA FHD"
+            "NBCNY USA FHD",
+            "GHD SPORTS - HD",
+            "GHD SPORTS - SD"
         ],
         "id": 876,
         "image": "null",
@@ -653,6 +727,20 @@
                 "publish": 1,
                 "title": "NBCNY USA FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/f7a022c0-2874-46aa-88ab-cc421122c02c.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/FIIIAAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS - SD",
+                "type": "0"
             }
         ],
         "slug": "international-friendly8",
@@ -675,7 +763,7 @@
         },
         "formats": [
             "GHD SPORTS - HD",
-            "VG SPORTS - HD"
+            "GHD SPORTS - SD"
         ],
         "id": 877,
         "image": "null",
@@ -685,14 +773,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.190/hls/TMMMAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "https://instreams.pro/live3/tv401905332/index.m3u8?st=Wt8IAbe0Qkw6cPm1eJ937g&e=1791340073",
+                "publish": 1,
                 "title": "GHD SPORTS - HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://live2.jxa76.com/live/sd-6MwarbMKLDpKVaJkP5_540p.m3u8?txSecret=0af3e87285c26cc64900e339533f5684&txTime=1A0072AF313",
-                "title": "VG SPORTS - HD",
+                "link": "http://193.47.62.41/hls/FIIIAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS - SD",
                 "type": "0"
             }
         ],
@@ -715,7 +805,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image"
         },
         "formats": [
+            "TUDN MEXICO FHD",
             "GHD SPORTS - HD",
+            "CANAL MX FHD",
             "GHD SPORTS SD"
         ],
         "id": 878,
@@ -725,14 +817,30 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "TUDN MEXICO FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.190/hls/TMMMAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8",
+                "publish": 1,
                 "title": "GHD SPORTS - HD",
                 "type": "0"
             },
             {
+                "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "publish": 1,
+                "title": "CANAL MX FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "https://cdn10.zohanayaan.com:1686/hls/do72.m3u8?md5=YgFtjgrrm-dKskLyBlYXTw&expires=1786809675|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com",
+                "link": "http://193.47.62.41/hls/DBBBQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
             }
