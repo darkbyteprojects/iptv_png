@@ -93,6 +93,777 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/10/10 20:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/10 18:00:00 +0000",
+            "teamA": "Al-Hilal",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+            "teamB": "Al-Ittihad",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image"
+        },
+        "formats": [
+            "GHD SPORTS HD",
+            "Sport Digital HD",
+            "TAPMAD ENG - AQ"
+        ],
+        "id": 724,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/G888AAAAQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8",
+                "publish": 1,
+                "title": "Sport Digital HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD ENG - AQ",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge3",
+        "title": "Neom SC"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": 1,
+            "startTime": "2026/10/10 16:30:00 +0000",
+            "teamA": "Man Utd",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+            "teamB": "Tottenham",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
+        },
+        "formats": [
+            "NBC SPORTS FHD",
+            "SKY SPORTS EPL AQ",
+            "SKY SPORTS EPL HD",
+            "USA NETWORK HD",
+            " PEACOCK TV HD",
+            "GHD SPORTS HD",
+            "SKY SPORTS MAIN",
+            " SKY MAIN HD",
+            "CANAL+ EXTRA HD",
+            "ARENA SPORTS HD"
+        ],
+        "id": 751,
+        "image": "null",
+        "isHot": 1,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "NBC SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                "publish": 1,
+                "title": "SKY SPORTS EPL AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-manchester-united-vs-tottenham-hotspur/2/playlist.m3u8?tk=2d4vev2_q1m3RaH7_oMy5Q&e=1791691206|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-10-10/mun-tot",
+                "publish": 1,
+                "title": "SKY SPORTS EPL HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "USA NETWORK HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/57797/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": " PEACOCK TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/2a1ac868-88c1-4ea6-b2be-cc14a109a69b.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://eu-4605069466.duckdns.org/skymain2/mono.ts.m3u8?token=4174e98405d8630809459c441cb5cb5a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://xyzstreams.st/i-epl-1.html",
+                "publish": 1,
+                "title": "SKY SPORTS MAIN",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.live/live3/tv401878773/index.m3u8?st=gBf2Owaja9A0iXlvw5_S7g&e=1791658809|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://xstream.st/livetv.php?stream=tv401878773",
+                "publish": 1,
+                "title": " SKY MAIN HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/1e9943f2ec1795116abf67594ca39b90/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "CANAL+ EXTRA HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/374bedfc8159d3b689a2c99ea9d23c23/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "ARENA SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league6",
+        "title": "English Premier League6"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "eventName": "LaLiga",
+            "eventType": "",
+            "isHot": 1,
+            "startTime": "2026/10/10 16:30:00 +0000",
+            "teamA": "Barcelona",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+            "teamB": "Getafe",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image"
+        },
+        "formats": [
+            "BEIN SPORTS FHD",
+            "TSN SPORTS FHD",
+            "FANCODE FHD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "ESPN SPORTS FHD"
+        ],
+        "id": 754,
+        "image": "null",
+        "isHot": 1,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "BEIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "TSN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "publish": 1,
+                "title": "FANCODE FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/275da0d5-95c3-4151-af22-781d4a602b26.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/XG333AA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+                "publish": 1,
+                "title": "ESPN SPORTS FHD",
+                "type": "1"
+            }
+        ],
+        "slug": "laliga1",
+        "title": "Spanish LALIGA"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 21:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "eventName": "LaLiga",
+            "eventType": "",
+            "startTime": "2026/10/10 19:00:00 +0000",
+            "teamA": "Real Madrid",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+            "teamB": "Villarreal",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
+        },
+        "formats": [
+            "BeIN SPORTS FHD",
+            "FANCODE - FHD",
+            "DAZN SPORTS FHD"
+        ],
+        "id": 755,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "FANCODE - FHD",
+                "type": "1"
+            },
+            {
+                "api": "99ddd452f50d5ef02386297eefd580b4:da00fef7668440c58d6a4fa84583b121",
+                "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/rrwx4l56x5/out/v1/7608032c24c84525ad715f6298f6b0c3/cenc.mpd",
+                "publish": 1,
+                "title": "DAZN SPORTS FHD",
+                "type": "1"
+            }
+        ],
+        "slug": "laliga2",
+        "title": "Spanish LALIGA3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/11 01:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+            "eventName": "MLS",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/10 23:30:00 +0000",
+            "teamA": "Inter Miami",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+            "teamB": "DC United",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2502/image"
+        },
+        "formats": [
+            "APPLE  TV - FHD",
+            "APPLE  TV - HD",
+            "APPLE  TV - SD",
+            "APPLE TV UHD"
+        ],
+        "id": 767,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=z246fSzGrEXnBcD2wNj_Fg&e=1790591435|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=mls/2026-09-27/clb-mia",
+                "title": "APPLE  TV - FHD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/BHBHBHAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "APPLE  TV - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.pro/live/tv761844/index.m3u8?st=CGrqKsBWKpVm1jbHJmLFiA&e=1790559037|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv761844",
+                "title": "APPLE  TV - SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441",
+                "title": "APPLE TV UHD",
+                "type": "0"
+            }
+        ],
+        "slug": "mls1",
+        "title": "Inter Miami CF"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+            "eventName": "Serie A",
+            "eventType": "",
+            "startTime": "2026/10/10 18:45:00 +0000",
+            "teamA": "Napoli",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+            "teamB": "Frosinone",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image"
+        },
+        "formats": [
+            "BEIN SPORTS FHD",
+            "CBS GOLAZO FHD",
+            "Sport CZ FHD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 771,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "publish": 1,
+                "title": "BEIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "publish": 1,
+                "title": "CBS GOLAZO FHD",
+                "type": "1"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "Sport CZ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/KRRRR.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "series-a3",
+        "title": "Serie A3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 19:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "eventName": "Liga Portugal Betclic",
+            "eventType": "",
+            "startTime": "2026/10/10 17:00:00 +0000",
+            "teamA": "MarÃ­timo",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+            "teamB": "Porto",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image"
+        },
+        "formats": [
+            "SPORT DIGITAL FHD"
+        ],
+        "id": 805,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/vlllqQQQq.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "SPORT DIGITAL FHD",
+                "type": "0"
+            }
+        ],
+        "slug": "portuguese-primeira-liga2",
+        "title": "Portuguese Primeira Liga2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+            "eventName": "Ligue 1",
+            "eventType": "",
+            "startTime": "2026/10/10 18:45:00 +0000",
+            "teamA": "PSG",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+            "teamB": "Le Mans",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1672/image"
+        },
+        "formats": [
+            "FAST SERVER HD",
+            "BeIN SPORTS HD",
+            "BeIN SPORTS FHD",
+            "GHD SPORTS HD",
+            "LIGUE+ 1 HD"
+        ],
+        "id": 825,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/0dc56a3e-d999-4fc0-9f0d-1ba70cc74b97.m3u8",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://fingersoon.st/scripts/application3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://otaghera.site/updates/psg-vs-le-mans/",
+                "publish": 1,
+                "title": "BeIN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/KRRRRAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream5.pro/hls/sqdahach1ax.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "LIGUE+ 1 HD",
+                "type": "0"
+            }
+        ],
+        "slug": "french-ligue2",
+        "title": "French Ligue2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+            "eventName": "Ligue 1",
+            "eventType": "",
+            "startTime": "2026/10/10 18:45:00 +0000",
+            "teamA": "Brest",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+            "teamB": "Angers",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
+        },
+        "formats": [
+            "GHD SPORTS HD",
+            "BeIN SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 826,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/KRRRRA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream7.pro/hls/griogoehvn2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "BeIN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/400508cb-9dbf-4bfa-8d70-92064e4e80b7.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "french-ligue-3",
+        "title": "French Ligue 3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 21:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "eventName": "Liga Portugal Betclic",
+            "eventType": "",
+            "startTime": "2026/10/10 19:30:00 +0000",
+            "teamA": "AcadÃ©mico Viseu",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+            "teamB": "Estoril",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image"
+        },
+        "formats": [
+            " GHD SPORTS HD"
+        ],
+        "id": 989,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/DLLL.m3u8|Referer=http://www.fawanews.sc/",
+                "title": " GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "portuguese-primeira-liga3",
+        "title": "portuguese-primeira-liga3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+            "eventName": "Ligue 1",
+            "eventType": "",
+            "startTime": "2026/10/10 18:45:00 +0000",
+            "teamA": "AS Monaco",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+            "teamB": "Toulouse",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
+        },
+        "formats": [
+            "GHD SPORTS HD",
+            "BeIN SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 1003,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/KRRRRAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "BeIN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/bad425e1-d983-43b7-8248-f9f2a6d0d640.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "french-ligue-4",
+        "title": "french-ligue-4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 20:45:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+            "eventName": "Ligue 1",
+            "eventType": "",
+            "startTime": "2026/10/10 18:45:00 +0000",
+            "teamA": "Lorient",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+            "teamB": "Paris",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image"
+        },
+        "formats": [
+            "GHD SPORTS HD",
+            "BeIN SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 1004,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/KRRRRAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream5.pro/hls/sqdahach1ax.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": "BeIN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/1085be3f-50e8-47e9-a5f7-e271c4b0f813.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "french-ligue-5",
+        "title": "french-ligue-5"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/10 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "eventName": "Bundesliga",
+            "eventType": "",
+            "startTime": "2026/10/10 16:30:00 +0000",
+            "teamA": "Leipzig",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+            "teamB": "Frankfurt",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image"
+        },
+        "formats": [
+            "BeIN SPORTS FHD",
+            "ESPN SPORTS FHD",
+            "GHD SPORTS HD"
+        ],
+        "id": 1025,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                "publish": 1,
+                "title": "ESPN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/5bbe610a-292e-4e6d-8974-4c290eb825c3.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "german-bundesliga6",
+        "title": "german-bundesliga6"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/11 03:01:59 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dghmg10-61e6201d-a4c6-4652-89a4-910c48209260.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZTk1YmRkYS0xZDQxLTQ5OWQtODhjYS01NjVkMmM0NWZhNzMvZGdobWcxMC02MWU2MjAxZC1hNGM2LTQ2NTItODlhNC05MTBjNDgyMDkyNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.btKrpLYTYErIQRsIXG7nBbEyM4oX0kGNWiBqjqxkmA8",
+            "eventName": "WWE MONEY IN THE BANK",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/10 22:00:48 +0000",
+            "teamA": "Money Bank",
+            "teamAFlag": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dghmg10-61e6201d-a4c6-4652-89a4-910c48209260.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZTk1YmRkYS0xZDQxLTQ5OWQtODhjYS01NjVkMmM0NWZhNzMvZGdobWcxMC02MWU2MjAxZC1hNGM2LTQ2NTItODlhNC05MTBjNDgyMDkyNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.btKrpLYTYErIQRsIXG7nBbEyM4oX0kGNWiBqjqxkmA8",
+            "teamB": "Money Bank",
+            "teamBFlag": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dghmg10-61e6201d-a4c6-4652-89a4-910c48209260.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZTk1YmRkYS0xZDQxLTQ5OWQtODhjYS01NjVkMmM0NWZhNzMvZGdobWcxMC02MWU2MjAxZC1hNGM2LTQ2NTItODlhNC05MTBjNDgyMDkyNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.btKrpLYTYErIQRsIXG7nBbEyM4oX0kGNWiBqjqxkmA8"
+        },
+        "formats": [
+            ""
+        ],
+        "id": 1140,
+        "image": "null",
+        "isHot": 0,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "bd",
+                "publish": 1,
+                "title": "",
+                "type": "0"
+            }
+        ],
+        "slug": "money-bank",
+        "title": "money bank"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/10 14:25:21 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
@@ -114,7 +885,7 @@
         "id": 17,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7WEUoPwDXanoJFsG7SSPjj4rOVEPGkGl4AMHgGBseg&s",
         "isHot": 0,
-        "position": 1,
+        "position": 3,
         "publish": 1,
         "resolved_streams": [
             {
@@ -172,7 +943,7 @@
         "id": 21,
         "image": "https://cricketvectors.akamaized.net/Series/1LY.png?impolicy=default_web",
         "isHot": 0,
-        "position": 1,
+        "position": 5,
         "publish": 1,
         "resolved_streams": [
             {
@@ -227,7 +998,7 @@
         "id": 36,
         "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/98.png&scale=crop&cquality=40&location=origin&w=96&h=96",
         "isHot": 0,
-        "position": 1,
+        "position": 6,
         "publish": 1,
         "resolved_streams": [],
         "slug": "live9-sa- aus",
@@ -249,26 +1020,16 @@
             "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10"
         },
         "formats": [
-            "WILLOW CRICBUZZ - AQ",
             "STARZPLAY Live - AQ",
-            "WILLOW CRICBUZZ - ALT",
             "WILLOW SPORTS - AQ",
-            "FANCODE ENG - AQ",
             "T Sports HD"
         ],
         "id": 42,
         "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/chn.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "isHot": 0,
-        "position": 1,
+        "position": 7,
         "publish": 1,
         "resolved_streams": [
-            {
-                "api": "30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW CRICBUZZ - AQ",
-                "type": "1"
-            },
             {
                 "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
                 "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?",
@@ -277,24 +1038,10 @@
                 "type": "1"
             },
             {
-                "api": "30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW CRICBUZZ - ALT",
-                "type": "1"
-            },
-            {
                 "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "FANCODE ENG - AQ",
                 "type": "1"
             },
             {
@@ -332,7 +1079,7 @@
         "id": 295,
         "image": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
         "isHot": 0,
-        "position": 1,
+        "position": 9,
         "publish": 1,
         "resolved_streams": [
             {
@@ -389,7 +1136,7 @@
         "id": 722,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 11,
         "publish": 1,
         "resolved_streams": [
             {
@@ -432,7 +1179,7 @@
         "id": 723,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 12,
         "publish": 1,
         "resolved_streams": [
             {
@@ -452,57 +1199,6 @@
         ],
         "slug": "saudi-pro-leauge2",
         "title": "Al Ahli"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-            "eventName": "Saudi Pro League",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/10 18:00:00 +0000",
-            "teamA": "Al-Hilal",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-            "teamB": "Al-Ittihad",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image"
-        },
-        "formats": [
-            "FOX DEPORTES - AQ",
-            "SporTV BR - AQ",
-            "GHD SPORTS HD"
-        ],
-        "id": 724,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                "publish": 1,
-                "title": "FOX DEPORTES - AQ",
-                "type": "1"
-            },
-            {
-                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "SporTV BR - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/DMMMQQQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "saudi-pro-leauge3",
-        "title": "Neom SC"
     },
     {
         "cat": "Live Events",
@@ -532,7 +1228,7 @@
         "id": 739,
         "image": "null",
         "isHot": 1,
-        "position": 1,
+        "position": 15,
         "publish": 1,
         "resolved_streams": [
             {
@@ -613,12 +1309,14 @@
             "USA NETWORK HD",
             "GHD SPORTS HD",
             "GHD SPORTS SD",
-            "FAST SERVER HD"
+            "FAST SERVER HD",
+            "STAN SPORTS HD",
+            "ARENA SPORTS HD"
         ],
         "id": 747,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 16,
         "publish": 1,
         "resolved_streams": [
             {
@@ -648,6 +1346,20 @@
                 "publish": 1,
                 "title": "FAST SERVER HD",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/b856ef026380aec0604ac5849a5c8214/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "STAN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/4b872a2d4d128726ee559938a4cc6211/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "ARENA SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "english-premier-league2",
@@ -668,21 +1380,61 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
+            "PEACOCK TV SD",
+            "STAN SPORTS HD",
             "GHD SPORTS HD",
+            "ARENA SPORTS HD",
+            "CANAL+ EXTRA HD",
             "GHD SPORTS SD",
             "SKY SPORTS NZ"
         ],
         "id": 748,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 17,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "826f38c6d2c96e11002e3ee25d14e67a:ab5c6529c3b53d7d2607772ac99ee5fc",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qlm6vtznxd/out/v1/07d94e5695564616bc21118f294f6cc7/50a444d1-53bc-4f88-b7ab-3d0ce10faaa5-cenc.mpd?aws_sessionId=23064b53-6dcc-4985-a441-a0a75adee6a0",
+                "publish": 1,
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/57789/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "PEACOCK TV SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/3832267485c250d1ca56a83642a417dc/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "STAN SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.44/hls/FPPPAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/c1a6b4002ab49f9fa10181c4513e42ba/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "ARENA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://netanjahu.hls.st/t/19d469966abaf31166f7a38600659c89/index.m3u8?|Referer=https://iplayer.is/",
+                "publish": 1,
+                "title": "CANAL+ EXTRA HD",
                 "type": "0"
             },
             {
@@ -718,17 +1470,26 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
         },
         "formats": [
+            "FUBO SPORTS FHD",
             "ESPN SPORTS FHD",
             "GHD SPORTS HD",
             "GHD SPORTS SD",
-            "PEACOCK TV HD"
+            "PEACOCK TV HD",
+            "PEACOCK TV SD"
         ],
         "id": 749,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 18,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "4bd6423306939883c6151bbf1f417965:24cdee096f3eb7dc3d50eddcd76a22c4",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fd2lsieiae/out/v1/b59284953fcd4c93a6977856612840ae/234e6219-fb09-4c68-8092-11ea47d9ff3f-cenc.mpd?aws_sessionId=a044bdf6-b9b6-42c3-ad6d-b0e21ce2c182",
+                "publish": 1,
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
                 "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
@@ -755,6 +1516,13 @@
                 "link": "https://edgestream4.pro/hls/b0h5fNwDKH.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
                 "publish": 1,
                 "title": "PEACOCK TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/57790/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "PEACOCK TV SD",
                 "type": "0"
             }
         ],
@@ -783,7 +1551,7 @@
         "id": 750,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 19,
         "publish": 1,
         "resolved_streams": [
             {
@@ -814,252 +1582,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/10 18:30:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-            "eventName": "Premier League",
-            "eventType": "",
-            "startTime": "2026/10/10 16:30:00 +0000",
-            "teamA": "Man Utd",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-            "teamB": "Tottenham",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
-        },
-        "formats": [
-            "FUBO SPORTS FHD",
-            "NBC SPORTS FHD",
-            "SKY SPORTS EPL HD",
-            "SKY SPORTS EPL SD",
-            "GHD SPORTS SD",
-            "SKY SPORTS NZ",
-            "GHD SPORTS HD",
-            "ESPN2 ARG FHD",
-            "SKY SPORT HD"
-        ],
-        "id": 751,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "69b60e9997566119af51bc6c7eeffd4b:a3ba127ddc361c2dd5306bc98579902e",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r3qwa00cyc/out/v1/6c9278592f634b86b46d302dd2b70fec/cenc.mpd",
-                "title": "FUBO SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "NBC SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8",
-                "title": "SKY SPORTS EPL HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/nfo-cov/playlist.m3u8?tk=kDlM8pZMxOyRHKQlrQkCCA&e=1789876809|origin=https://ondemand.st/embed/?id=pl/2026-09-19/nfo-cov&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-19/nfo-cov",
-                "title": "SKY SPORTS EPL SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://fingersoon.st/scripts/application1|origin=https://monperson.shop/updates/nottingham-forest-vs-coventry-city/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://monperson.shop/updates/nottingham-forest-vs-coventry-city/",
-                "title": "SKY SPORTS NZ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.41/hls/PPPPQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-                "title": "ESPN2 ARG FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56671/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "SKY SPORT HD",
-                "type": "0"
-            }
-        ],
-        "slug": "english-premier-league6",
-        "title": "English Premier League6"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 18:30:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-            "eventName": "LaLiga",
-            "eventType": "",
-            "startTime": "2026/10/10 16:30:00 +0000",
-            "teamA": "Barcelona",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-            "teamB": "Getafe",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image"
-        },
-        "formats": [
-            "PREMIER SPORTS AQ",
-            "ESPN DEPORTES HD",
-            "FAST SERVER HD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 754,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "PREMIER SPORTS AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56794/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "ESPN DEPORTES HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b38-hd/chunks.m3u8?is_vip=false&token=1789991249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6bbf10329827dcc835f817df2fb4ab5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "FAST SERVER HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/MEEEAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/eb0cfa57-b83e-4605-aee6-1617bc32ebe6.m3u8",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "laliga1",
-        "title": "Spanish LALIGA"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-            "eventName": "LaLiga",
-            "eventType": "",
-            "startTime": "2026/10/10 19:00:00 +0000",
-            "teamA": "Real Madrid",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-            "teamB": "Villarreal",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
-        },
-        "formats": [
-            "TSN SPORTS FHD",
-            "PREMIER SPORTS ",
-            "BeIN SPORTS FHD",
-            "FANCODE - FHD",
-            "GHD SPORTS HD",
-            "CazÃ©TV - FHD",
-            "ESPN DEPORTES HD",
-            "FAST SERVER HD",
-            "ESPN SPORTS HD",
-            "EAPN SPORTS SD"
-        ],
-        "id": 755,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "title": "TSN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "title": "PREMIER SPORTS ",
-                "type": "1"
-            },
-            {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "title": "BeIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "FANCODE - FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.44/hls/CIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "CazÃ©TV - FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56801/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "ESPN DEPORTES HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://live.uu6611.com/live/hd-en-1-4565421.m3u8?txSecret=0ff06078ddc8722f12e7c2f04fe870ee&txTime=6AB02838|Referer=https://player.up909.com/",
-                "title": "FAST SERVER HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56802/load-playlist?|Referer=https://gooz.aapmains.net",
-                "title": "ESPN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "title": "EAPN SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "laliga2",
-        "title": "Spanish LALIGA3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/10 14:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -1081,7 +1603,7 @@
         "id": 756,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 23,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1136,7 +1658,7 @@
         "id": 764,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 28,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1174,7 +1696,7 @@
         "id": 765,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 29,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1237,7 +1759,7 @@
         "id": 766,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 30,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1257,61 +1779,6 @@
         ],
         "slug": "german-bundesliga3",
         "title": "German Bundesliga3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/11 01:30:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "eventName": "MLS",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/10 23:30:00 +0000",
-            "teamA": "Inter Miami",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-            "teamB": "DC United",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2502/image"
-        },
-        "formats": [
-            "APPLE  TV - FHD",
-            "APPLE  TV - HD",
-            "APPLE  TV - SD",
-            "APPLE TV UHD"
-        ],
-        "id": 767,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=z246fSzGrEXnBcD2wNj_Fg&e=1790591435|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=mls/2026-09-27/clb-mia",
-                "title": "APPLE  TV - FHD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/BHBHBHAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "APPLE  TV - HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://instreams.pro/live/tv761844/index.m3u8?st=CGrqKsBWKpVm1jbHJmLFiA&e=1790559037|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv761844",
-                "title": "APPLE  TV - SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441",
-                "title": "APPLE TV UHD",
-                "type": "0"
-            }
-        ],
-        "slug": "mls1",
-        "title": "Inter Miami CF"
     },
     {
         "cat": "Live Events",
@@ -1337,7 +1804,7 @@
         "id": 769,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 32,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1395,104 +1862,47 @@
         },
         "formats": [
             "BEIN SPORTS FHD",
-            "PARAMOUNT+ FHD",
+            "SPORT1 CZ FHD",
             "CBS SPORTS HD",
-            "GHD SPORTS HD",
-            "ESPN SPORTS HD",
-            "CBS SPORTS SD"
+            "GHD SPORTS HD"
         ],
         "id": 770,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 33,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "publish": 1,
                 "title": "BEIN SPORTS FHD",
                 "type": "1"
             },
             {
-                "api": "b581520dfab6d149817a0bb44ca94e98:4db44bde308622ab84cb2c9f853e73c9",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/manipulated-manifest-pdx-prod/enc/xxypw2rpia/out/v1/5f5ed7c97abe476eba999f814ff74a02/96e22830-dda6-4493-8300-9c150ca980c1-cenc.mpd",
-                "title": "PARAMOUNT+ FHD",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "SPORT1 CZ FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abbe0-hd/chunks.m3u8?is_vip=false&token=1789908459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c11c99e93b111766b306d23816c50123|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
+                "link": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
                 "title": "CBS SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/DYYYAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/ECCCAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-                "title": "ESPN SPORTS HD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56646/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "CBS SPORTS SD",
                 "type": "0"
             }
         ],
         "slug": "series-a2",
         "title": "Serie A2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-            "eventName": "Serie A",
-            "eventType": "",
-            "startTime": "2026/10/10 18:45:00 +0000",
-            "teamA": "Napoli",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-            "teamB": "Frosinone",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image"
-        },
-        "formats": [
-            "BEIN SPORTS FHD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 771,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "BEIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/BB55AAAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/ecfe4922-dea3-4b8e-af9b-0303281df4fc.m3u8",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "series-a3",
-        "title": "Serie A3"
     },
     {
         "cat": "Live Events",
@@ -1515,7 +1925,7 @@
         "id": 804,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 36,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1537,39 +1947,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/10 19:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-            "eventName": "Liga Portugal Betclic",
-            "eventType": "",
-            "startTime": "2026/10/10 17:00:00 +0000",
-            "teamA": "MarÃ­timo",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-            "teamB": "Porto",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image"
-        },
-        "formats": [
-            "SPORT DIGITAL FHD"
-        ],
-        "id": 805,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/vlllqQQQq.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "SPORT DIGITAL FHD",
-                "type": "0"
-            }
-        ],
-        "slug": "portuguese-primeira-liga2",
-        "title": "Portuguese Primeira Liga2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/10 17:15:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -1582,314 +1959,24 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image"
         },
         "formats": [
-            "PRIME VIDEO FHD",
-            "DAZN SPORTS FHD",
-            "LIGUE+ LIVE HD",
-            "MAX SPORTS HD",
-            "LIGUE+ LIVE SD",
-            "BeIN SPORTS USA",
-            "ESPN SPORTS FHD",
             "GHD SPORTS HD"
         ],
         "id": 824,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 38,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
-                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd",
-                "title": "PRIME VIDEO FHD",
-                "type": "1"
-            },
-            {
-                "api": "8c39534c92ffb832fbb8df4a8827e11e:a01fb6091ccdfa007597f1622bb1c8b6",
-                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h8dubv8uqy/out/v1/cc3cc9c9e5d74e218d98e8899efab4e5/cenc.mpd",
-                "title": "DAZN SPORTS FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "http://193.47.62.50/hls/doooaAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "LIGUE+ LIVE HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56852/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "MAX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://futbolx.ryzn.pro/psg/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top",
-                "title": "LIGUE+ LIVE SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "title": "BeIN SPORTS USA",
-                "type": "0"
-            },
-            {
-                "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-                "title": "ESPN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/3e0cfd2e-ab15-4db7-99e2-d849fcff115a.m3u8",
+                "link": "http://193.47.62.41/hls/hyhyhyAAAAAQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
         "slug": "french-ligue1",
         "title": "French Ligue1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "eventName": "Ligue 1",
-            "eventType": "",
-            "startTime": "2026/10/10 18:45:00 +0000",
-            "teamA": "PSG",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-            "teamB": "Le Mans",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1672/image"
-        },
-        "formats": [
-            "Ligue+ Live HD",
-            "GHD SPORTS HD",
-            "BeIN SPORTS HD",
-            "Ligue+ Live SD"
-        ],
-        "id": 825,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/nice-lill/playlist.m3u8?tk=kB5TBBy5IVRX99Fy9OpE4g&e=1789959609|origin=https://ondemand.st/embed/?id=ligue1/2026-09-20/nice-lill&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=ligue1/2026-09-20/nice-lill",
-                "title": "Ligue+ Live HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/f666QQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "Ligue+ Live SD",
-                "type": "0"
-            }
-        ],
-        "slug": "french-ligue2",
-        "title": "French Ligue2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "eventName": "Ligue 1",
-            "eventType": "",
-            "startTime": "2026/10/10 18:45:00 +0000",
-            "teamA": "Brest",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-            "teamB": "Angers",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
-        },
-        "formats": [
-            "beIN Sports USA",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
-        ],
-        "id": 826,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "title": "beIN Sports USA",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/BB55AAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8",
-                "title": "GHD SPORTS SD",
-                "type": "0"
-            }
-        ],
-        "slug": "french-ligue-3",
-        "title": "French Ligue 3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 21:30:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-            "eventName": "Liga Portugal Betclic",
-            "eventType": "",
-            "startTime": "2026/10/10 19:30:00 +0000",
-            "teamA": "AcadÃ©mico Viseu",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-            "teamB": "Estoril",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image"
-        },
-        "formats": [
-            " GHD SPORTS HD"
-        ],
-        "id": 989,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/DLLL.m3u8|Referer=http://www.fawanews.sc/",
-                "title": " GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "portuguese-primeira-liga3",
-        "title": "portuguese-primeira-liga3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "eventName": "Ligue 1",
-            "eventType": "",
-            "startTime": "2026/10/10 18:45:00 +0000",
-            "teamA": "AS Monaco",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-            "teamB": "Toulouse",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
-        },
-        "formats": [
-            "Ligue+ Live HD",
-            "GHD SPORTS HD",
-            "Ligue+ Live SD"
-        ],
-        "id": 1003,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/mns-lor/playlist.m3u8?tk=r9-xH4Ys2mZ451hiS9T8OQ&e=1789885810|origin=https://ondemand.st/embed/?id=ligue1/2026-09-19/mns-lor&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=ligue1/2026-09-19/mns-lor",
-                "title": "Ligue+ Live HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/RKKKAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/griogoehvn2.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "Ligue+ Live SD",
-                "type": "0"
-            }
-        ],
-        "slug": "french-ligue-4",
-        "title": "french-ligue-4"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "eventName": "Ligue 1",
-            "eventType": "",
-            "startTime": "2026/10/10 18:45:00 +0000",
-            "teamA": "Lorient",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-            "teamB": "Paris",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image"
-        },
-        "formats": [
-            "GHD SPORTS HD",
-            "Ligue1+ Live HD ",
-            "BeIN SPORTS SD",
-            "Ligue+ Live SD",
-            "beiN SPORTS HD"
-        ],
-        "id": 1004,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/RKKKAAA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abca8-hd/chunks.m3u8?is_vip=false&token=1789928330-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce6333a78b1c1b6d0a1285695c7c7666|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "Ligue1+ Live HD ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "BeIN SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/lyon-ren/playlist.m3u8?tk=r9-xH4Ys2mZ451hiS9T8OQ&e=1789885810|origin=https://ondemand.st/embed/?id=ligue1/2026-09-19/lyon-ren&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=ligue1/2026-09-19/lyon-ren",
-                "title": "Ligue+ Live SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-                "title": "beiN SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "french-ligue-5",
-        "title": "french-ligue-5"
     },
     {
         "cat": "Live Events",
@@ -1912,7 +1999,7 @@
         "id": 1023,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 59,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1954,7 +2041,7 @@
         "id": 1024,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 60,
         "publish": 1,
         "resolved_streams": [
             {
@@ -1974,74 +2061,6 @@
         ],
         "slug": "german-bundesliga5",
         "title": "german-bundesliga5"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/10 18:30:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-            "eventName": "Bundesliga",
-            "eventType": "",
-            "startTime": "2026/10/10 16:30:00 +0000",
-            "teamA": "Leipzig",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-            "teamB": "Frankfurt",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image"
-        },
-        "formats": [
-            "BeIN SPORTS FHD",
-            "ONE SOCCER HD",
-            "USA SPORTS HD",
-            "GHD SPORTS HD",
-            "SKY FOOTBALL HD",
-            "CANAL SPORTS HD"
-        ],
-        "id": 1025,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "title": "BeIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://fingersoon.st/scripts/application3|origin=https://monperson.shop/updates/stuttgart-vs-borussia-dortmund/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://monperson.shop/updates/stuttgart-vs-borussia-dortmund/",
-                "title": "ONE SOCCER HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/vfb-dor/playlist.m3u8?tk=kDlM8pZMxOyRHKQlrQkCCA&e=1789876809|origin=https://ondemand.st/embed/?id=bundesliga/2026-09-19/vfb-dor&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=bundesliga/2026-09-19/vfb-dor",
-                "title": "USA SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/YPPPQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "SKY FOOTBALL HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "title": "CANAL SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "german-bundesliga6",
-        "title": "german-bundesliga6"
     },
     {
         "cat": "Live Events",
@@ -2066,7 +2085,7 @@
         "id": 1131,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 85,
         "publish": 1,
         "resolved_streams": [
             {
@@ -2117,7 +2136,7 @@
         "id": 1134,
         "image": "null",
         "isHot": 0,
-        "position": 1,
+        "position": 86,
         "publish": 1,
         "resolved_streams": [
             {
