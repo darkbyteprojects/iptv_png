@@ -721,120 +721,6 @@
     },
     {
         "teamA": {
-            "name": "Man Utd",
-            "logo": "https://img.sofascore.com/api/v1/team/35/image"
-        },
-        "teamB": {
-            "name": "Tottenham",
-            "logo": "https://img.sofascore.com/api/v1/team/33/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "16:30:00",
-        "category": "Football",
-        "eventName": "Premier League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [
-            {
-                "name": "FUBO SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7ul3txfqek/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/19431619-b89b-4524-bcbf-b426394fb599-cenc.mpd?aws_sessionId=5d6af45e-1e22-4221-9395-08873bb6706e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7ul3txfqek/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/19431619-b89b-4524-bcbf-b426394fb599-cenc.mpd?aws_sessionId=5d6af45e-1e22-4221-9395-08873bb6706e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "tokenApi": null
-            },
-            {
-                "name": "NBC SPORTS - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy Live",
-                "link": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "NBC SPORTS HD",
-                "link": "https://chatgpt.hereisman.net/playlist/57797/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD +",
-                "link": "https://nexulith.s3.us-east-1.amazonaws.com/manutd.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "STAN SPORTS HD",
-                "link": "https://netanjahu.hls.st/t/f9a75e2d8e18a12ae61f0169b8d18491/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/pl/2026-10-10/mun-tot",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "Cricfy HD +",
-                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "CANAL+ EXTRA HD",
-                "link": "https://netanjahu.hls.st/t/1e9943f2ec1795116abf67594ca39b90/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "SK PREMIER FHD",
-                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "ARENA SPORTS HD",
-                "link": "https://netanjahu.hls.st/t/374bedfc8159d3b689a2c99ea9d23c23/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live.vivo155.com/live/hd-en-1-4558593.m3u8?txSecret=f2e7b39425fcde6e5f5821c47febab0c&txTime=6ACA78A0|Referer=https://player.online909.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "18:50:00"
-    },
-    {
-        "teamA": {
             "name": "Hull",
             "logo": "https://img.sofascore.com/api/v1/team/96/image"
         },
@@ -1001,78 +887,6 @@
         ],
         "end_date": "11/10/2026",
         "end_time": "13:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Leipzig",
-            "logo": "https://img.sofascore.com/api/v1/team/36360/image"
-        },
-        "teamB": {
-            "name": "Frankfurt",
-            "logo": "https://img.sofascore.com/api/v1/team/2674/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "16:30:00",
-        "category": "Football",
-        "eventName": "Bundesliga",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "name": "beIN ENGLISH - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-                "tokenApi": null
-            },
-            {
-                "name": "ELEVEN SPORTS HD",
-                "link": "https://netanjahu.hls.st/t/6402666dd553f21b41d95420cedeaa0d/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/bundesliga/2026-10-10/rbl-sge",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "BUNDESLIGA HD",
-                "link": "https://netanjahu.hls.st/t/bde91a6380d382759d7c73a6ecdc5b6c/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "DAZN SPORTS HD",
-                "link": "https://netanjahu.hls.st/t/4f03782ad3264b57e622c688c4faf14f/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD +",
-                "link": "https://live.vivo155.com/live/hd-en-1-4566277.m3u8?txSecret=f7f9710bdb86f7bcf306c6a0aef153d1&txTime=6ACA7871|Referer=https://player.online909.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "18:50:00"
     },
     {
         "teamA": {
@@ -1309,6 +1123,41 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "SportKlub 1",
+                "link": "https://netanjahu.hls.st/t/4ae5a797cd7bbd5758cb2f161aa4f110/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN 1 PT",
+                "link": "https://netanjahu.hls.st/t/1ab48cb50fcf099f0b14b15169e8b0f2/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Canal+ Sport 1 PL",
+                "link": "https://netanjahu.hls.st/t/32a4457e9184284346c5467cd1ee7c54/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Arena Sport Premium 2",
+                "link": "https://netanjahu.hls.st/t/56516514794e21673b4c19ac23636f39/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Ziggo Sport NL",
+                "link": "https://netanjahu.hls.st/t/821f9b80832368efc89663cf268b680e/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "10/10/2026",
@@ -1324,6 +1173,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/24360/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -1331,119 +1181,15 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/IIIICAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "10/10/2026",
         "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Eldense",
-            "logo": "https://img.sofascore.com/api/v1/team/47321/image"
-        },
-        "teamB": {
-            "name": "Córdoba",
-            "logo": "https://img.sofascore.com/api/v1/team/2850/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "16:30:00",
-        "category": "Football",
-        "eventName": "LaLiga 2",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/F444AAAAAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "18:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Barcelona",
-            "logo": "https://img.sofascore.com/api/v1/team/2817/image"
-        },
-        "teamB": {
-            "name": "Getafe",
-            "logo": "https://img.sofascore.com/api/v1/team/2859/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "16:30:00",
-        "category": "Football",
-        "eventName": "LaLiga",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [
-            {
-                "name": "TSN SPORTS - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-                "tokenApi": null
-            },
-            {
-                "name": "beIN ENGLISH - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "tokenApi": null
-            },
-            {
-                "name": "FANCODE - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy Live",
-                "link": "https://edgestream4.pro/hls/377qj1h2727.m3u8|referer=https://streame.center/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD +",
-                "link": "https://www.rtmpcdn.com/live/275da0d5-95c3-4151-af22-781d4a602b26.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/laliga/2026-10-10/bar-get",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/FC_Barcelona_vs_Getafe.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "18:50:00"
     },
     {
         "teamA": {
@@ -1863,6 +1609,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2962/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -1870,8 +1617,41 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "SportDigital Fussball - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/eredivisie/2026-10-10/aja-nec",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Arena Sport 3",
+                "link": "https://netanjahu.hls.st/t/5e252cbd41fe911174037107c22fef5a/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/IIIICAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "10/10/2026",
@@ -1996,6 +1776,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3011/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/10/2026",
         "time": "19:30:00",
         "category": "Football",
@@ -2003,36 +1784,38 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Sport TV4 PT HQ",
+                "link": "https://netanjahu.hls.st/t/a2c22a576d3843472007e30a56c8bf3b/index.m3u8|referer=https://iplayer.is/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live+",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://flyembed.click/embed/29.php",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/kmmmQQ.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "10/10/2026",
         "end_time": "21:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Al-Fayha",
-            "logo": "https://img.sofascore.com/api/v1/team/168094/image"
-        },
-        "teamB": {
-            "name": "Al-Riyadh",
-            "logo": "https://img.sofascore.com/api/v1/team/168088/image"
-        },
-        "visible": true,
-        "date": "11/10/2026",
-        "time": "13:40:00",
-        "category": "Football",
-        "eventName": "Saudi Pro League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "11/10/2026",
-        "end_time": "16:00:00"
     },
     {
         "teamA": {
@@ -2374,116 +2157,6 @@
     },
     {
         "teamA": {
-            "name": "Bruins",
-            "logo": "https://img.sofascore.com/api/v1/team/3677/image"
-        },
-        "teamB": {
-            "name": "Flyers",
-            "logo": "https://img.sofascore.com/api/v1/team/3699/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "17:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "https://edgestream5.pro/hls/sdghjvqazhvg80.m3u8|referer=https://streame.center/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Feyenoord",
-            "logo": "https://img.sofascore.com/api/v1/team/2959/image"
-        },
-        "teamB": {
-            "name": "AZ",
-            "logo": "https://img.sofascore.com/api/v1/team/2950/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "16:45:00",
-        "category": "Football",
-        "eventName": "VriendenLoterij Eredivisie",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "streams": [
-            {
-                "name": "SportDigital Fussball - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/F444AAAAAAAAQ.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "19:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Marítimo",
-            "logo": "https://img.sofascore.com/api/v1/team/3007/image"
-        },
-        "teamB": {
-            "name": "Porto",
-            "logo": "https://img.sofascore.com/api/v1/team/3002/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/10/2026",
-        "time": "17:00:00",
-        "category": "Football",
-        "eventName": "Liga Portugal Betclic",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [
-            {
-                "name": "D Sports  - AQ",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "tokenApi": null
-            },
-            {
-                "name": "Sport TV HD",
-                "link": "https://netanjahu.hls.st/t/7b9f8419bb6206bdc271ae5bd7867864/index.m3u8?|Referer=https://iplayer.is/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Porto",
-                "link": "https://admin2.formaturamaxi.com.br/porto.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/ZYYYAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/10/2026",
-        "end_time": "19:20:00"
-    },
-    {
-        "teamA": {
             "name": "Fortuna",
             "logo": "https://img.sofascore.com/api/v1/team/2957/image"
         },
@@ -2557,5 +2230,249 @@
         ],
         "end_date": "10/10/2026",
         "end_time": "20:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Wizards",
+            "logo": "https://img.sofascore.com/api/v1/team/3431/image"
+        },
+        "teamB": {
+            "name": "Pistons",
+            "logo": "https://img.sofascore.com/api/v1/team/3424/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/10/2026",
+        "time": "23:00:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream3.pro/hls/hpouezruioazd96.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "02:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Raptors",
+            "logo": "https://img.sofascore.com/api/v1/team/3433/image"
+        },
+        "teamB": {
+            "name": "Clippers",
+            "logo": "https://img.sofascore.com/api/v1/team/3425/image"
+        },
+        "visible": true,
+        "date": "10/10/2026",
+        "time": "22:30:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "01:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Heat",
+            "logo": "https://img.sofascore.com/api/v1/team/3435/image"
+        },
+        "teamB": {
+            "name": "Timberwolves",
+            "logo": "https://img.sofascore.com/api/v1/team/3426/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/10/2026",
+        "time": "00:00:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream1.pro/hls/wxqsdafzaengfgu97.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Celtics",
+            "logo": "https://img.sofascore.com/api/v1/team/3422/image"
+        },
+        "teamB": {
+            "name": "76ers",
+            "logo": "https://img.sofascore.com/api/v1/team/3420/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/10/2026",
+        "time": "00:00:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream2.pro/hls/zazezagdgfc98.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Suns",
+            "logo": "https://img.sofascore.com/api/v1/team/3416/image"
+        },
+        "teamB": {
+            "name": "Spurs",
+            "logo": "https://img.sofascore.com/api/v1/team/3429/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/10/2026",
+        "time": "02:30:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream6.pro/hls/erytezaiuzeazer100.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "05:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Pacers",
+            "logo": "https://img.sofascore.com/api/v1/team/3419/image"
+        },
+        "teamB": {
+            "name": "Hawks",
+            "logo": "https://img.sofascore.com/api/v1/team/3423/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/10/2026",
+        "time": "23:00:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream7.pro/hls/hgfdshkjsqkda95.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "02:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Warriors",
+            "logo": "https://img.sofascore.com/api/v1/team/3428/image"
+        },
+        "teamB": {
+            "name": "Kings",
+            "logo": "https://img.sofascore.com/api/v1/team/3413/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/10/2026",
+        "time": "00:30:00",
+        "category": "Basketball",
+        "eventName": "NBA Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream3.pro/hls/aetrayytufzrdtvgx99.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "03:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Guardians",
+            "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+        },
+        "teamB": {
+            "name": "White Sox",
+            "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/10/2026",
+        "time": "00:00:00",
+        "category": "Baseball",
+        "eventName": "MLB",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Rays",
+            "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+        },
+        "teamB": {
+            "name": "Yankees",
+            "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+        },
+        "visible": true,
+        "date": "11/10/2026",
+        "time": "00:00:00",
+        "category": "Baseball",
+        "eventName": "MLB",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "11/10/2026",
+        "end_time": "03:00:00"
     }
 ]
