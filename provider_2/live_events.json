@@ -7,7 +7,7 @@
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "eventName": "WEST INDIES TOUR OF INDIA",
             "eventType": "",
-            "isHot": "1",
+            "isHot": 0,
             "startTime": "2026/10/11 13:30:19 +0000",
             "teamA": "IND",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
@@ -26,7 +26,7 @@
         ],
         "id": 12,
         "image": "https://pbs.twimg.com/profile_images/1827910983777730560/knWyRPzn_400x400.jpg",
-        "isHot": 1,
+        "isHot": 0,
         "position": 1,
         "publish": 1,
         "resolved_streams": [
@@ -93,57 +93,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/09 21:00:42 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "eventName": "T20 International",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 13:00:20 +0000",
-            "teamA": "PAK",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-            "teamB": "SL",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
-        },
-        "formats": [
-            "Willow Spprts AQ",
-            "TAPMADE ENG - WW",
-            "PTV SPORTS HD"
-        ],
-        "id": 13,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "publish": 1,
-                "title": "Willow Spprts AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com",
-                "publish": 1,
-                "title": "TAPMADE ENG - WW",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.44/hls/VTTT.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "PTV SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "live3_pak-sri",
-        "title": "live3-theashes"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/10 14:25:21 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
@@ -159,7 +108,6 @@
         "formats": [
             "Willow Cricbuzz - AQ",
             "Willow Cricbuzz ALT",
-            "Willow Cricbuzz HD",
             "T SPORTS HD",
             "FANCODE (IND)"
         ],
@@ -170,25 +118,18 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd",
+                "api": "09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
             {
-                "api": "effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd",
+                "api": "09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "Willow Cricbuzz ALT",
                 "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/ZZZZAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "Willow Cricbuzz HD",
-                "type": "0"
             },
             {
                 "api": "",
@@ -279,7 +220,9 @@
             "WILLOW Cricbuzz - ALT",
             "SKY CRICKET - AQ",
             "FANCODE - AQ",
-            "TAPMAD - AQ"
+            "TAPMAD - AQ",
+            "WILLOW SPORTS  AQ",
+            "FOX CRICKET HD"
         ],
         "id": 36,
         "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/98.png&scale=crop&cquality=40&location=origin&w=96&h=96",
@@ -580,180 +523,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/09 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-            "eventName": "LaLiga",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 19:00:00 +0000",
-            "teamA": "MÃ¡laga",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-            "teamB": "Espanyol",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 756,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/GNNN.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "laliga3",
-        "title": "Spanish LALIGA4"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 12:00:10 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "eventName": "ICC Men's T20 World Cup Qualifier",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 06:00:00 +0000",
-            "teamA": "MAS",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187811/image",
-            "teamB": "SDA",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/456841/image"
-        },
-        "formats": [
-            "ICC TV"
-        ],
-        "id": 758,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791554707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=ba5c5a02091bf498ab2bf813facf42e50f8f3f662ae834560c6d7e179ac12396/manifest.mpd?vcfilter=23fba0fd-2e9e-4560-8988-5aec0b513a36|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "ICC TV",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women1",
-        "title": "warmup1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 09:10:00 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "eventName": "ICC Men's T20 World Cup Qualifier",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 06:00:00 +0000",
-            "teamA": "CHN",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187812/image",
-            "teamB": "HK",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187774/image"
-        },
-        "formats": [
-            "ICC TV"
-        ],
-        "id": 759,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553533~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=5cbeac42f42ce9231abf47eccb19cf32a9ca4f245bf2755aed63c41932c17cd8/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "ICC TV",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women2",
-        "title": "warmup2"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 12:01:03 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "eventName": "ICC Men's T20 World Cup Qualifier",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 06:00:00 +0000",
-            "teamA": "MDV",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187813/image",
-            "teamB": "SIN",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/294794/image"
-        },
-        "formats": [
-            "ICC TV"
-        ],
-        "id": 760,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791554791~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=6ad453d31f4786673164a477d7052b3810a9828b99bb096fa0683da49b3d03fc/manifest.mpd?vcfilter=c098c554-a22a-495a-8573-135b7a37adfe|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "ICC TV",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women3",
-        "title": "warmup3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 12:19:08 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-            "eventName": "ICC CWC League 2",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 05:30:00 +0000",
-            "teamA": "OMA",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/199279/image",
-            "teamB": "CAN",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image"
-        },
-        "formats": [
-            "ICC TV"
-        ],
-        "id": 761,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791551043~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a6c551d5-1ce2-4d8f-89dd-0a64b26fdd7d~data=hdntl~hmac=bc44e6f6efe807e0c6c5e565afa8a4230f884513de1e8f417929f71685e1858d/manifest.mpd",
-                "publish": 1,
-                "title": "ICC TV",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women4",
-        "title": "warmup4"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/11 01:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -809,193 +578,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/09 18:10:00 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-            "eventName": "ICC CWC League 2",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 15:00:00 +0000",
-            "teamA": "NAM",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-            "teamB": "UAE",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187771/image"
-        },
-        "formats": [
-            "PRIME VIDEO AQ"
-        ],
-        "id": 894,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791587515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=db4d925ee7e555410b0846c08e6eb127536fc3059f0c698f1cd5c1b73c76ac2c/manifest.mpd?vcfilter=ff264edc-02ad-4a52-9fa8-10801dd5055c|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "PRIME VIDEO AQ",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women5",
-        "title": "null"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 21:00:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-            "eventName": "Championship",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 19:00:00 +0000",
-            "teamA": "West Ham",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-            "teamB": "QPR",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image"
-        },
-        "formats": [
-            "BEIN SPORTS FHD",
-            "GHD SPORTS HD",
-            "BeIN SPORTS HD",
-            "SKY SPORTS+ HD",
-            "FANCODE HD",
-            "CBS SPORTS HD"
-        ],
-        "id": 1005,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "BEIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/UYYYAAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://live.dyrur1.com/live/72339860_84487dc38d0e9ee8daff17984459bea2_720p.m3u8?auth_key=1789916430-0-0-50bb87b0a2f4dd7a34087c87a0b8c6d2",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-hd/chunks.m3u8?is_vip=false&token=1789994877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5d6b43380cc583db89411a2452b11a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "SKY SPORTS+ HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-fancode/chunks.m3u8?is_vip=false&token=1789994878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81534bbfdfc214aa3a1fe5d034070698|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "FANCODE HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098/chunks.m3u8?is_vip=false&token=1789994879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34182efd4b61badde863c3be97d611c7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/",
-                "title": "CBS SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "championship1",
-        "title": "English Championship1"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 20:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "eventName": "Ligue 1",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 18:45:00 +0000",
-            "teamA": "Lens",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-            "teamB": "Lyon",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image"
-        },
-        "formats": [
-            "GHD SPORTS HD",
-            "Ligue+ Live HD",
-            "Ligue+ Live SD"
-        ],
-        "id": 1062,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/RKKKA.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "title": "Ligue+ Live HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/tou-hac/playlist.m3u8?tk=r9-xH4Ys2mZ451hiS9T8OQ&e=1789885810|origin=https://ondemand.st/embed/?id=ligue1/2026-09-19/tou-hac&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=ligue1/2026-09-19/tou-hac",
-                "title": "Ligue+ Live SD",
-                "type": "0"
-            }
-        ],
-        "slug": "french-ligue6",
-        "title": "french-ligue6"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 19:45:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-            "eventName": "Liga Portugal Betclic",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 17:45:00 +0000",
-            "teamA": "Moreirense",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-            "teamB": "Gil Vicente",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image"
-        },
-        "formats": [
-            "GHD SPORTS HD"
-        ],
-        "id": 1063,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "http://193.47.62.50/hls/DADADAAAAAQQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            }
-        ],
-        "slug": "portuguese-primeira-liga4",
-        "title": "portuguese-primeira-liga4"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/09 20:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -1043,41 +625,6 @@
         ],
         "slug": "german-bundesliga7",
         "title": "null"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/09 21:15:00 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-            "eventName": "Liga Portugal Betclic",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/09 19:15:00 +0000",
-            "teamA": "Braga",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-            "teamB": "Sporting",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image"
-        },
-        "formats": [
-            ""
-        ],
-        "id": 1135,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "vc",
-                "publish": 1,
-                "title": "",
-                "type": "0"
-            }
-        ],
-        "slug": "portuguese-primeira-liga5",
-        "title": "portuguese-primeira-liga5"
     },
     {
         "cat": "Live Events",
