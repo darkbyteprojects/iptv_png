@@ -57,54 +57,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "13/10/2026 22:20:00",
-            "event_name": "U17 Campeonato Brasileiro",
-            "start_time": "13/10/2026 20:00:00",
-            "team_a": "Corinthians U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/504366/image",
-            "team_b": "Flamengo U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/342892/image"
-        },
-        "id": 20,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/22794/image/dark",
-        "streams": [],
-        "title": "U17 Campeonato Brasileiro"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 22:20:00",
-            "event_name": "U17 Campeonato Brasileiro",
-            "start_time": "13/10/2026 20:00:00",
-            "team_a": "Red Bull Bragantino U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/496482/image",
-            "team_b": "Fortaleza U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/496490/image"
-        },
-        "id": 21,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/22794/image/dark",
-        "streams": [],
-        "title": "U17 Campeonato Brasileiro"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 22:20:00",
-            "event_name": "U17 Campeonato Brasileiro",
-            "start_time": "13/10/2026 20:00:00",
-            "team_a": "Fluminense U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/504352/image",
-            "team_b": "Cruzeiro U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/342893/image"
-        },
-        "id": 22,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/22794/image/dark",
-        "streams": [],
-        "title": "U17 Campeonato Brasileiro"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "13/10/2026 20:35:00",
             "event_name": "AFC Champions League Elite",
             "start_time": "13/10/2026 18:15:00",
@@ -113,9 +65,33 @@
             "team_b": "Shabab Al-Ahli Dubai",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/264111/image"
         },
-        "id": 23,
+        "id": 20,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/e6c99de39ba29483d34d39bef4e1517c/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "ESPN NL",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SK LIVE ",
+                "token_api": {
+                    "api": "https://emb.apl621.online/player/live.php?id=267560&w=512&h=288",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            }
+        ],
         "title": "AFC Champions League Elite"
     },
     {
@@ -129,7 +105,7 @@
             "team_b": "Al-Hussein Irbid",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/117204/image"
         },
-        "id": 24,
+        "id": 21,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -162,7 +138,7 @@
             "team_b": "Beijing Guoan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3376/image"
         },
-        "id": 25,
+        "id": 22,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -193,7 +169,7 @@
             "team_b": "Al-Hilal",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/21895/image"
         },
-        "id": 26,
+        "id": 23,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -238,7 +214,7 @@
             "team_b": "Johor Darul Ta'zim",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3327/image"
         },
-        "id": 27,
+        "id": 24,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -262,7 +238,7 @@
             "team_b": "Daejeon Hana Citizen",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7645/image"
         },
-        "id": 28,
+        "id": 25,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -293,7 +269,7 @@
             "team_b": "Ratchaburi",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/85743/image"
         },
-        "id": 29,
+        "id": 26,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [],
         "title": "AFC Champions League Elite"
@@ -309,7 +285,7 @@
             "team_b": "Kashima Antlers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3134/image"
         },
-        "id": 30,
+        "id": 27,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
@@ -340,7 +316,7 @@
             "team_b": "Portland Trail Blazers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3414/image"
         },
-        "id": 31,
+        "id": 28,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [],
         "title": "NBA Preseason"
@@ -356,7 +332,7 @@
             "team_b": "Indiana Pacers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3419/image"
         },
-        "id": 32,
+        "id": 29,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [],
         "title": "NBA Preseason"
@@ -372,7 +348,7 @@
             "team_b": "Golden State Warriors",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3428/image"
         },
-        "id": 33,
+        "id": 30,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [],
         "title": "NBA Preseason"
@@ -388,7 +364,7 @@
             "team_b": "Cleveland Cavaliers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3432/image"
         },
-        "id": 34,
+        "id": 31,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [],
         "title": "NBA Preseason"
@@ -404,7 +380,7 @@
             "team_b": "New York Knicks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3421/image"
         },
-        "id": 35,
+        "id": 32,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
         "streams": [],
         "title": "NBA Preseason"
@@ -420,7 +396,7 @@
             "team_b": "Sporting CP",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3001/image"
         },
-        "id": 37,
+        "id": 34,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
@@ -458,7 +434,7 @@
             "team_b": "SK Slavia Praha",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2216/image"
         },
-        "id": 38,
+        "id": 35,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
@@ -496,9 +472,24 @@
             "team_b": "Bolton Wanderers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5/image"
         },
-        "id": 39,
+        "id": 36,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/94e5dc0ffa65c9c43e5c25c0f6749344/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4563616.m3u8?txSecret=48be21fd2909157bba0714fcd6f6a10d&txTime=6ACE8EE4|Referer=https://player.online878.com/",
+                "name": "HD SERVER ",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -512,41 +503,24 @@
             "team_b": "West Bromwich Albion",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/8/image"
         },
-        "id": 40,
+        "id": 37,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 21:20:00",
-            "event_name": "Championship",
-            "start_time": "13/10/2026 19:00:00",
-            "team_a": "Birmingham City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/9/image",
-            "team_b": "Preston North End",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/21/image"
-        },
-        "id": 41,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 21:05:00",
-            "event_name": "Championship",
-            "start_time": "13/10/2026 18:45:00",
-            "team_a": "Cardiff City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/61/image",
-            "team_b": "Watford",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/24/image"
-        },
-        "id": 42,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/c2489efcb91d91106590eb7a6d087f9e/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4563619.m3u8?txSecret=bfb85228094e4a79ba6b0f6f6db9076d&txTime=6ACE8EFF|Referer=https://player.online878.com/",
+                "name": "HD SERVER ",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -560,7 +534,7 @@
             "team_b": "Middlesbrough",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/36/image"
         },
-        "id": 43,
+        "id": 38,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "streams": [],
         "title": "Championship"
@@ -576,41 +550,17 @@
             "team_b": "Charlton Athletic",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/47/image"
         },
-        "id": 44,
+        "id": 39,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 21:05:00",
-            "event_name": "Championship",
-            "start_time": "13/10/2026 18:45:00",
-            "team_a": "Millwall",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/25/image",
-            "team_b": "Swansea City",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/74/image"
-        },
-        "id": 45,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "13/10/2026 21:05:00",
-            "event_name": "Championship",
-            "start_time": "13/10/2026 18:45:00",
-            "team_a": "Bristol City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/58/image",
-            "team_b": "Blackburn Rovers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/46/image"
-        },
-        "id": 46,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.50/hls/H333AAA.m3u8|Referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "Link 1",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -624,7 +574,7 @@
             "team_b": "SSC Napoli",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2714/image"
         },
-        "id": 47,
+        "id": 40,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [],
         "title": "UEFA Champions League"
@@ -640,9 +590,38 @@
             "team_b": "FC Barcelona",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2817/image"
         },
-        "id": 48,
+        "id": 41,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/c305516b3961ed738b7e00e186c7910f/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "STAN SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/b837f14599cc2a316efe245280c25994/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/1e107e7bfc5209e60c74c0456b6dff39/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "DAZN",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Champions League"
     },
     {
@@ -656,7 +635,7 @@
             "team_b": "Club Brugge KV",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2888/image"
         },
-        "id": 49,
+        "id": 42,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [],
         "title": "UEFA Champions League"
@@ -672,7 +651,7 @@
             "team_b": "FC Bayern München",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2672/image"
         },
-        "id": 50,
+        "id": 43,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [],
         "title": "UEFA Champions League"
@@ -688,7 +667,7 @@
             "team_b": "PSV Eindhoven",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2952/image"
         },
-        "id": 51,
+        "id": 44,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [],
         "title": "UEFA Champions League"
@@ -704,9 +683,45 @@
             "team_b": "Manchester United",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/35/image"
         },
-        "id": 52,
+        "id": 45,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/da3a3dc8b3f1fb435bb537b907cbe7d2/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "STAN SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/bb4207168d5d0f97b8d00d027134a683/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/f3a0732a8e6fbaca0b9322c10495a997/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "DAZN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/3186d30c6e6bc31f495097476d968ba0/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "ARENA SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/613c84ad0433c779d9a7a5a2e8300c43/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "CANAL +",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Champions League"
     },
     {
@@ -720,7 +735,7 @@
             "team_b": "Lille",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1643/image"
         },
-        "id": 53,
+        "id": 46,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [],
         "title": "UEFA Champions League"
