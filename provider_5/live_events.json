@@ -1,5 +1,92 @@
 [
     {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "14/10/2026 13:30:00",
+            "team_a": "India",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187765/image",
+            "team_b": "West Indies",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187760/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [
+            {
+                "drm_key": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
+                "drm_scheme": "clearkey",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd?",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "name": "HOTSTAR HINDI - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "name": "HOTSTAR EN - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "name": "HOTSTAR TEL - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "name": "HOTSTAR TAMIL - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "name": "HOTSTAR KAN - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://papacito.cfd/m3u/uk-t3434334/live.m3u8",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
+            }
+        ],
+        "title": "T20 International"
+    },
+    {
         "category": "Mixed Martial Arts",
         "event_info": {
             "end_time": "11/10/2026 05:45:00",
@@ -10,7 +97,7 @@
             "team_b": "Christian Leroy Duncan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/463124/image"
         },
-        "id": 3,
+        "id": 4,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
         "streams": [
             {
@@ -84,19 +171,19 @@
         "event_info": {
             "end_time": "",
             "event_name": "WORLD CHAMPIONSHIP OF LEGENDS",
-            "start_time": "14/10/2026 11:30:00",
+            "start_time": "14/10/2026 15:30:00",
             "team_a": "WCL",
             "team_a_flag": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png",
             "team_b": "WCL",
             "team_b_flag": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png"
         },
-        "id": 5,
+        "id": 6,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnu9lQ5fetTxMjRme05luM_zPINqSLAPTnIJgJc63FWJmXiBOXYgFEWI&s=10",
         "streams": [
             {
-                "drm_key": "3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85",
+                "drm_key": "de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493",
                 "drm_scheme": "clearkey",
-                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd",
                 "name": "WILLOW - AQ ",
                 "token_api": ""
             },
@@ -115,13 +202,6 @@
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn02isb-n.tamashaweb.com:8087/jazzauth/WCL2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDI2IDEyOjEyOjA4IFBNJmhhc2hfdmFsdWU9VFpDREdxL1JBY2JIYVVJR0krbXJkdz09JnZhbGlkbWludXRlcz02MA%3D%3D",
-                "name": "TAMASHA PRO - AQ ",
-                "token_api": ""
-            },
-            {
                 "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                 "drm_scheme": "clearkey",
                 "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -129,9 +209,9 @@
                 "token_api": ""
             },
             {
-                "drm_key": "3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85",
+                "drm_key": "de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493",
                 "drm_scheme": "clearkey",
-                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd",
                 "name": "WILLOW S2 - AQ",
                 "token_api": ""
             },
@@ -163,7 +243,7 @@
             "team_b": "Formula 1",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10"
         },
-        "id": 11,
+        "id": 12,
         "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
         "streams": [
             {
@@ -229,7 +309,7 @@
             "team_b": "DYNAMITE ",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
         },
-        "id": 12,
+        "id": 13,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
         "streams": [
             {
@@ -297,7 +377,7 @@
             "team_b": "MotoGP",
             "team_b_flag": "https://i.pinimg.com/736x/bf/e6/90/bfe690b644764f99e488e4518921114a.jpg"
         },
-        "id": 13,
+        "id": 14,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10",
         "streams": [
             {
@@ -349,7 +429,7 @@
             "team_b": "WWE RAW",
             "team_b_flag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg"
         },
-        "id": 15,
+        "id": 16,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -428,7 +508,7 @@
             "team_b": "ONE",
             "team_b_flag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
         },
-        "id": 16,
+        "id": 17,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/20269/image/dark",
         "streams": [
             {
@@ -459,7 +539,7 @@
             "team_b": "WWE NXT",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10"
         },
-        "id": 20,
+        "id": 21,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -522,7 +602,7 @@
             "team_b": "SmackDown",
             "team_b_flag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg"
         },
-        "id": 21,
+        "id": 22,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -562,7 +642,7 @@
             "team_b": "ATP ",
             "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
         },
-        "id": 36,
+        "id": 37,
         "image": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
         "streams": [
             {
@@ -600,7 +680,7 @@
             "team_b": "Bhutan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/191564/image"
         },
-        "id": 37,
+        "id": 38,
         "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/2026_SAFF_Championship.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
         "streams": [
             {
@@ -624,7 +704,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/213119/image"
         },
-        "id": 42,
+        "id": 43,
         "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/2026_SAFF_Championship.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
         "streams": [
             {
@@ -636,107 +716,6 @@
             }
         ],
         "title": "SAFF Championship"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "T20 International",
-            "start_time": "14/10/2026 13:30:00",
-            "team_a": "India",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187765/image",
-            "team_b": "West Indies",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187760/image"
-        },
-        "id": 45,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "WILLOW S2 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-                "name": "HOTSTAR HINDI - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-                "name": "HOTSTAR EN - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-                "name": "HOTSTAR TEL - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-                "name": "HOTSTAR TAMIL - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-                "name": "HOTSTAR KAN - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://papacito.cfd/m3u/324993/live.m3u8",
-                "name": "WILLOW HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://papacito.cfd/m3u/588010/live.m3u8",
-                "name": "TNT SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.59/hls/NCCCAAQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                "name": "LOW SERVER",
-                "token_api": ""
-            }
-        ],
-        "title": "T20 International"
     },
     {
         "category": "Tennis",
@@ -859,6 +838,55 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
                 "name": "TNT SPORTS - AQ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "79f896678ea586e1c0ab644934c24678:6d78ba30699beb8486dd83f8813a8902",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lhtbae2kfy/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd",
+                "name": "On Sports EN/VN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038337~acl=/*~id=83764342447174109405041138337964~hmac=0d15342ee8020c1f38efb7ca4da1dd3062db22f548f5f2f81cd718c31747bf10",
+                "name": "SONYLIV - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4628431.m3u8?txSecret=f62f9b3a99acfecce922cf5ac4c750e5&txTime=6ACFC578|Referer=https://player.online878.com/",
+                "name": "PLAYZ TV LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/fd6010085d1f56c28d8c99e437bc70f5/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "STAN SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/b3e1223abd4f7d5896fe3a1e84dca424/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Champions League"
@@ -883,6 +911,69 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
                 "name": "TNT SPORTS - AQ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "79f896678ea586e1c0ab644934c24678:6d78ba30699beb8486dd83f8813a8902",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lhtbae2kfy/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4628440.m3u8?txSecret=6d9646f4bc67a8c05d42d9ed08554693&txTime=6ACFC536|Referer=https://player.online878.com/",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/d69d420a1fae56d6f80bfb580d0ac48b/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "STAN SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038337~acl=/*~id=83764342447174109405041138337964~hmac=0d15342ee8020c1f38efb7ca4da1dd3062db22f548f5f2f81cd718c31747bf10",
+                "name": "SONYLIV - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/669c1c1ab6894f37bd45e7581cf1fa13/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/60874e08b86298f359db0fb4b5d7b226/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "ARENA SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://netanjahu.hls.st/t/da7c057cb22c888839163bc9619bed09/index.m3u8?|Referer=https://iplayer.is/",
+                "name": "DAZN SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://noblestatic.s3.us-east-1.amazonaws.com/liverpool.m3u8",
+                "name": "TNT SPORTS - UHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
             }
         ],
         "title": "UEFA Champions League"
@@ -902,15 +993,11 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TWFuY2hlc3RlciUyMENpdHklMjB2cyUyMFBhcmlzJTIwU2FpbnQtR2VybWFpbg==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Champions League"
@@ -1010,15 +1097,11 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QXN0b24lMjBWaWxsYSUyMHZzJTIwRmVuZXJiYWglQzMlQTdl",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Champions League"
@@ -1382,13 +1465,16 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=UHVuamFiJTIwRkMlMjB2cyUyME9kaXNoYSUyMEZD",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027991~acl=/*~id=99722604463202371918680025292344~hmac=e70a420f4b32f1454310ac41633b819861cddfee1803812338a4380f05a95725",
+                "name": "SONYLIV EN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792027991~acl=/*~id=99722604463202371918680025292344~hmac=e70a420f4b32f1454310ac41633b819861cddfee1803812338a4380f05a95725",
+                "name": "SONYLIV HINDI - AQ",
+                "token_api": ""
             }
         ],
         "title": "Indian Super League"
@@ -1436,15 +1522,11 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TGluY29sbiUyMENpdHklMjB2cyUyMFdlc3QlMjBIYW0lMjBVbml0ZWQ=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "BeIN SPORTS",
+                "token_api": ""
             }
         ],
         "title": "Championship"
@@ -1464,15 +1546,25 @@
         "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QXRsJUMzJUE5dGljbyUyME1pbmVpcm8lMjB2cyUyME1vbnRldmlkZW8lMjBDaXR5JTIwVG9ycXVl",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN ENGLISH FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SportDigital Fussball",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "D Sports FHD",
+                "token_api": ""
             }
         ],
         "title": "CONMEBOL Sudamericana"
@@ -1784,5 +1876,278 @@
             }
         ],
         "title": "NBL"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/10/2026 20:35:00",
+            "event_name": "AFC Champions League Two",
+            "start_time": "14/10/2026 18:15:00",
+            "team_a": "Al Faisaly SC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/47482/image",
+            "team_b": "Al Nahda SC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/40648/image"
+        },
+        "id": 82,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QWwlMjBGYWlzYWx5JTIwU0MlMjB2cyUyMEFsJTIwTmFoZGElMjBTQw==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "AFC Champions League Two"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/10/2026 18:20:00",
+            "event_name": "AFC Champions League Two",
+            "start_time": "14/10/2026 16:00:00",
+            "team_a": "Al-Muharraq SC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/45474/image",
+            "team_b": "Gol Gohar Sirjan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/275525/image"
+        },
+        "id": 83,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621320.m3u8?txSecret=fe082b3be3bca22fd85ac1e8c1125273&txTime=6ACFBA1E|Referer=https://player.online878.com/",
+                "name": "S1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QWwtTXVoYXJyYXElMjBTQyUyMHZzJTIwR29sJTIwR29oYXIlMjBTaXJqYW4=",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Two"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/10/2026 18:20:00",
+            "event_name": "AFC Champions League Two",
+            "start_time": "14/10/2026 16:00:00",
+            "team_a": "Al-Jazira",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/8090/image",
+            "team_b": "Arkadag FK",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/469420/image"
+        },
+        "id": 84,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621313.m3u8?txSecret=0cbdbd5a2645dac88d05a564f8599b2d&txTime=6ACFB9DD|Referer=https://player.online878.com/",
+                "name": "S1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QWwtSmF6aXJhJTIwdnMlMjBBcmthZGFnJTIwRks=",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Two"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/10/2026 18:20:00",
+            "event_name": "AFC Champions League Two",
+            "start_time": "14/10/2026 16:00:00",
+            "team_a": "Al-Taawoun",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/56021/image",
+            "team_b": "Al-Rayyan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/40660/image"
+        },
+        "id": 85,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621325.m3u8?txSecret=e710520f9571261bb3f95a69ef8ef759&txTime=6ACFBA3B|Referer=https://player.online878.com/",
+                "name": "S1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QWwtVGFhd291biUyMHZzJTIwQWwtUmF5eWFu",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "AFC Champions League Two"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/10/2026 18:20:00",
+            "event_name": "AFC Champions League Two",
+            "start_time": "14/10/2026 16:00:00",
+            "team_a": "Al Kuwait SC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/32525/image",
+            "team_b": "Al Khaldiya",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/371631/image"
+        },
+        "id": 86,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621307.m3u8?txSecret=9734662d54f74c15b51991cf43c30820&txTime=6ACFBA4A|Referer=https://player.online878.com/",
+                "name": "S1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QWwlMjBLdXdhaXQlMjBTQyUyMHZzJTIwQWwlMjBLaGFsZGl5YQ==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "AFC Champions League Two"
+    },
+    {
+        "category": "Hockey",
+        "event_info": {
+            "end_time": "",
+            "event_name": "NHL",
+            "start_time": "14/10/2026 23:30:00",
+            "team_a": "Washington Capitals",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3691/image",
+            "team_b": "Montréal Canadiens",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3690/image"
+        },
+        "id": 87,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=V2FzaGluZ3RvbiUyMENhcGl0YWxzJTIwdnMlMjBNb250ciVDMyVBOWFsJTIwQ2FuYWRpZW5z",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "NHL"
+    },
+    {
+        "category": "Hockey",
+        "event_info": {
+            "end_time": "",
+            "event_name": "NHL",
+            "start_time": "15/10/2026 00:30:00",
+            "team_a": "Colorado Avalanche",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3682/image",
+            "team_b": "Dallas Stars",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3684/image"
+        },
+        "id": 88,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=Q29sb3JhZG8lMjBBdmFsYW5jaGUlMjB2cyUyMERhbGxhcyUyMFN0YXJz",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "NHL"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "13/10/2026 20:20:00",
+            "event_name": "U20 Carioca, Série A",
+            "start_time": "13/10/2026 18:00:00",
+            "team_a": "Bangu U20",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/223998/image",
+            "team_b": "Botafogo U20",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/199296/image"
+        },
+        "id": 89,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/20102/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=QmFuZ3UlMjBVMjAlMjB2cyUyMEJvdGFmb2dvJTIwVTIw",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "U20 Carioca, Série A"
     }
 ]
