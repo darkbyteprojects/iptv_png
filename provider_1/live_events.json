@@ -765,6 +765,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
+                "name": "Cricfy HD",
+                "link": "https://live.vivo155.com/live/sd-1-4599614.m3u8?txSecret=6e9c9336a63652889c4437666c30eb35&txTime=6AD0EC3A|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": "https://pulltx.cqsycw.com/live/202_5615483_1.m3u8?txSecret=7fb1b36f29658b999f5b9611b5aecfaa&txTime=6AD61D36",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Low",
                 "link": "http://193.47.62.59/hls/B666AAAA.m3u8|referer=http://fawanews.sc/",
                 "scheme": 0,
@@ -809,6 +823,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/56023/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "15:15:00",
         "category": "Football",
@@ -816,8 +831,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/B666AAAACCQQQC.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "15/10/2026",
@@ -833,6 +851,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/168094/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "14:50:00",
         "category": "Football",
@@ -840,8 +859,32 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CRFY Stream",
+                "link": "https://live.vivo155.com/live/sd-1-4599617.m3u8?txSecret=892932680a58d62db3e60d593993e224&txTime=6AD0FA8F|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy SD",
+                "link": "https://pulltx.cqsycw.com/live/202_5615480_1.m3u8?txSecret=6c897087519677d725a65e689fcb8660&txTime=6AD62D9E",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CRFY UHD",
+                "link": "https://pulltx.cqsycw.com/live/sd-6MwarmCj9pmyyxMB6n.m3u8?txSecret=b80efcbe1918a3f426ce82248f9cb02f&txTime=6AD5E103",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/B666AAAACCQQC.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "15/10/2026",
@@ -857,6 +900,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2205/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -864,40 +908,24 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Cricfy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-15/scf-jabl",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
         "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Kuching",
-            "logo": "https://img.sofascore.com/api/v1/team/338334/image"
-        },
-        "teamB": {
-            "name": "Kitchee",
-            "logo": "https://img.sofascore.com/api/v1/team/42199/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "12:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/B666.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "14:35:00"
     },
     {
         "teamA": {
@@ -925,34 +953,6 @@
     },
     {
         "teamA": {
-            "name": "Tampines Rovers",
-            "logo": "https://img.sofascore.com/api/v1/team/3043/image"
-        },
-        "teamB": {
-            "name": "Machida",
-            "logo": "https://img.sofascore.com/api/v1/team/44409/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "12:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/B666AAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "14:35:00"
-    },
-    {
-        "teamA": {
             "name": "Bournemouth",
             "logo": "https://img.sofascore.com/api/v1/team/60/image"
         },
@@ -974,6 +974,22 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/bou-stg",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1100,6 +1116,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3241/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -1107,8 +1124,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Cricfy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/ren-ofi",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1181,73 +1210,26 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/cel-juv",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
         "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Gangwon",
-            "logo": "https://img.sofascore.com/api/v1/team/34220/image"
-        },
-        "teamB": {
-            "name": "PPCFC",
-            "logo": "https://img.sofascore.com/api/v1/team/35605/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/ryyy.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "12:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Svay Rieng",
-            "logo": "https://img.sofascore.com/api/v1/team/153474/image"
-        },
-        "teamB": {
-            "name": "Shenhua",
-            "logo": "https://img.sofascore.com/api/v1/team/3373/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "12:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/B666AA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "14:35:00"
     },
     {
         "teamA": {
@@ -1272,73 +1254,26 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/slb-cel",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
         "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Tai Po",
-            "logo": "https://img.sofascore.com/api/v1/team/40662/image"
-        },
-        "teamB": {
-            "name": "Lion City Sailors",
-            "logo": "https://img.sofascore.com/api/v1/team/3041/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/ryyya.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "12:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Pathum Utd",
-            "logo": "https://img.sofascore.com/api/v1/team/35607/image"
-        },
-        "teamB": {
-            "name": "Adelaide United",
-            "logo": "https://img.sofascore.com/api/v1/team/2946/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "15/10/2026",
-        "time": "12:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/B666A.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "15/10/2026",
-        "end_time": "14:35:00"
     },
     {
         "teamA": {
@@ -1350,6 +1285,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3051/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "16:45:00",
         "category": "Football",
@@ -1357,8 +1293,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-15/kups-trab",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1387,6 +1335,22 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/lyon-cry",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1483,6 +1447,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2953/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "16:45:00",
         "category": "Football",
@@ -1490,8 +1455,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Cricfy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-15/haj-aja",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1618,6 +1595,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3653/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "15/10/2026",
         "time": "22:00:00",
         "category": "Baseball",
@@ -1625,8 +1603,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "MLB",
+                "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "16/10/2026",
@@ -1642,6 +1623,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3630/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "16/10/2026",
         "time": "01:00:00",
         "category": "Baseball",
@@ -1649,8 +1631,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "MLB",
+                "link": "https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "16/10/2026",
@@ -1679,6 +1664,22 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uel/2026-10-15/olm-oly",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
@@ -1707,6 +1708,22 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-15/bha-zal",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "15/10/2026",
