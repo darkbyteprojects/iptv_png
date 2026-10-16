@@ -1874,7 +1874,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
         },
         "formats": [
-            "BeIN SPORTS FHD"
+            "BeIN SPORTS FHD",
+            "SPORT1 CZ FHD",
+            "ESPN SPORTS HD",
+            "GHD SPORTS HD"
         ],
         "id": 772,
         "image": "null",
@@ -1888,6 +1891,27 @@
                 "publish": 1,
                 "title": "BeIN SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "SPORT1 CZ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/8FFFFQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "ESPN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/7b537799-ef43-4c21-a96c-539ccd5c9faf.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "series-a4",
@@ -2240,9 +2264,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
         },
         "formats": [
-            "GHD SPORTS HD",
-            "BeIN SPORTS HD",
-            "GHD SPORTS SD"
+            "League+ Live HD",
+            "GHD SPORTS HD"
         ],
         "id": 1003,
         "image": "null",
@@ -2252,23 +2275,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/KRRRRAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/8FFFFQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "League+ Live HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/74dfa1a3-987b-4808-9b36-8a8264bfa777.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "publish": 1,
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/bad425e1-d983-43b7-8248-f9f2a6d0d640.m3u8",
-                "publish": 1,
-                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -2774,7 +2790,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image"
         },
         "formats": [
-            "SPOR TV BR FHD"
+            "SPOR TV BR FHD",
+            "GHD SPORTS SD"
         ],
         "id": 1134,
         "image": "null",
@@ -2788,6 +2805,13 @@
                 "publish": 1,
                 "title": "SPOR TV BR FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/c03a3e8b-ff7f-4afc-9d70-ef279a67849a.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
             }
         ],
         "slug": "german-bundesliga7",
@@ -3003,7 +3027,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image"
         },
         "formats": [
-            "BeIN SPORTS FHD"
+            "BeIN SPORTS FHD",
+            "EAPN SPORTS HD",
+            "GHD SPORTS HD"
         ],
         "id": 768,
         "image": "null",
@@ -3017,6 +3043,20 @@
                 "publish": 1,
                 "title": "BeIN SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "EAPN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "laliga5",
@@ -3732,7 +3772,8 @@
         },
         "formats": [
             "BeIN SPORTS FHD",
-            "CBS GOLAZO FHD"
+            "CBS GOLAZO FHD",
+            "SKY SPORTS HD"
         ],
         "id": 975,
         "image": "null",
@@ -3753,6 +3794,13 @@
                 "publish": 1,
                 "title": "CBS GOLAZO FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/8FFFFQQQQQAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "SKY SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "asean-championship2",
