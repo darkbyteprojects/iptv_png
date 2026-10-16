@@ -555,7 +555,7 @@
             "eventName": "WORLD CHAMPIONSHIP OF LEGENDS",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/16 11:30:06 +0000",
+            "startTime": "2026/10/16 15:30:53 +0000",
             "teamA": "WCL",
             "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10",
             "teamB": "WCL",
@@ -3003,7 +3003,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "BeIN SPORTS FHD"
         ],
         "id": 768,
         "image": "null",
@@ -3012,11 +3012,11 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.41/hls/BFFFAAAAAAQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
             }
         ],
         "slug": "laliga5",
@@ -3731,7 +3731,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image"
         },
         "formats": [
-            "GHD SPORTS - HD"
+            "BeIN SPORTS FHD",
+            "CBS GOLAZO FHD"
         ],
         "id": 975,
         "image": "null",
@@ -3740,10 +3741,18 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.190/hls/gpppaa.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "GHD SPORTS - HD",
-                "type": "0"
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "publish": 1,
+                "title": "CBS GOLAZO FHD",
+                "type": "1"
             }
         ],
         "slug": "asean-championship2",
