@@ -82,7 +82,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": 1,
             "startTime": "2026/10/20 19:00:00 +0000",
             "teamA": "Man City",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
@@ -105,7 +105,7 @@
         ],
         "id": 809,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 1,
         "publish": 1,
         "resolved_streams": [
@@ -214,7 +214,9 @@
         },
         "formats": [
             "SonyLiv HIN AQ",
-            "SonyLiv ENG AQ"
+            "SonyLiv ENG AQ",
+            "SonyLiv BEN AQ",
+            "GHD SPORTS LQ"
         ],
         "id": 1131,
         "image": "null",
@@ -224,16 +226,30 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrl-800300010.m3u8?hdnea=exp=1792000221~acl=/*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~hmac=6c2848c6fc116eba92ce640d5dde1230716184aa2aa9a680a8ff1ea87f502d3a|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=2331e8e03fc89ed5048bb7b4933103e0-1791983400559",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
                 "publish": 1,
                 "title": "SonyLiv HIN AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrl-800300010.m3u8?hdnea=exp=1792000221~acl=/*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~hmac=6c2848c6fc116eba92ce640d5dde1230716184aa2aa9a680a8ff1ea87f502d3a|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=2331e8e03fc89ed5048bb7b4933103e0-1791983400559",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
                 "publish": 1,
                 "title": "SonyLiv ENG AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
+                "publish": 1,
+                "title": "SonyLiv BEN AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                "publish": 1,
+                "title": "GHD SPORTS LQ",
                 "type": "0"
             }
         ],
@@ -560,8 +576,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493",
-                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd",
+                "api": "7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CRICBUZZ - AQ",
                 "type": "1"
@@ -581,22 +597,22 @@
                 "type": "1"
             },
             {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
                 "publish": 1,
                 "title": "FANCODE ENG - AQ",
                 "type": "1"
             },
             {
-                "api": "de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd",
+                "api": "7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CRICBUZZ - ALT",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249217_hindi_hls_1480bdd9cf91170_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
                 "publish": 1,
                 "title": "FANCODE (IND)",
                 "type": "0"
@@ -977,7 +993,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image"
         },
         "formats": [
-            "GHD SPORTS SD",
+            "FOX DEPORTES FHD",
             "GHD SPORTS SD"
         ],
         "id": 722,
@@ -987,15 +1003,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4599614.m3u8?txSecret=6e9c9336a63652889c4437666c30eb35&txTime=6AD0EC3A|Referer=https://player.online878.com/",
+                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
-                "type": "0"
+                "title": "FOX DEPORTES FHD",
+                "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/B666AAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/DUUUAAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -1858,9 +1874,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
         },
         "formats": [
-            "BeIN SPORTS FHD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD"
+            "BeIN SPORTS FHD"
         ],
         "id": 772,
         "image": "null",
@@ -1869,25 +1883,11 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
                 "publish": 1,
                 "title": "BeIN SPORTS FHD",
                 "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.56/hls/GLLLAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "GHD SPORTS SD",
-                "type": "0"
             }
         ],
         "slug": "series-a4",
@@ -2126,7 +2126,7 @@
             "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
             "eventName": "AEW Dynamite",
             "eventType": "",
-            "isHot": "1",
+            "isHot": 0,
             "startTime": "2026/10/22 00:00:35 +0000",
             "teamA": "AEW",
             "teamAFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg",
@@ -2141,7 +2141,7 @@
         ],
         "id": 843,
         "image": "null",
-        "isHot": 1,
+        "isHot": 0,
         "position": 42,
         "publish": 1,
         "resolved_streams": [
@@ -2369,7 +2369,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
             "eventName": "Twenty20 International Women",
             "eventType": "",
-            "isHot": "0",
+            "isHot": 1,
             "startTime": "2026/10/16 13:30:00 +0000",
             "teamA": "IND-W",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
@@ -2377,19 +2377,84 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image"
         },
         "formats": [
-            "FANCODE - AQ"
+            "Willow Cricbuzz - AQ",
+            "Willow Cricbuzz - ALT",
+            "TNT SPORTS FHD",
+            "WILLOW SPORTS AQ",
+            "Star Sports HIN - (IN IP)",
+            "Star Sports ENG - (IN IP)",
+            "Star Sports TAM - (IN IP)",
+            "Star Sports TEL - (IN IP)",
+            "Star Sports KAN - (IN IP)"
         ],
         "id": 20,
         "image": "https://www.prokabaddi.com/static-assets/images/default-social-share.png?v=1.01?v=2.21",
-        "isHot": 0,
+        "isHot": 1,
         "position": 51,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://51.77.217.114:8089/WIvsZIM/index.m3u8",
-                "title": "FANCODE - AQ",
-                "type": "0"
+                "api": "52f8898db7588cd5291126643b1759d8:c3f08e067f97302398ad5cae1b6da535",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3bd4rcxge7/out/v1/b992f8a50478476197e788bb812b5944/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "Willow Cricbuzz - AQ",
+                "type": "1"
+            },
+            {
+                "api": "bfeaf0c7782327ca574f32b1629080b6:c03b21556a4cf97130228258de3fe45d",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz - ALT",
+                "type": "1"
+            },
+            {
+                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "publish": 1,
+                "title": "TNT SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "publish": 1,
+                "title": "WILLOW SPORTS AQ",
+                "type": "1"
+            },
+            {
+                "api": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "publish": 1,
+                "title": "Star Sports HIN - (IN IP)",
+                "type": "1"
+            },
+            {
+                "api": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "publish": 1,
+                "title": "Star Sports ENG - (IN IP)",
+                "type": "1"
+            },
+            {
+                "api": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "publish": 1,
+                "title": "Star Sports TAM - (IN IP)",
+                "type": "1"
+            },
+            {
+                "api": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd?|cookie=hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "publish": 1,
+                "title": "Star Sports TEL - (IN IP)",
+                "type": "1"
+            },
+            {
+                "api": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?|cookie=hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "publish": 1,
+                "title": "Star Sports KAN - (IN IP)",
+                "type": "1"
             }
         ],
         "slug": "live7-zim-indw",
@@ -2403,7 +2468,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "eventName": "Premier League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": 1,
             "startTime": "2026/10/17 14:00:00 +0000",
             "teamA": "Man City",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
@@ -2420,7 +2485,7 @@
         ],
         "id": 749,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 53,
         "publish": 1,
         "resolved_streams": [
@@ -2709,9 +2774,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image"
         },
         "formats": [
-            "BEIN SPORTS FHD",
-            "CazÃ©TV FHD",
-            "ESPN SPORTS FHD"
+            "SPOR TV BR FHD"
         ],
         "id": 1134,
         "image": "null",
@@ -2720,24 +2783,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                 "publish": 1,
-                "title": "BEIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "CazÃ©TV FHD",
-                "type": "1"
-            },
-            {
-                "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-                "publish": 1,
-                "title": "ESPN SPORTS FHD",
+                "title": "SPOR TV BR FHD",
                 "type": "1"
             }
         ],
