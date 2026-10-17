@@ -15,7 +15,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image"
         },
         "formats": [
-            "Astro Premier League "
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 748,
         "image": "null",
@@ -25,9 +26,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8",
+                "link": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8",
                 "publish": 1,
-                "title": "Astro Premier League ",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/4444.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -51,7 +59,6 @@
         },
         "formats": [
             "VIX SPANISH FHD",
-            "TNT SPORTS FHD",
             "GHD SPORTS HD",
             "SonyLiv - ENG AQ",
             "SonyLiv - HIN AQ",
@@ -75,13 +82,6 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "VIX SPANISH FHD",
-                "type": "1"
-            },
-            {
-                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "TNT SPORTS FHD",
                 "type": "1"
             },
             {
@@ -168,13 +168,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/16 16:19:33 +0000",
+            "endTime": "2026/10/17 16:18:19 +0000",
             "eventCat": "Football",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
             "eventName": "INDIAN SUPER LEAGUE",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/16 14:00:23 +0000",
+            "startTime": "2026/10/17 11:30:09 +0000",
             "teamA": "ISL",
             "teamAFlag": "https://images.seeklogo.com/logo-png/26/1/indian-super-league-logo-png_seeklogo-269160.png",
             "teamB": "ISL",
@@ -183,7 +183,6 @@
         "formats": [
             "SonyLiv HIN AQ",
             "SonyLiv ENG AQ",
-            "SonyLiv BEN AQ",
             "GHD SPORTS LQ"
         ],
         "id": 1131,
@@ -194,23 +193,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792253429~acl=/*~id=b003f0ec447cd8d07487f397a80665c8-1792210205094~hmac=8d04da7ec16f770184373c331a9855b9c58d0dfad9541d4a2c155fc51c96f83b|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=3c18b579f9981903e9e6aca9d9c7e4ae-1792235405005",
                 "publish": 1,
                 "title": "SonyLiv HIN AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792253429~acl=/*~id=b003f0ec447cd8d07487f397a80665c8-1792210205094~hmac=8d04da7ec16f770184373c331a9855b9c58d0dfad9541d4a2c155fc51c96f83b|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=3c18b579f9981903e9e6aca9d9c7e4ae-1792235405005",
                 "publish": 1,
                 "title": "SonyLiv ENG AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792180690~acl=/*~id=85310523262574112852336139590553~hmac=fdb92223c77f4463bbd96cfc4b6225490d8cb73cc542b6d6778a9cabfe833560|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=58af097bebde28f22839f406d8e8bed8-1792156202178",
-                "publish": 1,
-                "title": "SonyLiv BEN AQ",
                 "type": "0"
             },
             {
@@ -256,57 +248,57 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuptkn13ob/out/v1/017607cdc30048e8892984f37cfce626/cenc.mpd",
+                "api": "5cdee58acf7a7290ec19a191e317f55a:517d32ed8f1fe032bd44ccbb30f6bfe7",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o7qkiynruh/out/v1/4844fbdad836471da4f1a695886a624b/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
             {
-                "api": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuptkn13ob/out/v1/017607cdc30048e8892984f37cfce626/cenc.mpd",
+                "api": "5cdee58acf7a7290ec19a191e317f55a:517d32ed8f1fe032bd44ccbb30f6bfe7",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o7qkiynruh/out/v1/4844fbdad836471da4f1a695886a624b/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - ALT",
                 "type": "1"
             },
             {
-                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "TNT SPORTS - FHD",
                 "type": "1"
             },
             {
-                "api": "",
-                "link": "http://live12p.hotstar.com/cmaf/live/2108403/inallow-indvswi-2026/hin/1540080167/15mindvrm01a7a6ed57d87f4366810fe10dfd032fb311october2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540080167&language=hindi&layer=master&media_codec=codec%3Dh265%3Adr%3Dhdr10&playback_host=live12p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvswi-2026&si_match_id=725259&hdnea=exp=1791726946~acl=/cmaf/live/2108403/inallow-indvswi-2026/hin/1540080167/15mindvrm01a7a6ed57d87f4366810fe10dfd032fb311october2026/master_a*~data=ip=0sadbn84WyXZVx7FUHIw5y-userid=CoSH3mSevWrzVh0XBjUc3UvO7DgEiU5jQ3e1jY6iIpCd-did=Cna7An6OYIoenDTaXFmW7J9Now7SFENTVxXriFJwlJnc-cc=in-bl=jhs-sp=HotstarPremiumSmp-ctype=sport_live-de=11-pl=androidtv-ap=24.10.21.7-ut=paid-ttl=1800-type=paid-raf=1791725746-~hmac=3536c2f7138be69269b9b6529ed2ec51746808a335454fc448ba8c8916f403a9",
+                "api": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                 "publish": 1,
                 "title": "STAR SPORTS HIN (IN IP)",
-                "type": "0"
+                "type": "1"
             },
             {
                 "api": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                 "publish": 1,
                 "title": "STAR SPORTS ENG (IN IP)",
                 "type": "1"
             },
             {
                 "api": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "link": "india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                 "publish": 1,
                 "title": "STAR SPORTS TAM (IN IP)",
                 "type": "1"
             },
             {
                 "api": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd?|cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                 "publish": 1,
                 "title": "STAR SPORTS TEL (IN IP)",
                 "type": "1"
             },
             {
                 "api": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?|cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                 "publish": 1,
                 "title": "STAR SPORTS KAN (IN IP)",
                 "type": "1"
@@ -889,6 +881,92 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/10/17 17:40:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/17 15:40:00 +0000",
+            "teamA": "Neom",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+            "teamB": "Al-Ettifaq",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image"
+        },
+        "formats": [
+            "FOX DEPORTES FHD",
+            "GHD SPORTS SD"
+        ],
+        "id": 722,
+        "image": "null",
+        "isHot": 0,
+        "position": 13,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "publish": 1,
+                "title": "FOX DEPORTES FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/DUUUAAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge1",
+        "title": "Al Nassr"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/17 20:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/17 18:00:00 +0000",
+            "teamA": "Diriyah",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+            "teamB": "Al-Taawoun",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image"
+        },
+        "formats": [
+            "FAST SERVER HD",
+            "GHD SPORTS HD"
+        ],
+        "id": 723,
+        "image": "null",
+        "isHot": 0,
+        "position": 15,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/sd-1-4599617.m3u8?txSecret=892932680a58d62db3e60d593993e224&txTime=6AD0FA8F|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/B666AAAACCQQC.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge2",
+        "title": "Al Ahli"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/17 13:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -902,7 +980,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
         },
         "formats": [
-            "TNT SPORTS FHD"
+            "TNT SPORTS FHD",
+            "TNT SPORTS HD",
+            "GHD SPORTS HD",
+            "USA NETWORK - AQ",
+            "USA NETWORK - HD",
+            "FAST SERVER HD"
         ],
         "id": 739,
         "image": "null",
@@ -916,6 +999,41 @@
                 "publish": 1,
                 "title": "TNT SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://admin2.formaturamaxi.com.br/tnt.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "TNT SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/5JJJ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://raventheory.s3.us-east-1.amazonaws.com/btsport.m3u8",
+                "publish": 1,
+                "title": "USA NETWORK - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58128/load-playlist?|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "USA NETWORK - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4558601.m3u8?txSecret=c2e70e8342b22f11891f98611eb37dfe&txTime=6AD3691C|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
             }
         ],
         "slug": "english-premier-league1",
@@ -937,7 +1055,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image"
         },
         "formats": [
-            "SKY SPORTS EPL HD"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 747,
         "image": "null",
@@ -947,9 +1066,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/57915/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "link": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
                 "publish": 1,
-                "title": "SKY SPORTS EPL HD",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/4444aa.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1079,12 +1205,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image"
         },
         "formats": [
-            "PREMIERE SPORTS FHD",
-            "BeIN SPORTS FHD",
+            "FANCODE ENG FHD",
             "D SPORTS + FHD",
             "CAZE TV FHD",
-            "ESPN SPORTS HD",
-            "GHD SPORTS SD"
+            "DAZN SPORTS HD",
+            "GHD SPORTS HD"
         ],
         "id": 754,
         "image": "null",
@@ -1093,22 +1218,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
-                "title": "PREMIERE SPORTS FHD",
+                "title": "FANCODE ENG FHD",
                 "type": "1"
             },
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "publish": 1,
-                "title": "BeIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "D SPORTS + FHD",
                 "type": "1"
@@ -1122,16 +1240,16 @@
             },
             {
                 "api": "",
-                "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "link": "http://193.47.62.55/hls/FUUUQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "ESPN SPORTS HD",
+                "title": "DAZN SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/5134f282-4950-4fa0-bc58-b8ce8c993686.m3u8",
+                "link": "https://www.rtmpcdn.com/live/1557ae2b-37ec-4b12-89f3-fe24eb6add40.m3u8",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1183,7 +1301,7 @@
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/dc465823-df2b-40b3-9590-f2d71e48c55a.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/FUUUQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -1346,7 +1464,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 764,
         "image": "null",
@@ -1356,9 +1475,16 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/KYYYAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/TMMMAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4566307.m3u8?txSecret=295e9c3e682d6ccc07efd356336c7254&txTime=6AD38824|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1381,11 +1507,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image"
         },
         "formats": [
-            "SPORT TV FHD",
             "GHD SPORTS HD",
-            "FAST SERVER HD",
-            "Arabic TV - AQ",
-            "HD QUALITY FAST"
+            "GHD SPORTS SD"
         ],
         "id": 765,
         "image": "null",
@@ -1394,38 +1517,17 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "SPORT TV FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "http://193.47.62.41/hls/KYYY.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/TMMMAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/55db8456-6258-4dee-996c-2a549fb5c3d0.m3u8",
+                "link": "https://live.vivo155.com/live/hd-en-1-4566310.m3u8?txSecret=dfbf297ece7f07fe401e66e8c379d090&txTime=6AD38850|Referer=https://player.online878.com/",
                 "publish": 1,
-                "title": "FAST SERVER HD",
-                "type": "0"
-            },
-            {
-                "api": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
-                "link": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
-                "publish": 1,
-                "title": "Arabic TV - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/57784/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "publish": 1,
-                "title": "HD QUALITY FAST",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -1508,9 +1610,8 @@
         },
         "formats": [
             "BEIN SPORTS FHD",
-            "CBS NETWORK FHD",
-            "SPORT1 CZ FHD",
-            "GHD SPORTS HD",
+            "SPORT CZ FHD",
+            "GHD SPORTS SD",
             "GHD SPORTS SD"
         ],
         "id": 769,
@@ -1520,36 +1621,29 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
                 "publish": 1,
                 "title": "BEIN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "CBS NETWORK FHD",
                 "type": "1"
             },
             {
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                 "publish": 1,
-                "title": "SPORT1 CZ FHD",
+                "title": "SPORT CZ FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8",
+                "link": "http://193.47.62.55/hls/YGGGAAAAAAQQQQAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/A555AAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://www.rtmpcdn.com/live/ef28d180-b692-44d9-9932-87cdb92ca94a.m3u8",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -2017,7 +2111,7 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4|Referer=https://player.online878.com/",
+                "link": "http://193.47.62.50/hls/4GGGQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -2192,12 +2286,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image"
         },
         "formats": [
-            "FUBO SPORTS FHD",
-            "ESPN SPORTS FHD",
-            "GHD SPORTS HD",
-            "GHD SPORTS SD",
-            "PEACOCK TV HD",
-            "PEACOCK TV SD"
+            "GHD SPORTS SD"
         ],
         "id": 749,
         "image": "null",
@@ -2206,45 +2295,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "4bd6423306939883c6151bbf1f417965:24cdee096f3eb7dc3d50eddcd76a22c4",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fd2lsieiae/out/v1/b59284953fcd4c93a6977856612840ae/234e6219-fb09-4c68-8092-11ea47d9ff3f-cenc.mpd?aws_sessionId=a044bdf6-b9b6-42c3-ad6d-b0e21ce2c182",
-                "publish": 1,
-                "title": "FUBO SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-                "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-                "publish": 1,
-                "title": "ESPN SPORTS FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "http://193.47.62.50/hls/FPPPA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/a1f4e762-f710-4321-be98-634d8298ca08.m3u8",
+                "link": "http://193.47.62.41/hls/4444a.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edgestream4.pro/hls/b0h5fNwDKH.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
-                "publish": 1,
-                "title": "PEACOCK TV HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/57790/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                "publish": 1,
-                "title": "PEACOCK TV SD",
                 "type": "0"
             }
         ],
@@ -2329,14 +2383,14 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/KYYYAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/TMMMAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/ca8fb2ed-68a6-47f9-b893-f2f5008dd43c.m3u8",
+                "link": "https://live.vivo155.com/live/hd-en-1-4566316.m3u8?txSecret=42ab025a8a190ae061ac6b891a38676f&txTime=6AD3880B|Referer=https://player.online878.com/",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -2344,49 +2398,6 @@
         ],
         "slug": "german-bundesliga3",
         "title": "German Bundesliga3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/17 12:00:09 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-            "eventName": "ICC CWC League 2",
-            "eventType": "",
-            "isHot": 0,
-            "startTime": "2026/10/17 05:30:00 +0000",
-            "teamA": "CAN",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-            "teamB": "NEP",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image"
-        },
-        "formats": [
-            "ICC TV ENGLISH ",
-            "ICC TV NEPALI"
-        ],
-        "id": 758,
-        "image": "null",
-        "isHot": 0,
-        "position": 60,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
-                "publish": 1,
-                "title": "ICC TV ENGLISH ",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
-                "publish": 1,
-                "title": "ICC TV NEPALI",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women1",
-        "title": "warmup1"
     },
     {
         "cat": "Live Events",
@@ -2404,8 +2415,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image"
         },
         "formats": [
-            "GHD SPORTS HD",
-            "CBS SPORTS HD"
+            "PARAMOUNT+ FHD",
+            "Sky Sports EPL - AQ",
+            "GHD SPORTS HD"
         ],
         "id": 865,
         "image": "null",
@@ -2414,17 +2426,24 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.44/hls/LTTTQQQA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "api": "e1bcb99484b1b0c67ebe58aea5e5e928:c249f63abb0bf5068b921d328b47e07b",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ysc0smpdad/out/v1/561cac99030040ce8ef4f56e0c2f5683/8e388aab-de50-4660-8f1c-2caf565fdda3-cenc.mpd?aws_sessionId=e33ba791-e1f8-4cc6-b6a5-0e0295bea982",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                "publish": 1,
+                "title": "Sky Sports EPL - AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4603703.m3u8?txSecret=9c20515e6f8914d054c1c7a6cffa5db5&txTime=6AC259B1|Referer=https://player.online909.com/",
+                "link": "http://193.47.62.50/hls/4GGGQQQQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
-                "title": "CBS SPORTS HD",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -2458,14 +2477,14 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/KYYYAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/TMMMA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/0dae0294-a293-47d2-9a9f-b2e5e184a6df.m3u8",
+                "link": "https://live.vivo155.com/live/hd-en-1-4566319.m3u8?txSecret=55f49d79888a73d3c7047b5a38b53ed0&txTime=6AD387FA|Referer=https://player.online878.com/",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -2501,14 +2520,14 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/KYYYA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/TMMMAAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/fd9fda85-b484-4ba9-921a-ad3bac85803b.m3u8",
+                "link": "https://www.rtmpcdn.com/live/6ba1ee34-7951-48cc-bf6f-0c22f1e018c9.m3u8",
                 "publish": 1,
                 "title": "GHD SPORTS SD",
                 "type": "0"
@@ -2534,8 +2553,9 @@
         },
         "formats": [
             "FANCODE ENG - FHD",
-            "Willow Cricbuzz - HD",
-            "FANCODE HIN (IN IP)",
+            "Willow Cricbuzz - AQ",
+            "Willow Cricbuzz - ALT",
+            "TAPMAD ENG - AQ",
             "FANCODE ENG (IN IP)"
         ],
         "id": 11,
@@ -2547,24 +2567,35 @@
             {
                 "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "publish": 1,
                 "title": "FANCODE ENG - FHD",
                 "type": "1"
             },
             {
+                "api": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz - AQ",
+                "type": "1"
+            },
+            {
+                "api": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz - ALT",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "Willow Cricbuzz - HD",
+                "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8|referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD ENG - AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "title": "FANCODE HIN (IN IP)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
+                "publish": 1,
                 "title": "FANCODE ENG (IN IP)",
                 "type": "0"
             }
@@ -3475,7 +3506,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image"
         },
         "formats": [
-            "GHD SPORTS SD"
+            "GHD SPORTS HD"
         ],
         "id": 1006,
         "image": "null",
@@ -3485,9 +3516,9 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090|Referer=https://player.online878.com/",
+                "link": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -3510,7 +3541,6 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image"
         },
         "formats": [
-            "beIN ENGLISH FHD",
             "GHD SPORTS HD"
         ],
         "id": 1026,
@@ -3520,15 +3550,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "beIN ENGLISH FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                "link": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -3563,7 +3586,7 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/H333AAAAAQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/BIIIAAAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -3598,7 +3621,8 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/PPPPAAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/H111AAAAQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             }
@@ -3622,7 +3646,6 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image"
         },
         "formats": [
-            "BeIN SPORTS FHD",
             "GHD SPORTS HD"
         ],
         "id": 1031,
@@ -3632,14 +3655,9 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "title": "BeIN SPORTS FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "http://193.47.62.55/hls/FHHHQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.59/hls/N777AAAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             }
@@ -3663,7 +3681,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image"
         },
         "formats": [
-            ""
+            "GHD SPORTS HD"
         ],
         "id": 1032,
         "image": "null",
@@ -3673,8 +3691,9 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.49/hls/QIIIQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "",
+                "link": "http://193.47.62.50/hls/L111AAQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -3697,7 +3716,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image"
         },
         "formats": [
-            ""
+            "GHD SPORTS HD"
         ],
         "id": 1033,
         "image": "null",
@@ -3707,8 +3726,9 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/SIIIQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "",
+                "link": "http://193.47.62.41/hls/BIIIAAAAAAQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
