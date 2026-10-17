@@ -1228,41 +1228,6 @@
     },
     {
         "teamA": {
-            "name": "Atlante",
-            "logo": "https://img.sofascore.com/api/v1/team/1943/image"
-        },
-        "teamB": {
-            "name": "Pumas",
-            "logo": "https://img.sofascore.com/api/v1/team/1933/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "17/10/2026",
-        "time": "03:00:00",
-        "category": "Football",
-        "eventName": "Liga MX, Apertura",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "streams": [
-            {
-                "name": "CRFY Server",
-                "link": "https://live.vivo155.com/live/sd-1-4553895.m3u8?txSecret=02132914c4292bb22f22e344210ddff6&txTime=6AD2FA92",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.55/hls/444Z.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "17/10/2026",
-        "end_time": "05:20:00"
-    },
-    {
-        "teamA": {
             "name": "CAN",
             "logo": "https://img.sofascore.com/api/v1/team/189195/image"
         },
@@ -1293,5 +1258,64 @@
                 "tokenApi": null
             }
         ]
+    },
+    {
+        "teamA": {
+            "name": "BAN",
+            "logo": "https://img.sofascore.com/api/v1/team/187744/image"
+        },
+        "teamB": {
+            "name": "ZIM",
+            "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "visible": true,
+        "date": "17/10/2026",
+        "time": "11:30:00",
+        "category": "Cricket",
+        "eventName": "ODI Tri-Series in United Arab Emirates",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Everton",
+            "logo": "https://img.sofascore.com/api/v1/team/48/image"
+        },
+        "teamB": {
+            "name": "Chelsea",
+            "logo": "https://img.sofascore.com/api/v1/team/38/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "17/10/2026",
+        "time": "11:30:00",
+        "category": "Football",
+        "eventName": "Premier League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://trendy48.online/event/m-everton-vs-chelsea-1017",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "17/10/2026",
+        "end_time": "13:50:00"
     }
 ]
