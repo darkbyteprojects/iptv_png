@@ -85,6 +85,73 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/10/24 13:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "1",
+            "startTime": "2026/10/24 11:30:00 +0000",
+            "teamA": "Aston Villa",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
+            "teamB": "Man City",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
+        },
+        "formats": [
+            "FUBO SPORTS FHD",
+            "SKY SPORTS NZ",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "FUBO SPORTS HD"
+        ],
+        "id": 748,
+        "image": "null",
+        "isHot": 1,
+        "position": 1,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747",
+                "publish": 1,
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "SKY SPORTS NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/4444.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_80d889e7_23f1_43d7_a0ee_47aa24473b5c/index.m3u8",
+                "publish": 1,
+                "title": "FUBO SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league3",
+        "title": "English Premier League3"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/20 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -264,7 +331,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/10/20 19:00:00 +0000",
             "teamA": "Liverpool",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
@@ -285,7 +352,7 @@
         ],
         "id": 810,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 2,
         "publish": 1,
         "resolved_streams": [
@@ -584,14 +651,7 @@
             "test",
             "test 2",
             "test 3",
-            "ck 1",
-            "ck 2",
-            "ck 3",
-            "ck 4",
-            "1",
-            "2",
-            "3",
-            "4"
+            "test 4"
         ],
         "id": 267,
         "image": "https://scdnmain.net/assets/tournament/40-c.png",
@@ -650,79 +710,30 @@
             },
             {
                 "api": "",
-                "link": "<iframe src=\"https://dlive.sx/stream/stream-32.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
+                "link": "https://dlive.sx/stream/stream-51.php",
                 "publish": 1,
                 "title": "test",
-                "type": "2"
+                "type": "0"
             },
             {
                 "api": "",
-                "link": "<iframe src=\"https://dlive.sx/stream/stream-32.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
+                "link": "https://dlive.sx/stream/stream-51.php",
                 "publish": 1,
                 "title": "test 2",
-                "type": "7"
+                "type": "2"
             },
             {
                 "api": "",
-                "link": "<iframe src=\"https://dlive.sx/stream/stream-32.php\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen></iframe>",
+                "link": "https://dlive.sx/stream/stream-51.php",
                 "publish": 1,
                 "title": "test 3",
-                "type": "5"
-            },
-            {
-                "api": "",
-                "link": "https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753",
-                "publish": 1,
-                "title": "ck 1",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753",
-                "publish": 1,
-                "title": "ck 2",
-                "type": "2"
-            },
-            {
-                "api": "",
-                "link": "https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753",
-                "publish": 1,
-                "title": "ck 3",
                 "type": "7"
             },
             {
                 "api": "",
-                "link": "https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753",
+                "link": "https://dlive.sx/stream/stream-51.php",
                 "publish": 1,
-                "title": "ck 4",
-                "type": "5"
-            },
-            {
-                "api": "",
-                "link": "https://dlive.sx/watch.php?id=32",
-                "publish": 1,
-                "title": "1",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://dlive.sx/watch.php?id=32",
-                "publish": 1,
-                "title": "2",
-                "type": "2"
-            },
-            {
-                "api": "",
-                "link": "https://dlive.sx/watch.php?id=32",
-                "publish": 1,
-                "title": "3",
-                "type": "7"
-            },
-            {
-                "api": "",
-                "link": "https://dlive.sx/watch.php?id=32",
-                "publish": 1,
-                "title": "4",
+                "title": "test 4",
                 "type": "5"
             }
         ],
@@ -907,7 +918,8 @@
         },
         "formats": [
             "SportDigital Fussball",
-            "PREMIERE BR FHD"
+            "PREMIERE BR FHD",
+            "GHD SPORTS HD"
         ],
         "id": 735,
         "image": "null",
@@ -928,10 +940,95 @@
                 "publish": 1,
                 "title": "PREMIERE BR FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/HH666AAAAQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "brazilian-serie-a1",
         "title": "Brazilian Serie A"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/19 17:05:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/19 15:05:00 +0000",
+            "teamA": "Al-Fayha",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+            "teamB": "Al-Ahli",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image"
+        },
+        "formats": [
+            "GHD SPORTS HD"
+        ],
+        "id": 723,
+        "image": "null",
+        "isHot": 0,
+        "position": 15,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/JDDDAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge2",
+        "title": "Al Ahli"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/19 20:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/19 18:00:00 +0000",
+            "teamA": "Al-Hilal",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+            "teamB": "Al-Hazem",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image"
+        },
+        "formats": [
+            "GHD SPORTS SD",
+            "GHD SPORTS HD"
+        ],
+        "id": 724,
+        "image": "null",
+        "isHot": 0,
+        "position": 16,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/sd-1-4599615.m3u8?txSecret=0695d5030dbb9409a7e081c6d8b7f334&txTime=6AD1029B|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/B666AAAACCQQQC.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge3",
+        "title": "Neom SC"
     },
     {
         "cat": "Live Events",
@@ -1011,17 +1108,92 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/18 15:00:00 +0000",
+            "endTime": "2026/10/23 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "eventName": "Premier League",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/18 13:00:00 +0000",
-            "teamA": "Bournemouth",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-            "teamB": "Sunderland",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
+            "startTime": "2026/10/23 19:00:00 +0000",
+            "teamA": "Ipswich",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+            "teamB": "Forest",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
+        },
+        "formats": [
+            "FUBO SPORTS FHD",
+            "FUBO SPORTS SD",
+            "SKY SPORTS NZ",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "FUBO SPORTS HD"
+        ],
+        "id": 747,
+        "image": "null",
+        "isHot": 0,
+        "position": 18,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7",
+                "publish": 1,
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.live/live3/tv401879262/index.m3u8?st=n02QOFOLQHi9DsXrFWjiHQ&e=1792256416|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879262",
+                "publish": 1,
+                "title": "FUBO SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "SKY SPORTS NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/4444aa.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_aa2ff4c6_3fca_4485_9c81_4e0c24850e95/index.m3u8",
+                "publish": 1,
+                "title": "FUBO SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league2",
+        "title": "English Premier League2"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/24 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/24 16:30:00 +0000",
+            "teamA": "Chelsea",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+            "teamB": "Tottenham",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
         },
         "formats": [
             "FUBO SPORTS FHD",
@@ -1289,7 +1461,9 @@
             "PREMIER SPORTS FHD",
             "D SPORTS FHD",
             "FANCODE FHD",
-            "ESPN DEPORTES HD"
+            "ESPN DEPORTES HD",
+            "GHD SPORTS HD",
+            "ESPN SPORTS HD"
         ],
         "id": 757,
         "image": "null",
@@ -1337,6 +1511,20 @@
                 "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                 "publish": 1,
                 "title": "ESPN DEPORTES HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/d4eebde5-881f-4321-8b1e-f190f0a21624.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream6.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "ESPN SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1507,17 +1695,17 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/18 15:00:00 +0000",
+            "endTime": "2026/10/19 20:45:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
             "eventName": "Serie A",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/18 13:00:00 +0000",
-            "teamA": "Fiorentina",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-            "teamB": "Como",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image"
+            "startTime": "2026/10/19 18:45:00 +0000",
+            "teamA": "Parma",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+            "teamB": "Torino",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image"
         },
         "formats": [
             "BEIN SPORTS FHD",
@@ -1656,7 +1844,9 @@
         "formats": [
             "TNT SPORTS FHD",
             "CBS SPORTS FHD",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "BeIN SPORTS FHD",
+            "SPORT1 CZ FHD"
         ],
         "id": 772,
         "image": "null",
@@ -1680,14 +1870,63 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/cyyyA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://www.rtmpcdn.com/live/eedb3a2c-5ee5-435c-9e09-83f77c470528.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
+            },
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "SPORT1 CZ FHD",
+                "type": "1"
             }
         ],
         "slug": "series-a4",
         "title": "Serie A4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/19 21:15:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "eventName": "Liga Portugal Betclic",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/19 19:15:00 +0000",
+            "teamA": "Braga",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+            "teamB": "Gil Vicente",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image"
+        },
+        "formats": [
+            "Sport Digital FHD"
+        ],
+        "id": 804,
+        "image": "null",
+        "isHot": 0,
+        "position": 36,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "Sport Digital FHD",
+                "type": "0"
+            }
+        ],
+        "slug": "portuguese-primeira-liga1",
+        "title": "Portuguese Primeira Liga1"
     },
     {
         "cat": "Live Events",
@@ -1940,6 +2179,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image"
         },
         "formats": [
+            "GHD SPORTS SD",
             "GHD SPORTS HD"
         ],
         "id": 1003,
@@ -1948,6 +2188,13 @@
         "position": 46,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/3e18cf8e-bee6-441c-9be7-573ec1d853e8.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.55/hls/cyyy.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
@@ -2049,6 +2296,164 @@
         ],
         "slug": "live7-zim-indw",
         "title": "live7-icc-nepal"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/24 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "1",
+            "startTime": "2026/10/24 14:00:00 +0000",
+            "teamA": "Arsenal",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+            "teamB": "Everton",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
+        },
+        "formats": [
+            "FUBO SPORTS FHD",
+            "USA NETWORK HD",
+            "USA SPORTS HD",
+            "GHD SPORTS SD",
+            "GHD SPORTS HD",
+            "FUBO SPORTS HD",
+            "FAST SERVER HD"
+        ],
+        "id": 749,
+        "image": "null",
+        "isHot": 1,
+        "position": 53,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qn8wrs6xue/out/v1/aaaab12c95924d80a77f87f7c745782a/610d090c-7192-4ae7-9e31-482c4096abc1-cenc.mpd?aws_sessionId=0eea5074-f777-498e-8c4c-cb440de9cef6",
+                "publish": 1,
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58133/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "USA NETWORK HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/4444a.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e61cdbf5_068e_4153_b635_5e06e5fc7cfb/index.m3u8",
+                "publish": 1,
+                "title": "FUBO SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4558609.m3u8?txSecret=94538fdc13a90f6f8d0f010a623cf6ef&txTime=6AD39064|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league4",
+        "title": "English Premier League4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/24 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/24 14:00:00 +0000",
+            "teamA": "Coventry",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+            "teamB": "Fulham",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
+        },
+        "formats": [
+            "NBC SPORTS FHD",
+            "SKY SPORTS EPL - FHD",
+            "SKY SPORTS MAIN",
+            " SKY SPORTS NZ",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
+        ],
+        "id": 750,
+        "image": "null",
+        "isHot": 0,
+        "position": 54,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "NBC SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                "publish": 1,
+                "title": "SKY SPORTS EPL - FHD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "SKY SPORTS MAIN",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center",
+                "publish": 1,
+                "title": " SKY SPORTS NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/TKKKQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://www.rtmpcdn.com/live/3ae06289-de5a-4816-8b3a-63c3620a066f.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league5",
+        "title": "English Premier League5"
     },
     {
         "cat": "Live Events",
@@ -2373,17 +2778,58 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/18 15:00:00 +0000",
+            "endTime": "2026/10/19 20:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "eventName": "Saudi Pro League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/19 18:00:00 +0000",
+            "teamA": "Al-Shabab",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+            "teamB": "Al Faisaly",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image"
+        },
+        "formats": [
+            "GHD SPORTS - HD",
+            "Thmanyah - SD"
+        ],
+        "id": 744,
+        "image": "null",
+        "isHot": 0,
+        "position": 108,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/ALLLAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8",
+                "title": "Thmanyah - SD",
+                "type": "0"
+            }
+        ],
+        "slug": "saudi-pro-leauge4",
+        "title": "Saudi Pro League4"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/25 16:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "eventName": "Premier League",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/18 13:00:00 +0000",
-            "teamA": "Brighton",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-            "teamB": "Crystal Palace",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
+            "startTime": "2026/10/25 14:00:00 +0000",
+            "teamA": "Crystal Palace",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+            "teamB": "Newcastle",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
         },
         "formats": [
             "FUBO SPORTS FHD",
@@ -2440,17 +2886,17 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/18 15:00:00 +0000",
+            "endTime": "2026/10/25 16:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "eventName": "Premier League",
             "eventType": "",
-            "isHot": 1,
-            "startTime": "2026/10/18 13:00:00 +0000",
-            "teamA": "Leeds",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-            "teamB": "Man Utd",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
+            "isHot": "0",
+            "startTime": "2026/10/25 14:00:00 +0000",
+            "teamA": "Hull",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+            "teamB": "Brentford",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
         },
         "formats": [
             "FUBO SPORTS - AQ",
@@ -2464,7 +2910,7 @@
         ],
         "id": 753,
         "image": "null",
-        "isHot": 1,
+        "isHot": 0,
         "position": 112,
         "publish": 1,
         "resolved_streams": [
@@ -2531,17 +2977,17 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/18 18:25:23 +0000",
+            "endTime": "2026/10/25 16:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "eventName": "Premier League",
             "eventType": "",
-            "isHot": "1",
-            "startTime": "2026/10/18 15:30:00 +0000",
-            "teamA": "Forest",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-            "teamB": "Arsenal",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+            "isHot": "0",
+            "startTime": "2026/10/25 14:00:00 +0000",
+            "teamA": "Liverpool",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+            "teamB": "Brighton",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image"
         },
         "formats": [
             "FUBO SPORTS FHD",
@@ -2555,7 +3001,7 @@
         ],
         "id": 777,
         "image": "null",
-        "isHot": 1,
+        "isHot": 0,
         "position": 117,
         "publish": 1,
         "resolved_streams": [
@@ -2618,6 +3064,110 @@
         ],
         "slug": "english-premier-league9",
         "title": "English Premier League9"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/25 16:00:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/25 14:00:00 +0000",
+            "teamA": "Man Utd",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+            "teamB": "Bournemouth",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
+        },
+        "formats": [
+            "Astro Grandstand ",
+            "Sky Sports Epl - AQ",
+            "USA NETWORK - HD",
+            "V SPORTS - HD",
+            "Sky Sports Epl - HD",
+            "SKY SPORTS - NZ",
+            "DAZN SPORTS - HD",
+            "GHD SPORTS - HD",
+            "Sky Sports Epl",
+            "NOVA SPORTS - HD",
+            "USA SPORTS - SD"
+        ],
+        "id": 806,
+        "image": "null",
+        "isHot": 0,
+        "position": 136,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live3.ftlcbx.com/live/72221232_2441150f53cb1a4c7186d1758f74df7f_720p.m3u8?auth_key=1788722861-0-0-d2f2cec3ea8c2d98138c562d742b67d6",
+                "title": "Astro Grandstand ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                "title": "Sky Sports Epl - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn8.zohanayaan.com:1686/hls/do10.m3u8?md5=P9YsR4Lufcf0-E033csw1w&expires=1788714057|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "USA NETWORK - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn7.zohanayaan.com:1686/hls/do78.m3u8?md5=mROTTp7r0qYK1-5OpfWsng&expires=1788714063|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "V SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn3.zohanayaan.com:1686/hls/do16.m3u8?md5=Ts8CXqg7HMXsLqZRc5rE_g&expires=1788714059|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "Sky Sports Epl - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8",
+                "title": "SKY SPORTS - NZ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+                "title": "DAZN SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/gguuuo.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://messi.damitv.st/live-hls/channel/pl/2026-09-06/ars-che/playlist.m3u8?tk=G0Sl9uzk1eFPMu8JTXepeQ&e=1788750048|origin=https://ondemand.st/embed/?id=pl/2026-09-06/ars-che&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://ondemand.st/embed/?id=pl/2026-09-06/ars-che",
+                "title": "Sky Sports Epl",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://cdn7.zohanayaan.com:1686/hls/do23.m3u8?md5=803M1Lk2ob2Jdz3H7PbdLw&expires=1788714061|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/",
+                "title": "NOVA SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://instreams.pro/live/LHD1/index.m3u8?st=-ughkoucLeFWYw0Y3cWaCA&e=1788717648|origin=https://instream.click/dady.php?stream=LHD1&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://instream.click/dady.php?stream=LHD1",
+                "title": "USA SPORTS - SD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league10",
+        "title": "English Premier League10"
     },
     {
         "cat": "Live Events",
@@ -3207,6 +3757,54 @@
         ],
         "slug": "f-laliga1",
         "title": "null"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/25 18:30:00 +0000",
+            "eventCat": "Football",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "eventName": "Premier League",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/25 16:30:00 +0000",
+            "teamA": "Sunderland",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+            "teamB": "Leeds",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image"
+        },
+        "formats": [
+            "Sky sports Football ",
+            "BeIN Sports Arabic",
+            "GHD SPORTS HD"
+        ],
+        "id": 998,
+        "image": "null",
+        "isHot": 0,
+        "position": 225,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8",
+                "title": "Sky sports Football ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+                "title": "BeIN Sports Arabic",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.52/hls/jjjjAAAAA.m3u8|Referer=http://www.fawanews.sc/",
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            }
+        ],
+        "slug": "english-premier-league11",
+        "title": "english-premier-league11"
     },
     {
         "cat": "Live Events",
