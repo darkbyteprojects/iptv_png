@@ -538,9 +538,9 @@
         "streams": [
             {
                 "name": "WILLOW - AQ",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd",
                 "scheme": 0,
-                "api": "783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67",
+                "api": "5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb",
                 "tokenApi": null
             },
             {
@@ -552,9 +552,9 @@
             },
             {
                 "name": "WILLOW - ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd",
                 "scheme": 0,
-                "api": "783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67",
+                "api": "5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb",
                 "tokenApi": null
             },
             {
@@ -588,6 +588,13 @@
             {
                 "name": "A SPORTS",
                 "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Tamasha LIVE",
+                "link": "https://cdn04khi-n.tamashaweb.com:8087/YlUHeDQb7a/SAvAUS-avod-abr/playlist.m3u8",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1068,5 +1075,53 @@
         ],
         "end_date": "20/10/2026",
         "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "AFG",
+            "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+        },
+        "teamB": {
+            "name": "ZIM",
+            "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "visible": true,
+        "date": "19/10/2026",
+        "time": "11:30:00",
+        "category": "Cricket",
+        "eventName": "ODI Tri-Series in United Arab Emirates",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "OMA",
+            "logo": "https://img.sofascore.com/api/v1/team/199279/image"
+        },
+        "teamB": {
+            "name": "NEP",
+            "logo": "https://img.sofascore.com/api/v1/team/187772/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "19/10/2026",
+        "time": "05:30:00",
+        "category": "Cricket",
+        "eventName": "ICC CWC League 2",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+        "streams": [
+            {
+                "name": "Cricfy HD",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792417832~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=365ce38d578b04b527e7137b558b2ff21d0efbcea3a8dd2657e8d1d2ad3f435b/manifest.mpd?vcfilter=cab18332-42e0-471c-a2f5-f14341f3a60a&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com",
+                "scheme": 0,
+                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "tokenApi": null
+            }
+        ]
     }
 ]
