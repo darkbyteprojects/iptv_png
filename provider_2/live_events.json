@@ -171,49 +171,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/19 16:15:14 +0000",
-            "eventCat": "Football",
-            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "eventName": "INDIAN SUPER LEAGUE",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/19 14:00:56 +0000",
-            "teamA": "ISL",
-            "teamAFlag": "https://images.seeklogo.com/logo-png/26/1/indian-super-league-logo-png_seeklogo-269160.png",
-            "teamB": "ISL",
-            "teamBFlag": "https://images.seeklogo.com/logo-png/26/1/indian-super-league-logo-png_seeklogo-269160.png"
-        },
-        "formats": [
-            "SonyLiv HIN AQ",
-            "SonyLiv PUN AQ"
-        ],
-        "id": 1131,
-        "image": "null",
-        "isHot": 0,
-        "position": 1,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
-                "publish": 1,
-                "title": "SonyLiv HIN AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
-                "publish": 1,
-                "title": "SonyLiv PUN AQ",
-                "type": "0"
-            }
-        ],
-        "slug": "isl",
-        "title": "CONCACAF Nations League"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/20 21:00:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -725,8 +682,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image"
         },
         "formats": [
-            "GHD SPORTS SD",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "Thmanyah HD",
+            "THMANYAH SD"
         ],
         "id": 724,
         "image": "null",
@@ -736,16 +694,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4599615.m3u8?txSecret=0695d5030dbb9409a7e081c6d8b7f334&txTime=6AD1029B|Referer=https://player.online878.com/",
+                "link": "http://193.47.62.50/hls/6HHHAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/B666AAAACCQQQC.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://live.vivo155.com/live/sd-1-4599626.m3u8?txSecret=c80a64a119495095f5b05cf41a00299d&txTime=6AD66EF3|Referer=https://player.online878.com/",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
+                "title": "Thmanyah HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264554.m3u8",
+                "publish": 1,
+                "title": "THMANYAH SD",
                 "type": "0"
             }
         ],
@@ -769,8 +734,10 @@
         },
         "formats": [
             "SKY SPORTS EPL - FHD",
+            "USA SPORTS HD",
             "ESPN SPORTS HD",
-            "FOX ONE HD"
+            "FOX ONE HD",
+            "GHD SPORTS HD"
         ],
         "id": 739,
         "image": "null",
@@ -787,6 +754,13 @@
             },
             {
                 "api": "",
+                "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "USA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
                 "link": "https://streamtp99a.sbs/global1.php?stream=espn",
                 "publish": 1,
                 "title": "ESPN SPORTS HD",
@@ -797,6 +771,13 @@
                 "link": "https://streamtp99a.sbs/global1.php?stream=foxone2",
                 "publish": 1,
                 "title": "FOX ONE HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/BBBB.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1011,7 +992,7 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/JFFFQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "link": "http://193.47.62.50/hls/O555AA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -1129,7 +1110,7 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/LCCC.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "link": "http://193.47.62.50/hls/O555.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -1631,7 +1612,8 @@
         },
         "formats": [
             "GHD SPORTS - HD",
-            "Thmanyah - SD"
+            "Thmanyah HD",
+            "THMANYAH SD"
         ],
         "id": 744,
         "image": "null",
@@ -1641,14 +1623,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/ALLLAA.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.50/hls/6HHHAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS - HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8",
-                "title": "Thmanyah - SD",
+                "link": "https://live.vivo155.com/live/sd-1-4599628.m3u8?txSecret=d2fd9eea387c9b08b7fc40785beb994e&txTime=6AD66F27|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "Thmanyah HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264555.m3u8",
+                "publish": 1,
+                "title": "THMANYAH SD",
                 "type": "0"
             }
         ],
@@ -2684,60 +2675,5 @@
         ],
         "slug": "uefa-champions-league9",
         "title": "uefa-champions-league9"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/10/31 16:00:43 +0000",
-            "eventCat": "Tennis",
-            "eventLogo": "https://cdn-icons-png.flaticon.com/128/9012/9012192.png",
-            "eventName": "Wimbledon",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/31 12:01:28 +0000",
-            "teamA": "Wimbledon",
-            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHdL2Or2SaMT1ZaxzWthS1v-9JIVyASl2NKtO-d2Vvw&s=10",
-            "teamB": "Wimbledon",
-            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHdL2Or2SaMT1ZaxzWthS1v-9JIVyASl2NKtO-d2Vvw&s=10"
-        },
-        "formats": [
-            "SpoTV - AQ",
-            "Tamasha - AQ",
-            "TSN Sports - AQ",
-            "Euro Sports - AQ"
-        ],
-        "id": 950,
-        "image": "null",
-        "isHot": 0,
-        "position": 293,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959",
-                "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
-                "title": "SpoTV - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/wimbledon-avod-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI2IDExOjI4OjM0IEFNJmhhc2hfdmFsdWU9ZlBOTGhIV3JBQkt4UWl5aE5EK25EQT09JnZhbGlkbWludXRlcz02MA%3D%3D",
-                "title": "Tamasha - AQ",
-                "type": "0"
-            },
-            {
-                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                "title": "TSN Sports - AQ",
-                "type": "1"
-            },
-            {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-                "title": "Euro Sports - AQ",
-                "type": "1"
-            }
-        ],
-        "slug": "wimbledon1",
-        "title": "null"
     }
 ]
