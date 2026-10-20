@@ -323,16 +323,14 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
         },
         "formats": [
-            "WILLOW Cricbuzz - AQ",
-            "WILLOW Cricbuzz - ALT",
+            "Willow Cricbuzz AQ",
+            "Willow Cricbuzz ALT",
             "FANCODE ENG - AQ",
-            "SKY CRICKET - AQ",
-            "Sky Cricket - HD",
-            "A Sports SD",
+            "FANCODE ENG - SD",
+            "A SPORTS SD",
             "A SPORTS HD",
-            "Willow Cricbuzz HD",
-            "Willow Cricbuzz SD",
             "FOX CRICKET HD",
+            "TAPMAD ENG - AQ",
             "FANCODE ENG (IN IP)"
         ],
         "id": 36,
@@ -808,41 +806,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/12 12:00:48 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "eventName": "ICC Men's T20 World Cup Qualifier",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/10/12 06:00:00 +0000",
-            "teamA": "KUW",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187773/image",
-            "teamB": "BHU",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/419424/image"
-        },
-        "formats": [
-            "ICC TV"
-        ],
-        "id": 760,
-        "image": "null",
-        "isHot": 0,
-        "position": 26,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791812738~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=33947c688faeda47331feeab578250172cbaf3eb459321939e97716166565d6d/manifest.mpd?vcfilter=58a0cadb-8352-4d0f-97fe-bbf43c85ac75|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "ICC TV",
-                "type": "1"
-            }
-        ],
-        "slug": "icc-women3",
-        "title": "warmup3"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/10/22 04:30:48 +0000",
             "eventCat": "WWE",
             "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
@@ -1246,9 +1209,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image"
         },
         "formats": [
+            "WILLOW Cricbuzz - AQ",
+            "Willow Cricbuzz ALT",
             "WILLOW SPORTS - AQ",
-            "FANCODE ENG (IN IP)",
-            "EUROSPORT - AQ"
+            "FANCODE IN IP"
         ],
         "id": 14,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
@@ -1256,6 +1220,20 @@
         "position": 101,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd",
+                "publish": 1,
+                "title": "WILLOW Cricbuzz - AQ",
+                "type": "1"
+            },
+            {
+                "api": "ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz ALT",
+                "type": "1"
+            },
             {
                 "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -1265,17 +1243,10 @@
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
                 "publish": 1,
-                "title": "FANCODE ENG (IN IP)",
+                "title": "FANCODE IN IP",
                 "type": "0"
-            },
-            {
-                "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-                "publish": 1,
-                "title": "EUROSPORT - AQ",
-                "type": "1"
             }
         ],
         "slug": "live4_aus-nz-w",
@@ -1297,7 +1268,14 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image"
         },
         "formats": [
-            "Sony TEN 5 - HD (IN-IP)"
+            "Willow Cricbuzz AQ",
+            "Willow Cricbuzz ALT",
+            "TAPMAD ENG - AQ",
+            "SKY CRICKET - AQ",
+            "Willow Cricbuzz HD",
+            "Willow Cricbuzz SD",
+            "SKY CRICKET HD",
+            "PTV SPORTS HD"
         ],
         "id": 38,
         "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9812.png&scale=crop&cquality=40&location=origin&w=96&h=96",
@@ -1306,10 +1284,59 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+                "api": "69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd",
                 "publish": 1,
-                "title": "Sony TEN 5 - HD (IN-IP)",
+                "title": "Willow Cricbuzz AQ",
+                "type": "1"
+            },
+            {
+                "api": "69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz ALT",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD ENG - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                "publish": 1,
+                "title": "SKY CRICKET - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
+                "publish": 1,
+                "title": "Willow Cricbuzz HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+                "publish": 1,
+                "title": "Willow Cricbuzz SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "publish": 1,
+                "title": "SKY CRICKET HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+                "publish": 1,
+                "title": "PTV SPORTS HD",
                 "type": "0"
             }
         ],
