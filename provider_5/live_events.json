@@ -546,7 +546,7 @@
     {
         "category": "Tennis",
         "event_info": {
-            "end_time": "20/10/2026 13:00:00",
+            "end_time": "20/10/2026 13:30:00",
             "event_name": "Almaty OPEN ",
             "start_time": "20/10/2026 06:00:00",
             "team_a": "ATP",
@@ -631,6 +631,13 @@
                 "drm_scheme": "clearkey",
                 "link": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
                 "name": "TENNIS 2 - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f675d1bd10dd4b658503f8fcb4c86a68:def93d53f1906f1d350b62dc15cf207b",
+                "drm_scheme": "clearkey",
+                "link": "https://live02-stan.akamaized.net/out/v1/8e4645a8fd0440588b1331963e7b676e/index.mpd",
+                "name": "STAN SPORTS - AQ (AUS) ",
                 "token_api": ""
             }
         ],
@@ -806,6 +813,72 @@
         "category": "Cricket",
         "event_info": {
             "end_time": "",
+            "event_name": "ICC World Test Championship",
+            "start_time": "20/10/2026 08:00:00",
+            "team_a": "South Africa",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187747/image",
+            "team_b": "Australia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187746/image"
+        },
+        "id": 48,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [
+            {
+                "drm_key": "080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "name": "FANCODE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+                "name": "FOX CRICKET HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+                "drm_scheme": "clearkey",
+                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+                "name": "EUROSPORT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8",
+                "name": "SKY CRICKET HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE IN",
+                "token_api": ""
+            }
+        ],
+        "title": "ICC World Test Championship"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
             "event_name": "Twenty20 International Women",
             "start_time": "20/10/2026 08:15:00",
             "team_a": "Australia Women",
@@ -817,10 +890,24 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
         "streams": [
             {
+                "drm_key": "ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qwmeeshe1/out/v1/c3d42e2bf228478ca14d236ae11f8804/cenc.mpd",
+                "name": "WILLOW - AQ ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                 "name": "FANCODE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qwmeeshe1/out/v1/c3d42e2bf228478ca14d236ae11f8804/cenc.mpd",
+                "name": "WILLOW S2 - AQ ",
                 "token_api": ""
             },
             {
@@ -893,23 +980,30 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
         "streams": [
             {
-                "drm_key": "012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da",
+                "drm_key": "69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138",
                 "drm_scheme": "clearkey",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd",
                 "name": "WILLOW - AQ ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                "name": "SKY CRICKET - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD - AQ ",
                 "token_api": ""
             },
             {
-                "drm_key": "e37c80506a66e5c7aa2613b5e8254e07:22fb176c5e8295133385d975520b150c",
+                "drm_key": "69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7mtkevhkp8/out/v1/0e763683a5224a2f8203d7f457fe0a96/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd",
                 "name": "WILLOW S2 - AQ ",
                 "token_api": ""
             },
@@ -923,7 +1017,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD PK - AQ",
                 "token_api": ""
             },
@@ -944,7 +1038,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8|referer=https://tapmad.com/",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/watchtapmadfree-1/master.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD HD",
                 "token_api": ""
             },
@@ -1342,13 +1436,16 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=VWdhbmRhJTIwdnMlMjBaYW1iaWE=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://dai-fancode.pages.dev/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://nameless-wave-323e.p-szsk.workers.dev/?id=2&e=.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "name": "PlayZ LIVE EN - AQ",
+                "token_api": ""
             }
         ],
         "title": "ICC Men's T20 World Cup Qualifier"
@@ -2468,5 +2565,54 @@
             }
         ],
         "title": "UEFA Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "20/10/2026 14:20:00",
+            "event_name": "UEFA Youth League",
+            "start_time": "20/10/2026 12:00:00",
+            "team_a": "Paris Saint-Germain U19",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/90138/image",
+            "team_b": "Barcelona U19",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/90128/image"
+        },
+        "id": 107,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=UGFyaXMlMjBTYWludC1HZXJtYWluJTIwVTE5JTIwdnMlMjBCYXJjZWxvbmElMjBVMTk=",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-1x.m3u8",
+                "name": "BeIN ARABIC HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/HBBBA.m3u8|referer=http://www.fawanews.sc/",
+                "name": "SD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel8.m3u8|referer=https://soco.domainkqt.cc/",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Youth League"
     }
 ]
