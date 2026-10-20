@@ -544,8 +544,9 @@
             "logo": "https://img.sofascore.com/api/v1/team/44163/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "20/10/2026",
-        "time": "11:00:00",
+        "time": "16:45:00",
         "category": "Football",
         "eventName": "UEFA Youth League",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
@@ -934,6 +935,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/417062/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "20/10/2026",
         "time": "13:30:00",
         "category": "Cricket",
@@ -941,8 +943,32 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "WILLOW FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+                "scheme": 0,
+                "api": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+                "scheme": 0,
+                "api": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW HD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+                "scheme": 0,
+                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "tokenApi": null
+            },
+            {
+                "name": "HOTSTAR (IND)",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ]
     },
@@ -987,6 +1013,20 @@
             {
                 "name": "PTV SPORTS HD",
                 "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SK Sports CRICKET",
+                "link": "https://dz5.bhalocast.pro:7059/hls/dodosky2.m3u8?md5=VZNwXQSWFUWj-68GXwWUZg&expires=1792511046&ch=dodosky2&s=ac9389e75576d72d75807d5d0ec78c49|referer=https://bhalocast.pro/atofplay.php?v=dodosky2&secure=m1lko&expires=123456",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/CCCCCC.m3u8|referer=http://fawanews.sc/",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1109,6 +1149,13 @@
             {
                 "name": "FANCODE (IND)",
                 "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|referer=http://fawanews.sc/",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
