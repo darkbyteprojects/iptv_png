@@ -2,6 +2,65 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/10/21 17:55:17 +0000",
+            "eventCat": "Cricket",
+            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+            "eventName": "ODI Tri-Series in United Arab Emirates",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/21 11:30:00 +0000",
+            "teamA": "AFG",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+            "teamB": "BAN",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image"
+        },
+        "formats": [
+            "Willow Cricbuzz - AQ",
+            "Willow Cricbuzz - ALT",
+            "T SPORTS HD",
+            "FANCODE ENG (IND)"
+        ],
+        "id": 17,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7WEUoPwDXanoJFsG7SSPjj4rOVEPGkGl4AMHgGBseg&s",
+        "isHot": 0,
+        "position": 0,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz - AQ",
+                "type": "1"
+            },
+            {
+                "api": "b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd",
+                "publish": 1,
+                "title": "Willow Cricbuzz - ALT",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://103.151.60.162:2122/play/a030/index.m3u8",
+                "publish": 1,
+                "title": "T SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
+                "publish": 1,
+                "title": "FANCODE ENG (IND)",
+                "type": "0"
+            }
+        ],
+        "slug": "live6-afg-ban",
+        "title": "live6-zim-afg"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/24 13:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -83,10 +142,12 @@
         },
         "formats": [
             "TNT SPORTS FHD",
+            "SONYLIV WW - AQ",
+            "PARAMOUNT+ FHD",
+            "DAZN SPORTS HD",
             "GHD SPORTS HD",
             "TNT SPORTS HD",
-            "SonyLiv ENG AQ",
-            "DAZN SPORTS HD"
+            "SonyLiv ENG AQ"
         ],
         "id": 809,
         "image": "null",
@@ -100,6 +161,27 @@
                 "publish": 1,
                 "title": "TNT SPORTS FHD",
                 "type": "1"
+            },
+            {
+                "api": "c3fc8fa15b79d2956b8a29e8f8cf9d95:5cbce19f4d78ad3c021274a5bc592ef2",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/clkwshlcwd/out/v1/ed61ce3c957c423288158c197e385994/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "SONYLIV WW - AQ",
+                "type": "1"
+            },
+            {
+                "api": "7b8f1e391c14b5aec1e0dd606e7e73c9:852c24cb04f1395c518b1408d3ca149a",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dzws6tdprz/out/v1/f20be091afac4a97a0b1ceb9c93e5e33/e88cf724-c42e-4be9-8b0a-e4542f0933a1-cenc.mpd?aws_sessionId=d8fa2fa0-5965-4366-97b0-f3907c0c5cfb|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://gate4.st/live3/tv401915401/index.m3u8?st=hXVCc-3dtjLPAI58Fod1_g&e=1792531818|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401915401",
+                "publish": 1,
+                "title": "DAZN SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -117,16 +199,9 @@
             },
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=c3f031f515f2356fa55209a82c22f2eb-1792522203392",
                 "publish": 1,
                 "title": "SonyLiv ENG AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://gate4.st/live3/tv401915401/index.m3u8?st=hXVCc-3dtjLPAI58Fod1_g&e=1792531818|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401915401",
-                "publish": 1,
-                "title": "DAZN SPORTS HD",
                 "type": "0"
             }
         ],
@@ -149,10 +224,13 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
         },
         "formats": [
+            "VIX EspaÃ±ol FHD",
+            "PARAMOUNT+ FHD",
             "GHD SPORTS HD",
             "SonyLiv ENG AQ",
             "GHD SPORTS FAST",
-            "HD SERVER "
+            "HD SERVER ",
+            "FAST SERVER HD"
         ],
         "id": 810,
         "image": "null",
@@ -160,6 +238,20 @@
         "position": 2,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "0318f8267786a37981dd8f5337a59f12:4b5bf3d6626c56b5687e1f2c1a1e9cce",
+                "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/fm1xxtmp8y/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                "publish": 1,
+                "title": "VIX EspaÃ±ol FHD",
+                "type": "1"
+            },
+            {
+                "api": "32ac67cee84e7d5db847513d8fab603e:3c7a864bcb6a13f6853056a29b445087",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/woplfhehvh/out/v1/86be7548952045f08faae806cd302199/8a0bc6b9-4881-4f08-9e56-551941eeb062-cenc.mpd?aws_sessionId=9d44cf52-4093-447e-9a34-ad78eae4c617",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.41/hls/G444AQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
@@ -186,6 +278,13 @@
                 "link": "https://xyzstream.duckdns.org/liverpool/mono.ts.m3u8?token=9a99671076ab1ffd87843824fb8c0a1c|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxyzstreams.st%2Fsoccer-6.html",
                 "publish": 1,
                 "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4628454.m3u8?txSecret=0a98efc1f21bb9ae3d5a707b4c59b903&txTime=6AD7CBFA|Referer=https://player.online878.com/",
+                "publish": 1,
+                "title": "FAST SERVER HD",
                 "type": "0"
             }
         ],
@@ -286,13 +385,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/10/20 17:45:37 +0000",
+            "endTime": "2026/10/21 17:30:48 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "eventName": "ICC World Test Championship",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/10/20 08:00:16 +0000",
+            "startTime": "2026/10/21 08:00:37 +0000",
             "teamA": "SA",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
             "teamB": "AUS",
@@ -869,6 +968,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image"
         },
         "formats": [
+            "GHD SPORTS SD",
             "GHD SPORTS HD"
         ],
         "id": 1005,
@@ -877,6 +977,13 @@
         "position": 48,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/sd-1-4563569.m3u8?txSecret=74fd8875e5744a0752954b2e1aacb673&txTime=6AD7C6A8|Referer=https://player.online909.com/",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.55/hls/FEEEEA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
@@ -1849,7 +1956,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": 1,
             "startTime": "2026/10/20 19:00:00 +0000",
             "teamA": "PSG",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
@@ -1858,19 +1965,24 @@
         },
         "formats": [
             "TNT SPORTS FHD",
+            "DAZN SPORTS - AQ",
+            "SONYLIV WW - AQ",
+            "ViX ESPANOL FHD",
+            "PARAMOUNT+ FHD",
             "GHD SPORTS HD",
             "TNT SPORTS HD",
-            "TNT SPORTS SD",
+            "TAPMAD ENG FHD",
+            "FOOT DIRECT HD",
             "SonyLiv HIN AQ",
             "SonyLiv ENG AQ",
             "SonyLiv TAM AQ",
             "TUDN SPORTS HD",
-            "FAST SERVER HD",
+            "DAZN SPORTS HD",
             "FAST SERVER HD"
         ],
         "id": 811,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 141,
         "publish": 1,
         "resolved_streams": [
@@ -1879,6 +1991,34 @@
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "TNT SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "20a40014a25d21ba698380c513b3706d:964614b50930c0733e3fbe1c719561d6",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zvglcnyhtq/out/v1/ba52138f9f8244b1a2fa4426ee41815e/cenc.mpd|user-agent=Mozilla/5.0 (Linux; Android 16; A001 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/154.0.8037.106 Mobile Safari/537.36",
+                "publish": 1,
+                "title": "DAZN SPORTS - AQ",
+                "type": "1"
+            },
+            {
+                "api": "ee57f538fd26460469615892f34a7526:fc8fd5a49a1116473b93c09e7beeb719",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1bmmt9nxv8/out/v1/9185a0ff65084a7294d52ffdf33ce1bd/cenc.mpd",
+                "publish": 1,
+                "title": "SONYLIV WW - AQ",
+                "type": "1"
+            },
+            {
+                "api": "f7a854d5fdcf12cb47bc58298a6668a1:f28532cf4e9b88b72d1bcc751262cea1",
+                "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/elbaat95gq/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "ViX ESPANOL FHD",
+                "type": "1"
+            },
+            {
+                "api": "449ccf1954ef0a01197472717a5fa950:03b3265fadea745f577bf08b9d244d19",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yadbrylpvo/out/v1/96e52e06546e4dd78db54375d4c4435b/21d84208-bb17-4717-9a0b-f6e239cf7105-cenc.mpd?aws_sessionId=ac339b4a-93cb-4367-a0e1-5578247d34fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
                 "type": "1"
             },
             {
@@ -1897,28 +2037,35 @@
             },
             {
                 "api": "",
-                "link": "https://edgestream4.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://www.tapmad.com/",
                 "publish": 1,
-                "title": "TNT SPORTS SD",
+                "title": "TAPMAD ENG FHD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+                "link": "https://edgestream4.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center",
+                "publish": 1,
+                "title": "FOOT DIRECT HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=c3f031f515f2356fa55209a82c22f2eb-1792522203392",
                 "publish": 1,
                 "title": "SonyLiv HIN AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=c3f031f515f2356fa55209a82c22f2eb-1792522203392",
                 "publish": 1,
                 "title": "SonyLiv ENG AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=c3f031f515f2356fa55209a82c22f2eb-1792522203392",
                 "publish": 1,
                 "title": "SonyLiv TAM AQ",
                 "type": "0"
@@ -1933,6 +2080,13 @@
             {
                 "api": "",
                 "link": "https://instreams.pro/live3/tv401915399/index.m3u8?st=-sN2F-btrMUVYPPZ9QdN5w&e=1792531819|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401915399",
+                "publish": 1,
+                "title": "DAZN SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4628468.m3u8?txSecret=2553058b8ee16dbdc18579e3b3f86078&txTime=6AD7CA51|Referer=https://player.online878.com/",
                 "publish": 1,
                 "title": "FAST SERVER HD",
                 "type": "0"
@@ -1957,6 +2111,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/656/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
             "DAZN SPORTS HD",
             "GHD SPORTS HD",
             "CBS SPORTS HD",
@@ -1969,6 +2124,13 @@
         "position": 142,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "e9f5c1e0ae1fda9a6ae25e4767f4eccf:bf723baa6c2344a1dc196f802bdae712",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/elmxnhood1/out/v1/82dd9b29da794b648a9da2353d4ff54e/78b5d5ad-b995-41a7-8683-bfe9ddb441bc-cenc.mpd?aws_sessionId=32019493-9e8b-4f46-b2d4-92be59510262",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "https://gate4.st/live3/tv401915400/index.m3u8?st=l5sqvzPHtlXunpk_8ICCSg&e=1792531819|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401915400",
@@ -2024,6 +2186,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
             "GHD SPORTS HD",
             "CBS SPORTS HD",
             "SonyLiv ENG AQ"
@@ -2034,6 +2197,13 @@
         "position": 143,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "3a4de6aafadf4cf8c1af22a28d1bc20e:ec672c970d15cb044caf27881f30bb57",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/db8ygamqpg/out/v1/26d42c26599b4d5ea6ded17b6419c65d/ad6fd53b-736f-4d3c-81a7-203b6ed1c66e-cenc.mpd?aws_sessionId=8bacfba8-bbe8-46e3-a7a8-42cf60d844ed",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.44/hls/G444A.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
@@ -2075,6 +2245,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2404/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
             "GHD SPORTS HD",
             "CBS SPORTS HD",
             "SonyLiv ENG AQ"
@@ -2085,6 +2256,13 @@
         "position": 144,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "3ba599e347e6d4b6f394526555ce3418:7f9207a5bbd88b3908dda77cfcb441dd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fzgyrlngwi/out/v1/f08e200b74924140b7d4da595a7c468b/6e018b08-6cd0-47bb-8ba4-d977ca0b9efa-cenc.mpd?aws_sessionId=97d45d04-9a07-47d2-94c4-e6fcb40d51ad",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.44/hls/G444.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2174,10 +2352,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image"
         },
         "formats": [
+            "PARAMOUNT+ FHD",
             "GHD SPORTS HD",
             "CBS SPORTS HD",
             "DAZN SPORTS HD",
-            "SonyLiv ENG AQ"
+            "SonyLiv ENG AQ",
+            "CBS SPORTS SD"
         ],
         "id": 1047,
         "image": "null",
@@ -2185,6 +2365,13 @@
         "position": 250,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "6fb4b03097d28aa14f8a25773cb6a44a:535ccf7527ae9c596a1fed7349bdc82c",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vq5egdg6uf/out/v1/0c5f034ec3c1462681a55c82cb03e784/33c79409-7049-4c70-a5f3-476bc589dd82-cenc.mpd?aws_sessionId=9fd5978a-da57-4a4c-ae22-ac11ec43454b",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "http://193.47.62.50/hls/G444AQQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
@@ -2211,6 +2398,13 @@
                 "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=c3f031f515f2356fa55209a82c22f2eb-1792522203392",
                 "publish": 1,
                 "title": "SonyLiv ENG AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58326/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "CBS SPORTS SD",
                 "type": "0"
             }
         ],
