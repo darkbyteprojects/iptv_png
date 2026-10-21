@@ -85,7 +85,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "21/10/2026",
+        "date": "28/10/2026",
         "time": "00:00:00",
         "category": "Boxing",
         "eventName": "WWE NXT",
@@ -492,6 +492,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2825/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "18:00:00",
         "category": "Football",
@@ -499,8 +500,25 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PREMIER SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "tokenApi": null
+            },
+            {
+                "name": "D SPORTS - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                "tokenApi": null
+            },
+            {
+                "name": "CazéTV - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -532,175 +550,6 @@
     },
     {
         "teamA": {
-            "name": "SA",
-            "logo": "https://img.sofascore.com/api/v1/team/187747/image"
-        },
-        "teamB": {
-            "name": "AUS",
-            "logo": "https://img.sofascore.com/api/v1/team/187746/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "21/10/2026",
-        "time": "08:00:00",
-        "category": "Cricket",
-        "eventName": "ICC World Test Championship",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW - AQ",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd",
-                "scheme": 0,
-                "api": "080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa",
-                "tokenApi": null
-            },
-            {
-                "name": "FANCODE - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT - AQ",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd",
-                "scheme": 0,
-                "api": "080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa",
-                "tokenApi": null
-            },
-            {
-                "name": "TAPMAD - AQ",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "FOX CRICKET HD",
-                "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "A SPORTS HD",
-                "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "FANCODE (IND)",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Canucks",
-            "logo": "https://img.sofascore.com/api/v1/team/3692/image"
-        },
-        "teamB": {
-            "name": "Hurricanes",
-            "logo": "https://img.sofascore.com/api/v1/team/3680/image"
-        },
-        "visible": true,
-        "date": "21/10/2026",
-        "time": "02:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Golden Knights",
-            "logo": "https://img.sofascore.com/api/v1/team/257523/image"
-        },
-        "teamB": {
-            "name": "Lightning",
-            "logo": "https://img.sofascore.com/api/v1/team/3694/image"
-        },
-        "visible": true,
-        "date": "21/10/2026",
-        "time": "02:30:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Kraken",
-            "logo": "https://img.sofascore.com/api/v1/team/381707/image"
-        },
-        "teamB": {
-            "name": "Red Wings",
-            "logo": "https://img.sofascore.com/api/v1/team/3685/image"
-        },
-        "visible": true,
-        "date": "21/10/2026",
-        "time": "01:40:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Spurs",
-            "logo": "https://img.sofascore.com/api/v1/team/3429/image"
-        },
-        "teamB": {
-            "name": "Thunder",
-            "logo": "https://img.sofascore.com/api/v1/team/3418/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "21/10/2026",
-        "time": "01:30:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "NBA",
-                "link": "https://edgestream6.pro/hls/hfsdqtaxvb67.m3u8|referer=https://streame.center/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "21/10/2026",
-        "end_time": "04:30:00"
-    },
-    {
-        "teamA": {
             "name": "Real Madrid",
             "logo": "https://img.sofascore.com/api/v1/team/2829/image"
         },
@@ -709,6 +558,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/36360/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -716,8 +566,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -757,6 +610,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/42/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -764,8 +618,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -781,6 +638,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3061/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "16:45:00",
         "category": "Football",
@@ -788,8 +646,18 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CBS SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -805,6 +673,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2959/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -812,8 +681,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CBS SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -877,6 +749,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/35/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "16:45:00",
         "category": "Football",
@@ -884,8 +757,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -901,6 +777,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/1164/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -908,8 +785,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
             }
         ],
         "end_date": "21/10/2026",
@@ -925,6 +805,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3430/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:30:00",
         "category": "Basketball",
@@ -932,8 +813,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -949,6 +833,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3410/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:00:00",
         "category": "Basketball",
@@ -956,8 +841,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -973,6 +861,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3411/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "00:30:00",
         "category": "Basketball",
@@ -980,8 +869,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream5.pro/hls/pllmazjkdzajh72.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -997,6 +889,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3413/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "02:30:00",
         "category": "Basketball",
@@ -1004,8 +897,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream5.pro/hls/sqhdghzavbxu75.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1021,6 +917,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3416/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "02:00:00",
         "category": "Basketball",
@@ -1028,8 +925,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1045,6 +945,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3419/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "00:00:00",
         "category": "Basketball",
@@ -1052,8 +953,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream7.pro/hls/ztyarueaghj71.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1069,6 +973,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3409/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:30:00",
         "category": "Basketball",
@@ -1076,8 +981,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream4.pro/hls/zeafwqvhfe69.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1093,6 +1001,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3428/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "02:00:00",
         "category": "Basketball",
@@ -1100,8 +1009,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream2.pro/hls/fdgsqdfawa73.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1117,6 +1029,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3434/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "00:00:00",
         "category": "Basketball",
@@ -1124,8 +1037,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream5.pro/hls/bvnsqdfvgha70.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1141,6 +1057,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3426/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:30:00",
         "category": "Basketball",
@@ -1148,8 +1065,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream6.pro/hls/hfsdqtaxvb67.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1165,6 +1085,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3423/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:00:00",
         "category": "Basketball",
@@ -1172,8 +1093,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream2.pro/hls/mlkijfezag65.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1189,6 +1113,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/1041936/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "00:00:00",
         "category": "Basketball",
@@ -1196,8 +1121,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": "https://edgestream3.pro/hls/sdghjvqazhvg80.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1213,6 +1141,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3687/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:30:00",
         "category": "Hockey",
@@ -1220,8 +1149,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NHL",
+                "link": "https://edgestream3.pro/hls/hjksgdfauzy51.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ]
     },
@@ -1235,6 +1167,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3699/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "21/10/2026",
         "time": "23:30:00",
         "category": "Hockey",
@@ -1242,8 +1175,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NHL",
+                "link": "https://edgestream5.pro/hls/uyopzarf50.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ]
     },
@@ -1303,15 +1239,61 @@
             "logo": "https://img.sofascore.com/api/v1/team/187746/image"
         },
         "visible": true,
-        "date": "18/10/2026",
-        "time": "08:00:00",
+        "priority": -1,
+        "date": "21/10/2026",
+        "time": "07:45:00",
         "category": "Cricket",
         "eventName": "ICC World Test Championship",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "WILLOW - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+                "scheme": 0,
+                "api": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT - AQ",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+                "scheme": 0,
+                "api": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2",
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD - AQ",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "FOX CRICKET HD",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "A SPORTS HD",
+                "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE (IND)",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ]
     },
