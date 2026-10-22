@@ -484,81 +484,6 @@
     },
     {
         "teamA": {
-            "name": "NZ",
-            "logo": "https://img.sofascore.com/api/v1/team/187755/image"
-        },
-        "teamB": {
-            "name": "IND",
-            "logo": "https://img.sofascore.com/api/v1/team/187765/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "07:00:00",
-        "category": "Cricket",
-        "eventName": "T20 International",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW  - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c",
-                "tokenApi": null
-            },
-            {
-                "name": "TNT SPORTS - AQ",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT - AQ",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-                "scheme": 0,
-                "api": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c",
-                "tokenApi": null
-            },
-            {
-                "name": "Sony Sports (ENG)",
-                "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d",
-                "scheme": 0,
-                "api": "d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b",
-                "tokenApi": null
-            },
-            {
-                "name": "Sony Sports (HIN)",
-                "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d",
-                "scheme": 0,
-                "api": "68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf",
-                "tokenApi": null
-            },
-            {
-                "name": "Sony Sports (TAM)",
-                "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d",
-                "scheme": 0,
-                "api": "0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb",
-                "tokenApi": null
-            },
-            {
-                "name": "Sony Sports (TEL)",
-                "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d",
-                "scheme": 0,
-                "api": "494a8a050ecc5a22adab6dc304ead1b4:9b3bbf2ccb71a876a2bbeb9cde00d7bf",
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/KKKK.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
             "name": "SL",
             "logo": "https://img.sofascore.com/api/v1/team/187756/image"
         },
@@ -648,6 +573,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/EEEEA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -671,6 +603,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bvgzog7fgk/out/v1/4a006b4401a946dfbd3db3af22511330/ba9f8aa4-8243-45da-a00c-bc92ee194df3-cenc.mpd?aws_sessionId=c065baf6-3007-4b8a-9081-094d6b49a4d3",
+                "scheme": 0,
+                "api": "3011c61c1945ef2226e77665d2aaf2db:dcb71a98b41b596523764694a04a6993",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "tokenApi": null
+            },
+            {
                 "name": "CRFY Stream",
                 "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
                 "scheme": 0,
@@ -692,6 +638,29 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/J666AAAAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -810,6 +779,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/EEEEAAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -944,6 +920,13 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jxig6f0jc4/out/v1/f01f5988f43046cea5d68c78d72e21d1/b7e2f84f-5725-477e-a33d-2f99cf2f40d1-cenc.mpd?aws_sessionId=31d41199-7e20-44b2-9650-8795a8b7fc5a",
+                "scheme": 0,
+                "api": "7565d545a4d1dc289154519391f4cc1f:3f93de86b18f274ba5aa99cfdcb514cd",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -958,6 +941,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/J666A.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -981,6 +971,13 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "Cricfy HD +",
+                "link": "https://chatgpt.hereisman.net/playlist/58404/load-playlist.m3u8?|referer=https://gooz.aapmains.net/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "CRFY Stream",
                 "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8|referer=https://streame.center/",
                 "scheme": 0,
@@ -1002,6 +999,29 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/J666AAAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1039,6 +1059,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/I222.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1123,6 +1150,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yl1jfk8973/out/v1/ecc2938688744dc7920a32164764043c/0aebc420-09fc-4626-8dc1-89e182bc463f-cenc.mpd?aws_sessionId=b41750a1-cd53-472b-b8af-85c2eef8c406|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d5408ef606d71e5f3b15350d182cc5e3:66497a3b16f12ac9601377ddb429de11",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630551.m3u8?txSecret=5641826a66edb2622cc44833bc70c97c&txTime=6ADA4E05|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1137,6 +1178,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/I222A.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1160,6 +1208,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jkhnmrkjst/out/v1/7763e20ac8e440d8b54ab6420ec7e0dd/0d4c4a8f-5ce6-4444-bce8-1592dd1cb0e6-cenc.mpd?aws_sessionId=481fd892-0021-413b-bdb5-415ac61d7059",
+                "scheme": 0,
+                "api": "fd9367b34ce71d805798b5f11f9da057:efdb0e282930947350bf65c7a8ff0d39",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1174,6 +1236,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/J666AAAAAAQ.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1202,94 +1271,6 @@
         ],
         "end_date": "22/10/2026",
         "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Kairat",
-            "logo": "https://img.sofascore.com/api/v1/team/5172/image"
-        },
-        "teamB": {
-            "name": "Panathinaikos",
-            "logo": "https://img.sofascore.com/api/v1/team/3248/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "14:30:00",
-        "category": "Football",
-        "eventName": "UEFA Conference League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [
-            {
-                "name": "PARAMOUNT+  - AQ",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5jcc62ose9/out/v1/b7bd945142764506ace50723e8719c14/bf23ef1e-80c8-4af9-b629-b40e9ad4206b-cenc.mpd?aws_sessionId=7e08b817-09a2-49c4-90a3-6c53d514aff5",
-                "scheme": 0,
-                "api": "7789cab5f0f9169e17c55f05a15fbbf2:2b4cfbf24611902d9d1b3351b5e72482",
-                "tokenApi": null
-            },
-            {
-                "name": "VIX Español FHD",
-                "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/5s56vlvtxj/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-                "scheme": 0,
-                "api": "a0792c0c9b157d5e6a5239460936ff3b:459887781ab8b34c993cdd8c124fd3f6",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-22/kai-pao",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "CRFY HD PLUS",
-                "link": "https://live2.jorvakstreamcache.com/live/channel22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "CRFY Stream",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://trendy48.online/event/m-kairat-almaty-vs-panathinaikos-1022",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "Cricfy Live",
-                "link": "https://www.rtmpcdn.com/live/280508bb-8145-44c4-b0cc-df22d2c194e0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/BEEE.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "22/10/2026",
-        "end_time": "16:50:00"
     },
     {
         "teamA": {
@@ -1418,6 +1399,13 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qcpjsve3th/out/v1/462100e5f19d4a72aa7184cb82c98dcc/0e438090-b385-4fd7-b573-1e6841d7b8f8-cenc.mpd?aws_sessionId=c432b0b3-e201-4451-80e9-e1ea112235ed",
+                "scheme": 0,
+                "api": "8e01bd95b0dae43d1723502b13cdfd25:822d36bbb92a5edd7eed1af405b1feed",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1432,6 +1420,20 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "CRFY Stream",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630630.m3u8?txSecret=91b2200756259fffc8b1feacc306ed86&txTime=6ADA4DB7|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/J666AAAAAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1447,6 +1449,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/5202/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "16:45:00",
         "category": "Football",
@@ -1454,8 +1457,32 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vwsp6cxoor/out/v1/01386f4b42ae49e19a1251dc43d4aed2/93fd0b6e-4000-4be5-ba22-dc1ce0103bea-cenc.mpd?aws_sessionId=514c2ac1-5ea6-4f3e-a420-797bea8fa62a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "3e2c2a57c7238fbd1eadc13881867097:64be8a23fc51f1b92472ed9094d23ca1",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX SPANISH - FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/glz0sgcgux/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "ba077d61bda1a7fb41445b49f523bd18:8ee296d6f387b56fb3830fb706be950c",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/I222AA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630655.m3u8?txSecret=5d3d0dc395f55e852fd25e597fca909c&txTime=6ADA4E1A|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1479,6 +1506,27 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vspthya0pt/out/v1/5138edfc4f1749748b1cc3bd0aa02431/5d6466cb-3781-4198-bda8-d00dbb270359-cenc.mpd?aws_sessionId=faf58309-c26a-410c-9bba-194079a719a6",
+                "scheme": 0,
+                "api": "20eae1f3c161a66579f8803f98a56978:6765f243f290a80a319ffda8950deb3b",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX SPANISH - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/smvuy2nydp/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                "scheme": 0,
+                "api": "1585ea4786f5c6e5d4ac6e34619bcd4d:97ca052adba4200e81997a97dee89d73",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630503.m3u8?txSecret=468e5e8d571e1f067d18328d17881339&txTime=6ADA4DDA|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1493,6 +1541,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/J666AAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1560,6 +1615,27 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ajceoztq65/out/v1/9b3176bbc934402794da863d59ea939f/024b1662-0f77-4456-ad5a-96b6912fcc11-cenc.mpd?aws_sessionId=1eac8494-30d3-42f1-b796-adcf59341d23",
+                "scheme": 0,
+                "api": "96b317450e2f6e50d7224479445b8e67:171f0c2651a1a3ba0226f4c5630e0ecd",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX SPANISH FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tzsuwjomtc/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "b3671425e0d166c2b74db9b9f818ddab:6e109c62794713118112874596d57a94",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630665.m3u8?txSecret=bc4d9c8b0bfa7a3c92c1a122c5f8a710&txTime=6ADA4DCA|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1574,6 +1650,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/J666AAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1719,6 +1802,13 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jkhnmrkjst/out/v1/7763e20ac8e440d8b54ab6420ec7e0dd/0d4c4a8f-5ce6-4444-bce8-1592dd1cb0e6-cenc.mpd?aws_sessionId=ea757606-6c0b-43fe-bd78-029f0d10683b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fd9367b34ce71d805798b5f11f9da057:efdb0e282930947350bf65c7a8ff0d39",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1733,6 +1823,20 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/EEEE.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1756,6 +1860,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kiqchsirv7/out/v1/9d0e8d19d06e408cb2527f1f910198c7/dfe13b0f-1458-4502-b668-dcfb824bbb3d-cenc.mpd?aws_sessionId=345a0c0a-10e1-4950-8075-f82765926c65|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "c35e3b28761038557899484072d4e6f4:b2e55acf1ae0234c92b5d648e45bdbed",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live1.quickscoreboardz.com/live/channel12.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1770,6 +1888,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/EEEEAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1793,6 +1918,27 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5jcc62ose9/out/v1/b7bd945142764506ace50723e8719c14/bf23ef1e-80c8-4af9-b629-b40e9ad4206b-cenc.mpd?aws_sessionId=9ba39468-f084-48f8-a643-62dffafde0d4",
+                "scheme": 0,
+                "api": "7789cab5f0f9169e17c55f05a15fbbf2:2b4cfbf24611902d9d1b3351b5e72482",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live+",
+                "link": "https://chatgpt.hereisman.net/playlist/58405/load-playlist.m3u8?|referer=https://gooz.aapmains.net/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1807,6 +1953,29 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "CRFY Stream",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/J666.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1830,6 +1999,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zavjpcwbq7/out/v1/0785581cc05b4b50818045a3139e0ac0/2fef6d93-c4b3-4c47-8d1b-4ae26bdffa1b-cenc.mpd?aws_sessionId=6779332d-b6a3-4b31-b814-cea046eb3450|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "6657f9417ae8a60767d6555e9f53bed2:24f6d8e8695e7522721c63ea78fd08a8",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1844,6 +2027,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/EEEEAAAA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1903,6 +2093,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/167228/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "18:00:00",
         "category": "Football",
@@ -1910,8 +2101,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "SporTV BR FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1940,76 +2134,6 @@
         ],
         "end_date": "23/10/2026",
         "end_time": "15:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Al-Hazem",
-            "logo": "https://img.sofascore.com/api/v1/team/168086/image"
-        },
-        "teamB": {
-            "name": "Al-Fayha",
-            "logo": "https://img.sofascore.com/api/v1/team/168094/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "13:40:00",
-        "category": "Football",
-        "eventName": "Saudi Pro League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "name": "CRFY Stream",
-                "link": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/ssc2/master.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222|Referer=https://player.online878.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/CIIIAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "22/10/2026",
-        "end_time": "16:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Al-Fateh",
-            "logo": "https://img.sofascore.com/api/v1/team/56023/image"
-        },
-        "teamB": {
-            "name": "Al-Shabab",
-            "logo": "https://img.sofascore.com/api/v1/team/34313/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "14:45:00",
-        "category": "Football",
-        "eventName": "Saudi Pro League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/BHBHBHA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "22/10/2026",
-        "end_time": "17:05:00"
     },
     {
         "teamA": {
@@ -2565,5 +2689,38 @@
         ],
         "end_date": "23/10/2026",
         "end_time": "02:30:00"
+    },
+    {
+        "teamA": {
+            "name": "The Golazo Show",
+            "logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image"
+        },
+        "teamB": {
+            "name": "The Golazo Show",
+            "logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/10/2026",
+        "time": "16:40:00",
+        "category": "Football",
+        "eventName": "UEFA Europa league",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
+        "streams": [
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fbgrhb280n/out/v1/11bd5e89863343a2b7f5227f9db0caf8/b2e45e06-f330-4787-9185-8c5bf88662fa-cenc.mpd?aws_sessionId=390c6788-f4ff-40b4-b92d-852de94c5135",
+                "scheme": 0,
+                "api": "827ec411457b7ffa7f3c61663bd3efbe:e8650f46a87c6ab5d623d2b69bf3d441",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/FAFAFAFAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
     }
 ]
