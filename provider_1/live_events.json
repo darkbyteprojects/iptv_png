@@ -1221,6 +1221,20 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
+                "name": "PARAMOUNT+  - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5jcc62ose9/out/v1/b7bd945142764506ace50723e8719c14/bf23ef1e-80c8-4af9-b629-b40e9ad4206b-cenc.mpd?aws_sessionId=7e08b817-09a2-49c4-90a3-6c53d514aff5",
+                "scheme": 0,
+                "api": "7789cab5f0f9169e17c55f05a15fbbf2:2b4cfbf24611902d9d1b3351b5e72482",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/5s56vlvtxj/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+                "scheme": 0,
+                "api": "a0792c0c9b157d5e6a5239460936ff3b:459887781ab8b34c993cdd8c124fd3f6",
+                "tokenApi": null
+            },
+            {
                 "name": "Cricfy HD",
                 "link": null,
                 "scheme": 0,
@@ -1237,6 +1251,13 @@
                 }
             },
             {
+                "name": "CRFY HD PLUS",
+                "link": "https://live2.jorvakstreamcache.com/live/channel22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "CRFY Stream",
                 "link": null,
                 "scheme": 0,
@@ -1251,6 +1272,20 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://www.rtmpcdn.com/live/280508bb-8145-44c4-b0cc-df22d2c194e0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/BEEE.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1916,6 +1951,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/168094/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "13:40:00",
         "category": "Football",
@@ -1923,8 +1959,25 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CRFY Stream",
+                "link": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/ssc2/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222|Referer=https://player.online878.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/CIIIAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -1940,6 +1993,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/34313/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/10/2026",
         "time": "14:45:00",
         "category": "Football",
@@ -1947,8 +2001,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/BHBHBHA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "22/10/2026",
@@ -2424,43 +2481,6 @@
         ],
         "end_date": "23/10/2026",
         "end_time": "02:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Trabzonspor",
-            "logo": "https://img.sofascore.com/api/v1/team/3051/image"
-        },
-        "teamB": {
-            "name": "Hearts",
-            "logo": "https://img.sofascore.com/api/v1/team/2353/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "16:45:00",
-        "category": "Football",
-        "eventName": "UEFA Conference League",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/uecl/2026-10-22/trab-hom",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/10/2026",
-        "end_time": "19:05:00"
     },
     {
         "teamA": {
