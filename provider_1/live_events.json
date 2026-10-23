@@ -10,8 +10,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "22/10/2026",
-        "time": "23:30:00",
+        "date": "23/10/2026",
+        "time": "23:00:00",
         "category": "Motorsport",
         "eventName": "MotoGP",
         "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
@@ -515,39 +515,6 @@
     },
     {
         "teamA": {
-            "name": "The Golazo Show",
-            "logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image"
-        },
-        "teamB": {
-            "name": "The Golazo Show",
-            "logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/10/2026",
-        "time": "16:40:00",
-        "category": "Football",
-        "eventName": "UEFA Europa league",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
-        "streams": [
-            {
-                "name": "PARAMOUNT+ FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fbgrhb280n/out/v1/11bd5e89863343a2b7f5227f9db0caf8/b2e45e06-f330-4787-9185-8c5bf88662fa-cenc.mpd?aws_sessionId=390c6788-f4ff-40b4-b92d-852de94c5135",
-                "scheme": 0,
-                "api": "827ec411457b7ffa7f3c61663bd3efbe:e8650f46a87c6ab5d623d2b69bf3d441",
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.55/hls/FAFAFAFAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
             "name": "Brest",
             "logo": "https://img.sofascore.com/api/v1/team/1715/image"
         },
@@ -632,6 +599,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2830/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/10/2026",
         "time": "19:00:00",
         "category": "Football",
@@ -639,8 +607,11 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CRFY Stream",
+                "link": "https://edgestream4.pro/hls/377qj1h2727.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "23/10/2026",
@@ -1205,5 +1176,174 @@
         ],
         "end_date": "23/10/2026",
         "end_time": "21:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Ipswich",
+            "logo": "https://img.sofascore.com/api/v1/team/32/image"
+        },
+        "teamB": {
+            "name": "Forest",
+            "logo": "https://img.sofascore.com/api/v1/team/14/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/10/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "Premier League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "streams": [
+            {
+                "name": "CRFY Stream",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "23/10/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Alavés",
+            "logo": "https://img.sofascore.com/api/v1/team/2885/image"
+        },
+        "teamB": {
+            "name": "Málaga",
+            "logo": "https://img.sofascore.com/api/v1/team/2830/image"
+        },
+        "visible": true,
+        "date": "23/10/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "LaLiga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "23/10/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "AFG",
+            "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+        },
+        "teamB": {
+            "name": "ZIM",
+            "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/10/2026",
+        "time": "11:30:00",
+        "category": "Cricket",
+        "eventName": "ODI Tri-Series in United Arab Emirates",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "streams": [
+            {
+                "name": "WILLOW - FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ocbymwnxdg/out/v1/a1aa37dc29b04b4f9d633f54367c05fd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "8c9270d440ed7b9096f59ea36e8eb3e4:d9e4be23facd5a18a08c1b43d39c0b45",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW - ALT",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
+                "scheme": 0,
+                "api": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD - FHD",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "T SPORTS HD",
+                "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE - IN",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "IND-W",
+            "logo": "https://img.sofascore.com/api/v1/team/213119/image"
+        },
+        "teamB": {
+            "name": "ZIM-W",
+            "logo": "https://img.sofascore.com/api/v1/team/417062/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/10/2026",
+        "time": "08:30:00",
+        "category": "Cricket",
+        "eventName": "ICC Women's Championship",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+        "streams": [
+            {
+                "name": "WILLOW  - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/khff4hi6a2/out/v1/f6f94e06603a4ac4a5231b5fd5b0681e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "b6e0746a53137a564ec5889039bae9ea:c42a5196a2a7f70065ced842c3efaa73",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW  ALT - AQ",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/khff4hi6a2/out/v1/f6f94e06603a4ac4a5231b5fd5b0681e/cenc.mpd",
+                "scheme": 0,
+                "api": "b6e0746a53137a564ec5889039bae9ea:c42a5196a2a7f70065ced842c3efaa73",
+                "tokenApi": null
+            },
+            {
+                "name": "Willow 24/7",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/247-willow",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
     }
 ]
