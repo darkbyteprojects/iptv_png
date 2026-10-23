@@ -18,7 +18,6 @@
             "Willow Cricbuzz - AQ",
             "Willow Cricbuzz - ALT",
             "FANCODE ENG AQ",
-            "FANCODE ENG SD",
             "TAPMAD WW - AQ",
             "T SPORTS HD",
             "FANCODE ENG (IND)"
@@ -30,15 +29,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+                "api": "dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
             {
-                "api": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+                "api": "dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - ALT",
                 "type": "1"
@@ -51,15 +50,8 @@
                 "type": "1"
             },
             {
-                "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-                "link": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                "publish": 1,
-                "title": "FANCODE ENG SD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/",
                 "publish": 1,
                 "title": "TAPMAD WW - AQ",
                 "type": "0"
@@ -73,7 +65,7 @@
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
                 "publish": 1,
                 "title": "FANCODE ENG (IND)",
                 "type": "0"
@@ -289,7 +281,8 @@
         },
         "formats": [
             "SonyLiv HIN AQ",
-            "SonyLiv PUN AQ"
+            "SonyLiv ENG AQ",
+            "SonyLiv BEN AQ"
         ],
         "id": 1131,
         "image": "null",
@@ -299,16 +292,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073",
                 "publish": 1,
                 "title": "SonyLiv HIN AQ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073",
                 "publish": 1,
-                "title": "SonyLiv PUN AQ",
+                "title": "SonyLiv ENG AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.sonyliv.com%2F&Origin=https%3A%2F%2Fwww.sonyliv.com&x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073",
+                "publish": 1,
+                "title": "SonyLiv BEN AQ",
                 "type": "0"
             }
         ],
@@ -578,6 +578,223 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/10/28 04:20:10 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+            "eventName": "WWE NXT",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/28 00:00:00 +0000",
+            "teamA": "NXT",
+            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s",
+            "teamB": "NXT",
+            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipi_Cg3KyLx8hpnBt_BrigAfm6VtiXliqrg&s"
+        },
+        "formats": [
+            "FAST SERVER HD",
+            "GHD SPORTS - HD",
+            "GHD SPORTS - HD",
+            "HD SERVER CUU"
+        ],
+        "id": 276,
+        "image": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+        "isHot": 0,
+        "position": 10,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/EZFEZGZGZ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+                "publish": 1,
+                "title": "HD SERVER CUU",
+                "type": "0"
+            }
+        ],
+        "slug": "wwenxt",
+        "title": "WWE NXT"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/24 04:19:09 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+            "eventName": "Friday Night SmackDown",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/24 00:00:57 +0000",
+            "teamA": "SmackDown",
+            "teamAFlag": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+            "teamB": "SmackDown",
+            "teamBFlag": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717"
+        },
+        "formats": [
+            "HD SERVER",
+            "HD SERVER ",
+            "HD SERVER ",
+            "HD SERVER ",
+            "HD SERVER ",
+            "HD SERVER ",
+            "HD SERVER "
+        ],
+        "id": 295,
+        "image": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+        "isHot": 0,
+        "position": 11,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "HD SERVER",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream3.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "HD SERVER ",
+                "type": "0"
+            }
+        ],
+        "slug": "wwe-friday-night-smackdown",
+        "title": "WWE Friday Night SmackDown"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/27 04:30:42 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+            "eventName": "WWE Monday Night RAW",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/27 00:00:32 +0000",
+            "teamA": "RAW",
+            "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+            "teamB": "RAW",
+            "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
+        },
+        "formats": [
+            "RAW NETWORK 247",
+            "GHD SPORTS HD",
+            "RAW NETWORK HD",
+            "HD QUALITY 1",
+            "HD QUALITY 2",
+            "HD QUALITY 3"
+        ],
+        "id": 389,
+        "image": "null",
+        "isHot": 0,
+        "position": 12,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "RAW NETWORK 247",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.59/hls/B111AAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+                "publish": 1,
+                "title": "RAW NETWORK HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+                "publish": 1,
+                "title": "HD QUALITY 1",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                "publish": 1,
+                "title": "HD QUALITY 2",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+                "publish": 1,
+                "title": "HD QUALITY 3",
+                "type": "0"
+            }
+        ],
+        "slug": "raw",
+        "title": "RAW"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/10/23 15:30:00 +0000",
             "eventCat": "Football",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -591,8 +808,14 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
         },
         "formats": [
-            "THMANYAY SD",
-            "THMANYAY HD"
+            "FOX SPORTS FHD",
+            "Sport Digital Fussball - AQ",
+            "FOX DEPORTES FHD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "Polsat Sport 2 Poland",
+            "Sport TV1 Portugal",
+            "MAX Sport 3 Bulgaria"
         ],
         "id": 722,
         "image": "null",
@@ -601,17 +824,59 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.44/hls/CIIIAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                 "publish": 1,
-                "title": "THMANYAY SD",
+                "title": "FOX SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "publish": 1,
+                "title": "Sport Digital Fussball - AQ",
+                "type": "1"
+            },
+            {
+                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "publish": 1,
+                "title": "FOX DEPORTES FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.50/hls/ZKKKAAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222|Referer=https://player.online878.com/",
+                "link": "https://www.rtmpcdn.com/live/1a13c9ce-bf90-443a-b501-2516e3c1820c.m3u8",
                 "publish": 1,
-                "title": "THMANYAY HD",
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dlive.sx/watch.php?id=50",
+                "publish": 1,
+                "title": "Polsat Sport 2 Poland",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dlive.sx/watch.php?id=49",
+                "publish": 1,
+                "title": "Sport TV1 Portugal",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://dlive.sx/watch.php?id=474",
+                "publish": 1,
+                "title": "MAX Sport 3 Bulgaria",
                 "type": "0"
             }
         ],
@@ -1108,6 +1373,49 @@
         ],
         "slug": "french-ligue1",
         "title": "French Ligue1"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
+            "endTime": "2026/10/29 04:29:37 +0000",
+            "eventCat": "WWE",
+            "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+            "eventName": "AEW Dynamite",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/10/29 00:00:27 +0000",
+            "teamA": "AEW",
+            "teamAFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg",
+            "teamB": "AEW",
+            "teamBFlag": "https://cdn.wrestlingheadlines.com/wp-content/uploads/2024/06/01-wwe-aew-840x473.jpg"
+        },
+        "formats": [
+            "FOX SPORTS FHD",
+            "TSN SPORTS FHD"
+        ],
+        "id": 843,
+        "image": "null",
+        "isHot": 0,
+        "position": 42,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "publish": 1,
+                "title": "FOX SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "TSN SPORTS FHD",
+                "type": "1"
+            }
+        ],
+        "slug": "aew",
+        "title": "AEW"
     },
     {
         "cat": "Live Events",
