@@ -1,0 +1,51 @@
+name: Hotstar Live Scraper
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # 5 minutes is the absolute GitHub minimum, 2 will get throttled
+  workflow_dispatch:
+
+jobs:
+  build:
+    # Pinned to 22.04 to avoid the libasound2 package bug on 24.04
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python Dependencies
+        run: |
+          pip install playwright requests
+
+      - name: Cache Playwright Browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}
+
+      - name: Install Playwright Browsers
+        run: playwright install --with-deps chromium
+
+      - name: Fetch Logic from Private Repo
+        env:
+          PAT: ${{ secrets.REPO_SECRET }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ secrets.REPO_NAME }}
+          FILE: ${{ secrets.MY_JIO_API }} 
+        run: |
+          curl -s -f \
+            -H "Authorization: Bearer ${PAT}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
+            -o runner.py
+
+      - name: Execute Scraper
+        run: python runner.py
+
+      - name: Clean Workspace
+        if: always()
+        run: rm -f runner.py
