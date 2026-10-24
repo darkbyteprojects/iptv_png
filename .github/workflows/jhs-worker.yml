@@ -7,30 +7,29 @@ on:
 
 jobs:
   build:
-    # Pinned to 22.04 to avoid the libasound2 package bug on 24.04
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Setup Python
+      - name: Setup Jio API Environment
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Python Dependencies
+      - name: Install API Core Dependencies
         run: |
           pip install playwright requests
 
-      - name: Cache Playwright Browsers
+      - name: Cache API Engine Data
         id: playwright-cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}
+          key: api-engine-${{ runner.os }}
 
-      - name: Install Playwright Browsers
+      - name: Initialize Core Renderer
         run: playwright install --with-deps chromium
 
-      - name: Fetch Logic from Private Repo
+      - name: Fetch Integration Logic
         env:
           PAT: ${{ secrets.REPO_SECRET }}
           OWNER: ${{ github.repository_owner }}
@@ -43,9 +42,9 @@ jobs:
             -L "https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE}" \
             -o runner.py
 
-      - name: Execute Scraper
+      - name: Execute Stream Extractor
         run: python runner.py
 
-      - name: Clean Workspace
+      - name: Cleanup Temporary Files
         if: always()
         run: rm -f runner.py
