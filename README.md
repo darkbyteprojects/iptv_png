@@ -1,3 +1,6 @@
+## ✨ New
+
+- **Playlist:** Live sports from JHS at https://jhs.dbprojects.workers.dev/
 
 ## 🚀 Public Endpoints & Resources
 
