@@ -1,11 +1,3 @@
-## ✨ New
-
-- **Playlist:** Live sports from JHS at 
-```
-https://jhs.dbprojects.workers.dev/
-```
-_Copy above link, play and enjoy_
-
 ## 🚀 Public Endpoints & Resources
 
 - **Player:** Stream and play live channels using the player at [https://vyan.dbprojects.workers.dev/](https://vyan.dbprojects.workers.dev/)
