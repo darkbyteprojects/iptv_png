@@ -2,7 +2,7 @@
     {
         "category": "Mixed Martial Arts",
         "event_info": {
-            "end_time": "",
+            "end_time": "24/10/2026 21:30:00",
             "event_name": "UFC",
             "start_time": "24/10/2026 14:00:00",
             "team_a": "Alexander Volkanovski",
@@ -308,9 +308,9 @@
     {
         "category": "Motorsport",
         "event_info": {
-            "end_time": "",
+            "end_time": "24/10/2026 23:00:00",
             "event_name": "Formula 1",
-            "start_time": "24/10/2026 17:30:00",
+            "start_time": "24/10/2026 21:00:00",
             "team_a": "Formula 1",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
             "team_b": "Formula 1",
@@ -331,6 +331,13 @@
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
                 "name": "Sportv 3 BR - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "26e84d5a014e4608bbe053c55cf8196d:12bb3a7a04e4abac8e26ca88531450a8",
+                "drm_scheme": "clearkey",
+                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/c17fa2c8.isml/.mpd?t=2026-10-24T20:48:00.000",
+                "name": "AUVIO SPORTS - AQ ",
                 "token_api": ""
             },
             {
@@ -1780,7 +1787,33 @@
         },
         "id": 69,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "D SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SPORTDIGITAL FUSSBALL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=R2lsJTIwVmljZW50ZSUyMHZzJTIwRkMlMjBQb3J0bw==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
         "title": "Liga Portugal Betclic"
     },
     {
@@ -3177,55 +3210,13 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "24/10/2026 17:00:00",
-            "team_a": "Philadelphia Flyers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3699/image",
-            "team_b": "Anaheim Ducks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3675/image"
-        },
-        "id": 107,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58512/load-playlist?|Referer=https://gooz.aapmains.net",
-                "name": "NHL LIVE HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=UGhpbGFkZWxwaGlhJTIwRmx5ZXJzJTIwdnMlMjBBbmFoZWltJTIwRHVja3M=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "name": "HD STREAM ",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
             "start_time": "24/10/2026 23:00:00",
             "team_a": "St. Louis Blues",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3695/image",
             "team_b": "Carolina Hurricanes",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3680/image"
         },
-        "id": 108,
+        "id": 107,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3260,7 +3251,7 @@
             "team_b": "Los Angeles Kings",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3688/image"
         },
-        "id": 109,
+        "id": 108,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3288,7 +3279,7 @@
             "team_b": "Vegas Golden Knights",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/257523/image"
         },
-        "id": 110,
+        "id": 109,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3323,7 +3314,7 @@
             "team_b": "Detroit Red Wings",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3685/image"
         },
-        "id": 111,
+        "id": 110,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3358,7 +3349,7 @@
             "team_b": "Tampa Bay Lightning",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3694/image"
         },
-        "id": 112,
+        "id": 111,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3393,7 +3384,7 @@
             "team_b": "Toronto Maple Leafs",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3693/image"
         },
-        "id": 113,
+        "id": 112,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3428,7 +3419,7 @@
             "team_b": "Nashville Predators",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3705/image"
         },
-        "id": 114,
+        "id": 113,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3463,7 +3454,7 @@
             "team_b": "San Jose Sharks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3696/image"
         },
-        "id": 115,
+        "id": 114,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3498,7 +3489,7 @@
             "team_b": "Buffalo Sabres",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3678/image"
         },
-        "id": 116,
+        "id": 115,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3533,7 +3524,7 @@
             "team_b": "Minnesota Wild",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3689/image"
         },
-        "id": 117,
+        "id": 116,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3568,7 +3559,7 @@
             "team_b": "Pittsburgh Steelers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4345/image"
         },
-        "id": 118,
+        "id": 117,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
         "streams": [
             {
@@ -3596,7 +3587,7 @@
             "team_b": "Ottawa Redblacks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4437/image"
         },
-        "id": 119,
+        "id": 118,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
         "streams": [
             {
@@ -3627,7 +3618,7 @@
             "team_b": "Edmonton Elks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4434/image"
         },
-        "id": 120,
+        "id": 119,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
         "streams": [
             {
@@ -3658,7 +3649,7 @@
             "team_b": "Bournemouth",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/60/image"
         },
-        "id": 121,
+        "id": 120,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
@@ -3686,7 +3677,7 @@
             "team_b": "Brentford",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/50/image"
         },
-        "id": 122,
+        "id": 121,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
@@ -3714,7 +3705,7 @@
             "team_b": "Leeds United",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/34/image"
         },
-        "id": 123,
+        "id": 122,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
@@ -3742,7 +3733,7 @@
             "team_b": "Brighton & Hove Albion",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/30/image"
         },
-        "id": 124,
+        "id": 123,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
@@ -3770,7 +3761,7 @@
             "team_b": "Newcastle United",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/39/image"
         },
-        "id": 125,
+        "id": 124,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
@@ -3798,7 +3789,7 @@
             "team_b": "Real Betis",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2816/image"
         },
-        "id": 126,
+        "id": 125,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
@@ -3826,7 +3817,7 @@
             "team_b": "Sporting Gijón",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2852/image"
         },
-        "id": 127,
+        "id": 126,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
@@ -3854,7 +3845,7 @@
             "team_b": "CD Eldense",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/47321/image"
         },
-        "id": 128,
+        "id": 127,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
@@ -3882,7 +3873,7 @@
             "team_b": "CD Tenerife",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2822/image"
         },
-        "id": 129,
+        "id": 128,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
@@ -3910,7 +3901,7 @@
             "team_b": "AD Ceuta",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2869/image"
         },
-        "id": 130,
+        "id": 129,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
@@ -3938,7 +3929,7 @@
             "team_b": "Levante UD",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2849/image"
         },
-        "id": 131,
+        "id": 130,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
@@ -3966,7 +3957,7 @@
             "team_b": "Juventus",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2687/image"
         },
-        "id": 132,
+        "id": 131,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -3994,7 +3985,7 @@
             "team_b": "AC Milan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2692/image"
         },
-        "id": 133,
+        "id": 132,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -4022,7 +4013,7 @@
             "team_b": "Frosinone",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2801/image"
         },
-        "id": 134,
+        "id": 133,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -4050,7 +4041,7 @@
             "team_b": "Venezia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2688/image"
         },
-        "id": 135,
+        "id": 134,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -4078,7 +4069,7 @@
             "team_b": "Bayer 04 Leverkusen",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2681/image"
         },
-        "id": 136,
+        "id": 135,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "streams": [
             {
@@ -4106,7 +4097,7 @@
             "team_b": "FC Bayern München",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2672/image"
         },
-        "id": 137,
+        "id": 136,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "streams": [
             {
@@ -4134,7 +4125,7 @@
             "team_b": "Lesotho",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/456681/image"
         },
-        "id": 138,
+        "id": 137,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
         "streams": [
             {
@@ -4162,7 +4153,7 @@
             "team_b": "Kenya",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/189194/image"
         },
-        "id": 139,
+        "id": 138,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
         "streams": [
             {
@@ -4190,7 +4181,7 @@
             "team_b": "Zambia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1154270/image"
         },
-        "id": 140,
+        "id": 139,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
         "streams": [
             {
@@ -4218,7 +4209,7 @@
             "team_b": "Uganda",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/402381/image"
         },
-        "id": 141,
+        "id": 140,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
         "streams": [
             {
@@ -4234,5 +4225,75 @@
             }
         ],
         "title": "ICC Men's T20 World Cup Qualifier"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 23:15:00",
+            "event_name": "WXV, Women",
+            "start_time": "24/10/2026 20:15:00",
+            "team_a": "USA",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/164612/image",
+            "team_b": "Italy",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/189292/image"
+        },
+        "id": 141,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [
+            {
+                "drm_key": "f07cff440bb649de80ad65e0d08c4972:c52ce1c592d441ff93d31110a1069903",
+                "drm_scheme": "clearkey",
+                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1792959875~acl=*dash%2flive%2f2001611%2f313426-335846%2f*!*dash%2flive%2f2001611-b%2f313426-335846-b%2f*~id=cf53387f-e51e-4b6b-a23c-f16f113272c0~data=hdntl",
+                "name": "RUGBYPASS TV - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=VVNBJTIwdnMlMjBJdGFseQ==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            },
+            {
+                "drm_key": "076127abbd31414da728a681a62f52f9:76a1a3b550879463b3dda16149d3e386",
+                "drm_scheme": "clearkey",
+                "link": "https://live02-stan.akamaized.net/out/v1/5cf0b1667eb1426aa7f8bdf963d73dc5/index.mpd",
+                "name": "STAN SPORTS - AQ (AUS) ",
+                "token_api": ""
+            }
+        ],
+        "title": "WXV, Women"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "25/10/2026 18:00:00",
+            "event_name": "Prem Rugby",
+            "start_time": "25/10/2026 15:00:00",
+            "team_a": "Harlequin FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4201/image",
+            "team_b": "Saracens",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4197/image"
+        },
+        "id": 142,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=SGFybGVxdWluJTIwRkMlMjB2cyUyMFNhcmFjZW5z",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "Prem Rugby"
     }
 ]
