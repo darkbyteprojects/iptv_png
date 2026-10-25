@@ -832,6 +832,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2693/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/10/2026",
         "time": "11:30:00",
         "category": "Football",
@@ -839,8 +840,46 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/b4fvw5watx/out/v1/af3dfa5f4fb54511884aef5f5b1fd10c/9c7ebca0-ee4e-43c3-b740-beb3edd32caf-cenc.mpd?aws_sessionId=6d2c73f3-36d2-40ff-a3e7-9a458f95dc0a",
+                "scheme": 0,
+                "api": "3733dc2d3f10a4eee0fbbf50b69ddff7:10d8d1f3bf5797f842576beb5212c801",
+                "tokenApi": null
+            },
+            {
+                "name": "FUBO SPORTS - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sv5gefgnlp/out/v1/e9584c6de0d145a9ac1b36ddf7795081/3d34278d-33c0-4816-85e8-a4801e66487a-cenc.mpd?aws_sessionId=cb4c939b-8731-46fa-8327-5495fe8da06b",
+                "scheme": 0,
+                "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+                "tokenApi": null
+            },
+            {
+                "name": "beIN ENGLISH - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "scheme": 0,
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": null
+            },
+            {
+                "name": "SPORT 1 CZ - AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "scheme": 0,
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/58611/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/Q444QQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/10/2026",
@@ -1984,6 +2023,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/417062/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/10/2026",
         "time": "08:30:00",
         "category": "Cricket",
@@ -1991,8 +2031,32 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "WILLOW FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+                "scheme": 0,
+                "api": "7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+                "scheme": 0,
+                "api": "7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW HD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+                "scheme": 0,
+                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "tokenApi": null
             }
         ]
     },
@@ -2006,6 +2070,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/187757/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/10/2026",
         "time": "08:00:00",
         "category": "Cricket",
@@ -2013,9 +2078,155 @@
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",
         "streams": [
             {
+                "name": "SK CRICKET FHD",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD FHD",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "PTV SPORTS HD",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Fortuna",
+            "logo": "https://img.sofascore.com/api/v1/team/2957/image"
+        },
+        "teamB": {
+            "name": "Excelsior",
+            "logo": "https://img.sofascore.com/api/v1/team/2967/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/10/2026",
+        "time": "11:15:00",
+        "category": "Football",
+        "eventName": "VriendenLoterij Eredivisie",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "streams": [
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/D222AAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/10/2026",
+        "end_time": "13:35:00"
+    },
+    {
+        "teamA": {
+            "name": "Kerala",
+            "logo": "https://img.sofascore.com/api/v1/team/174598/image"
+        },
+        "teamB": {
+            "name": "Mumbai City",
+            "logo": "https://img.sofascore.com/api/v1/team/174600/image"
+        },
+        "visible": true,
+        "date": "25/10/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Indian Super League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "streams": [
+            {
                 "name": "Link 1",
                 "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
             }
-        ]
+        ],
+        "end_date": "25/10/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Churchill Brothers",
+            "logo": "https://img.sofascore.com/api/v1/team/40078/image"
+        },
+        "teamB": {
+            "name": "Punjab",
+            "logo": "https://img.sofascore.com/api/v1/team/230661/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/10/2026",
+        "time": "11:30:00",
+        "category": "Football",
+        "eventName": "Indian Super League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "streams": [
+            {
+                "name": "PRIME VIDEO - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sswxx6matd/out/v1/a611dc3e04b34f26bf084d773e99835c/cenc.mpd",
+                "scheme": 0,
+                "api": "b54aa1aba6165c7a71ddd65e76a129eb:1507d65af2642da9dd3e1928556f8257",
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (ENG)",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6c4f8cf01f8041ab25536be78d0ffa48-1792925402306",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (HIN)",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6c4f8cf01f8041ab25536be78d0ffa48-1792925402306",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/10/2026",
+        "end_time": "13:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Hibernian",
+            "logo": "https://img.sofascore.com/api/v1/team/2354/image"
+        },
+        "teamB": {
+            "name": "Celtic",
+            "logo": "https://img.sofascore.com/api/v1/team/2352/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/10/2026",
+        "time": "12:00:00",
+        "category": "Football",
+        "eventName": "Scottish Premiership",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "streams": [
+            {
+                "name": "PARAMOUNT+ - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xjj2zawby7/out/v1/d9db235908ca4b4db62c220d49387ff7/f465e9f9-2d6a-4089-9068-524f6488c74d-cenc.mpd?aws_sessionId=cdf3667b-2964-4549-9a88-f45342672212",
+                "scheme": 0,
+                "api": "27e3370600604c3621fe84b203231d0b:b1aba0e8aac9ea239688d0dcc3363aca",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/GJ777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/10/2026",
+        "end_time": "14:20:00"
     }
 ]
