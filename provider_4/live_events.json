@@ -2,9 +2,9 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "28/10/2026 15:45:00",
+            "end_time": "29/10/2026 15:00:00",
             "event_name": "Nepal Premier league ",
-            "start_time": "28/10/2026 11:15:00",
+            "start_time": "29/10/2026 06:30:00",
             "team_a": "NPL",
             "team_a_flag": "https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png",
             "team_b": "NPL",
@@ -16,8 +16,8 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://spowncdn.bondsplive.online/npokl/logo.png?&e=.m3u8",
-                "name": "STAR SELECT HD",
+                "link": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8",
+                "name": "SK LIVE ",
                 "token_api": ""
             },
             {
@@ -58,8 +58,30 @@
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187757/image"
         },
         "id": 16,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",
-        "streams": [],
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
+        "streams": [
+            {
+                "drm_key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
+                "name": "WILLOW ADFREE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
+                "drm_scheme": "clearkey",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
+                "name": "WILLOW ALT",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD ",
+                "token_api": ""
+            }
+        ],
         "title": "ODI Tri-series in Pakistan"
     },
     {
@@ -74,49 +96,17 @@
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
         },
         "id": 17,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [],
-        "title": "T20 International"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Women's Big Bash League",
-            "start_time": "29/10/2026 04:40:00",
-            "team_a": "Melbourne Renegades Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/274887/image",
-            "team_b": "Sydney Thunder Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/274889/image"
-        },
-        "id": 18,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
         "streams": [
             {
-                "drm_key": "81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd",
-                "name": "link 1",
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/",
+                "name": "TAPMAD ",
                 "token_api": ""
             }
         ],
-        "title": "Women's Big Bash League"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Women's Big Bash League",
-            "start_time": "30/10/2026 08:10:00",
-            "team_a": "Brisbane Heat Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/274884/image",
-            "team_b": "Sydney Sixers Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/274883/image"
-        },
-        "id": 19,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [],
-        "title": "Women's Big Bash League"
+        "title": "T20 International"
     },
     {
         "category": "Cricket",
@@ -129,9 +119,17 @@
             "team_b": "Hobart Hurricanes Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/274885/image"
         },
-        "id": 20,
+        "id": 18,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW ",
+                "token_api": ""
+            }
+        ],
         "title": "Women's Big Bash League"
     },
     {
@@ -145,7 +143,7 @@
             "team_b": "West Indies",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187760/image"
         },
-        "id": 21,
+        "id": 19,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
@@ -171,5 +169,388 @@
             }
         ],
         "title": "ICC World Test Championship"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:20:00",
+            "event_name": "Saudi Pro League",
+            "start_time": "29/10/2026 18:00:00",
+            "team_a": "Al-Nassr",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/23400/image",
+            "team_b": "Al-Kholood",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/269199/image"
+        },
+        "id": 20,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "streams": [],
+        "title": "Saudi Pro League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 16:55:00",
+            "event_name": "Saudi Pro League",
+            "start_time": "29/10/2026 14:35:00",
+            "team_a": "Al-Khaleej",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/167228/image",
+            "team_b": "Al-Hazem",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/168086/image"
+        },
+        "id": 21,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "streams": [],
+        "title": "Saudi Pro League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:20:00",
+            "event_name": "Saudi Pro League",
+            "start_time": "29/10/2026 18:00:00",
+            "team_a": "Al-Riyadh",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/168088/image",
+            "team_b": "Al-Qadsiah",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/56027/image"
+        },
+        "id": 22,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "streams": [],
+        "title": "Saudi Pro League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:05:00",
+            "event_name": "Serie A",
+            "start_time": "29/10/2026 19:45:00",
+            "team_a": "Fiorentina",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2693/image",
+            "team_b": "Atalanta",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2686/image"
+        },
+        "id": 23,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [],
+        "title": "Serie A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 19:50:00",
+            "event_name": "Serie A",
+            "start_time": "29/10/2026 17:30:00",
+            "team_a": "Frosinone",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2801/image",
+            "team_b": "Lecce",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2689/image"
+        },
+        "id": 24,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [],
+        "title": "Serie A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:05:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "29/10/2026 17:45:00",
+            "team_a": "Paris FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/264964/image",
+            "team_b": "BK Häcken FF",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1889/image"
+        },
+        "id": 25,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:20:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "29/10/2026 20:00:00",
+            "team_a": "HB Køge",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/333128/image",
+            "team_b": "Fútbol Club Barcelona",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/77889/image"
+        },
+        "id": 26,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:20:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "29/10/2026 20:00:00",
+            "team_a": "Manchester City",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/142658/image",
+            "team_b": "Paris Saint-Germain",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/55505/image"
+        },
+        "id": 27,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:05:00",
+            "event_name": "UEFA Women's Champions League",
+            "start_time": "29/10/2026 17:45:00",
+            "team_a": "FK Austria Wien",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/229911/image",
+            "team_b": "Juventus",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/269824/image"
+        },
+        "id": 28,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [],
+        "title": "UEFA Women's Champions League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:05:00",
+            "event_name": "EFL Cup",
+            "start_time": "29/10/2026 19:45:00",
+            "team_a": "Everton",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/48/image",
+            "team_b": "Newcastle United",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/39/image"
+        },
+        "id": 29,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/21/image/dark",
+        "streams": [],
+        "title": "EFL Cup"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "30/10/2026 02:50:00",
+            "event_name": "Campeonato Brasileiro Série A",
+            "start_time": "30/10/2026 00:30:00",
+            "team_a": "Grêmio",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/5926/image",
+            "team_b": "Athletico",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1967/image"
+        },
+        "id": 30,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [],
+        "title": "Campeonato Brasileiro Série A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "30/10/2026 01:20:00",
+            "event_name": "Campeonato Brasileiro Série A",
+            "start_time": "29/10/2026 23:00:00",
+            "team_a": "Vasco da Gama",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1974/image",
+            "team_b": "Flamengo",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/5981/image"
+        },
+        "id": 31,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [],
+        "title": "Campeonato Brasileiro Série A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "30/10/2026 00:50:00",
+            "event_name": "Campeonato Brasileiro Série A",
+            "start_time": "29/10/2026 22:30:00",
+            "team_a": "Atlético Mineiro",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1977/image",
+            "team_b": "Cruzeiro",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1954/image"
+        },
+        "id": 32,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [],
+        "title": "Campeonato Brasileiro Série A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:20:00",
+            "event_name": "Copa del Rey",
+            "start_time": "29/10/2026 20:00:00",
+            "team_a": "Sporting Hortaleza",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1139496/image",
+            "team_b": "Sevilla",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2833/image"
+        },
+        "id": 33,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [],
+        "title": "Copa del Rey"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:20:00",
+            "event_name": "Copa del Rey",
+            "start_time": "29/10/2026 18:00:00",
+            "team_a": "UB Lebrijana",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/229781/image",
+            "team_b": "Getafe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2859/image"
+        },
+        "id": 34,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [],
+        "title": "Copa del Rey"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 20:20:00",
+            "event_name": "Copa del Rey",
+            "start_time": "29/10/2026 18:00:00",
+            "team_a": "Atlético Calatayud",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/451486/image",
+            "team_b": "Osasuna",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2820/image"
+        },
+        "id": 35,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [],
+        "title": "Copa del Rey"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "29/10/2026 22:20:00",
+            "event_name": "Copa del Rey",
+            "start_time": "29/10/2026 20:00:00",
+            "team_a": "AE Prat",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/77401/image",
+            "team_b": "Athletic Club",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2825/image"
+        },
+        "id": 36,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [],
+        "title": "Copa del Rey"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "29/10/2026 18:00:00",
+            "event_name": "ICC World Test Championship",
+            "start_time": "29/10/2026 08:30:00",
+            "team_a": "South Africa",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187747/image",
+            "team_b": "Australia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187746/image"
+        },
+        "id": 37,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [
+            {
+                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FANCODE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "name": "SKY CRICKET ",
+                "token_api": ""
+            }
+        ],
+        "title": "ICC World Test Championship"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "29/10/2026 19:30:00",
+            "event_name": "WNBA",
+            "start_time": "29/10/2026 16:30:00",
+            "team_a": "Atlanta Dream",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/35545/image",
+            "team_b": "Golden State Valkyries",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1041936/image"
+        },
+        "id": 38,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "streams": [],
+        "title": "WNBA"
+    },
+    {
+        "category": "American football",
+        "event_info": {
+            "end_time": "30/10/2026 03:45:00",
+            "event_name": "NFL",
+            "start_time": "30/10/2026 00:15:00",
+            "team_a": "Green Bay Packers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4420/image",
+            "team_b": "Carolina Panthers",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4415/image"
+        },
+        "id": 39,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "streams": [],
+        "title": "NFL"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "30/10/2026 05:00:00",
+            "event_name": "NBA",
+            "start_time": "30/10/2026 02:00:00",
+            "team_a": "Portland Trail Blazers",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3414/image",
+            "team_b": "Memphis Grizzlies",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3415/image"
+        },
+        "id": 40,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [],
+        "title": "NBA"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "30/10/2026 03:00:00",
+            "event_name": "NBA",
+            "start_time": "30/10/2026 00:00:00",
+            "team_a": "Atlanta Hawks",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3423/image",
+            "team_b": "Cleveland Cavaliers",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "id": 41,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [],
+        "title": "NBA"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "30/10/2026 03:00:00",
+            "event_name": "NBA",
+            "start_time": "30/10/2026 00:00:00",
+            "team_a": "New Orleans Pelicans",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/5539/image",
+            "team_b": "Sacramento Kings",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3413/image"
+        },
+        "id": 42,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [],
+        "title": "NBA"
     }
 ]
