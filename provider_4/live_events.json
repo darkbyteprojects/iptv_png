@@ -488,11 +488,98 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "streams": [
             {
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZE TV",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN +",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espnplus4",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN 1 CL",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espn1cl",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espn",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "M LALIGA ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=mlaliga",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN DEPORTES ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espndeportes",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "LaLiga"
@@ -713,18 +800,43 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "streams": [
             {
-                "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "NBC SPORTS ",
-                "token_api": ""
-            },
-            {
                 "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "FUBO SPORTS ",
                 "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FOX ONE",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=foxone9",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DISNEY ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=disney10",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Premier League"
@@ -964,9 +1076,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "FOX ONE",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=foxone8",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=disney8",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Ligue 1"
@@ -1429,9 +1566,9 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "Link 1",
                 "token_api": ""
             }
@@ -1455,9 +1592,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "TUDN",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=tudnus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FOX ONE",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=foxone1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga MX, Apertura"
@@ -1479,9 +1641,50 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "UNIVERSO",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=universo",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "AMAZON",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=amazon1",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TELEMUNDO ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=telemundo",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga MX, Apertura"
@@ -1501,11 +1704,34 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "streams": [
             {
+                "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TUDN MX",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "name": "CANAL 5",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "TUDN",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=tudnus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga MX, Apertura"
@@ -1525,11 +1751,50 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "streams": [
             {
+                "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "name": "CANAL 5",
+                "token_api": ""
+            },
+            {
+                "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TUDN",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "TUDN",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=tudnus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "TUDN MX",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=tudnmx",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga MX, Apertura"
@@ -1721,11 +1986,34 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "streams": [
             {
+                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "name": "PREMIER SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "name": "FOX DEPORTES ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "TNT SPORTS ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=tntar",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga Profesional de Fútbol"
@@ -1747,9 +2035,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga Profesional de Fútbol"
@@ -1771,9 +2084,34 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "ESPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "EDPN PREMIUM ",
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=espnpremium",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Liga Profesional de Fútbol"
@@ -1795,9 +2133,18 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://streamx723.sbs/global1.php?channel=winplus",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "Primera A"
@@ -1883,9 +2230,9 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
                 "name": "Link 1",
                 "token_api": ""
             }
@@ -1917,44 +2264,6 @@
         "title": "T20 International"
     },
     {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "ODI Tri-series in Pakistan",
-            "start_time": "31/10/2026 08:00:00",
-            "team_a": "Pakistan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187754/image",
-            "team_b": "Sri Lanka",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
-        },
-        "id": 64,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
-        "streams": [
-            {
-                "drm_key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-                "name": "WILLOW ADFREE",
-                "token_api": ""
-            },
-            {
-                "drm_key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-                "name": "WILLOW ALT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD",
-                "token_api": ""
-            }
-        ],
-        "title": "ODI Tri-series in Pakistan"
-    },
-    {
         "category": "Football",
         "event_info": {
             "end_time": "31/10/2026 19:20:00",
@@ -1965,7 +2274,7 @@
             "team_b": "AS Roma",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2702/image"
         },
-        "id": 65,
+        "id": 64,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -2044,7 +2353,7 @@
             "team_b": "Venezia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2688/image"
         },
-        "id": 66,
+        "id": 65,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "streams": [
             {
@@ -2068,7 +2377,7 @@
             "team_b": "Al Faisaly",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/56035/image"
         },
-        "id": 67,
+        "id": 66,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
@@ -2099,9 +2408,25 @@
             "team_b": "Al-Fateh",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/56023/image"
         },
-        "id": 68,
+        "id": 67,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "SK LIVE ",
+                "token_api": {
+                    "api": "https://emb.apl610.online/player/live.php?id=268674&w=512&h=288",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -2132,7 +2457,7 @@
             "team_b": "Hatta",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/227791/image"
         },
-        "id": 69,
+        "id": 68,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/971/image/dark",
         "streams": [
             {
@@ -2156,7 +2481,7 @@
             "team_b": "Punjab FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/230661/image"
         },
-        "id": 71,
+        "id": 70,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
         "streams": [
             {
@@ -2194,13 +2519,13 @@
             "team_b": "Willem II Tilburg",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2961/image"
         },
-        "id": 72,
+        "id": 71,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
-                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.59/hls/JOOOA.m3u8|Referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                 "name": "SPORT DIGITAL ",
                 "token_api": ""
             }
@@ -2218,13 +2543,13 @@
             "team_b": "AZ Alkmaar",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2950/image"
         },
-        "id": 73,
+        "id": 72,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "Link 1",
                 "token_api": ""
             }
@@ -2242,31 +2567,7 @@
             "team_b": "ADO Den Haag",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2966/image"
         },
-        "id": 74,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
-            }
-        ],
-        "title": "VriendenLoterij Eredivisie"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "31/10/2026 22:20:00",
-            "event_name": "VriendenLoterij Eredivisie",
-            "start_time": "31/10/2026 20:00:00",
-            "team_a": "SC Cambuur",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2970/image",
-            "team_b": "Go Ahead Eagles",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2979/image"
-        },
-        "id": 75,
+        "id": 73,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
@@ -2290,7 +2591,7 @@
             "team_b": "Fortuna Sittard",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2957/image"
         },
-        "id": 76,
+        "id": 74,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
@@ -2314,24 +2615,15 @@
             "team_b": "NEC Nijmegen",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2962/image"
         },
-        "id": 77,
+        "id": 75,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
                 "name": "DISNEY",
-                "token_api": {
-                    "api": "https://streamx723.sbs/global1.php?channel=disney5",
-                    "default_string": "N8x7Y%m+6n",
-                    "ip_api": "https://api.ipify.org/",
-                    "link_key": "playback_url",
-                    "request_body_type": "text",
-                    "request_type": "get",
-                    "type": "embed",
-                    "url": ""
-                }
+                "token_api": ""
             }
         ],
         "title": "VriendenLoterij Eredivisie"
@@ -2347,15 +2639,31 @@
             "team_b": "Oklahoma City Thunder",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3418/image"
         },
-        "id": 78,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 76,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
+            {
+                "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/okc-hou",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
@@ -2371,15 +2679,24 @@
             "team_b": "Cleveland Cavaliers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3432/image"
         },
-        "id": 79,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 77,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/cle-mil",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
@@ -2395,15 +2712,24 @@
             "team_b": "Portland Trail Blazers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3414/image"
         },
-        "id": 80,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 78,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/por-utah",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
@@ -2419,15 +2745,24 @@
             "team_b": "Minnesota Timberwolves",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3426/image"
         },
-        "id": 81,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 79,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/min-sa",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
@@ -2443,42 +2778,27 @@
             "team_b": "Sacramento Kings",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3413/image"
         },
-        "id": 82,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 80,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/sac-mem",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "31/10/2026 21:45:00",
-            "event_name": "Pre Campioni Del Domani",
-            "start_time": "31/10/2026 18:45:00",
-            "team_a": "INBA U19",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1304549/image",
-            "team_b": "Club Providencia U19",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1304558/image"
-        },
-        "id": 83,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/39631/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
-            }
-        ],
-        "title": "Pre Campioni Del Domani"
     },
     {
         "category": "Basketball",
@@ -2491,15 +2811,31 @@
             "team_b": "Atlanta Dream",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/35545/image"
         },
-        "id": 84,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "id": 81,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
         "streams": [
+            {
+                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
-                "name": "Link 1",
-                "token_api": ""
+                "link": "",
+                "name": "HD SERVER ",
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/wnba/2026-10-31/atl-gs",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "WNBA"
@@ -2515,15 +2851,24 @@
             "team_b": "Atlanta Hawks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3423/image"
         },
-        "id": 85,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 82,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/atl-no",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
@@ -2539,15 +2884,24 @@
             "team_b": "Philadelphia 76ers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3420/image"
         },
-        "id": 86,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "id": 83,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://no_link.m3u8",
+                "link": "",
                 "name": "Link 1",
-                "token_api": ""
+                "token_api": {
+                    "api": "https://taifood-blog.asia/embed/nba/2026-10-31/phi-cha",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "embed",
+                    "url": ""
+                }
             }
         ],
         "title": "NBA"
