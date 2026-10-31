@@ -522,7 +522,9 @@
         },
         "formats": [
             "FANCODE ENG AQ",
-            "FANCODE 2 - AQ"
+            "FANCODE 2 - AQ",
+            "ROBBITHOLE - AQ",
+            "TAPMAD - AQ"
         ],
         "id": 21,
         "image": "https://cricketvectors.akamaized.net/Series/1LY.png?impolicy=default_web",
@@ -543,6 +545,20 @@
                 "publish": 1,
                 "title": "FANCODE 2 - AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793418648~exp=1793447508~acl=/bpk-tv/202/default/*~eti=5bc1fbad7de02c4b708db91d4c989562~sid=a35a136bde8af9ec~imax=2~hmac=5aa32173d9d010587c0d11781300caa88b24a12d6ec4eb48213b16ef4a84a436/bpk-tv/202/default/index.m3u8",
+                "publish": 1,
+                "title": "ROBBITHOLE - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD - AQ",
+                "type": "0"
             }
         ],
         "slug": "live8-ban-wi",
@@ -1435,7 +1451,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/199277/image"
         },
         "formats": [
-            "English | Papua New Guinea v Kuwait (1st Innings)"
+            "English | Qatar v Jersey (1st Innings)"
         ],
         "id": 759,
         "image": "null",
@@ -1445,9 +1461,9 @@
         "resolved_streams": [
             {
                 "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793370618~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e882252a92cefc1ffe4ba3da52960756adab63324e7e42d23c35bb6f24b5efe7/manifest.mpd?vcfilter=a1560c47-a668-487d-b52f-1ea2f04b2389&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793457013~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4838bd2d4f140bc4f34532b991a53ace6f64286dd9163e12247853117bd145f4/manifest.mpd?vcfilter=5164e0ca-5166-4a1a-96b1-3b55a3ffecd1&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
                 "publish": 1,
-                "title": "English | Papua New Guinea v Kuwait (1st Innings)",
+                "title": "English | Qatar v Jersey (1st Innings)",
                 "type": "1"
             }
         ],
@@ -1470,7 +1486,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/199278/image"
         },
         "formats": [
-            "English | Jersey v Kenya (1st Innings)"
+            "English | Kenya v Papua New Guinea (1st Innings)"
         ],
         "id": 760,
         "image": "null",
@@ -1479,10 +1495,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793110533~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f384ca41fa81e4cc074b38a83c5e333d2915e4393660d55484943c7aae37c8cf/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793457015~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=988985a7cf1b1e732b86eece121e52af06cfe7fa2d8cdf373eb69959b17afc70/manifest.mpd?vcfilter=55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
                 "publish": 1,
-                "title": "English | Jersey v Kenya (1st Innings)",
+                "title": "English | Kenya v Papua New Guinea (1st Innings)",
                 "type": "1"
             }
         ],
@@ -2752,8 +2768,8 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793370615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d5df963ce2b86ce753ab942784f4d17c9bb5a262a3286795b0b77a8a594e329/manifest.mpd?vcfilter=8499792c-e958-4275-a53c-3ce36223b393&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793453026~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7543d43583846be22203e12d5a11662cc8982514b3995ce571a49b653cbf4d13/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "English | Jersey v Denmark (1st Innings)",
                 "type": "1"
@@ -3121,15 +3137,11 @@
             "teamBFlag": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1793187149502.webp?id=61"
         },
         "formats": [
-            "FANCODE ENG - AQ",
-            "WILLOW SPORTS - AQ",
+            "ICC TV FHD",
             "Willow Cricbuzz AQ",
-            "WILLOW RED - FHD",
             "TAPMAD ENG - AQ",
             "A SPORTS SD",
-            "A SPORTS HD",
-            "Willow Cricbuzz HD",
-            "Willow Cricbuzz SD"
+            "A SPORTS HD"
         ],
         "id": 43,
         "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/pal.png&scale=crop&cquality=40&location=origin&w=64&h=64",
@@ -3138,31 +3150,17 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793450709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9f587d0f86476ade28a484c947bd37e1b6dc9efd03661e014965e3c3bf89b1ba/manifest.mpd?vcfilter=08a914c8-f7dc-4b69-a32e-52c607bf5904&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
                 "publish": 1,
-                "title": "FANCODE ENG - AQ",
+                "title": "ICC TV FHD",
                 "type": "1"
             },
             {
-                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "aea52971d0ad3d1e6ccd822c4659d5e1:fedb2e0e47bf973b5833b8339f8aa949",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd",
+                "api": "618ed9fba02a14e4350000041b526502:d6bae617d11994298f1fe5116231f897",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5mzghrmb3g/out/v1/0b26e62e27844358bf6822532468ee09/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz AQ",
-                "type": "1"
-            },
-            {
-                "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "WILLOW RED - FHD",
                 "type": "1"
             },
             {
@@ -3184,20 +3182,6 @@
                 "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
                 "publish": 1,
                 "title": "A SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
-                "publish": 1,
-                "title": "Willow Cricbuzz HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-                "publish": 1,
-                "title": "Willow Cricbuzz SD",
                 "type": "0"
             }
         ],
@@ -4451,7 +4435,10 @@
             "Willow Cricbuzz AQ",
             "Willow Cricbuzz ALT",
             "WILLOW SPORTS - AQ",
-            "EUROSPORTS - AQ"
+            "EUROSPORTS - AQ",
+            "SKY CRICKET - AQ",
+            "TAPMAD - AQ",
+            "FOX CRICKET HD"
         ],
         "id": 1152,
         "image": "null",
@@ -4460,15 +4447,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz AQ",
                 "type": "1"
             },
             {
-                "api": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+                "api": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz ALT",
                 "type": "1"
@@ -4486,6 +4473,27 @@
                 "publish": 1,
                 "title": "EUROSPORTS - AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "publish": 1,
+                "title": "SKY CRICKET - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+                "publish": 1,
+                "title": "FOX CRICKET HD",
+                "type": "0"
             }
         ],
         "slug": "wbbl",
