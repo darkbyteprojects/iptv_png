@@ -16,11 +16,10 @@
         },
         "formats": [
             "Willow Cricbuzz - AQ",
-            "Willow Cricbuzz - Alt",
+            "Willow Cricbuzz - ALT",
             "FANCODE ENG AQ",
             "FANCODE ENG SD",
-            "TAPMAD WW - AQ",
-            "FANCODE ENG (IND)"
+            "GHD SPORTS HD"
         ],
         "id": 17,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7WEUoPwDXanoJFsG7SSPjj4rOVEPGkGl4AMHgGBseg&s",
@@ -29,17 +28,17 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
+                "api": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd",
                 "publish": 1,
                 "title": "Willow Cricbuzz - AQ",
                 "type": "1"
             },
             {
-                "api": "d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
+                "api": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd",
                 "publish": 1,
-                "title": "Willow Cricbuzz - Alt",
+                "title": "Willow Cricbuzz - ALT",
                 "type": "1"
             },
             {
@@ -58,16 +57,9 @@
             },
             {
                 "api": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/",
+                "link": "http://193.47.62.41/hls/R777.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "TAPMAD WW - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F",
-                "publish": 1,
-                "title": "FANCODE ENG (IND)",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -788,6 +780,7 @@
         "formats": [
             "PREMIERE SPORTS FHD",
             "FANCODE ENG FHD",
+            "GHD SPORTS HD",
             "Arena 3 Premium Serbia",
             "Digi Sport 2 Romania",
             "Prima Sport 2 Romania"
@@ -811,6 +804,13 @@
                 "publish": 1,
                 "title": "FANCODE ENG FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/B111AAQQQQAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -845,7 +845,7 @@
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
             "eventName": "LaLiga",
             "eventType": "",
-            "isHot": "0",
+            "isHot": 1,
             "startTime": "2026/11/01 15:15:00 +0000",
             "teamA": "Racing Club",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
@@ -854,50 +854,74 @@
         },
         "formats": [
             "beIN ENGLISH FHD",
-            "D SPORTS + FHD",
+            "TSN SPORTS FHD",
+            "PREMIER SPORTS AQ",
+            "FANCODE FHD",
+            "D Sports FHD ",
             "GHD SPORTS HD",
-            "Digi Sport 2 Romania",
-            "Arena 2 Premium Serbia"
+            "Arena 3 Premium Serbia",
+            "Prima Sport 2 Romania"
         ],
         "id": 755,
         "image": "null",
-        "isHot": 0,
+        "isHot": 1,
         "position": 21,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
                 "title": "beIN ENGLISH FHD",
+                "type": "1"
+            },
+            {
+                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "TSN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "PREMIER SPORTS AQ",
+                "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "FANCODE FHD",
                 "type": "1"
             },
             {
                 "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
-                "title": "D SPORTS + FHD",
+                "title": "D Sports FHD ",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/BDDDAAAAQQA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "link": "http://193.47.62.44/hls/GAGAGA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=401",
+                "link": "https://thedaddy.pk/watch.php?id=139",
                 "publish": 1,
-                "title": "Digi Sport 2 Romania",
+                "title": "Arena 3 Premium Serbia",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=135",
+                "link": "https://thedaddy.pk/watch.php?id=584",
                 "publish": 1,
-                "title": "Arena 2 Premium Serbia",
+                "title": "Prima Sport 2 Romania",
                 "type": "0"
             }
         ],
@@ -920,9 +944,13 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image"
         },
         "formats": [
+            "PREMIRE SPORTS FHD",
+            "BEIN SPORTS FHD",
             "FANCODE FHD",
             "CAZE TV FHD",
-            "ESPN DEPORTES HD"
+            "Arena 3 Premium Serbia",
+            "Prima Sport 2 Romania",
+            "Digi Sport 2 Romania"
         ],
         "id": 756,
         "image": "null",
@@ -930,6 +958,20 @@
         "position": 22,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "publish": 1,
+                "title": "PREMIRE SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "BEIN SPORTS FHD",
+                "type": "1"
+            },
             {
                 "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -946,9 +988,23 @@
             },
             {
                 "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58920/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "link": "https://thedaddy.pk/watch.php?id=139",
                 "publish": 1,
-                "title": "ESPN DEPORTES HD",
+                "title": "Arena 3 Premium Serbia",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://thedaddy.pk/watch.php?id=584",
+                "publish": 1,
+                "title": "Prima Sport 2 Romania",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://thedaddy.pk/watch.php?id=401",
+                "publish": 1,
+                "title": "Digi Sport 2 Romania",
                 "type": "0"
             }
         ],
@@ -1047,8 +1103,9 @@
         },
         "formats": [
             "GHD SPORTS HD",
-            "Sky Sport Bundesliga 1",
-            "Nova Sports 3 Greece"
+            "Eleven Sports 3 Poland",
+            "Arena Sport 2 Serbia",
+            "Nova Sports 4 Greece"
         ],
         "id": 764,
         "image": "null",
@@ -1058,23 +1115,30 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.50/hls/CIII.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/R777AAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=558",
+                "link": "https://thedaddy.pk/watch.php?id=428",
                 "publish": 1,
-                "title": "Sky Sport Bundesliga 1",
+                "title": "Eleven Sports 3 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=633",
+                "link": "https://thedaddy.pk/watch.php?id=430",
                 "publish": 1,
-                "title": "Nova Sports 3 Greece",
+                "title": "Arena Sport 2 Serbia",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://thedaddy.pk/watch.php?id=634",
+                "publish": 1,
+                "title": "Nova Sports 4 Greece",
                 "type": "0"
             }
         ],
@@ -1097,11 +1161,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image"
         },
         "formats": [
+            "DAZN SPORTS FHD",
             "GHD SPORTS HD",
-            "Sky Sport Bundesliga 2",
-            "Eleven Sports 2 Poland",
-            "Nova Sports 3 Greece",
-            "Diema Sport 3 Bulgaria"
+            "BUNDESHLIGA+ HD",
+            "Arena Sport 2 Serbia",
+            "Eleven Sports 3 Poland",
+            "Digi Sport 3 Romania"
         ],
         "id": 765,
         "image": "null",
@@ -1110,38 +1175,45 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "2bcaa9d588854c88c6a93fd888819d5d:4fc1490ca0c58c154be198a8f3ff7038",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b11iuahvrs/out/v1/73a078e42a334a549e9169473084c862/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "DAZN SPORTS FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.44/hls/kkkkAAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "link": "http://193.47.62.41/hls/DRRRRQQQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=946",
+                "link": "https://chatgpt.hereisman.net/playlist/59050/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                 "publish": 1,
-                "title": "Sky Sport Bundesliga 2",
+                "title": "BUNDESHLIGA+ HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=72",
+                "link": "https://thedaddy.pk/watch.php?id=430",
                 "publish": 1,
-                "title": "Eleven Sports 2 Poland",
+                "title": "Arena Sport 2 Serbia",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=633",
+                "link": "https://thedaddy.pk/watch.php?id=428",
                 "publish": 1,
-                "title": "Nova Sports 3 Greece",
+                "title": "Eleven Sports 3 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=467",
+                "link": "https://thedaddy.pk/watch.php?id=402",
                 "publish": 1,
-                "title": "Diema Sport 3 Bulgaria",
+                "title": "Digi Sport 3 Romania",
                 "type": "0"
             }
         ],
@@ -1306,6 +1378,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image"
         },
         "formats": [
+            "GHD SPORTS HD",
             "Arena 4 Premium Serbia",
             "Eleven Sports 2 Poland"
         ],
@@ -1315,6 +1388,13 @@
         "position": 32,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/SKKKAAAAQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=22",
@@ -1349,7 +1429,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image"
         },
         "formats": [
+            "beIN ENGLISH FHD",
             "SPORT1 CZ FHD",
+            "GHD SPORTS HD",
             "Sport TV2 Portugal",
             "Eleven Sports 1 Poland",
             "Arena 1 Premium Serbia"
@@ -1361,11 +1443,25 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "beIN ENGLISH FHD",
+                "type": "1"
+            },
+            {
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                 "publish": 1,
                 "title": "SPORT1 CZ FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/SKKKAAAAQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             },
             {
                 "api": "",
@@ -1408,11 +1504,14 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image"
         },
         "formats": [
-            "SPORT2 TV CZ FHD",
-            "Sport TV2 Portugal",
-            "Eleven Sports 3 Poland",
-            "Digi Sport 3 Romania",
-            "Nova Sport Bulgaria"
+            "FUBO SPORTS FHD",
+            "BeIN2 SPORTS FHD",
+            "PARAMOUNT+ FHD",
+            "CBS GOLAZO AQ",
+            "Sport CZ 1 FHD",
+            "Sport TV5 Portugal",
+            "Eleven Sports 2 Poland",
+            "Arena Sport 1 Serbia"
         ],
         "id": 772,
         "image": "null",
@@ -1421,38 +1520,59 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "api": "8d1a722ce6166c97ae3ef028a3cc83bd:22cd575e524b0bf0520efb15034c67d3",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aqhzignd6x/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?aws_sessionId=21a3c037-f46e-4e80-9fa0-71f5e55b4bd5",
                 "publish": 1,
-                "title": "SPORT2 TV CZ FHD",
+                "title": "FUBO SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN2 SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "98342fab63b4e326f32acbd643721f5f:8c39f70abf21ff4a3908025e72af3e86",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4qwtwsitzq/out/v1/05ae24d638094c31b98c2faa35945991/cenc.mpd?aws_sessionId=8b11c55f-701d-4e01-963a-b0a3272f9fa3",
+                "publish": 1,
+                "title": "PARAMOUNT+ FHD",
+                "type": "1"
+            },
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "publish": 1,
+                "title": "CBS GOLAZO AQ",
+                "type": "1"
+            },
+            {
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "publish": 1,
+                "title": "Sport CZ 1 FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=74",
+                "link": "https://thedaddy.pk/watch.php?id=290",
                 "publish": 1,
-                "title": "Sport TV2 Portugal",
+                "title": "Sport TV5 Portugal",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=428",
+                "link": "https://thedaddy.pk/watch.php?id=72",
                 "publish": 1,
-                "title": "Eleven Sports 3 Poland",
+                "title": "Eleven Sports 2 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=402",
+                "link": "https://thedaddy.pk/watch.php?id=429",
                 "publish": 1,
-                "title": "Digi Sport 3 Romania",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=468",
-                "publish": 1,
-                "title": "Nova Sport Bulgaria",
+                "title": "Arena Sport 1 Serbia",
                 "type": "0"
             }
         ],
@@ -1476,10 +1596,11 @@
         },
         "formats": [
             "TNT SPORTS FHD",
+            "BeIN SPORTS ENGLISH 2",
             "SPORT1 CZ FHD",
-            "Eleven Sports 1 Poland",
-            "Prima Sport 3 Romania",
-            "Arena 4 Premium Serbia"
+            "Sport TV3 Portugal",
+            "Eleven Sports 2 Poland",
+            "Arena 1 Premium Serbia"
         ],
         "id": 795,
         "image": "null",
@@ -1495,6 +1616,13 @@
                 "type": "1"
             },
             {
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS ENGLISH 2",
+                "type": "1"
+            },
+            {
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                 "publish": 1,
@@ -1503,23 +1631,23 @@
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=71",
+                "link": "https://thedaddy.pk/watch.php?id=454",
                 "publish": 1,
-                "title": "Eleven Sports 1 Poland",
+                "title": "Sport TV3 Portugal",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=585",
+                "link": "https://thedaddy.pk/watch.php?id=72",
                 "publish": 1,
-                "title": "Prima Sport 3 Romania",
+                "title": "Eleven Sports 2 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=1",
+                "link": "https://thedaddy.pk/watch.php?id=134",
                 "publish": 1,
-                "title": "Arena 4 Premium Serbia",
+                "title": "Arena 1 Premium Serbia",
                 "type": "0"
             }
         ],
@@ -1542,11 +1670,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image"
         },
         "formats": [
-            "D SPORTS2+ FHD",
-            "GHD SPORTS HD",
             "Sport TV1 Portugal",
-            "Eleven Sports 4 Poland",
-            "Digi Sport 3 Romania"
+            "GHD SPORTS HD"
         ],
         "id": 804,
         "image": "null",
@@ -1554,20 +1679,6 @@
         "position": 36,
         "publish": 1,
         "resolved_streams": [
-            {
-                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-                "publish": 1,
-                "title": "D SPORTS2+ FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.41/hls/3333AAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=49",
@@ -1577,16 +1688,9 @@
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=999",
+                "link": "http://193.47.62.41/hls/J444AAAA.m3u8https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients",
                 "publish": 1,
-                "title": "Eleven Sports 4 Poland",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=402",
-                "publish": 1,
-                "title": "Digi Sport 3 Romania",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -1609,7 +1713,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "Sport TV4 Portugal"
         ],
         "id": 805,
         "image": "null",
@@ -1619,9 +1723,9 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.44/hls/EUUUAAAAAAAQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://thedaddy.pk/watch.php?id=289",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
+                "title": "Sport TV4 Portugal",
                 "type": "0"
             }
         ],
@@ -1644,6 +1748,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image"
         },
         "formats": [
+            "GHD SPORTS HD",
             "Sport TV3 Portugal",
             "Eleven Sports 4 Poland",
             "Arena 5 Premium Serbia"
@@ -1654,6 +1759,13 @@
         "position": 38,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/SKKKAAAAQQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=454",
@@ -1696,10 +1808,9 @@
         },
         "formats": [
             "GHD SPORTS HD",
-            "GHD SPORTS SD",
-            "Sport TV4 Portugal",
-            "Arena Sport 6 Serbia",
-            "beIN Sports MENA 4"
+            "Sport TV3 Portugal",
+            "Eleven Sports 4 Poland",
+            "Diema Sport 3 Bulgaria"
         ],
         "id": 825,
         "image": "null",
@@ -1709,37 +1820,30 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/IFFFAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/DRRRRQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/hd-en-1-4550919.m3u8?txSecret=3affb818bea1dbd8e813ec3be52b1bf4&txTime=6AE4EFF8|Referer=https://player.on8on8.com/",
+                "link": "https://thedaddy.pk/watch.php?id=454",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
+                "title": "Sport TV3 Portugal",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=289",
+                "link": "https://thedaddy.pk/watch.php?id=999",
                 "publish": 1,
-                "title": "Sport TV4 Portugal",
+                "title": "Eleven Sports 4 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=941",
+                "link": "https://thedaddy.pk/watch.php?id=467",
                 "publish": 1,
-                "title": "Arena Sport 6 Serbia",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=94",
-                "publish": 1,
-                "title": "beIN Sports MENA 4",
+                "title": "Diema Sport 3 Bulgaria",
                 "type": "0"
             }
         ],
@@ -1762,11 +1866,12 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image"
         },
         "formats": [
-            "CazÃ©TV FHD",
+            "beIN SPORTS FHD",
+            "CAZE TV FHD",
             "GHD SPORTS HD",
-            "Arena Sport 1 Croatia",
-            "Eleven Sports 2 Poland",
-            "Sport TV2 Portugal"
+            "Eleven Sports 4 Poland",
+            "Arena Sport 4 Croatia",
+            "Diema Sport Bulgaria"
         ],
         "id": 826,
         "image": "null",
@@ -1775,38 +1880,45 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?aws_sessionId=d7a79a64-4f97-438f-b860-44a258064025",
                 "publish": 1,
-                "title": "CazÃ©TV FHD",
+                "title": "beIN SPORTS FHD",
+                "type": "1"
+            },
+            {
+                "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "CAZE TV FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/3333AAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "link": "http://193.47.62.41/hls/DRRRRQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=432",
+                "link": "https://thedaddy.pk/watch.php?id=999",
                 "publish": 1,
-                "title": "Arena Sport 1 Croatia",
+                "title": "Eleven Sports 4 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=72",
+                "link": "https://thedaddy.pk/watch.php?id=580",
                 "publish": 1,
-                "title": "Eleven Sports 2 Poland",
+                "title": "Arena Sport 4 Croatia",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=74",
+                "link": "https://thedaddy.pk/watch.php?id=465",
                 "publish": 1,
-                "title": "Sport TV2 Portugal",
+                "title": "Diema Sport Bulgaria",
                 "type": "0"
             }
         ],
@@ -1896,10 +2008,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image"
         },
         "formats": [
-            "D SPORTS + FHD",
-            "Sport TV Portugal",
-            "Eleven Sports 3 Poland",
-            "Digi Sport 3 Romania"
+            "Sport TV2 Portugal"
         ],
         "id": 989,
         "image": "null",
@@ -1908,31 +2017,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "publish": 1,
-                "title": "D SPORTS + FHD",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=49",
+                "link": "https://thedaddy.pk/watch.php?id=3021",
                 "publish": 1,
-                "title": "Sport TV Portugal",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=428",
-                "publish": 1,
-                "title": "Eleven Sports 3 Poland",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=402",
-                "publish": 1,
-                "title": "Digi Sport 3 Romania",
+                "title": "Sport TV2 Portugal",
                 "type": "0"
             }
         ],
@@ -1955,9 +2043,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
         },
         "formats": [
-            "Eleven Sports 4 Poland",
-            "Arena Sport 2 Serbia",
-            "beIN Sports MENA 5"
+            "Caze TV FHD",
+            "Sport TV6 Portugal",
+            "Eleven Sports 3 Poland",
+            "Arena Sport 4 Croatia"
         ],
         "id": 1003,
         "image": "null",
@@ -1966,24 +2055,31 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=999",
+                "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "publish": 1,
-                "title": "Eleven Sports 4 Poland",
+                "title": "Caze TV FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://thedaddy.pk/watch.php?id=291",
+                "publish": 1,
+                "title": "Sport TV6 Portugal",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=430",
+                "link": "https://thedaddy.pk/watch.php?id=428",
                 "publish": 1,
-                "title": "Arena Sport 2 Serbia",
+                "title": "Eleven Sports 3 Poland",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=95",
+                "link": "https://thedaddy.pk/watch.php?id=580",
                 "publish": 1,
-                "title": "beIN Sports MENA 5",
+                "title": "Arena Sport 4 Croatia",
                 "type": "0"
             }
         ],
@@ -2274,6 +2370,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/273547/image"
         },
         "formats": [
+            "GHD SPORTS HD",
             "Sky Sport 4 NZ"
         ],
         "id": 1050,
@@ -2282,6 +2379,13 @@
         "position": 72,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/QHHHAAAAAAQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=591",
@@ -2309,6 +2413,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/234204/image"
         },
         "formats": [
+            "GHD SPORTS HD",
             "Sky Sport 5 NZ",
             "Sky Sports+ UK"
         ],
@@ -2318,6 +2423,13 @@
         "position": 73,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/QHHHAAAAAAQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=592",
@@ -2352,6 +2464,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image"
         },
         "formats": [
+            "GHD SPORTS HD",
             "Sky Sport Select NZ"
         ],
         "id": 1052,
@@ -2360,6 +2473,13 @@
         "position": 74,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/QHHHAAAAAAQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
             {
                 "api": "",
                 "link": "https://thedaddy.pk/watch.php?id=587",
@@ -2387,11 +2507,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image"
         },
         "formats": [
-            "PARAMOUNT+ FHD",
-            "FANCODE ENG FHD",
-            "Canal+ Sport 2 CZ",
-            "Sky Sport 9 NZ",
-            "Sportsnet One"
+            "CBS GOLAZO AQ",
+            "GHD SPORTS HD",
+            "Sky Sport 6 NZ",
+            "BBC Two UK"
         ],
         "id": 1053,
         "image": "null",
@@ -2400,38 +2519,31 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "84c95ae4b5e1dae7b35b9352236714e9:57ef1e57a12fab045de11cfb5be89a9b",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/t7dsgpgoii/out/v1/81e22e7c0e9d47a38f59177845c6e359/35f49fbf-27e4-4cb1-b4df-6cb360d5ae02-cenc.mpd?aws_sessionId=d49981a8-479b-40ac-b253-4df92394f726",
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
                 "publish": 1,
-                "title": "PARAMOUNT+ FHD",
-                "type": "1"
-            },
-            {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "FANCODE ENG FHD",
+                "title": "CBS GOLAZO AQ",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=1043",
+                "link": "http://193.47.62.41/hls/R777A.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "Canal+ Sport 2 CZ",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=596",
+                "link": "https://thedaddy.pk/watch.php?id=593",
                 "publish": 1,
-                "title": "Sky Sport 9 NZ",
+                "title": "Sky Sport 6 NZ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=411",
+                "link": "https://thedaddy.pk/watch.php?id=357",
                 "publish": 1,
-                "title": "Sportsnet One",
+                "title": "BBC Two UK",
                 "type": "0"
             }
         ],
@@ -2476,13 +2588,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/01 13:30:32 +0000",
+            "endTime": "2026/11/04 11:00:35 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
             "eventName": "T20 International",
             "eventType": "",
             "isHot": "1",
-            "startTime": "2026/11/01 07:00:19 +0000",
+            "startTime": "2026/11/04 02:00:37 +0000",
             "teamA": "NZ",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
             "teamB": "IND",
@@ -2696,10 +2808,15 @@
         },
         "formats": [
             "FUBO SPORTS FHD",
+            "PEACOCK TV FHD",
+            "FUBO SPORTS HD",
+            "PEACOCK TV HD",
+            "NBC SPORTS HD",
+            "FUBO SPORTS ALT",
             "SKY SPORTS EPL - FHD",
-            "Arena 1 Premium Serbia",
-            "Arena Sport 1 Croatia",
-            "Sky Sport 8 NZ"
+            "SKY SPORTS MAIN HD",
+            "GHD SPORTS HD",
+            "GHD SPORTS SD"
         ],
         "id": 777,
         "image": "null",
@@ -2715,6 +2832,41 @@
                 "type": "1"
             },
             {
+                "api": "f2ea8d5893c5bb84b8c9f43c462add5f:95b1c6f710c81d239adb7cf45ad26d39",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4wn492fzje/out/v1/fda9936cc9c64529810d704dcb67951c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                "publish": 1,
+                "title": "PEACOCK TV FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://admin2.formaturamaxi.com.br/fubo.m3u8",
+                "publish": 1,
+                "title": "FUBO SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59049/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "PEACOCK TV HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59052/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "NBC SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+                "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "FUBO SPORTS ALT",
+                "type": "1"
+            },
+            {
                 "api": "",
                 "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
                 "publish": 1,
@@ -2723,23 +2875,23 @@
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=134",
+                "link": "https://eu-4605069466.duckdns.org/skymain2/mono.ts.m3u8?token=e6cdcf2cef77830ce9b9c7a3a373af9f|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxyzstreams.st%2Fi-epl-1.html",
                 "publish": 1,
-                "title": "Arena 1 Premium Serbia",
+                "title": "SKY SPORTS MAIN HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=432",
+                "link": "https://live01-cn-ali.xdbrk.com/live/99124110_tsc.m3u8",
                 "publish": 1,
-                "title": "Arena Sport 1 Croatia",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://thedaddy.pk/watch.php?id=595",
+                "link": "https://www.rtmpcdn.com/live/6da4b11e-fef6-4773-8c01-a4d9ef3c8845.m3u8",
                 "publish": 1,
-                "title": "Sky Sport 8 NZ",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -3223,8 +3375,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image"
         },
         "formats": [
-            "DAZN2 Spain",
-            "GHD SPORTS HD"
+            "DAZN2 Spain"
         ],
         "id": 870,
         "image": "null",
@@ -3237,13 +3388,6 @@
                 "link": "https://thedaddy.pk/watch.php?id=446",
                 "publish": 1,
                 "title": "DAZN2 Spain",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/K888.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
                 "type": "0"
             }
         ],
@@ -3308,57 +3452,6 @@
         ],
         "slug": "uefa-champions-league9",
         "title": "uefa-champions-league9"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
-            "endTime": "2026/11/01 17:20:22 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMit-6K8hh6BsVA_Dzk1JOvPnZ5cxPY1XZmZJa44gbsw&s",
-            "eventName": "NEPAL PREMIER LEAGUE",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/11/01 10:45:07 +0000",
-            "teamA": "NPL",
-            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rwH2XXszZ10hGTSccY6hT1TvDCCrh_tHLx5ZfzVCCA&s=10",
-            "teamB": "NPL",
-            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rwH2XXszZ10hGTSccY6hT1TvDCCrh_tHLx5ZfzVCCA&s=10"
-        },
-        "formats": [
-            "GHD SPORTS HD",
-            "STAR SPORTS HD",
-            "HIMALAYA HD"
-        ],
-        "id": 1147,
-        "image": "null",
-        "isHot": 0,
-        "position": 292,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "https://lastwarningfal.bondsplive.online/495346/logosp.webp?&e=.m3u8?Referer: https://youjizz.com/",
-                "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://lastwarning-xtv.bondsplive.online/167579/logosp.webp?&e=.m3u8?Referer: https://youjizz.com/",
-                "publish": 1,
-                "title": "STAR SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://linkinpark-xtv.bondsplive.online/414167/logosp.webp?&e=.m3u8?Referer: https://youjizz.com/",
-                "publish": 1,
-                "title": "HIMALAYA HD",
-                "type": "0"
-            }
-        ],
-        "slug": "npl",
-        "title": "NPL"
     },
     {
         "cat": "Live Events",
