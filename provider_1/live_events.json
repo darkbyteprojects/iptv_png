@@ -107,7 +107,9 @@
                 "api": null,
                 "tokenApi": null
             }
-        ]
+        ],
+        "end_date": "04/11/2026",
+        "end_time": "09:00:00"
     },
     {
         "teamA": {
@@ -1330,30 +1332,6 @@
     },
     {
         "teamA": {
-            "name": "FC Seoul",
-            "logo": "https://img.sofascore.com/api/v1/team/7646/image"
-        },
-        "teamB": {
-            "name": "Viettel",
-            "logo": "https://img.sofascore.com/api/v1/team/231270/image"
-        },
-        "visible": true,
-        "date": "04/11/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/11/2026",
-        "end_time": "12:20:00"
-    },
-    {
-        "teamA": {
             "name": "Flamengo",
             "logo": "https://img.sofascore.com/api/v1/team/5981/image"
         },
@@ -1386,6 +1364,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3134/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "04/11/2026",
         "time": "12:15:00",
         "category": "Football",
@@ -1393,8 +1372,18 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Cricfy HD",
+                "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/HHHHAAQA.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "04/11/2026",
@@ -1471,54 +1460,6 @@
         ],
         "end_date": "04/11/2026",
         "end_time": "22:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Fenerbahçe",
-            "logo": "https://img.sofascore.com/api/v1/team/3052/image"
-        },
-        "teamB": {
-            "name": "Liverpool",
-            "logo": "https://img.sofascore.com/api/v1/team/44/image"
-        },
-        "visible": true,
-        "date": "04/11/2026",
-        "time": "17:45:00",
-        "category": "Football",
-        "eventName": "UEFA Champions League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/11/2026",
-        "end_time": "20:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Pohang Steelers",
-            "logo": "https://img.sofascore.com/api/v1/team/7650/image"
-        },
-        "teamB": {
-            "name": "Gamba Osaka",
-            "logo": "https://img.sofascore.com/api/v1/team/3138/image"
-        },
-        "visible": true,
-        "date": "04/11/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Elite",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "04/11/2026",
-        "end_time": "12:20:00"
     },
     {
         "teamA": {
@@ -1674,6 +1615,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3245/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "04/11/2026",
         "time": "15:30:00",
         "category": "Football",
@@ -1681,8 +1623,11 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
             }
         ],
         "end_date": "04/11/2026",
@@ -1871,5 +1816,672 @@
                 "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
             }
         ]
+    },
+    {
+        "teamA": {
+            "name": "HB-W",
+            "logo": "https://img.sofascore.com/api/v1/team/274885/image"
+        },
+        "teamB": {
+            "name": "MR-W",
+            "logo": "https://img.sofascore.com/api/v1/team/274887/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "04/11/2026",
+        "time": "08:10:00",
+        "category": "Cricket",
+        "eventName": "Women's Big Bash League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "streams": [
+            {
+                "name": "WILLOW - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6mcmg5vcu/out/v1/45db9febe2b64d59a5ecd2181616a9db/cenc.mpd",
+                "scheme": 0,
+                "api": "c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT - AQ",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6mcmg5vcu/out/v1/45db9febe2b64d59a5ecd2181616a9db/cenc.mpd",
+                "scheme": 0,
+                "api": "c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7",
+                "tokenApi": null
+            },
+            {
+                "name": "EUROSPORTS - AQ",
+                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+                "scheme": 0,
+                "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+                "tokenApi": null
+            },
+            {
+                "name": "SK CRICKET",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD FHD",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE (IND)",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Al-Rayyan",
+            "logo": "https://img.sofascore.com/api/v1/team/40660/image"
+        },
+        "teamB": {
+            "name": "Al-Nahda",
+            "logo": "https://img.sofascore.com/api/v1/team/40648/image"
+        },
+        "visible": true,
+        "date": "04/11/2026",
+        "time": "16:00:00",
+        "category": "Football",
+        "eventName": "AFC Champions League Two",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "04/11/2026",
+        "end_time": "18:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Suns",
+            "logo": "https://img.sofascore.com/api/v1/team/3416/image"
+        },
+        "teamB": {
+            "name": "Trail Blazers",
+            "logo": "https://img.sofascore.com/api/v1/team/3414/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "02:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT39",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/192",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "05:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Pelicans",
+            "logo": "https://img.sofascore.com/api/v1/team/5539/image"
+        },
+        "teamB": {
+            "name": "Jazz",
+            "logo": "https://img.sofascore.com/api/v1/team/3434/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "01:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT35",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/188",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "04:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Nets",
+            "logo": "https://img.sofascore.com/api/v1/team/3436/image"
+        },
+        "teamB": {
+            "name": "Hornets",
+            "logo": "https://img.sofascore.com/api/v1/team/3430/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "00:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT30",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/183",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "03:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Thunder",
+            "logo": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "teamB": {
+            "name": "Cavaliers",
+            "logo": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "visible": true,
+        "date": "05/11/2026",
+        "time": "01:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "04:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Nuggets",
+            "logo": "https://img.sofascore.com/api/v1/team/3417/image"
+        },
+        "teamB": {
+            "name": "Raptors",
+            "logo": "https://img.sofascore.com/api/v1/team/3433/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "02:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT38",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/191",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "05:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Spurs",
+            "logo": "https://img.sofascore.com/api/v1/team/3429/image"
+        },
+        "teamB": {
+            "name": "Mavericks",
+            "logo": "https://img.sofascore.com/api/v1/team/3411/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "02:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "beIN SPORT 2",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/2",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "EXTRA SPORT40",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/193",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ESPN2",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/88",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ESPN1MX",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/97",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "05:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Pistons",
+            "logo": "https://img.sofascore.com/api/v1/team/3424/image"
+        },
+        "teamB": {
+            "name": "76ers",
+            "logo": "https://img.sofascore.com/api/v1/team/3420/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "00:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "beIN SPORT 1",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/1",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "EXTRA SPORT26",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/180",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ESPN2",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/88",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ESPN1MX",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/97",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Rockets",
+            "logo": "https://img.sofascore.com/api/v1/team/3412/image"
+        },
+        "teamB": {
+            "name": "Timberwolves",
+            "logo": "https://img.sofascore.com/api/v1/team/3426/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "01:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT37",
+                "link": "https://104game.click/player/2/190",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": "https://104game.click/player/2/190",
+                    "api": "https://104game.click/player/2/190",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "04:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Knicks",
+            "logo": "https://img.sofascore.com/api/v1/team/3421/image"
+        },
+        "teamB": {
+            "name": "Bulls",
+            "logo": "https://img.sofascore.com/api/v1/team/3409/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "00:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT31",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/184",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "03:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Grizzlies",
+            "logo": "https://img.sofascore.com/api/v1/team/3415/image"
+        },
+        "teamB": {
+            "name": "Pacers",
+            "logo": "https://img.sofascore.com/api/v1/team/3419/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "01:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT34",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/187",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "04:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Wizards",
+            "logo": "https://img.sofascore.com/api/v1/team/3431/image"
+        },
+        "teamB": {
+            "name": "Hawks",
+            "logo": "https://img.sofascore.com/api/v1/team/3423/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "00:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT27",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/181",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Celtics",
+            "logo": "https://img.sofascore.com/api/v1/team/3422/image"
+        },
+        "teamB": {
+            "name": "Bucks",
+            "logo": "https://img.sofascore.com/api/v1/team/3410/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "05/11/2026",
+        "time": "00:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT28",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/182",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "03:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Clippers",
+            "logo": "https://img.sofascore.com/api/v1/team/3425/image"
+        },
+        "teamB": {
+            "name": "Heat",
+            "logo": "https://img.sofascore.com/api/v1/team/3435/image"
+        },
+        "visible": true,
+        "date": "05/11/2026",
+        "time": "03:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "06:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Kings",
+            "logo": "https://img.sofascore.com/api/v1/team/3413/image"
+        },
+        "teamB": {
+            "name": "Lakers",
+            "logo": "https://img.sofascore.com/api/v1/team/3427/image"
+        },
+        "visible": true,
+        "date": "05/11/2026",
+        "time": "03:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "05/11/2026",
+        "end_time": "06:00:00"
     }
 ]
