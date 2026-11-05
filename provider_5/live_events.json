@@ -1,5 +1,71 @@
 [
     {
+        "category": "Football",
+        "event_info": {
+            "end_time": "05/11/2026 11:50:00",
+            "event_name": "SAFF Championship",
+            "start_time": "05/11/2026 09:30:00",
+            "team_a": "Pakistan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6081/image",
+            "team_b": "India",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4828/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+                "name": "MYCO - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://irgjlk-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+                "name": "VETO - AQ [IND]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.btvlive.gov.bd/live/1084043f-90ba-4ee9-8651-f47747716c9f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8|referer=https://www.btvlive.gov.bd/&origin=https://www.btvlive.gov.bd",
+                "name": "BTV BD HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
+                "name": "T SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+                "name": "T SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793874752-0-0-5ff06f528414dfefb16363bff6b7e3fe",
+                "name": "HD FAST",
+                "token_api": ""
+            }
+        ],
+        "title": "SAFF Championship"
+    },
+    {
         "category": "Cricket",
         "event_info": {
             "end_time": "",
@@ -10,7 +76,7 @@
             "team_b": "West Indies",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187760/image"
         },
-        "id": 1,
+        "id": 2,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
@@ -23,15 +89,8 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
+                "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793437626~exp=1793466486~acl=/bpk-tv/202/default/*~eti=67f3ee73603bc3fdf6778a70cfaddd36~sid=f1eb406652ec49b7~imax=2~hmac=1c0b8aae7056190a66418ce08e7c3c7e146973286ee71c9a8b72f59905d4d317/bpk-tv/202/default/index.m3u8",
-                "name": "ROBBITHOLE - AQ",
                 "token_api": ""
             },
             {
@@ -44,21 +103,42 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8",
+                "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793849106~exp=1793877966~acl=/bpk-tv/202/default/*~eti=ec6f90c3bb4e2adc840061f03b9e10fc~sid=27774d63525ecb4a~imax=2~hmac=5f85510854d2be9c155c395e0011573f36d7dbb697aa44cc3ccf956a18025bd9/bpk-tv/202/default/index.m3u8",
+                "name": "ROBBITHOLE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
                 "name": "T SPORTS ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+                "name": "TAPMAD HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
                 "name": "T SPORTS HD",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c6945842186_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "name": "FANCODE IN",
                 "token_api": ""
             }
@@ -68,15 +148,15 @@
     {
         "category": "Snooker",
         "event_info": {
-            "end_time": "05/11/2026 15:30:00",
+            "end_time": "05/11/2026 09:00:00",
             "event_name": "International Championship",
-            "start_time": "05/11/2026 11:30:00",
+            "start_time": "05/11/2026 06:00:00",
             "team_a": "SNOOKER ",
             "team_a_flag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
             "team_b": "SNOOKER",
             "team_b_flag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80"
         },
-        "id": 7,
+        "id": 5,
         "image": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
         "streams": [
             {
@@ -121,7 +201,7 @@
             "team_b": "GROMDA",
             "team_b_flag": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg"
         },
-        "id": 8,
+        "id": 6,
         "image": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg",
         "streams": [
             {
@@ -145,7 +225,7 @@
             "team_b": "Formula 1",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10"
         },
-        "id": 11,
+        "id": 9,
         "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
         "streams": [
             {
@@ -253,7 +333,7 @@
             "team_b": "DYNAMITE ",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
         },
-        "id": 12,
+        "id": 10,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
         "streams": [
             {
@@ -305,7 +385,7 @@
             "team_b": "WWE RAW",
             "team_b_flag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg"
         },
-        "id": 14,
+        "id": 12,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -384,7 +464,7 @@
             "team_b": "ONE",
             "team_b_flag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
         },
-        "id": 15,
+        "id": 13,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
         "streams": [
             {
@@ -415,7 +495,7 @@
             "team_b": "WWE NXT",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10"
         },
-        "id": 19,
+        "id": 17,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -478,7 +558,7 @@
             "team_b": "SmackDown",
             "team_b_flag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg"
         },
-        "id": 20,
+        "id": 18,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -525,7 +605,7 @@
             "team_b": "MVPW",
             "team_b_flag": "https://thumbs.fite.tv/api_11/icons/1122_publisher_240x240.png"
         },
-        "id": 21,
+        "id": 19,
         "image": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
         "streams": [
             {
@@ -541,15 +621,15 @@
     {
         "category": "Tennis",
         "event_info": {
-            "end_time": "04/11/2026 23:30:00",
+            "end_time": "05/11/2026 22:00:00",
             "event_name": "Paris OPEN ",
-            "start_time": "04/11/2026 10:00:00",
+            "start_time": "05/11/2026 10:00:00",
             "team_a": "ATP",
             "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
             "team_b": "ATP ",
             "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
         },
-        "id": 34,
+        "id": 32,
         "image": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
         "streams": [
             {
@@ -594,7 +674,7 @@
             "team_b": "Sergei Bilostenniy",
             "team_b_flag": "http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark"
         },
-        "id": 35,
+        "id": 33,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark",
         "streams": [
             {
@@ -624,7 +704,7 @@
     {
         "category": "Tennis",
         "event_info": {
-            "end_time": "",
+            "end_time": "05/11/2026 13:00:00",
             "event_name": "Hong Kong Open 2026",
             "start_time": "05/11/2026 06:00:00",
             "team_a": "WTA",
@@ -632,13 +712,13 @@
             "team_b": "WTA",
             "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png"
         },
-        "id": 40,
+        "id": 38,
         "image": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
         "streams": [
             {
-                "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
                 "name": "BEIN SPORTS - AQ ",
                 "token_api": ""
             },
@@ -650,17 +730,10 @@
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8",
-                "name": "SETANTA SPORTS - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "fbfc4f5e355a407bbc64a499ea596887:2b2783027ed1303982ba7a18e4e8cfc0",
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "drm_scheme": "clearkey",
-                "link": "https://live02-stan.akamaized.net/out/v1/b577f63edc094a0f9e623918f100a476/index.mpd",
-                "name": "STAN SPORTS - AQ (AUS) ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "name": "SPORT 1 CZ - AQ ",
                 "token_api": ""
             }
         ],
@@ -677,37 +750,13 @@
             "team_b": "Bhutan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/191564/image"
         },
-        "id": 45,
+        "id": 43,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
         "streams": [
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://playztv.pages.dev/sss/index.m3u8",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "SAFF Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 11:50:00",
-            "event_name": "SAFF Championship",
-            "start_time": "05/11/2026 09:30:00",
-            "team_a": "Pakistan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/6081/image",
-            "team_b": "India",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4828/image"
-        },
-        "id": 46,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv.pages.dev/sss/index.m3u8",
+                "link": "https://playztv.pages.dev/sss/index.m3u8?https://live2.jorvakstreamcache.com/live/channel7.m3u8",
                 "name": "PlayZ TV Live",
                 "token_api": ""
             }
@@ -725,23 +774,9 @@
             "team_b": "NPL",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10"
         },
-        "id": 51,
+        "id": 48,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10",
         "streams": [
-            {
-                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-                "name": "FANCODE SD",
-                "token_api": ""
-            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -752,123 +787,12 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250364_english_hls_fbaf854a5c55408_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250368_english_hls_7ea136c62c30127_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "name": "FANCODE - AQ (IND) ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
-                "name": "SS SPORTS HD",
                 "token_api": ""
             }
         ],
         "title": "Nepal Premier League "
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "01/11/2026 17:58:00",
-            "event_name": "T20 International",
-            "start_time": "01/11/2026 14:30:00",
-            "team_a": "Afghanistan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
-            "team_b": "Zimbabwe",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
-        },
-        "id": 52,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [
-            {
-                "drm_key": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
-                "drm_scheme": "clearkey",
-                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-                "name": "A SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249771_english_hls_2fcd66b57713925_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE IN ",
-                "token_api": ""
-            }
-        ],
-        "title": "T20 International"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Test Series",
-            "start_time": "05/11/2026 05:00:00",
-            "team_a": "Afghanistan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
-            "team_b": "Zimbabwe",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
-        },
-        "id": 53,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-        "streams": [
-            {
-                "drm_key": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
-                "drm_scheme": "clearkey",
-                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-                "name": "A SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249771_english_hls_2fcd66b57713925_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE IN ",
-                "token_api": ""
-            }
-        ],
-        "title": "Test Series"
     },
     {
         "category": "Cricket",
@@ -881,7 +805,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
         },
-        "id": 54,
+        "id": 49,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -1010,7 +934,7 @@
             "team_b": "Sri Lanka",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
         },
-        "id": 55,
+        "id": 50,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
@@ -1038,7 +962,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
         },
-        "id": 56,
+        "id": 51,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -1167,7 +1091,7 @@
             "team_b": "HK SUPER 6 W",
             "team_b_flag": "https://cricsa.co.za/wp-content/uploads/2026/10/Hong-Kong-Sixes-2026-3.jpg"
         },
-        "id": 57,
+        "id": 52,
         "image": "https://cricsa.co.za/wp-content/uploads/2026/10/Hong-Kong-Sixes-2026-3.jpg",
         "streams": [
             {
@@ -1183,301 +1107,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "04/11/2026 10:50:00",
-            "event_name": "AFC Women's Champions League",
-            "start_time": "04/11/2026 08:30:00",
-            "team_a": "Khatton Bam FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/497448/image",
-            "team_b": "Naegohyang FC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1103748/image"
-        },
-        "id": 58,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/23009/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=S2hhdHRvbiUyMEJhbSUyMEZDJTIwdnMlMjBOYWVnb2h5YW5nJTIwRkM=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "AFC Women's Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "UEFA Champions League",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "Borussia Dortmund",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2673/image",
-            "team_b": "Real Betis",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2816/image"
-        },
-        "id": 59,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "drm_key": "58434b280dc5da2a0c2a0dd1ea4f48c1:0367f18e8b0ea8fede8ee6cb3b82d33a",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd",
-                "name": "PARAMOUNT+ - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TNT SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "5179ee0d1758a6d33f607816ed0859a3:629388cbf031a99953425a8db5e157ab",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0vx98ay1lb/out/v1/d07d82c064f64707a06a346cf0a68aec/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PRIME VIDEO FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "770497afe3f251ba88eda041403d9acc:8f251ded5d35388c6afc98ef9882fb40",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qacdpbrjpj/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "ViX ESPANOL FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "09a695c21528e0853371b882814c3aac:805bb374cfeebf82408b6850ecda7d14",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0dk7evbbv/out/v1/2280611214d549bab3108a7ec929c99a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TNT BRASIL ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "874b7df0e3c0b86b0e056c8398d64f66:674ce96dacc3b24d099c9e0dfe179c70",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p9e7ygthvj/out/v1/c6e578e510f340b29c16febf3c470572/cenc.mpd",
-                "name": "DAZN DE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
-                "name": "SONYLIV",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "UEFA Champions League",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "FC Porto",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3002/image",
-            "team_b": "SSC Napoli",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2714/image"
-        },
-        "id": 60,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "drm_key": "55d6c128b456acb1d0acd5e17f4c0ae7:7cc673c958ec7bbacbfe242ebce8ceaa",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
-                "name": "PARAMOUNT+ - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4f7fd79e857cefefb63370d487dc6777:417f1bd8e20424493509e566e6f3657c",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymtnpmw1z2/out/v1/b673df0f81c342f6b1684494ad908ffe/cenc.mpd",
-                "name": "DAZN DE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "605cec5d4d0c9b9adc5b1da537582b4f:e8687e2457e5ce2060fc52d5b39efa04",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dbaurfydof/out/v1/4b729bd9c7bf4f538326b9096f71dc35/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PRIME VIDEO FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "5b30e453507e0b2080bad89fea8cb27f:158fb33a914c7a3e02d017f5dec52c03",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ofniszbiz0/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "ViX ESPANOL FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
-                "name": "SonyLiv",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "UEFA Champions League",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "Viking FK",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1164/image",
-            "team_b": "Sabah FK",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/267828/image"
-        },
-        "id": 61,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "drm_key": "e60b8609a832e0e89e24e20360799b32:4372ab7df1035676ca2664e982eaad11",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pcfkzhzk0s/out/v1/374e618bd90e4c64845f11bd7f56832f/cenc.mpd",
-                "name": "PARAMOUNT+ - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "fd1bcd8052fb5010a9f75d156266ea95:3f3c03707998694db1c9cbb97550da6c",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
-                "name": "DAZN DE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4be3ef3f08c462098111934a936c6f32:c0ce1f708bbae793401f1a7d42a31329",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "ViX ESPANOL FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
-                "name": "SONYLIV EN",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "UEFA Champions League",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "RC Lens",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1648/image",
-            "team_b": "Como",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2704/image"
-        },
-        "id": 62,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "drm_key": "c609b1f56b17276d3526bc297ba8dd10:390c9205242b5132df2bc9d1fb7f38e1",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
-                "name": "PARAMOUNT+ - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "0971a5f78e9033d86be231fef3ddcbf6:b6edfceb7d6df0b02b7923a92e62a171",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "ViX ESPANOL FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "9e4b09f3c59b42b79e6dc16c1691052e:f798767c242f008883e5a3207c98e8da",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
-                "name": "DAZN DE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
-                "name": "SonyLiv",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "UEFA Champions League",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "PSV Eindhoven",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2952/image",
-            "team_b": "Club Brugge KV",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2888/image"
-        },
-        "id": 63,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "drm_key": "fb49bd892b824f28fad679dd7ad71e8c:cd9842c07299c799b409629ba7ac0a98",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
-                "name": "PARAMOUNT+ - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "c912a6919c685ebd52c139fe14542a93:d49e2a62049ae3b71b79ebb9db44510b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "ViX ESPANOL FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "334c272e7990a300f968c6842e0b31aa:17f15f267b0d4773dc441eb88fb10636",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3th6vjorn/out/v1/7a9ccc6d6f1e4fc3abe851fac45936a2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PRIME VIDEO FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "c4b4702e7e9301c95458ffb46b6caf9f:7f37e9920a2bf4752a83d26bc48b81ed",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
-                "name": "DAZN DE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
-                "name": "SonyLiv",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "05/11/2026 00:47:00",
             "event_name": "UCL | Champions League Multicast",
             "start_time": "04/11/2026 19:30:00",
@@ -1486,7 +1115,7 @@
             "team_b": "UCL Multicast",
             "team_b_flag": "https://img.sofascore.com/api/v1/unique-tournament/7/image"
         },
-        "id": 64,
+        "id": 53,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
         "streams": [
             {
@@ -1514,147 +1143,6 @@
         "title": "UCL | Champions League Multicast"
     },
     {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 00:48:00",
-            "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "04/11/2026 22:30:00",
-            "team_a": "Flamengo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/5981/image",
-            "team_b": "Grêmio",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/5926/image"
-        },
-        "id": 65,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PREMIERER BR FHD",
-                "token_api": ""
-            }
-        ],
-        "title": "Campeonato Brasileiro Série A"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:05:00",
-            "event_name": "Championship",
-            "start_time": "04/11/2026 19:45:00",
-            "team_a": "Cardiff City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/61/image",
-            "team_b": "West Ham United",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/37/image"
-        },
-        "id": 66,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.vivo155.com/live/sd-1-4563670.m3u8?txSecret=967f716a84215a332bc8b534bd15b260&txTime=6AEB9AF4|Referer=https://player.on8on8.com/",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:05:00",
-            "event_name": "Championship",
-            "start_time": "04/11/2026 19:45:00",
-            "team_a": "Wrexham",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/64/image",
-            "team_b": "Middlesbrough",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/36/image"
-        },
-        "id": 67,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PARAMOUNT+ FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.vivo155.com/live/sd-1-4563671.m3u8?txSecret=04a5941dd1c02e31cdfcf49b079330e2&txTime=6AEB9B63|Referer=https://player.on8on8.com/",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "name": "HD STREAM ",
-                "token_api": ""
-            }
-        ],
-        "title": "Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "04/11/2026 22:20:00",
-            "event_name": "Championship",
-            "start_time": "04/11/2026 20:00:00",
-            "team_a": "Bristol City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/58/image",
-            "team_b": "Wolverhampton",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3/image"
-        },
-        "id": 68,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
-                "name": "BeIN SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "Championship"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 04:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 01:00:00",
-            "team_a": "Memphis Grizzlies",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3415/image",
-            "team_b": "Indiana Pacers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3419/image"
-        },
-        "id": 69,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59270/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
         "category": "Basketball",
         "event_info": {
             "end_time": "05/11/2026 03:30:00",
@@ -1665,7 +1153,7 @@
             "team_b": "Charlotte Hornets",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3430/image"
         },
-        "id": 70,
+        "id": 54,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -1674,292 +1162,6 @@
                 "link": "https://chatgpt.hereisman.net/playlist/59258/load-playlist-multi?|Referer=https://gooz.aapmains.net",
                 "name": "PlayZ TV Live",
                 "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 04:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 01:00:00",
-            "team_a": "Oklahoma City Thunder",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3418/image",
-            "team_b": "Cleveland Cavaliers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3432/image"
-        },
-        "id": 71,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59267/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 04:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 01:00:00",
-            "team_a": "New Orleans Pelicans",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/5539/image",
-            "team_b": "Utah Jazz",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3434/image"
-        },
-        "id": 72,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59266/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 05:30:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 02:30:00",
-            "team_a": "San Antonio Spurs",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3429/image",
-            "team_b": "Dallas Mavericks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3411/image"
-        },
-        "id": 73,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59287/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 05:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 02:00:00",
-            "team_a": "Denver Nuggets",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3417/image",
-            "team_b": "Toronto Raptors",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3433/image"
-        },
-        "id": 74,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TSN4 SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=RGVudmVyJTIwTnVnZ2V0cyUyMHZzJTIwVG9yb250byUyMFJhcHRvcnM=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 04:30:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 01:30:00",
-            "team_a": "Houston Rockets",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3412/image",
-            "team_b": "Minnesota Timberwolves",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3426/image"
-        },
-        "id": 75,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59278/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 06:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 03:00:00",
-            "team_a": "Sacramento Kings",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3413/image",
-            "team_b": "Los Angeles Lakers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3427/image"
-        },
-        "id": 76,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59295/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 05:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 02:00:00",
-            "team_a": "Phoenix Suns",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3416/image",
-            "team_b": "Portland Trail Blazers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3414/image"
-        },
-        "id": 77,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59289/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8",
-                "name": "SETANTA SPORTS AQ ",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 03:00:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 00:00:00",
-            "team_a": "Detroit Pistons",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3424/image",
-            "team_b": "Philadelphia 76ers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3420/image"
-        },
-        "id": 78,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59251/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 03:30:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 00:30:00",
-            "team_a": "Boston Celtics",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3422/image",
-            "team_b": "Milwaukee Bucks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3410/image"
-        },
-        "id": 79,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59277/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 03:30:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 00:30:00",
-            "team_a": "New York Knicks",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3421/image",
-            "team_b": "Chicago Bulls",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3409/image"
-        },
-        "id": 80,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59261/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "05/11/2026 06:30:00",
-            "event_name": "NBA",
-            "start_time": "05/11/2026 03:30:00",
-            "team_a": "Los Angeles Clippers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3425/image",
-            "team_b": "Miami Heat",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3435/image"
-        },
-        "id": 81,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TG9zJTIwQW5nZWxlcyUyMENsaXBwZXJzJTIwdnMlMjBNaWFtaSUyMEhlYXQ=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
             }
         ],
         "title": "NBA"
@@ -1975,7 +1177,7 @@
             "team_b": "NorthEast United FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/174602/image"
         },
-        "id": 82,
+        "id": 55,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
         "streams": [
             {
@@ -1997,86 +1199,55 @@
         "event_info": {
             "end_time": "",
             "event_name": "Women's Big Bash League",
-            "start_time": "05/11/2026 04:40:00",
-            "team_a": "Adelaide Strikers Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/274888/image",
-            "team_b": "Brisbane Heat Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/274884/image"
-        },
-        "id": 83,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [
-            {
-                "drm_key": "c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-                "name": "SKY CRICKET - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD! - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-                "drm_scheme": "clearkey",
-                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-                "name": "EUROSPORT - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE IN",
-                "token_api": ""
-            }
-        ],
-        "title": "Women's Big Bash League"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Women's Big Bash League",
             "start_time": "05/11/2026 08:10:00",
             "team_a": "Sydney Thunder Women",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/274889/image",
             "team_b": "Perth Scorchers Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/274890/image"
         },
-        "id": 84,
+        "id": 56,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
         "streams": [
             {
-                "drm_key": "c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7",
+                "drm_key": "b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
                 "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                "name": "SKY CRICKET - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "edbd9d6a45038d8031f8acda793333db:837f1272ecc58bd183c3adbbd64bf2ab",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xptc0wds5g/out/v1/7288073cee484be68b23d5d99042b8a4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD! - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+                "drm_scheme": "clearkey",
+                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+                "name": "EUROSPORT - AQ",
                 "token_api": ""
             },
             {
@@ -2089,158 +1260,12 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-                "name": "SKY CRICKET - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD! - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-                "drm_scheme": "clearkey",
-                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-                "name": "EUROSPORT - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "name": "FANCODE IN",
                 "token_api": ""
             }
         ],
         "title": "Women's Big Bash League"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "05/11/2026 03:00:00",
-            "team_a": "Los Angeles Kings",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3688/image",
-            "team_b": "San Jose Sharks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3696/image"
-        },
-        "id": 85,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TG9zJTIwQW5nZWxlcyUyMEtpbmdzJTIwdnMlMjBTYW4lMjBKb3NlJTIwU2hhcmtz",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "05/11/2026 00:30:00",
-            "team_a": "Florida Panthers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3687/image",
-            "team_b": "Chicago Blackhawks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3681/image"
-        },
-        "id": 86,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "name": "PREMIER SPORTS AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=RmxvcmlkYSUyMFBhbnRoZXJzJTIwdnMlMjBDaGljYWdvJTIwQmxhY2toYXdrcw==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "05/11/2026 03:00:00",
-            "team_a": "Seattle Kraken",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/381707/image",
-            "team_b": "Calgary Flames",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3679/image"
-        },
-        "id": 87,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PREMIER SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59293/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "05/11/2026 00:30:00",
-            "team_a": "Buffalo Sabres",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3678/image",
-            "team_b": "Ottawa Senators",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3700/image"
-        },
-        "id": 88,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59259/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
     },
     {
         "category": "Football",
@@ -2253,7 +1278,7 @@
             "team_b": "Shanghai Shenhua",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3373/image"
         },
-        "id": 89,
+        "id": 57,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -2281,7 +1306,7 @@
             "team_b": "Tai Po",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/40662/image"
         },
-        "id": 90,
+        "id": 58,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -2309,7 +1334,7 @@
             "team_b": "Phnom Penh Crown",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/35605/image"
         },
-        "id": 91,
+        "id": 59,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -2337,7 +1362,7 @@
             "team_b": "Gangwon FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/34220/image"
         },
-        "id": 92,
+        "id": 60,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -2350,62 +1375,13 @@
                     "type": "sp",
                     "url": "Ok"
                 }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 14:35:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 12:15:00",
-            "team_a": "Preah Khan Reach Svay Rieng FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/153474/image",
-            "team_b": "Tampines Rovers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3043/image"
-        },
-        "id": 93,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=UHJlYWglMjBLaGFuJTIwUmVhY2glMjBTdmF5JTIwUmllbmclMjBGQyUyMHZzJTIwVGFtcGluZXMlMjBSb3ZlcnM=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 12:20:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 10:00:00",
-            "team_a": "Lion City Sailors",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3041/image",
-            "team_b": "Adelaide United",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2946/image"
-        },
-        "id": 94,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TGlvbiUyMENpdHklMjBTYWlsb3JzJTIwdnMlMjBBZGVsYWlkZSUyMFVuaXRlZA==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+                "name": "HD STREAM ",
+                "token_api": ""
             }
         ],
         "title": "AFC Champions League Two"
@@ -2421,19 +1397,29 @@
             "team_b": "Malaysia Under-19",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/505670/image"
         },
-        "id": 95,
+        "id": 61,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
         "streams": [
             {
+                "drm_key": "c0e32a565b4d079ce824ba8820ccb885:44d48862571d9efe14c24921e1d390c2",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PRIME VIDEO - AQ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=U3JpJTIwTGFua2ElMjBVbmRlci0xOSUyMHZzJTIwTWFsYXlzaWElMjBVbmRlci0xOQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
+                "name": "SONYLIV ",
+                "token_api": ""
             }
         ],
         "title": "U19 Asia Cup"
@@ -2449,19 +1435,36 @@
             "team_b": "Afghanistan Under-19",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/213103/image"
         },
-        "id": 96,
+        "id": 62,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
         "streams": [
             {
+                "drm_key": "a16f4890e1a9a95d009f657f9d6837bb:e6e66c827c8a8c7d212db25ee49652e2",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "74ea2277355a796a7b81fc5ae0850b8b:9e5fc3413f079d3624873bb524453396",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PRIME VIDEO -AQ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QmFuZ2xhZGVzaCUyMFVuZGVyLTE5JTIwdnMlMjBBZmdoYW5pc3RhbiUyMFVuZGVyLTE5",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
+                "name": "SONYLIV ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a16f4890e1a9a95d009f657f9d6837bb:e6e66c827c8a8c7d212db25ee49652e2",
+                "drm_scheme": "clearkey",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qyp1du4zue/out/v1/625ab75f4b1e48e49180b189310fde8b/cenc.mpd",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
             }
         ],
         "title": "U19 Asia Cup"
@@ -2477,7 +1480,7 @@
             "team_b": "FC Nordsjælland",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1292/image"
         },
-        "id": 97,
+        "id": 63,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2505,7 +1508,7 @@
             "team_b": "HNK Hajduk Split",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2036/image"
         },
-        "id": 98,
+        "id": 64,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2533,7 +1536,7 @@
             "team_b": "Inter Club d'Escaldes",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/37946/image"
         },
-        "id": 99,
+        "id": 65,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2561,7 +1564,7 @@
             "team_b": "SC Freiburg",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2538/image"
         },
-        "id": 100,
+        "id": 66,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2589,7 +1592,7 @@
             "team_b": "Pafos FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/171626/image"
         },
-        "id": 101,
+        "id": 67,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2617,7 +1620,7 @@
             "team_b": "FC Kairat Almaty",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5172/image"
         },
-        "id": 102,
+        "id": 68,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2645,7 +1648,7 @@
             "team_b": "Heart of Midlothian",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2353/image"
         },
-        "id": 103,
+        "id": 69,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2673,7 +1676,7 @@
             "team_b": "FK Borac Banja Luka",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5235/image"
         },
-        "id": 104,
+        "id": 70,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2701,7 +1704,7 @@
             "team_b": "Sporting Braga",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2999/image"
         },
-        "id": 105,
+        "id": 71,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2729,7 +1732,7 @@
             "team_b": "CSKA Sofia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3275/image"
         },
-        "id": 106,
+        "id": 72,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2757,7 +1760,7 @@
             "team_b": "FK Jablonec",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2205/image"
         },
-        "id": 107,
+        "id": 73,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2785,7 +1788,7 @@
             "team_b": "FC Iberia 1999",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/116312/image"
         },
-        "id": 108,
+        "id": 74,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2813,7 +1816,7 @@
             "team_b": "Brighton & Hove Albion",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/30/image"
         },
-        "id": 109,
+        "id": 75,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2841,7 +1844,7 @@
             "team_b": "KF Egnatia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/264619/image"
         },
-        "id": 110,
+        "id": 76,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2869,7 +1872,7 @@
             "team_b": "FK Kauno Žalgiris",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/80741/image"
         },
-        "id": 111,
+        "id": 77,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2897,7 +1900,7 @@
             "team_b": "SK Brann",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1159/image"
         },
-        "id": 112,
+        "id": 78,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2925,7 +1928,7 @@
             "team_b": "KAA Gent",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2903/image"
         },
-        "id": 113,
+        "id": 79,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
@@ -2953,19 +1956,43 @@
             "team_b": "Zimbabwe",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
         },
-        "id": 114,
+        "id": 80,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
         "streams": [
             {
+                "drm_key": "502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6",
+                "drm_scheme": "clearkey",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FANCODE - AQ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QWZnaGFuaXN0YW4lMjB2cyUyMFppbWJhYndl",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+                "name": "A SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE IN ",
+                "token_api": ""
             }
         ],
         "title": "Test Series"
@@ -2981,7 +2008,7 @@
             "team_b": "Adelaide United",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2946/image"
         },
-        "id": 115,
+        "id": 81,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -3001,90 +2028,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "05/11/2026 12:20:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 10:00:00",
-            "team_a": "Machida Zelvia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/44409/image",
-            "team_b": "Shanghai Shenhua",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3373/image"
-        },
-        "id": 116,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=TWFjaGlkYSUyMFplbHZpYSUyMHZzJTIwU2hhbmdoYWklMjBTaGVuaHVh",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 14:35:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 12:15:00",
-            "team_a": "BG Pathum United",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/35607/image",
-            "team_b": "Tai Po",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/40662/image"
-        },
-        "id": 117,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QkclMjBQYXRodW0lMjBVbml0ZWQlMjB2cyUyMFRhaSUyMFBv",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "05/11/2026 14:35:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 12:15:00",
-            "team_a": "Kuching City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/338334/image",
-            "team_b": "Gangwon FC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/34220/image"
-        },
-        "id": 118,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=S3VjaGluZyUyMENpdHklMjB2cyUyMEdhbmd3b24lMjBGQw==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "05/11/2026 14:35:00",
             "event_name": "AFC Champions League Two",
             "start_time": "05/11/2026 12:15:00",
@@ -3093,7 +2036,7 @@
             "team_b": "Tampines Rovers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3043/image"
         },
-        "id": 119,
+        "id": 82,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
@@ -3113,34 +2056,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "05/11/2026 12:20:00",
-            "event_name": "AFC Champions League Two",
-            "start_time": "05/11/2026 10:00:00",
-            "team_a": "Kitchee SC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/42199/image",
-            "team_b": "Phnom Penh Crown",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/35605/image"
-        },
-        "id": 120,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=S2l0Y2hlZSUyMFNDJTIwdnMlMjBQaG5vbSUyMFBlbmglMjBDcm93bg==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "05/11/2026 16:20:00",
             "event_name": "Indian Super League",
             "start_time": "05/11/2026 14:00:00",
@@ -3149,7 +2064,7 @@
             "team_b": "Odisha FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/174592/image"
         },
-        "id": 121,
+        "id": 83,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
         "streams": [
             {
@@ -3177,7 +2092,7 @@
             "team_b": "Olympique de Marseille",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1641/image"
         },
-        "id": 122,
+        "id": 84,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3205,7 +2120,7 @@
             "team_b": "Beşiktaş JK",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3050/image"
         },
-        "id": 123,
+        "id": 85,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3233,19 +2148,15 @@
             "team_b": "Ferencváros TC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1925/image"
         },
-        "id": 124,
+        "id": 86,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QUMlMjBNaWxhbiUyMHZzJTIwRmVyZW5jdiVDMyVBMXJvcyUyMFRD",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Europa League"
@@ -3261,19 +2172,15 @@
             "team_b": "TSG Hoffenheim",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2569/image"
         },
-        "id": 125,
+        "id": 87,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=Q3J5c3RhbCUyMFBhbGFjZSUyMHZzJTIwVFNHJTIwSG9mZmVuaGVpbQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Europa League"
@@ -3289,7 +2196,7 @@
             "team_b": "OFI Crete",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3241/image"
         },
-        "id": 126,
+        "id": 88,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3317,7 +2224,7 @@
             "team_b": "Remo",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2012/image"
         },
-        "id": 127,
+        "id": 89,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "streams": [
             {
@@ -3345,19 +2252,15 @@
             "team_b": "Bournemouth",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/60/image"
         },
-        "id": 128,
+        "id": 90,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://pspb.prbw.workers.dev/?q=QUMlMjBTcGFydGElMjBQcmFoYSUyMHZzJTIwQm91cm5lbW91dGg=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TNT SPORTS FHD",
+                "token_api": ""
             }
         ],
         "title": "UEFA Europa League"
@@ -3373,7 +2276,7 @@
             "team_b": "NK Celje",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2413/image"
         },
-        "id": 129,
+        "id": 91,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3401,7 +2304,7 @@
             "team_b": "GNK Dinamo Zagreb",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2032/image"
         },
-        "id": 130,
+        "id": 92,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3429,7 +2332,7 @@
             "team_b": "Al-Shabab",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/34313/image"
         },
-        "id": 131,
+        "id": 93,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
@@ -3457,7 +2360,7 @@
             "team_b": "Al-Fayha",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/168094/image"
         },
-        "id": 132,
+        "id": 94,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
@@ -3485,7 +2388,7 @@
             "team_b": "Jagiellonia Białystok",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7691/image"
         },
-        "id": 133,
+        "id": 95,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3513,7 +2416,7 @@
             "team_b": "Al-Khaleej",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/167228/image"
         },
-        "id": 134,
+        "id": 96,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
@@ -3541,7 +2444,7 @@
             "team_b": "Levante UD",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2849/image"
         },
-        "id": 135,
+        "id": 97,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
         "streams": [
             {
@@ -3569,7 +2472,7 @@
             "team_b": "Olympique Lyonnais",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1649/image"
         },
-        "id": 136,
+        "id": 98,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3597,7 +2500,7 @@
             "team_b": "Bahia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1955/image"
         },
-        "id": 137,
+        "id": 99,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "streams": [
             {
@@ -3625,7 +2528,7 @@
             "team_b": "Al-Taawoun",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/56021/image"
         },
-        "id": 138,
+        "id": 100,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "streams": [
             {
@@ -3653,7 +2556,7 @@
             "team_b": "Royale Union Saint-Gilloise",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4860/image"
         },
-        "id": 139,
+        "id": 101,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3681,7 +2584,7 @@
             "team_b": "FC Ararat-Armenia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/262229/image"
         },
-        "id": 140,
+        "id": 102,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3709,7 +2612,7 @@
             "team_b": "FC Viktoria Plzeň",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4502/image"
         },
-        "id": 141,
+        "id": 103,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3737,7 +2640,7 @@
             "team_b": "Mallorca",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2826/image"
         },
-        "id": 142,
+        "id": 104,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
         "streams": [
             {
@@ -3765,7 +2668,7 @@
             "team_b": "Omonia Nicosia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3395/image"
         },
-        "id": 143,
+        "id": 105,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3793,7 +2696,7 @@
             "team_b": "Juventus",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2687/image"
         },
-        "id": 144,
+        "id": 106,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3821,7 +2724,7 @@
             "team_b": "Lech Poznań",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3121/image"
         },
-        "id": 145,
+        "id": 107,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
@@ -3849,9 +2752,121 @@
             "team_b": "Red Bull Salzburg",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2046/image"
         },
-        "id": 146,
+        "id": 108,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [],
         "title": "UEFA Europa League"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "U19 Asia Cup",
+            "start_time": "06/11/2026 05:00:00",
+            "team_a": "Pakistan Under-19",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/213104/image",
+            "team_b": "United Arab Emirates Under-19",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/300266/image"
+        },
+        "id": 109,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=UGFraXN0YW4lMjBVbmRlci0xOSUyMHZzJTIwVW5pdGVkJTIwQXJhYiUyMEVtaXJhdGVzJTIwVW5kZXItMTk=",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "U19 Asia Cup"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "U19 Asia Cup",
+            "start_time": "06/11/2026 05:00:00",
+            "team_a": "India Under-19",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/213112/image",
+            "team_b": "Nepal Under-19",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/213113/image"
+        },
+        "id": 110,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=SW5kaWElMjBVbmRlci0xOSUyMHZzJTIwTmVwYWwlMjBVbmRlci0xOQ==",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "U19 Asia Cup"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "Abu Dhabi T10 League",
+            "start_time": "07/11/2026 11:30:00",
+            "team_a": "Abu Dhabi T10",
+            "team_a_flag": "http://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+            "team_b": "Abu Dhabi T10",
+            "team_b_flag": "http://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
+        },
+        "id": 111,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=VUFFJTIwQnVsbHMlMjB2cyUyMFlhcyUyMExpb25z",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "Abu Dhabi T10 League"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "ICC World Test Championship",
+            "start_time": "09/11/2026 04:30:00",
+            "team_a": "Pakistan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187754/image",
+            "team_b": "Sri Lanka",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
+        },
+        "id": 112,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": {
+                    "api": "https://pspb.prbw.workers.dev/?q=UGFraXN0YW4lMjB2cyUyMFNyaSUyMExhbmth",
+                    "type": "sp",
+                    "url": "Ok"
+                }
+            }
+        ],
+        "title": "ICC World Test Championship"
     }
 ]
