@@ -1,45 +1,5 @@
 [
     {
-        "id": "36",
-        "title": "fox cricket ",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9sjX43aoMJjmrX2JLXuABEoJfCV7fzpnRmNAl_J20CmBd9Rpk0KUtmbhDWY-z6ho8WUrKliHkynoNvTIX5W5_Kcg9gHNi3DDK6-oilHZunI4Xj33YvituffZb7b33hkDSqWu3YubbPcLSt8PgCRkZbdSCUtsORKNmJnVNA-sZqszK6QHNZjvRcJ0sOQ/s320/Fox%20Sports.jpg",
-        "slug": "fox-cricket-",
-        "cat": "Sports",
-        "publish": "1",
-        "geo": "ALL",
-        "formats": [
-            {
-                "id": 0,
-                "title": "Link 1",
-                "link": "https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8",
-                "api": "",
-                "type": "0",
-                "webLink": "",
-                "geo": "ALL"
-            }
-        ]
-    },
-    {
-        "id": "37",
-        "title": "sky cricket",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
-        "slug": "sky-cricket-",
-        "cat": "Sports",
-        "publish": "1",
-        "geo": "ALL",
-        "formats": [
-            {
-                "id": 0,
-                "title": "HD1",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "api": "",
-                "type": "0",
-                "webLink": "",
-                "geo": "ALL"
-            }
-        ]
-    },
-    {
         "id": "40",
         "title": "sony sports",
         "image": "https://bestmediainfo.com/uploads/2022/11/1669195187.Sony-Sports-Networ.jpg",
@@ -51,7 +11,7 @@
             {
                 "id": 0,
                 "title": "SONY SPORTS 1",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8",
+                "link": "http://103.135.253.32:8080/TEN-1/index.m3u8",
                 "api": "",
                 "type": "0",
                 "webLink": "",
@@ -60,7 +20,7 @@
             {
                 "id": 0,
                 "title": "SONY SPORTS 2",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8",
+                "link": "http://103.135.253.32:8080/TEN-2/index.m3u8",
                 "api": "",
                 "type": "0",
                 "webLink": "",
@@ -68,8 +28,8 @@
             },
             {
                 "id": 0,
-                "title": "SONY SPORTS 5",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8",
+                "title": "SONY SPORTS 3",
+                "link": "http://103.135.253.32:8080/TEN-3/index.m3u8",
                 "api": "",
                 "type": "0",
                 "webLink": "",
@@ -115,6 +75,55 @@
                 "id": 1,
                 "title": "AQ5",
                 "link": "https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten5_hd.m3u8",
+                "api": "",
+                "type": "0",
+                "webLink": "",
+                "geo": "ALL"
+            },
+            {
+                "id": 1,
+                "title": "HD5",
+                "link": "http://103.135.253.32:8080/TEN-5/index.m3u8",
+                "api": "",
+                "type": "0",
+                "webLink": "",
+                "geo": "ALL"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "title": "fox cricket ",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9sjX43aoMJjmrX2JLXuABEoJfCV7fzpnRmNAl_J20CmBd9Rpk0KUtmbhDWY-z6ho8WUrKliHkynoNvTIX5W5_Kcg9gHNi3DDK6-oilHZunI4Xj33YvituffZb7b33hkDSqWu3YubbPcLSt8PgCRkZbdSCUtsORKNmJnVNA-sZqszK6QHNZjvRcJ0sOQ/s320/Fox%20Sports.jpg",
+        "slug": "fox-cricket-",
+        "cat": "Sports",
+        "publish": "1",
+        "geo": "ALL",
+        "formats": [
+            {
+                "id": 0,
+                "title": "Link 1",
+                "link": "https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8",
+                "api": "",
+                "type": "0",
+                "webLink": "",
+                "geo": "ALL"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "title": "sky cricket",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
+        "slug": "sky-cricket-",
+        "cat": "Sports",
+        "publish": "1",
+        "geo": "ALL",
+        "formats": [
+            {
+                "id": 0,
+                "title": "HD1",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                 "api": "",
                 "type": "0",
                 "webLink": "",
