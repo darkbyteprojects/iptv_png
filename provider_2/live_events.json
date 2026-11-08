@@ -160,6 +160,89 @@
     {
         "cat": "Live Events",
         "eventInfo": {
+            "endTime": "2026/11/09 13:00:51 +0000",
+            "eventCat": "Cricket",
+            "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+            "eventName": "SRI LANKA TOUR OF PAKISTAN",
+            "eventType": "",
+            "isHot": "0",
+            "startTime": "2026/11/09 04:30:35 +0000",
+            "teamA": "PAK",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+            "teamB": "SL",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
+        },
+        "formats": [
+            "WILLOW CRICBUZZ - AQ",
+            "WILLOW CRICBUZZ - ALT",
+            "TAPMAD WW - AQ",
+            "TAPMAD BD - AQ",
+            "PTV SPORTS HD",
+            "WILLOW - HD",
+            "WILLOW SD"
+        ],
+        "id": 13,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10",
+        "isHot": 0,
+        "position": 4,
+        "publish": 1,
+        "resolved_streams": [
+            {
+                "api": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+                "publish": 1,
+                "title": "WILLOW CRICBUZZ - AQ",
+                "type": "1"
+            },
+            {
+                "api": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+                "publish": 1,
+                "title": "WILLOW CRICBUZZ - ALT",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
+                "publish": 1,
+                "title": "TAPMAD WW - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+                "publish": 1,
+                "title": "TAPMAD BD - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live.incableinternet.com/ptv-sports/720p.m3u8",
+                "publish": 1,
+                "title": "PTV SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
+                "publish": 1,
+                "title": "WILLOW - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+                "publish": 1,
+                "title": "WILLOW SD",
+                "type": "0"
+            }
+        ],
+        "slug": "live3_pak-sri",
+        "title": "live3-theashes"
+    },
+    {
+        "cat": "Live Events",
+        "eventInfo": {
             "endTime": "2026/11/09 00:01:27 +0000",
             "eventCat": "Racing",
             "eventLogo": "https://scdnmain.net/assets/tournament/40-c.png",
@@ -1346,9 +1429,9 @@
         "formats": [
             "beIN SPORTS - AQ",
             "CBS SPORTS - AQ",
-            "TNT SPORTS 1 AQ",
             "TNT SPORTS 4 AQ",
-            "SPORT1 CZ FHD"
+            "SPORT1 CZ FHD",
+            "GHD SPORTS HD"
         ],
         "id": 795,
         "image": "null",
@@ -1371,13 +1454,6 @@
                 "type": "1"
             },
             {
-                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "publish": 1,
-                "title": "TNT SPORTS 1 AQ",
-                "type": "1"
-            },
-            {
                 "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
                 "publish": 1,
@@ -1390,6 +1466,13 @@
                 "publish": 1,
                 "title": "SPORT1 CZ FHD",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/ZMMMA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "series-a5",
@@ -1462,7 +1545,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image"
         },
         "formats": [
-            "GHD SPORTS HD"
+            "SPORT DIGITAL FUSSBALL - AQ",
+            "D SPORTS 2 - AQ"
         ],
         "id": 805,
         "image": "null",
@@ -1471,11 +1555,18 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "http://193.47.62.50/hls/HJHJHJAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
-                "type": "0"
+                "title": "SPORT DIGITAL FUSSBALL - AQ",
+                "type": "1"
+            },
+            {
+                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F150.0.0.0+Safari%2F537.36+Edg%2F150.0.0.0&Origin=https%3A%2F%2Famazon.com",
+                "publish": 1,
+                "title": "D SPORTS 2 - AQ",
+                "type": "1"
             }
         ],
         "slug": "portuguese-primeira-liga2",
@@ -2441,11 +2532,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image"
         },
         "formats": [
-            "DAZN SPORTS FHD",
+            "DAZN SPORTS - AQ",
             "beIN ENGLISH - FHD",
             "beIN SPANISH - FHD",
-            "CAZETV - AQ",
-            "TAPMAD - AQ",
             "GHD SPORTS HD"
         ],
         "id": 1062,
@@ -2455,10 +2544,10 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "4a4ff5eedffeb58b538053b556578b9c:ade1a30a4508fb94fec2c6e19dacb069",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/99c1spmqf4/out/v1/6df8df24c10e4f5babaad97b0e9b2624/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "a6ebb55a865d1939e0e7778351299ba0:218e2ecbd170cd9521d3838749156f24",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3hhqflz9jw/out/v1/98648640c82541bd9dd175bc61c3c1b7/cenc.mpd",
                 "publish": 1,
-                "title": "DAZN SPORTS FHD",
+                "title": "DAZN SPORTS - AQ",
                 "type": "1"
             },
             {
@@ -2476,22 +2565,8 @@
                 "type": "1"
             },
             {
-                "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "CAZETV - AQ",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-                "publish": 1,
-                "title": "TAPMAD - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://www.rtmpcdn.com/live/b6813d09-a4a2-4ed2-a317-e3799de4c21f.m3u8",
+                "link": "http://193.47.62.44/hls/ZMMM.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -2650,13 +2725,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/08 12:01:43 +0000",
+            "endTime": "2026/11/09 12:01:22 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "eventName": "ICC World Test Championship",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/08 03:30:56 +0000",
+            "startTime": "2026/11/09 03:30:57 +0000",
             "teamA": "BAN",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
             "teamB": "WI",
@@ -2730,10 +2805,18 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image"
         },
         "formats": [
+            "DAZN SPORTS - AQ",
             "TSN SPORTS - FHD",
             "PREMIERE SPORTS AQ ",
             "BEIN SPORTS FHD",
-            "CAZE TV 3 FHD"
+            "CAZE TV 3 FHD",
+            "FANCODE - AQ",
+            "D SPORTS - AQ",
+            "ARENA SPORTS HD",
+            "PREMIRE SPORTS HD",
+            "TAPMAD - AQ",
+            "BeIN Arabic - HD",
+            "GHD SPORTS HD"
         ],
         "id": 800,
         "image": "null",
@@ -2741,6 +2824,13 @@
         "position": 132,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "b24c292436ae84178eea604e6e3578c6:6c88f1be55496b455f217372c717ac0f",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diw10svamz/out/v1/632e30dd88a84b74a430d0903b256245/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "DAZN SPORTS - AQ",
+                "type": "1"
+            },
             {
                 "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
@@ -2768,6 +2858,55 @@
                 "publish": 1,
                 "title": "CAZE TV 3 FHD",
                 "type": "1"
+            },
+            {
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "FANCODE - AQ",
+                "type": "1"
+            },
+            {
+                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "D SPORTS - AQ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live-cdn.ryazanslah3.space/hls/bein6.m3u8?|Referer=https://www.arena-koora.online/",
+                "publish": 1,
+                "title": "ARENA SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59653/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "PREMIRE SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://yll.akbarnews.store/live1/720p.m3u8",
+                "publish": 1,
+                "title": "BeIN Arabic - HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.41/hls/8888A.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
+                "type": "0"
             }
         ],
         "slug": "laliga6",
@@ -2921,13 +3060,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/08 19:29:26 +0000",
+            "endTime": "2026/11/09 19:00:58 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10",
             "eventName": "ABU DHABI T10 LEAGUE",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/08 11:30:15 +0000",
+            "startTime": "2026/11/09 13:45:41 +0000",
             "teamA": "T10 LEAGUE",
             "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10",
             "teamB": "T10 LEAGUE",
