@@ -9,8 +9,8 @@
             "logo": "https://img.sofascore.com/api/v1/team/187765/image"
         },
         "visible": true,
-        "priority": 1,
-        "date": "10/11/2026",
+        "priority": -1,
+        "date": "13/11/2026",
         "time": "02:00:00",
         "category": "Cricket",
         "eventName": "One Day International",
@@ -89,53 +89,6 @@
         ],
         "end_date": "10/11/2026",
         "end_time": "09:26:00"
-    },
-    {
-        "teamA": {
-            "name": "IND-U19",
-            "logo": "https://img.sofascore.com/api/v1/team/213112/image"
-        },
-        "teamB": {
-            "name": "UAE-U19",
-            "logo": "https://img.sofascore.com/api/v1/team/300266/image"
-        },
-        "visible": true,
-        "priority": 1,
-        "date": "10/11/2026",
-        "time": "05:00:00",
-        "category": "Cricket",
-        "eventName": "U19 Asia Cup",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
-                "scheme": 0,
-                "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv PRIME FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd",
-                "scheme": 0,
-                "api": "2e79bb5f16ad590344c8b64df4965c33:eb018c62af7d3e7fe1232d15be093f65",
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
-                "scheme": 0,
-                "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (Asia)",
-                "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c389b1e808061bc14b4d3ab9559ad06b-1794286200176",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
     },
     {
         "teamA": {
@@ -538,28 +491,28 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "10/11/2026",
-        "time": "11:15:00",
+        "date": "12/11/2026",
+        "time": "06:45:00",
         "category": "Cricket",
         "eventName": "Nepal Premier League, 2026",
         "eventLogo": "https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",
         "streams": [
             {
-                "name": "NPL LIVE FHD",
-                "link": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-                "scheme": 0,
-                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "tokenApi": null
-            },
-            {
-                "name": "NPL LIVE SD",
+                "name": "FANCODE FHD",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "scheme": 0,
                 "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                 "tokenApi": null
             },
             {
-                "name": "Cricfy HD",
+                "name": "FANCODE SD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "tokenApi": null
+            },
+            {
+                "name": "STAR SPORTS HD",
                 "link": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
                 "scheme": 0,
                 "api": null,
@@ -567,7 +520,7 @@
             },
             {
                 "name": "FANCODE (IND)",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250374_english_hls_b7c929ff7638952_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250368_english_hls_7ea136c62c30127_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -859,7 +812,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "10/11/2026",
+        "date": "11/11/2026",
         "time": "08:10:00",
         "category": "Cricket",
         "eventName": "WBBL | Womens Big Bash League",
@@ -928,9 +881,9 @@
         "streams": [
             {
                 "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
                 "scheme": 0,
-                "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+                "api": "0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d",
                 "tokenApi": null
             },
             {
@@ -942,9 +895,9 @@
             },
             {
                 "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
                 "scheme": 0,
-                "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+                "api": "0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d",
                 "tokenApi": null
             },
             {
@@ -974,7 +927,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "10/11/2026",
+        "date": "11/11/2026",
         "time": "04:30:00",
         "category": "Cricket",
         "eventName": "ICC World Test Championship",
@@ -1101,53 +1054,6 @@
             {
                 "name": "Low",
                 "link": "http://193.47.62.44/hls/kikikiAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "PAK-U19",
-            "logo": "https://img.sofascore.com/api/v1/team/213104/image"
-        },
-        "teamB": {
-            "name": "NEP-U19",
-            "logo": "https://img.sofascore.com/api/v1/team/213113/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/11/2026",
-        "time": "05:00:00",
-        "category": "Cricket",
-        "eventName": "U19 Asia Cup",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-                "scheme": 0,
-                "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv PRIME FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wdgqopibdc/out/v1/1584c8ffcbcd410fba52973e6708881e/cenc.mpd",
-                "scheme": 0,
-                "api": "669809685da200703be719d5989ef338:95dce664c282da723ae39db410bafc74",
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-                "scheme": 0,
-                "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (Asia)",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c389b1e808061bc14b4d3ab9559ad06b-1794286200176",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1701,5 +1607,405 @@
         ],
         "end_date": "14/11/2026",
         "end_time": "01:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Real Madrid",
+            "logo": "https://img.sofascore.com/api/v1/team/305051/image"
+        },
+        "teamB": {
+            "name": "Paris",
+            "logo": "https://img.sofascore.com/api/v1/team/264964/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/11/2026",
+        "time": "17:45:00",
+        "category": "Football",
+        "eventName": "UEFA Women's Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://live.vivo155.com/live/sd-1-4646533.m3u8?txSecret=60ef8f1749c5feaab6e5e3372e8e1a89&txTime=6AF36AF9|Referer=https://player.on8on8.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/QAQAQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "20:05:00"
+    },
+    {
+        "teamA": {
+            "name": "New Stars",
+            "logo": "https://img.sofascore.com/api/v1/team/1100818/image"
+        },
+        "teamB": {
+            "name": "Deportivo ICC",
+            "logo": "https://img.sofascore.com/api/v1/team/1096228/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "Primera A La Paz",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/26954/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Pamplona",
+            "logo": "https://img.sofascore.com/api/v1/team/263528/image"
+        },
+        "teamB": {
+            "name": "Eibar",
+            "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "18:00:00",
+        "category": "Football",
+        "eventName": "Copa del Rey",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "20:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Häcken",
+            "logo": "https://img.sofascore.com/api/v1/team/1889/image"
+        },
+        "teamB": {
+            "name": "Chelsea",
+            "logo": "https://img.sofascore.com/api/v1/team/66768/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/11/2026",
+        "time": "17:45:00",
+        "category": "Football",
+        "eventName": "UEFA Women's Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "9c559d07ccfd1b2024558710893333f5:d0dbaa1c429b5a01ea1d46c22368769d",
+                "tokenApi": null
+            },
+            {
+                "name": "FANCODE FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                "tokenApi": null
+            },
+            {
+                "name": "CBS SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://live.vivo155.com/live/sd-1-4646532.m3u8?txSecret=c04dbb07e79ac63ee6f999465f5d0e9b&txTime=6AF36B21|Referer=https://player.on8on8.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/QAQAQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "20:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Sweden",
+            "logo": "https://img.sofascore.com/api/v1/team/5724/image"
+        },
+        "teamB": {
+            "name": "Denmark",
+            "logo": "https://img.sofascore.com/api/v1/team/95003/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "18:00:00",
+        "category": "Hockey",
+        "eventName": "World Championship Women",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Finland",
+            "logo": "https://img.sofascore.com/api/v1/team/5728/image"
+        },
+        "teamB": {
+            "name": "Japan",
+            "logo": "https://img.sofascore.com/api/v1/team/22241/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/11/2026",
+        "time": "14:00:00",
+        "category": "Hockey",
+        "eventName": "World Championship Women",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "streams": [
+            {
+                "name": "TSN SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/59752/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Czechia",
+            "logo": "https://img.sofascore.com/api/v1/team/72454/image"
+        },
+        "teamB": {
+            "name": "Germany",
+            "logo": "https://img.sofascore.com/api/v1/team/5727/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "10/11/2026",
+        "time": "14:00:00",
+        "category": "Hockey",
+        "eventName": "World Championship Women",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "streams": [
+            {
+                "name": "TSN SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/59751/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Switzerland",
+            "logo": "https://img.sofascore.com/api/v1/team/5725/image"
+        },
+        "teamB": {
+            "name": "Austria",
+            "logo": "https://img.sofascore.com/api/v1/team/95001/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "18:00:00",
+        "category": "Hockey",
+        "eventName": "World Championship Women",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Tavernes",
+            "logo": "https://img.sofascore.com/api/v1/team/1284427/image"
+        },
+        "teamB": {
+            "name": "Valencia",
+            "logo": "https://img.sofascore.com/api/v1/team/2828/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "Copa del Rey",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Leicester",
+            "logo": "https://img.sofascore.com/api/v1/team/31/image"
+        },
+        "teamB": {
+            "name": "Walsall",
+            "logo": "https://img.sofascore.com/api/v1/team/26/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "Football League Trophy",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Inter",
+            "logo": "https://img.sofascore.com/api/v1/team/325685/image"
+        },
+        "teamB": {
+            "name": "Man City",
+            "logo": "https://img.sofascore.com/api/v1/team/142658/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "UEFA Women's Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Roma",
+            "logo": "https://img.sofascore.com/api/v1/team/301414/image"
+        },
+        "teamB": {
+            "name": "Servette FCCF",
+            "logo": "https://img.sofascore.com/api/v1/team/305811/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "UEFA Women's Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Trival Valderas",
+            "logo": "https://img.sofascore.com/api/v1/team/167158/image"
+        },
+        "teamB": {
+            "name": "Leganés",
+            "logo": "https://img.sofascore.com/api/v1/team/2845/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "Copa del Rey",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "PSG",
+            "logo": "https://img.sofascore.com/api/v1/team/55505/image"
+        },
+        "teamB": {
+            "name": "Bayern",
+            "logo": "https://img.sofascore.com/api/v1/team/5543/image"
+        },
+        "visible": true,
+        "date": "10/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "UEFA Women's Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "10/11/2026",
+        "end_time": "22:20:00"
     }
 ]
