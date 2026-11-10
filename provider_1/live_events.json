@@ -599,6 +599,22 @@
         "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
         "streams": [
             {
+                "name": "NXT FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/wwe/2026-11-10",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
                 "name": "Cricfy HD",
                 "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
                 "scheme": 0,
@@ -611,22 +627,6 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
-            },
-            {
-                "name": "NXT",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://embedindia.st/embed/wwe/2026-08-04",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
             },
             {
                 "name": "Low",
@@ -873,7 +873,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "10/11/2026",
+        "date": "11/11/2026",
         "time": "13:45:00",
         "category": "Cricket",
         "eventName": "Abu Dhabi T10 League",
@@ -881,9 +881,9 @@
         "streams": [
             {
                 "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd",
                 "scheme": 0,
-                "api": "0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d",
+                "api": "c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9",
                 "tokenApi": null
             },
             {
@@ -895,9 +895,9 @@
             },
             {
                 "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd",
                 "scheme": 0,
-                "api": "0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d",
+                "api": "c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9",
                 "tokenApi": null
             },
             {
@@ -1610,262 +1610,6 @@
     },
     {
         "teamA": {
-            "name": "Real Madrid",
-            "logo": "https://img.sofascore.com/api/v1/team/305051/image"
-        },
-        "teamB": {
-            "name": "Paris",
-            "logo": "https://img.sofascore.com/api/v1/team/264964/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/11/2026",
-        "time": "17:45:00",
-        "category": "Football",
-        "eventName": "UEFA Women's Champions League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "name": "PARAMOUNT+ FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live.vivo155.com/live/sd-1-4646533.m3u8?txSecret=60ef8f1749c5feaab6e5e3372e8e1a89&txTime=6AF36AF9|Referer=https://player.on8on8.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/QAQAQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "20:05:00"
-    },
-    {
-        "teamA": {
-            "name": "New Stars",
-            "logo": "https://img.sofascore.com/api/v1/team/1100818/image"
-        },
-        "teamB": {
-            "name": "Deportivo ICC",
-            "logo": "https://img.sofascore.com/api/v1/team/1096228/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "19:00:00",
-        "category": "Football",
-        "eventName": "Primera A La Paz",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/26954/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "21:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Pamplona",
-            "logo": "https://img.sofascore.com/api/v1/team/263528/image"
-        },
-        "teamB": {
-            "name": "Eibar",
-            "logo": "https://img.sofascore.com/api/v1/team/2839/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "18:00:00",
-        "category": "Football",
-        "eventName": "Copa del Rey",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "20:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Häcken",
-            "logo": "https://img.sofascore.com/api/v1/team/1889/image"
-        },
-        "teamB": {
-            "name": "Chelsea",
-            "logo": "https://img.sofascore.com/api/v1/team/66768/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/11/2026",
-        "time": "17:45:00",
-        "category": "Football",
-        "eventName": "UEFA Women's Champions League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "name": "PARAMOUNT+ FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "9c559d07ccfd1b2024558710893333f5:d0dbaa1c429b5a01ea1d46c22368769d",
-                "tokenApi": null
-            },
-            {
-                "name": "FANCODE FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "tokenApi": null
-            },
-            {
-                "name": "CBS SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live.vivo155.com/live/sd-1-4646532.m3u8?txSecret=c04dbb07e79ac63ee6f999465f5d0e9b&txTime=6AF36B21|Referer=https://player.on8on8.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/QAQAQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "20:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Sweden",
-            "logo": "https://img.sofascore.com/api/v1/team/5724/image"
-        },
-        "teamB": {
-            "name": "Denmark",
-            "logo": "https://img.sofascore.com/api/v1/team/95003/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "18:00:00",
-        "category": "Hockey",
-        "eventName": "World Championship Women",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Finland",
-            "logo": "https://img.sofascore.com/api/v1/team/5728/image"
-        },
-        "teamB": {
-            "name": "Japan",
-            "logo": "https://img.sofascore.com/api/v1/team/22241/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/11/2026",
-        "time": "14:00:00",
-        "category": "Hockey",
-        "eventName": "World Championship Women",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "streams": [
-            {
-                "name": "TSN SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://chatgpt.hereisman.net/playlist/59752/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Czechia",
-            "logo": "https://img.sofascore.com/api/v1/team/72454/image"
-        },
-        "teamB": {
-            "name": "Germany",
-            "logo": "https://img.sofascore.com/api/v1/team/5727/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "10/11/2026",
-        "time": "14:00:00",
-        "category": "Hockey",
-        "eventName": "World Championship Women",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "streams": [
-            {
-                "name": "TSN SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://chatgpt.hereisman.net/playlist/59751/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Switzerland",
-            "logo": "https://img.sofascore.com/api/v1/team/5725/image"
-        },
-        "teamB": {
-            "name": "Austria",
-            "logo": "https://img.sofascore.com/api/v1/team/95001/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "18:00:00",
-        "category": "Hockey",
-        "eventName": "World Championship Women",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
             "name": "Tavernes",
             "logo": "https://img.sofascore.com/api/v1/team/1284427/image"
         },
@@ -1874,6 +1618,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2828/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1881,36 +1626,22 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "CricFy",
+                "link": "https://live.vivo155.com/live/sd-1-4658654.m3u8?txSecret=55f8cc772878f2a68c31707fdc02d0d0&txTime=6AF38A86|Referer=https://player.on8on8.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CricFy HD",
+                "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "10/11/2026",
         "end_time": "22:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Leicester",
-            "logo": "https://img.sofascore.com/api/v1/team/31/image"
-        },
-        "teamB": {
-            "name": "Walsall",
-            "logo": "https://img.sofascore.com/api/v1/team/26/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "19:00:00",
-        "category": "Football",
-        "eventName": "Football League Trophy",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "21:20:00"
     },
     {
         "teamA": {
@@ -1922,6 +1653,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/142658/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1929,8 +1661,11 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mtmbz5zsb/out/v1/3a1028ef03ab426fbad3a6ab4660d30c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "3586dd615eebc5504bb9b45fc9003797:8f0a760469969e5fdc0fcacf7cbe561a",
+                "tokenApi": null
             }
         ],
         "end_date": "10/11/2026",
@@ -1946,6 +1681,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/305811/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1953,36 +1689,15 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krwoklim9x/out/v1/ebf6dd7e3343462eb3f4d6a4ac38b3ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "d0a78977471b32c0e495a6d7dbe0ddaf:be86ffcfa8a6cc66b46b7b26de4c7f26",
+                "tokenApi": null
             }
         ],
         "end_date": "10/11/2026",
         "end_time": "22:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Trival Valderas",
-            "logo": "https://img.sofascore.com/api/v1/team/167158/image"
-        },
-        "teamB": {
-            "name": "Leganés",
-            "logo": "https://img.sofascore.com/api/v1/team/2845/image"
-        },
-        "visible": true,
-        "date": "10/11/2026",
-        "time": "19:00:00",
-        "category": "Football",
-        "eventName": "Copa del Rey",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "10/11/2026",
-        "end_time": "21:20:00"
     },
     {
         "teamA": {
@@ -1994,6 +1709,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/5543/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "10/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -2001,11 +1717,624 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7sdi5ribnv/out/v1/124536cfa5414911b33298c7a236243f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "e8c919d45cbaa02568cbdd76e5520326:f87d4bea5c630a008e267deefc8c0354",
+                "tokenApi": null
             }
         ],
         "end_date": "10/11/2026",
         "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Knicks",
+            "logo": "https://img.sofascore.com/api/v1/team/3421/image"
+        },
+        "teamB": {
+            "name": "Bucks",
+            "logo": "https://img.sofascore.com/api/v1/team/3410/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:30:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "NBA FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-10/mil-ny",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "EXTRA SPORT HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/184",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "03:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Suns",
+            "logo": "https://img.sofascore.com/api/v1/team/3416/image"
+        },
+        "teamB": {
+            "name": "Clippers",
+            "logo": "https://img.sofascore.com/api/v1/team/3425/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "02:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/188",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "05:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Trail Blazers",
+            "logo": "https://img.sofascore.com/api/v1/team/3414/image"
+        },
+        "teamB": {
+            "name": "Thunder",
+            "logo": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "04:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/1",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "07:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Kings",
+            "logo": "https://img.sofascore.com/api/v1/team/3413/image"
+        },
+        "teamB": {
+            "name": "Magic",
+            "logo": "https://img.sofascore.com/api/v1/team/3437/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "03:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/190",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "06:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Jazz",
+            "logo": "https://img.sofascore.com/api/v1/team/3434/image"
+        },
+        "teamB": {
+            "name": "Heat",
+            "logo": "https://img.sofascore.com/api/v1/team/3435/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "02:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/189",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "05:00:00"
+    },
+    {
+        "teamA": {
+            "name": "76ers",
+            "logo": "https://img.sofascore.com/api/v1/team/3420/image"
+        },
+        "teamB": {
+            "name": "Celtics",
+            "logo": "https://img.sofascore.com/api/v1/team/3422/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "01:00:00",
+        "category": "Basketball",
+        "eventName": "NBA",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "streams": [
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://event.kpores.ru/embed/SKY-SPORTS-MAIN-EVENT-UK",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "Nova Sports HD",
+                "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+                "scheme": 0,
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "04:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Senators",
+            "logo": "https://img.sofascore.com/api/v1/team/3700/image"
+        },
+        "teamB": {
+            "name": "Capitals",
+            "logo": "https://img.sofascore.com/api/v1/team/3691/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "TSN FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                "scheme": 0,
+                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Oilers",
+            "logo": "https://img.sofascore.com/api/v1/team/3686/image"
+        },
+        "teamB": {
+            "name": "Flyers",
+            "logo": "https://img.sofascore.com/api/v1/team/3699/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "02:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Sharks",
+            "logo": "https://img.sofascore.com/api/v1/team/3696/image"
+        },
+        "teamB": {
+            "name": "Penguins",
+            "logo": "https://img.sofascore.com/api/v1/team/3697/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "03:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Jets",
+            "logo": "https://img.sofascore.com/api/v1/team/3676/image"
+        },
+        "teamB": {
+            "name": "Devils",
+            "logo": "https://img.sofascore.com/api/v1/team/3704/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "TSN 3 FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+                "scheme": 0,
+                "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Golden Knights",
+            "logo": "https://img.sofascore.com/api/v1/team/257523/image"
+        },
+        "teamB": {
+            "name": "Mammoth",
+            "logo": "https://img.sofascore.com/api/v1/team/530472/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "02:30:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Kings",
+            "logo": "https://img.sofascore.com/api/v1/team/3688/image"
+        },
+        "teamB": {
+            "name": "Predators",
+            "logo": "https://img.sofascore.com/api/v1/team/3705/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "03:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "CricFy FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-10/nsh-la",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "05:30:00"
+    },
+    {
+        "teamA": {
+            "name": "Blues",
+            "logo": "https://img.sofascore.com/api/v1/team/3695/image"
+        },
+        "teamB": {
+            "name": "Red Wings",
+            "logo": "https://img.sofascore.com/api/v1/team/3685/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "01:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "CricFy FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-10/det-stl",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Maple Leafs",
+            "logo": "https://img.sofascore.com/api/v1/team/3693/image"
+        },
+        "teamB": {
+            "name": "Avalanche",
+            "logo": "https://img.sofascore.com/api/v1/team/3682/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "TSN FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                "scheme": 0,
+                "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Sabres",
+            "logo": "https://img.sofascore.com/api/v1/team/3678/image"
+        },
+        "teamB": {
+            "name": "Lightning",
+            "logo": "https://img.sofascore.com/api/v1/team/3694/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Flames",
+            "logo": "https://img.sofascore.com/api/v1/team/3679/image"
+        },
+        "teamB": {
+            "name": "Rangers",
+            "logo": "https://img.sofascore.com/api/v1/team/3701/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "00:30:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Canadiens",
+            "logo": "https://img.sofascore.com/api/v1/team/3690/image"
+        },
+        "teamB": {
+            "name": "Wild",
+            "logo": "https://img.sofascore.com/api/v1/team/3689/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "TSN 2 FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                "scheme": 0,
+                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                "tokenApi": null
+            },
+            {
+                "name": "Nova Sports HD",
+                "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+                "scheme": 0,
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": null
+            },
+            {
+                "name": "Premier Sports HD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                "scheme": 0,
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "tokenApi": null
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Blue Jackets",
+            "logo": "https://img.sofascore.com/api/v1/team/3683/image"
+        },
+        "teamB": {
+            "name": "Panthers",
+            "logo": "https://img.sofascore.com/api/v1/team/3687/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "11/11/2026",
+        "time": "00:30:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "CricFy FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-10/fla-cbj",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "11/11/2026",
+        "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "Ducks",
+            "logo": "https://img.sofascore.com/api/v1/team/3675/image"
+        },
+        "teamB": {
+            "name": "Predators",
+            "logo": "https://img.sofascore.com/api/v1/team/3705/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "03:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
     }
 ]
