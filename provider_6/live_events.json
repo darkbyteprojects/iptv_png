@@ -402,22 +402,29 @@
             "eventName": "🥊 WWE NXT",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/11/11 00:00:00 +0000",
-            "endTime": "2026/11/11 02:00:00 +0000"
+            "startTime": "2026/11/11 01:00:00 +0000",
+            "endTime": "2026/11/11 02:45:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
         "formats": [
             {
                 "api": "",
-                "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+                "link": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
                 "logo": "",
                 "title": "SportzX NXT Live",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://embedindia.st/embed/wwe/2026-09-29",
+                "link": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+                "logo": "",
+                "title": "SportzX Live",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/wwe/2026-11-10",
                 "logo": "",
                 "title": "NXT LIVE [FHD]",
                 "type": "2"
@@ -426,6 +433,10 @@
         "formatsNew": [
             {
                 "title": "SportzX NXT Live",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
                 "logo": ""
             },
             {
@@ -933,15 +944,15 @@
         "publish": "1",
         "formats": [
             {
-                "api": "cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
                 "title": "WILLOW FHD",
                 "type": "1"
             },
             {
-                "api": "cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "api": "e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
                 "title": "WILLOW ALT",
                 "type": "1"
@@ -958,6 +969,20 @@
                 "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
                 "logo": "",
                 "title": "PTV SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+                "logo": "",
+                "title": "TAPMAD HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.44/hls/D222AWX.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "logo": "",
+                "title": "LOW SERVER",
                 "type": "0"
             }
         ],
@@ -976,6 +1001,14 @@
             },
             {
                 "title": "PTV SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "TAPMAD HD",
+                "logo": ""
+            },
+            {
+                "title": "LOW SERVER",
                 "logo": ""
             }
         ]
@@ -1350,186 +1383,6 @@
         ]
     },
     {
-        "id": 50043,
-        "title": "Knicks vs Milwaukee Bucks",
-        "image": "o",
-        "cat": "NBA",
-        "eventInfo": {
-            "teamA": "Knicks",
-            "teamB": "Bucks",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-            "eventName": "New York Knicks vs Milwaukee Bucks",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:30:00 +0000",
-            "endTime": "2026/11/11 03:30:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "55c305619e62c36b074d56a10840de9c:3f06c182e2bd31ae980bd374a4e11ee4",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hyjnsjvtkw/out/v1/0eb537a3468e4df69fd9ffd025d0272a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "logo": "",
-                "title": "NBA LEAGUEPASS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59789/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59778/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "NBA LIVE HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nba/2026-11-10/mil-ny",
-                "logo": "",
-                "title": "NBA LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "NBA LEAGUEPASS FHD",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NBA LIVE HD",
-                "logo": ""
-            },
-            {
-                "title": "NBA LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50044,
-        "title": "Philadelphia 76ers vs Boston Celtics",
-        "image": "o",
-        "cat": "NBA",
-        "eventInfo": {
-            "teamA": "76ers",
-            "teamB": "Celtics",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-            "eventName": "Philadelphia 76ers vs Boston Celtics",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 01:00:00 +0000",
-            "endTime": "2026/11/11 04:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "logo": "",
-                "title": "NBC SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nba/2026-11-10/bos-phi",
-                "logo": "",
-                "title": "NBA LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "NBC SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "NBA LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50048,
-        "title": "Phoenix Suns vs Los Angeles Clippers",
-        "image": "o",
-        "cat": "NBA",
-        "eventInfo": {
-            "teamA": "Suns",
-            "teamB": "Clippers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-            "eventName": "Phoenix Suns vs Los Angeles Clippers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 02:00:00 +0000",
-            "endTime": "2026/11/11 05:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nba/2026-11-10/lac-phx",
-                "logo": "",
-                "title": "NBA LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "NBA LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50051,
-        "title": "Utah Jazz vs Miami Heat",
-        "image": "o",
-        "cat": "NBA",
-        "eventInfo": {
-            "teamA": "Jazz",
-            "teamB": "Heat",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-            "eventName": "Utah Jazz vs Miami Heat",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 02:00:00 +0000",
-            "endTime": "2026/11/11 05:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nba/2026-11-10/mia-utah",
-                "logo": "",
-                "title": "NBA LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "NBA LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50055,
         "title": "Sacramento Kings vs Orlando Magic",
         "image": "o",
@@ -1549,6 +1402,27 @@
         "publish": "1",
         "formats": [
             {
+                "api": "bebdeb3775a9c387af2b8573e17f20e6:bbca2d97e65bc204121527d2492e43ed",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmrjau1hzb/out/v1/cabb979a9f6c416597440ea449361d32/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "logo": "",
+                "title": "NBA LEAGUEPASS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59810/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "logo": "",
+                "title": "SportzX Live",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59812/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "logo": "",
+                "title": "NBA LIVE HD",
+                "type": "0"
+            },
+            {
                 "api": "",
                 "link": "https://taifood-blog.asia/embed/nba/2026-11-10/orl-sac",
                 "logo": "",
@@ -1557,6 +1431,18 @@
             }
         ],
         "formatsNew": [
+            {
+                "title": "NBA LEAGUEPASS FHD",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "NBA LIVE HD",
+                "logo": ""
+            },
             {
                 "title": "NBA LIVE [FHD]",
                 "logo": ""
@@ -1583,9 +1469,174 @@
         "publish": "1",
         "formats": [
             {
+                "api": "493941d0e9286e1938b282b22a2aa5b5:7a6efbc41dc4bf672d069cd33d4d5812",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsm8axafg5/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "logo": "",
+                "title": "NBA LEAGUEPASS FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59813/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "logo": "",
+                "title": "SportzX Live",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59814/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "logo": "",
+                "title": "NBA LIVE HD",
+                "type": "0"
+            },
+            {
                 "api": "",
                 "link": "https://taifood-blog.asia/embed/nba/2026-11-10/okc-por",
                 "logo": "",
+                "title": "NBA LIVE [FHD]",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NBA LEAGUEPASS FHD",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "NBA LIVE HD",
+                "logo": ""
+            },
+            {
+                "title": "NBA LIVE [FHD]",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50058,
+        "title": "Pelicans vs Brooklyn Nets",
+        "image": "o",
+        "cat": "NBA",
+        "eventInfo": {
+            "teamA": "Pelicans",
+            "teamB": "Nets",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+            "eventName": "New Orleans Pelicans vs Brooklyn Nets",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 01:00:00 +0000",
+            "endTime": "2026/11/12 04:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nba/2026-11-09/sa-phx",
+                "title": "NBA LIVE HD",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NBA LIVE HD",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50059,
+        "title": "Utah Jazz vs Orlando Magic",
+        "image": "o",
+        "cat": "NBA",
+        "eventInfo": {
+            "teamA": "Jazz",
+            "teamB": "Magic",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+            "eventName": "Utah Jazz vs Orlando Magic",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 02:00:00 +0000",
+            "endTime": "2026/11/12 05:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nba/2026-11-09/no-gs",
+                "title": "NBA LIVE [FHD]",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NBA LIVE [FHD]",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50060,
+        "title": "Houston Rockets vs Warriors",
+        "image": "o",
+        "cat": "NBA",
+        "eventInfo": {
+            "teamA": "Rockets",
+            "teamB": "Warriors",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+            "eventName": "Houston Rockets vs Golden State Warriors",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 02:30:00 +0000",
+            "endTime": "2026/11/12 05:30:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nba/2026-11-06/sa-sac",
+                "title": "NBA LIVE [FHD]",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NBA LIVE [FHD]",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50061,
+        "title": "Trail Blazers vs Thunder",
+        "image": "o",
+        "cat": "NBA",
+        "eventInfo": {
+            "teamA": "Trail Blazers",
+            "teamB": "Thunder",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+            "eventName": "Portland Trail Blazers vs Oklahoma City Thunder",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 03:00:00 +0000",
+            "endTime": "2026/11/12 06:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nba/2026-11-04/tor-den",
                 "title": "NBA LIVE [FHD]",
                 "type": "2"
             }
@@ -1610,8 +1661,8 @@
             "eventName": "Nepal Premier League",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/11/10 11:00:00 +0000",
-            "endTime": "2026/11/10 14:45:00 +0000"
+            "startTime": "2026/11/12 06:45:00 +0000",
+            "endTime": "2026/11/12 15:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -1754,275 +1805,6 @@
         ]
     },
     {
-        "id": 50075,
-        "title": "Canadiens vs Minnesota Wild",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Canadiens",
-            "teamB": "Wild",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-            "eventName": "Montréal Canadiens vs Minnesota Wild",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:00:00 +0000",
-            "endTime": "2026/11/11 03:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "logo": "",
-                "title": "PREMIER SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59768/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/nyr-edm",
-                "logo": "",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "PREMIER SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50076,
-        "title": "Senators vs Washington Capitals",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Senators",
-            "teamB": "Capitals",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-            "eventName": "Ottawa Senators vs Washington Capitals",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:00:00 +0000",
-            "endTime": "2026/11/11 03:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59761/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/phi-van",
-                "logo": "",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50077,
-        "title": "Maple Leafs vs Colorado Avalanche",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Maple Leafs",
-            "teamB": "Avalanche",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-            "eventName": "Toronto Maple Leafs vs Colorado Avalanche",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:00:00 +0000",
-            "endTime": "2026/11/11 03:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59765/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/nyi-sj",
-                "logo": "",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50078,
-        "title": "Winnipeg Jets vs Devils",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Jets",
-            "teamB": "Devils",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-            "eventName": "Winnipeg Jets vs New Jersey Devils",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:00:00 +0000",
-            "endTime": "2026/11/11 03:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59759/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/uta-ott",
-                "logo": "",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50079,
-        "title": "Blue Jackets vs Florida Panthers",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Blue Jackets",
-            "teamB": "Panthers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-            "eventName": "Columbus Blue Jackets vs Florida Panthers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 00:30:00 +0000",
-            "endTime": "2026/11/11 03:30:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59777/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "logo": "",
-                "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/mtl-tor",
-                "logo": "",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50080,
-        "title": "Blues vs Detroit Red Wings",
-        "image": "o",
-        "cat": "NHL",
-        "eventInfo": {
-            "teamA": "Blues",
-            "teamB": "Red Wings",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-            "eventName": "St. Louis Blues vs Detroit Red Wings",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/11/11 01:00:00 +0000",
-            "endTime": "2026/11/11 04:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            {
-                "api": "",
-                "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/chi-car",
-                "title": "NHL LIVE [FHD]",
-                "type": "2"
-            }
-        ],
-        "formatsNew": [
-            {
-                "title": "NHL LIVE [FHD]",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50081,
         "title": "Kings vs Nashville Predators",
         "image": "o",
@@ -2044,12 +1826,21 @@
             {
                 "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "logo": "",
                 "title": "PREMIER SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59809/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "logo": "",
+                "title": "SportzX Live",
+                "type": "0"
+            },
+            {
+                "api": "",
                 "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/sj-dal",
+                "logo": "",
                 "title": "NHL LIVE [FHD]",
                 "type": "2"
             }
@@ -2060,6 +1851,109 @@
                 "logo": ""
             },
             {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "NHL LIVE [FHD]",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50082,
+        "title": "Dallas Stars vs Winnipeg Jets",
+        "image": "o",
+        "cat": "NHL",
+        "eventInfo": {
+            "teamA": "Stars",
+            "teamB": "Jets",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+            "eventName": "Dallas Stars vs Winnipeg Jets",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/13 01:00:00 +0000",
+            "endTime": "2026/11/13 04:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59556/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "title": "NHL Live HD",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NHL Live HD",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50083,
+        "title": "Utah Mammoth vs Blues",
+        "image": "o",
+        "cat": "NHL",
+        "eventInfo": {
+            "teamA": "Mammoth",
+            "teamB": "Blues",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+            "eventName": "Utah Mammoth vs St. Louis Blues",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/13 02:00:00 +0000",
+            "endTime": "2026/11/13 05:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/det-col",
+                "title": "NHL LIVE [FHD]",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "NHL LIVE [FHD]",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50084,
+        "title": "Kings vs New York Islanders",
+        "image": "o",
+        "cat": "NHL",
+        "eventInfo": {
+            "teamA": "Kings",
+            "teamB": "Islanders",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+            "eventName": "Los Angeles Kings vs New York Islanders",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/13 03:00:00 +0000",
+            "endTime": "2026/11/13 06:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/pit-la",
+                "title": "NHL LIVE [FHD]",
+                "type": "2"
+            }
+        ],
+        "formatsNew": [
+            {
                 "title": "NHL LIVE [FHD]",
                 "logo": ""
             }
@@ -2067,56 +1961,33 @@
     },
     {
         "id": 50089,
-        "title": "Leicester City vs Walsall",
+        "title": "New Zealand vs India",
         "image": "o",
-        "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "FIFA Friendlies",
         "eventInfo": {
-            "teamA": "Leicester",
-            "teamB": "Walsall",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/26/image",
-            "eventName": "Leicester City vs Walsall",
+            "teamA": "New Zealand",
+            "teamB": "India",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+            "eventName": "New Zealand vs India",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/11/10 19:00:00 +0000",
-            "endTime": "2026/11/10 21:05:00 +0000"
+            "startTime": "2026/11/12 06:00:00 +0000",
+            "endTime": "2026/11/12 08:10:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
         "formats": [
             {
                 "api": "",
-                "link": "https://live.vivo155.com/live/sd-1-4568716.m3u8?txSecret=2b3701c816f09f7793cfb774882f7965&txTime=6AF37B9D|Referer=https://player.on8on8.com/",
-                "logo": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
                 "title": "SportzX Live",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "logo": "",
-                "title": "HD SERVER",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/PPPPAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "logo": "",
-                "title": "LOW SERVER",
                 "type": "0"
             }
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            },
-            {
-                "title": "LOW SERVER",
                 "logo": ""
             }
         ]
@@ -2250,6 +2121,535 @@
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50118,
+        "title": "San Marino vs Belarus",
+        "image": "o",
+        "cat": "UEFA Nations",
+        "eventInfo": {
+            "teamA": "San Marino",
+            "teamB": "Belarus",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image",
+            "eventName": "San Marino vs Belarus",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:45:00 +0000",
+            "endTime": "2026/11/12 21:50:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50119,
+        "title": "Montenegro vs Latvia",
+        "image": "o",
+        "cat": "UEFA Nations",
+        "eventInfo": {
+            "teamA": "Montenegro",
+            "teamB": "Latvia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+            "eventName": "Montenegro vs Latvia",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:45:00 +0000",
+            "endTime": "2026/11/12 21:50:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50120,
+        "title": "Senegal vs Sudan",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Senegal",
+            "teamB": "Sudan",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4734/image",
+            "eventName": "Senegal vs Sudan",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:00:00 +0000",
+            "endTime": "2026/11/12 21:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50121,
+        "title": "Cameroon vs Namibia",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Cameroon",
+            "teamB": "Namibia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4751/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4832/image",
+            "eventName": "Cameroon vs Namibia",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:00:00 +0000",
+            "endTime": "2026/11/12 21:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50122,
+        "title": "Cote d Ivoire vs Gambia",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Côte d'Ivoire",
+            "teamB": "Gambia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
+            "eventName": "Côte d'Ivoire vs Gambia",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:00:00 +0000",
+            "endTime": "2026/11/12 21:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50123,
+        "title": "Benin vs Central African Republic",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Benin",
+            "teamB": "Central African Republic",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4744/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23470/image",
+            "eventName": "Benin vs Central African Republic",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 19:00:00 +0000",
+            "endTime": "2026/11/12 21:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50124,
+        "title": "Madagascar vs Guinea-Bissau",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Madagascar",
+            "teamB": "Guinea-Bissau",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/8035/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23478/image",
+            "eventName": "Madagascar vs Guinea-Bissau",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 16:00:00 +0000",
+            "endTime": "2026/11/12 18:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50125,
+        "title": "Guinea vs Zimbabwe",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Equatorial Guinea",
+            "teamB": "Zimbabwe",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/8032/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4719/image",
+            "eventName": "Equatorial Guinea vs Zimbabwe",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 16:00:00 +0000",
+            "endTime": "2026/11/12 18:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50126,
+        "title": "DR Congo vs Sierra Leone",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "DR Congo",
+            "teamB": "Sierra Leone",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+            "eventName": "DR Congo vs Sierra Leone",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 16:00:00 +0000",
+            "endTime": "2026/11/12 18:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50127,
+        "title": "Guinea vs Eritrea",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Guinea",
+            "teamB": "Eritrea",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/8041/image",
+            "eventName": "Guinea vs Eritrea",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 16:00:00 +0000",
+            "endTime": "2026/11/12 18:00:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50128,
+        "title": "Ghana vs Somalia",
+        "image": "o",
+        "cat": "AFCON",
+        "eventInfo": {
+            "teamA": "Ghana",
+            "teamB": "Somalia",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
+            "eventName": "Ghana vs Somalia",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/12 15:00:00 +0000",
+            "endTime": "2026/11/12 17:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50129,
+        "title": "Juventus vs OL Lyonnes",
+        "image": "o",
+        "cat": "UCL Womens",
+        "eventInfo": {
+            "teamA": "Juventus",
+            "teamB": "Lyonnes",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+            "eventName": "Juventus vs OL Lyonnes",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/11 20:00:00 +0000",
+            "endTime": "2026/11/11 22:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "CBS SPORTS GOLAZO",
+                "type": "1"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "CBS SPORTS GOLAZO",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50130,
+        "title": "OH Leuven vs HB Koge",
+        "image": "o",
+        "cat": "UCL Womens",
+        "eventInfo": {
+            "teamA": "OH Leuven",
+            "teamB": "HB Køge",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
+            "eventName": "OH Leuven vs HB Køge",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/11 17:45:00 +0000",
+            "endTime": "2026/11/11 19:45:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "title": "CBS SPORTS GOLAZO",
+                "type": "1"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "CBS SPORTS GOLAZO",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50131,
+        "title": "Bangladesh vs Sri Lanka",
+        "image": "o",
+        "cat": "SAFF Championship",
+        "eventInfo": {
+            "teamA": "Bangladesh",
+            "teamB": "Sri Lanka",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
+            "eventName": "Bangladesh vs Sri Lanka",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/11 14:00:00 +0000",
+            "endTime": "2026/11/11 16:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50132,
+        "title": "India vs Maldives",
+        "image": "o",
+        "cat": "SAFF Championship",
+        "eventInfo": {
+            "teamA": "India",
+            "teamB": "Maldives",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+            "eventName": "India vs Maldives",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/11 09:30:00 +0000",
+            "endTime": "2026/11/11 11:35:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "title": "SportzX Live",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50133,
+        "title": "Vietnam vs Chinese Taipei",
+        "image": "o",
+        "cat": "FIFA Friendlies",
+        "eventInfo": {
+            "teamA": "Vietnam",
+            "teamB": "Chinese Taipei",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
+            "eventName": "Vietnam vs Chinese Taipei",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/11/11 12:00:00 +0000",
+            "endTime": "2026/11/11 14:05:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            {
+                "api": "",
+                "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+                "logo": "",
+                "title": "Default",
+                "type": "0"
+            }
+        ],
+        "formatsNew": [
+            {
+                "title": "Default",
                 "logo": ""
             }
         ]
