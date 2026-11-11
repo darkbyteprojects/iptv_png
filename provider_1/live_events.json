@@ -631,21 +631,14 @@
         "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
         "streams": [
             {
-                "name": "TSN SPORTS - AQ",
+                "name": "TSN SPORTS FHD",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "scheme": 0,
                 "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
                 "tokenApi": null
             },
             {
-                "name": "TBD SPORTS HD",
-                "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Fox Sports - AQ",
+                "name": "FOX SPORTS FHD",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
                 "scheme": 0,
                 "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
@@ -658,7 +651,7 @@
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://taifood-blog.asia/embed/aew/2026-10-28",
+                    "api": "https://taifood-blog.asia/embed/aew/2026-11-14",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -666,6 +659,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "TBD SPORTS HD",
+                "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             },
             {
                 "name": "Backup",
@@ -788,8 +788,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "11/11/2026",
-        "time": "08:10:00",
+        "date": "12/11/2026",
+        "time": "04:40:00",
         "category": "Cricket",
         "eventName": "WBBL | Womens Big Bash League",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
@@ -835,6 +835,38 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "Sky S 1 NZ",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://event.kpores.ru/embed/SKY-SPORT-1-NZ",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "SKY UK",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://event.kpores.ru/embed/SKY-SPORTS-CRICKET-UK",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ]
     },
@@ -849,8 +881,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "11/11/2026",
-        "time": "13:45:00",
+        "date": "13/11/2026",
+        "time": "11:30:00",
         "category": "Cricket",
         "eventName": "Abu Dhabi T10 League",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
@@ -1571,8 +1603,26 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "NHL LIVE",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "05:00:00"
     },
     {
         "teamA": {
@@ -1606,8 +1656,26 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "NHL Live",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-11/pit-sj",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "06:00:00"
     },
     {
         "teamA": {
@@ -1626,6 +1694,20 @@
         "eventName": "NHL",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
+            {
+                "name": "PREMIER SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "tokenApi": null
+            },
+            {
+                "name": "SKY SPORTS MIX",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+                "tokenApi": null
+            },
             {
                 "name": "NHL",
                 "link": null,
@@ -1658,7 +1740,9 @@
                     "ip_api": "https://api.ipify.org/"
                 }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "06:00:00"
     },
     {
         "teamA": {
@@ -1678,6 +1762,20 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
+                "name": "PREMIERE SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "tokenApi": null
+            },
+            {
+                "name": "NOVA SPORTS FHD",
+                "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": null
+            },
+            {
                 "name": "NHL",
                 "link": null,
                 "scheme": 0,
@@ -1692,8 +1790,26 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "NHL LIVE FHD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-11/tb-buf",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "03:00:00"
     },
     {
         "teamA": {
@@ -1743,8 +1859,26 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "NHL LIVE",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "03:30:00"
     },
     {
         "teamA": {
@@ -1779,7 +1913,9 @@
                     "ip_api": "https://api.ipify.org/"
                 }
             }
-        ]
+        ],
+        "end_date": "12/11/2026",
+        "end_time": "06:00:00"
     },
     {
         "teamA": {
@@ -1799,13 +1935,29 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
+                "name": "NBA LIVE",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
                     "api": "https://104game.click/player/2/186",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "CricFy Live",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-11/den-mem",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -1836,13 +1988,29 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
+                "name": "NBA LIVE",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
                     "api": "https://104game.click/player/2/185",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-11/sa-chi",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -1873,13 +2041,13 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "beIN SPORT 1",
+                "name": "ESPN USA HD",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://104game.click/player/2/1",
+                    "api": "https://event.kpores.ru/embed/ESPN-1-USA",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -1889,13 +2057,13 @@
                 }
             },
             {
-                "name": "EXTRA SPORT38",
+                "name": "ESPN DEPORTES HD",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://104game.click/player/2/191",
+                    "api": "https://kpores.ru/embed/espndeportes-usa",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -1972,6 +2140,22 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "NBA LIVE",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-11/wsh-ind",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "12/11/2026",
@@ -2032,7 +2216,28 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
+                "name": "TSN4 SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                "tokenApi": null
+            },
+            {
+                "name": "TSN SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "tokenApi": null
+            },
+            {
+                "name": "SKY SPORTS MIX FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+                "tokenApi": null
+            },
+            {
+                "name": "NBA LIVE",
                 "link": null,
                 "scheme": 0,
                 "api": null,
@@ -2180,6 +2385,38 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
+                "name": "ESPN DEPORTES HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://kpores.ru/embed/espndeportes-usa",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ESPN USA HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://event.kpores.ru/embed/ESPN-1-USA",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
                 "name": "beIN SPORT 1",
                 "link": null,
                 "scheme": 0,
@@ -2246,5 +2483,49 @@
         ],
         "end_date": "12/11/2026",
         "end_time": "03:00:00"
+    },
+    {
+        "teamA": {
+            "name": "AFG-U19",
+            "logo": "https://img.sofascore.com/api/v1/team/213103/image"
+        },
+        "teamB": {
+            "name": "IND-U19",
+            "logo": "https://img.sofascore.com/api/v1/team/213112/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "05:00:00",
+        "category": "Cricket",
+        "eventName": "U19 Asia Cup",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "PAK-U19",
+            "logo": "https://img.sofascore.com/api/v1/team/213104/image"
+        },
+        "teamB": {
+            "name": "BAN-U19",
+            "logo": "https://img.sofascore.com/api/v1/team/213099/image"
+        },
+        "visible": true,
+        "date": "12/11/2026",
+        "time": "05:00:00",
+        "category": "Cricket",
+        "eventName": "U19 Asia Cup",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
     }
 ]
