@@ -2,13 +2,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/13 14:08:34 +0000",
+            "endTime": "2026/11/14 13:30:58 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
             "eventName": "AFGHANISTAN VS ZIMBABWE IN UAE",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/13 06:00:21 +0000",
+            "startTime": "2026/11/14 06:00:48 +0000",
             "teamA": "AFG",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
             "teamB": "ZIM",
@@ -144,13 +144,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/13 12:40:37 +0000",
+            "endTime": "2026/11/14 12:30:38 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
             "eventName": "SRI LANKA TOUR OF PAKISTAN",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/13 04:30:16 +0000",
+            "startTime": "2026/11/14 04:30:25 +0000",
             "teamA": "PAK",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
             "teamB": "SL",
@@ -347,7 +347,7 @@
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/JJJJAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/goooaaaQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
@@ -2109,7 +2109,7 @@
             "endTime": "2026/11/14 12:29:15 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-            "eventName": "U19 Asia Cup",
+            "eventName": "U19 Asia Cup,  Final Match",
             "eventType": "",
             "isHot": "0",
             "startTime": "2026/11/14 05:00:00 +0000",
@@ -2383,9 +2383,10 @@
         },
         "formats": [
             "SporTV BR FHD",
+            "SporTV BR HD",
             "FAST SERVER HD",
-            "TYC SPORTS AQ",
-            "GHD SPORTS HD"
+            "GHD SPORTS HD",
+            "CN SERVER HD"
         ],
         "id": 875,
         "image": "null",
@@ -2402,6 +2403,13 @@
             },
             {
                 "api": "",
+                "link": "https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794616625-0-0-395e9832b4e5f4c6d1cb9bccbf659e49&token=d2cd567100c8ff84&device=4&platform=rrty",
+                "publish": 1,
+                "title": "SporTV BR HD",
+                "type": "0"
+            },
+            {
+                "api": "",
                 "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
                 "publish": 1,
                 "title": "FAST SERVER HD",
@@ -2409,16 +2417,16 @@
             },
             {
                 "api": "",
-                "link": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+                "link": "http://193.47.62.44/hls/TTTT.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "TYC SPORTS AQ",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/AHHHA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
                 "publish": 1,
-                "title": "GHD SPORTS HD",
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -2441,7 +2449,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image"
         },
         "formats": [
-            "GHD SPORTS - SD"
+            "GHD SPORTS - SD",
+            "FAST SERVER HD",
+            "CN SERVER HD"
         ],
         "id": 876,
         "image": "null",
@@ -2451,9 +2461,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/FIIIAAAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/goooaa.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS - SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
+                "publish": 1,
+                "title": "FAST SERVER HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -2476,7 +2500,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image"
         },
         "formats": [
-            "GHD SPORTS - SD"
+            "D SPORTS + FHD",
+            "GHD SPORTS - SD",
+            "CN SERVER HD"
         ],
         "id": 877,
         "image": "null",
@@ -2485,10 +2511,24 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "D SPORTS + FHD",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "http://193.47.62.41/hls/FIIIAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.41/hls/goooa.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
                 "title": "GHD SPORTS - SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -2511,9 +2551,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image"
         },
         "formats": [
-            "GHD SPORTS - HD",
-            "CANAL MX FHD",
-            "GHD SPORTS SD"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "FAST SERVER HD"
         ],
         "id": 878,
         "image": "null",
@@ -2523,23 +2563,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8",
+                "link": "http://193.47.62.41/hls/goooaaaQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "GHD SPORTS - HD",
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
-                "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "api": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
                 "publish": 1,
-                "title": "CANAL MX FHD",
-                "type": "1"
+                "title": "GHD SPORTS SD",
+                "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.41/hls/DBBBQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "link": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
                 "publish": 1,
-                "title": "GHD SPORTS SD",
+                "title": "FAST SERVER HD",
                 "type": "0"
             }
         ],
@@ -4657,13 +4697,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/13 19:00:17 +0000",
+            "endTime": "2026/11/14 19:00:40 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10",
             "eventName": "ABU DHABI T10 LEAGUE",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/13 11:30:01 +0000",
+            "startTime": "2026/11/14 11:30:29 +0000",
             "teamA": "T10 LEAGUE",
             "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10",
             "teamB": "T10 LEAGUE",
