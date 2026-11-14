@@ -2,155 +2,143 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "14/11/2026 12:35:00",
-            "event_name": "International Friendly Games",
-            "start_time": "14/11/2026 10:15:00",
-            "team_a": "Japan",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4770/image",
-            "team_b": "Brazil",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4748/image"
+            "end_time": "14/11/2026 16:50:00",
+            "event_name": "SAFF Championship | 2nd Semi-final",
+            "start_time": "14/11/2026 14:30:00",
+            "team_a": "Bangladesh",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/6080/image",
+            "team_b": "Pakistan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/6081/image"
         },
         "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "image": "https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
         "streams": [
             {
-                "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "SporTV BR - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "SporTV BR S2 - AQ",
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone",
+                "name": "BONGO HD",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "name": "HD STREAM ",
+                "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+                "name": "BTV BD - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://live.uu1pp.com/sport/202_5842847_1.m3u8?txSecret=7e9c44b23595cc80efd99cf4a70c4433&txTime=6AF88772",
-                "name": "PLAYZ TV LIVE ",
+                "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                "name": "HD STREAM",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=662f4f482c0df681cb028743b216c0f1&txTime=6af88820",
-                "name": "PLAYZ TV FAST",
+                "link": "ok",
+                "name": "PlayZ TV BAN",
+                "token_api": {
+                    "api": "https://kick.com/api/v2/channels/minura334",
+                    "default_string": "N8x7Y%m+6n",
+                    "ip_api": "https://api.ipify.org/",
+                    "link_key": "playback_url",
+                    "request_body_type": "text",
+                    "request_type": "get",
+                    "type": "sp",
+                    "url": "ok"
+                }
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
+                "name": "BTV BD SD",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "http://193.47.62.50/hls/SASASABAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
+                "link": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d",
+                "name": "HD FAST",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://103.209.196.22:84/feed1001/index.m3u8",
+                "name": "T SPORTS  ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://116.204.149.16/T_SportsFHD/index.m3u8",
+                "name": "T SPORTS FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH",
+                "name": "T SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live05.yefpwmc.app/live/18812304.m3u8?_t=1794666280950",
+                "name": "BACKUPS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+                "name": "MYCO - AQ [PK]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+                "name": "VETO TV - AQ [IND]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bdtop1.tvhunter.top/T-SPORTS-HD/tracks-v1a1/mono.m3u8",
+                "name": "T SPORTS BK",
                 "token_api": ""
             }
         ],
-        "title": "International Friendly Games"
+        "title": "SAFF Championship | 2nd Semi-final"
     },
     {
-        "category": "Cricket",
+        "category": "Football",
         "event_info": {
             "end_time": "",
-            "event_name": "U19 Asia Cup | Final",
-            "start_time": "14/11/2026 05:00:00",
-            "team_a": "Pakistan Under-19",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/213104/image",
-            "team_b": "India Under-19",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/213112/image"
+            "event_name": "SAFF Championship - Final",
+            "start_time": "17/11/2026 14:00:00",
+            "team_a": "India",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4828/image",
+            "team_b": "Pakistan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/213104/image"
         },
         "id": 2,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "image": "https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
         "streams": [
             {
-                "drm_key": "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
-                "name": "PRIME VIDEO - AQ [Multi Audio]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
-                "name": "SONYLIV ENG - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
-                "name": "WILLOW S2 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn05khi-n.tamashaweb.com:8087/appcast/ACCMEN-U19-2026-avod-abr/playlist.m3u8",
-                "name": "TAMASHA - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
-                "name": "SONYLIV HIN - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
-                "name": "SONYLIV TAM - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
-                "name": "SONYLIV TEL - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
-                "name": "SONYLIV KAN - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-                "name": "TEN SPORTS",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-                "name": "PTV SPORTS",
+                "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                "name": "HD STREAM",
                 "token_api": ""
             }
         ],
-        "title": "U19 Asia Cup | Final"
+        "title": "SAFF Championship - Final"
     },
     {
         "category": "Snooker",
@@ -163,7 +151,7 @@
             "team_b": "SNOOKER",
             "team_b_flag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80"
         },
-        "id": 6,
+        "id": 5,
         "image": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
         "streams": [
             {
@@ -208,7 +196,7 @@
             "team_b": "GROMDA",
             "team_b_flag": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg"
         },
-        "id": 7,
+        "id": 6,
         "image": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg",
         "streams": [
             {
@@ -232,7 +220,7 @@
             "team_b": "Formula 1",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10"
         },
-        "id": 10,
+        "id": 9,
         "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
         "streams": [
             {
@@ -340,7 +328,7 @@
             "team_b": "DYNAMITE ",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
         },
-        "id": 11,
+        "id": 10,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
         "streams": [
             {
@@ -392,7 +380,7 @@
             "team_b": "Tour De France",
             "team_b_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tour_de_France_logo_%282018%29.svg/3840px-Tour_de_France_logo_%282018%29.svg.png"
         },
-        "id": 12,
+        "id": 11,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tour_de_France_logo_%282018%29.svg/3840px-Tour_de_France_logo_%282018%29.svg.png",
         "streams": [
             {
@@ -451,7 +439,7 @@
             "team_b": "WWE RAW",
             "team_b_flag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg"
         },
-        "id": 13,
+        "id": 12,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -530,7 +518,7 @@
             "team_b": "ONE",
             "team_b_flag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
         },
-        "id": 14,
+        "id": 13,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
         "streams": [
             {
@@ -561,7 +549,7 @@
             "team_b": "Darius Fulghum",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10"
         },
-        "id": 15,
+        "id": 14,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
         "streams": [],
         "title": "MatchRoom Boxing "
@@ -577,7 +565,7 @@
             "team_b": "Darts",
             "team_b_flag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png"
         },
-        "id": 17,
+        "id": 16,
         "image": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
         "streams": [
             {
@@ -601,7 +589,7 @@
             "team_b": "WWE NXT",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10"
         },
-        "id": 18,
+        "id": 17,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -662,7 +650,7 @@
             "team_b": "SmackDown",
             "team_b_flag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg"
         },
-        "id": 19,
+        "id": 18,
         "image": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
         "streams": [
             {
@@ -744,7 +732,7 @@
             "team_b": "Cedric Doumbe",
             "team_b_flag": "https://thumbs.fite.tv/api_11/icons/1122_publisher_240x240.png"
         },
-        "id": 20,
+        "id": 19,
         "image": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
         "streams": [
             {
@@ -768,7 +756,7 @@
             "team_b": "Afakir",
             "team_b_flag": "https://glory.pinkyellow.network/cache/containers/files/news/glory-28-paris-rico-verhoeven-pre-fight-interview/thumbnail.jpg/d205884f70644c9683208c6493347946.webp"
         },
-        "id": 24,
+        "id": 23,
         "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Glory_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
         "streams": [
             {
@@ -799,7 +787,7 @@
             "team_b": "Gerome Warburton",
             "team_b_flag": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/pplcrn/2026/07/29/2431ec09-cb89-43e6-a665-f621345b8e5c.png?format=webp"
         },
-        "id": 30,
+        "id": 29,
         "image": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w400-q80/pplcrn/2026/07/29/2431ec09-cb89-43e6-a665-f621345b8e5c.png?format=webp",
         "streams": [
             {
@@ -830,7 +818,7 @@
             "team_b": "Ivan Buchinger",
             "team_b_flag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png"
         },
-        "id": 31,
+        "id": 30,
         "image": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
         "streams": [],
         "title": "OKTAGON 98"
@@ -846,7 +834,7 @@
             "team_b": "Lazy Boy",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/470046/image"
         },
-        "id": 32,
+        "id": 31,
         "image": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
         "streams": [
             {
@@ -870,7 +858,7 @@
             "team_b": "ATP ",
             "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
         },
-        "id": 33,
+        "id": 32,
         "image": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
         "streams": [
             {
@@ -915,7 +903,7 @@
             "team_b": "Sergei Bilostenniy",
             "team_b_flag": "http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark"
         },
-        "id": 34,
+        "id": 33,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark",
         "streams": [
             {
@@ -953,7 +941,7 @@
             "team_b": "BKFC",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10"
         },
-        "id": 35,
+        "id": 34,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
         "streams": [
             {
@@ -998,7 +986,7 @@
             "team_b": "MISFITS",
             "team_b_flag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg"
         },
-        "id": 38,
+        "id": 37,
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Misfits_Boxing_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
         "streams": [],
         "title": "MISFITS"
@@ -1014,7 +1002,7 @@
             "team_b": "WTA",
             "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png"
         },
-        "id": 39,
+        "id": 38,
         "image": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
         "streams": [
             {
@@ -1073,7 +1061,7 @@
             "team_b": "Golazo Show",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10"
         },
-        "id": 40,
+        "id": 39,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
         "streams": [
             {
@@ -1104,7 +1092,7 @@
             "team_b": "MotoGP",
             "team_b_flag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg"
         },
-        "id": 45,
+        "id": 44,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
         "streams": [
             {
@@ -1163,7 +1151,7 @@
             "team_b": "Weidman",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkuXh51wE-IcpG4Om3othU4Rtl5pkK50MNaedqVjqHDO9UXXsOl-ZO9-t&s=10"
         },
-        "id": 46,
+        "id": 45,
         "image": "https://rafinsider.com/wp-content/uploads/2026/06/cropped-raf-logo.png",
         "streams": [
             {
@@ -1187,7 +1175,7 @@
             "team_b": "NFL REDZONE",
             "team_b_flag": "https://img.sofascore.com/api/v1/unique-tournament/9464/image"
         },
-        "id": 47,
+        "id": 46,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image",
         "streams": [
             {
@@ -1253,7 +1241,7 @@
             "team_b": "NPL",
             "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10"
         },
-        "id": 48,
+        "id": 47,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10",
         "streams": [
             {
@@ -1291,13 +1279,13 @@
             "team_b": "Abu Dhabi T10",
             "team_b_flag": "http://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
         },
-        "id": 50,
+        "id": 49,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
         "streams": [
             {
-                "drm_key": "b5cbb452aa747899eec0423039edd4a1:ef75fa617bda5097c77888502c656b07",
+                "drm_key": "ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0py89u35kf/out/v1/f438820f38824212b6107dfd880773e6/cenc.mpd",
                 "name": "WILLOW - AQ",
                 "token_api": ""
             },
@@ -1343,7 +1331,7 @@
             "team_b": "Johnny Walker",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/467489/image"
         },
-        "id": 51,
+        "id": 50,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
         "streams": [
             {
@@ -1437,7 +1425,7 @@
             "team_b": "HYSA",
             "team_b_flag": "https://yt3.googleusercontent.com/ZDxjZ8h2wr4lmRcY5_BAnGobfigOkms214VijvBGpgp_7Pds3Jf2yPQm5BbuEdczp6woAbsxSA=s900-c-k-c0x00ffffff-no-rj"
         },
-        "id": 52,
+        "id": 51,
         "image": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
         "streams": [
             {
@@ -1475,7 +1463,7 @@
             "team_b": "EPL Goals Rush",
             "team_b_flag": "https://img.sofascore.com/api/v1/unique-tournament/17/image"
         },
-        "id": 54,
+        "id": 53,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
         "streams": [
             {
@@ -1506,7 +1494,7 @@
             "team_b": "Poland",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4703/image"
         },
-        "id": 55,
+        "id": 54,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1530,7 +1518,7 @@
             "team_b": "Ireland",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4693/image"
         },
-        "id": 56,
+        "id": 55,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1558,7 +1546,7 @@
             "team_b": "Hungary",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4709/image"
         },
-        "id": 57,
+        "id": 56,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1589,7 +1577,7 @@
             "team_b": "Ukraine",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4701/image"
         },
-        "id": 58,
+        "id": 57,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1617,7 +1605,7 @@
             "team_b": "Wales",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4702/image"
         },
-        "id": 59,
+        "id": 58,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1655,7 +1643,7 @@
             "team_b": "Bosnia & Herzegovina",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4479/image"
         },
-        "id": 60,
+        "id": 59,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1679,7 +1667,7 @@
             "team_b": "Denmark",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4476/image"
         },
-        "id": 61,
+        "id": 60,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1716,30 +1704,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "14/11/2026 16:20:00",
-            "event_name": "UEFA Nations League",
-            "start_time": "14/11/2026 14:00:00",
-            "team_a": "Kosovo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/154426/image",
-            "team_b": "Foc**U Israel",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4480/image"
-        },
-        "id": 62,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "beIN ENGLISH FHD",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Nations League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "15/11/2026 16:20:00",
             "event_name": "UEFA Nations League",
             "start_time": "15/11/2026 14:00:00",
@@ -1748,7 +1712,7 @@
             "team_b": "Armenia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4740/image"
         },
-        "id": 63,
+        "id": 61,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1776,7 +1740,7 @@
             "team_b": "Italy",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4707/image"
         },
-        "id": 64,
+        "id": 62,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1804,7 +1768,7 @@
             "team_b": "Czechia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4714/image"
         },
-        "id": 65,
+        "id": 63,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1832,7 +1796,7 @@
             "team_b": "Türkiye",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4700/image"
         },
-        "id": 66,
+        "id": 64,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1860,7 +1824,7 @@
             "team_b": "England",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4713/image"
         },
-        "id": 67,
+        "id": 65,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1888,7 +1852,7 @@
             "team_b": "Montenegro",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7139/image"
         },
-        "id": 68,
+        "id": 66,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1916,7 +1880,7 @@
             "team_b": "Albania",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4690/image"
         },
-        "id": 69,
+        "id": 67,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1944,7 +1908,7 @@
             "team_b": "San Marino",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4833/image"
         },
-        "id": 70,
+        "id": 68,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
@@ -1972,7 +1936,7 @@
             "team_b": "England",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187757/image"
         },
-        "id": 71,
+        "id": 69,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2039,13 +2003,13 @@
         "event_info": {
             "end_time": "",
             "event_name": "Test Series",
-            "start_time": "14/11/2026 06:00:00",
+            "start_time": "15/11/2026 06:00:00",
             "team_a": "Afghanistan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
             "team_b": "Zimbabwe",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
         },
-        "id": 72,
+        "id": 70,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
         "streams": [
             {
@@ -2104,7 +2068,7 @@
             "team_b": "Bangladesh",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187744/image"
         },
-        "id": 73,
+        "id": 71,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
@@ -2132,7 +2096,7 @@
             "team_b": "Paraguay",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4789/image"
         },
-        "id": 74,
+        "id": 72,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2160,7 +2124,7 @@
             "team_b": "Venezuela",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4722/image"
         },
-        "id": 75,
+        "id": 73,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2188,7 +2152,7 @@
             "team_b": "Costa Rica",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4756/image"
         },
-        "id": 76,
+        "id": 74,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2216,7 +2180,7 @@
             "team_b": "Colombia",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4820/image"
         },
-        "id": 77,
+        "id": 75,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2244,7 +2208,7 @@
             "team_b": "Dominican Republic",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/21813/image"
         },
-        "id": 78,
+        "id": 76,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -2272,7 +2236,7 @@
             "team_b": "Josh Hokit",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/493385/image"
         },
-        "id": 79,
+        "id": 77,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
         "streams": [
             {
@@ -2300,7 +2264,7 @@
             "team_b": "Bangladesh Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187809/image"
         },
-        "id": 80,
+        "id": 78,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2338,7 +2302,7 @@
             "team_b": "Pakistan Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187808/image"
         },
-        "id": 81,
+        "id": 79,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2376,7 +2340,7 @@
             "team_b": "Sri Lanka Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187806/image"
         },
-        "id": 82,
+        "id": 80,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2414,7 +2378,7 @@
             "team_b": "Ireland Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/213116/image"
         },
-        "id": 83,
+        "id": 81,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2442,118 +2406,6 @@
         "title": "Womens Emerging Nations Trophy"
     },
     {
-        "category": "Football",
-        "event_info": {
-            "end_time": "14/11/2026 16:50:00",
-            "event_name": "SAFF Championship | 2nd Semi-final",
-            "start_time": "14/11/2026 14:30:00",
-            "team_a": "Bangladesh",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/6080/image",
-            "team_b": "Pakistan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/6081/image"
-        },
-        "id": 84,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=QmFuZ2xhZGVzaCUyMHZzJTIwUGFraXN0YW4=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "SAFF Championship | 2nd Semi-final"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "14/11/2026 14:20:00",
-            "event_name": "International Friendly Games",
-            "start_time": "14/11/2026 12:00:00",
-            "team_a": "China",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4755/image",
-            "team_b": "Malaysia",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/6912/image"
-        },
-        "id": 85,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Q2hpbmElMjB2cyUyME1hbGF5c2lh",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "14/11/2026 15:20:00",
-            "event_name": "International Friendly Games",
-            "start_time": "14/11/2026 13:00:00",
-            "team_a": "Palestine",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4788/image",
-            "team_b": "Iran",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4766/image"
-        },
-        "id": 86,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=UGFsZXN0aW5lJTIwdnMlMjBJcmFu",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "14/11/2026 14:20:00",
-            "event_name": "International Friendly Games",
-            "start_time": "14/11/2026 12:00:00",
-            "team_a": "Chinese Taipei",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/5937/image",
-            "team_b": "Kyrgyzstan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/7930/image"
-        },
-        "id": 87,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Q2hpbmVzZSUyMFRhaXBlaSUyMHZzJTIwS3lyZ3l6c3Rhbg==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
         "category": "Cricket",
         "event_info": {
             "end_time": "",
@@ -2564,7 +2416,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
         },
-        "id": 88,
+        "id": 82,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
@@ -2707,7 +2559,7 @@
             "team_b": "Sri Lanka",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image"
         },
-        "id": 89,
+        "id": 83,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
@@ -2758,34 +2610,6 @@
     {
         "category": "Rugby",
         "event_info": {
-            "end_time": "14/11/2026 16:00:00",
-            "event_name": "Champ Rugby",
-            "start_time": "14/11/2026 13:00:00",
-            "team_a": "Richmond",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/230518/image",
-            "team_b": "Nottingham",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/109847/image"
-        },
-        "id": 90,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1323/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=UmljaG1vbmQlMjB2cyUyME5vdHRpbmdoYW0=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Champ Rugby"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
             "end_time": "14/11/2026 19:30:00",
             "event_name": "Nations Cup",
             "start_time": "14/11/2026 16:30:00",
@@ -2794,19 +2618,15 @@
             "team_b": "USA",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4229/image"
         },
-        "id": 91,
+        "id": 84,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
+                "drm_key": "850f2170bf1a44f7b8c6751b44a24518:83816c109c114b108ebefee1c3c1b147",
+                "drm_scheme": "clearkey",
+                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794758726~acl=*dash%2flive%2f2001609%2f316603-338417%2f*!*dash%2flive%2f2001609-b%2f316603-338417-b%2f*~id=0f104e9c-46e8-4b60-bddb-dfe3f7ce21ef~data=hdntl",
                 "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Um9tYW5pYSUyMHZzJTIwVVNB",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "token_api": ""
             }
         ],
         "title": "Nations Cup"
@@ -2822,19 +2642,15 @@
             "team_b": "Chile",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/272449/image"
         },
-        "id": 92,
+        "id": 85,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
+                "drm_key": "565b9ac1ed2f4159b628db6f566b9553:ab92e5584aee4d6a9ec7f4483a491225",
+                "drm_scheme": "clearkey",
+                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794756928~acl=*dash%2flive%2f2005775%2f316602-338418%2f*!*dash%2flive%2f2005775-b%2f316602-338418-b%2f*~id=7ee8fb1d-5eb2-4123-a8de-ed699b328408~data=hdntl",
                 "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=U3BhaW4lMjB2cyUyMENoaWxl",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "token_api": ""
             }
         ],
         "title": "Nations Cup"
@@ -2850,19 +2666,15 @@
             "team_b": "Fiji",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7951/image"
         },
-        "id": 93,
+        "id": 86,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=SXJlbGFuZCUyMHZzJTIwRmlqaQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+                "name": "RUGBYPASS TV AQ ",
+                "token_api": ""
             }
         ],
         "title": "Nations Championship"
@@ -2878,7 +2690,7 @@
             "team_b": "Saracens",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4197/image"
         },
-        "id": 94,
+        "id": 87,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11543/image/dark",
         "streams": [
             {
@@ -2906,50 +2718,18 @@
             "team_b": "Uruguay",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/42549/image"
         },
-        "id": 95,
+        "id": 88,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
+                "drm_key": "aa9a0742df2b41589d6e8c0cd9b74028:99aa4cad5b6f45cf9158b8bde513d367",
+                "drm_scheme": "clearkey",
+                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794753329~acl=*dash%2flive%2f2019475%2f316601-338403%2f*!*dash%2flive%2f2019475-b%2f316601-338403-b%2f*~id=3ee3515e-1e10-44d3-89ce-357f9bfbc246~data=hdntl",
                 "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=WmltYmFid2UlMjB2cyUyMFVydWd1YXk=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "token_api": ""
             }
         ],
         "title": "Nations Cup"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 18:00:00",
-            "event_name": "Champ Rugby",
-            "start_time": "14/11/2026 15:00:00",
-            "team_a": "Rotherham Titans",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/109851/image",
-            "team_b": "Hartpury College",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/208060/image"
-        },
-        "id": 96,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1323/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Um90aGVyaGFtJTIwVGl0YW5zJTIwdnMlMjBIYXJ0cHVyeSUyMENvbGxlZ2U=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Champ Rugby"
     },
     {
         "category": "Rugby",
@@ -2962,7 +2742,7 @@
             "team_b": "New Zealand",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/272009/image"
         },
-        "id": 97,
+        "id": 89,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
         "streams": [
             {
@@ -2990,106 +2770,18 @@
             "team_b": "Japan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7955/image"
         },
-        "id": 98,
+        "id": 90,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=RW5nbGFuZCUyMHZzJTIwSmFwYW4=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
+                "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+                "name": "RUGBYPASS TV AQ ",
+                "token_api": ""
             }
         ],
         "title": "Nations Championship"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 17:00:00",
-            "event_name": "Nations Cup",
-            "start_time": "14/11/2026 14:00:00",
-            "team_a": "Hong Kong",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1087211/image",
-            "team_b": "Canada",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/7949/image"
-        },
-        "id": 99,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=SG9uZyUyMEtvbmclMjB2cyUyMENhbmFkYQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Nations Cup"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 18:00:00",
-            "event_name": "Champ Rugby",
-            "start_time": "14/11/2026 15:00:00",
-            "team_a": "Chinnor",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/555861/image",
-            "team_b": "Blackheath Rugby",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1227720/image"
-        },
-        "id": 100,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1323/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Q2hpbm5vciUyMHZzJTIwQmxhY2toZWF0aCUyMFJ1Z2J5",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Champ Rugby"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 17:00:00",
-            "event_name": "Nations Cup",
-            "start_time": "14/11/2026 14:00:00",
-            "team_a": "Georgia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/7954/image",
-            "team_b": "Tonga",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/7953/image"
-        },
-        "id": 101,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=R2VvcmdpYSUyMHZzJTIwVG9uZ2E=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Nations Cup"
     },
     {
         "category": "Rugby",
@@ -3102,113 +2794,18 @@
             "team_b": "Samoa",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4232/image"
         },
-        "id": 102,
+        "id": 91,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
+                "drm_key": "e1eac2b428d44d648bb0bb84ebb657a7:a87f4bd9d3e542a294758bed8f30ff1e",
+                "drm_scheme": "clearkey",
+                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794753328~acl=*dash%2flive%2f2019597%2f316600-338404%2f*!*dash%2flive%2f2019597-b%2f316600-338404-b%2f*~id=1b3d7cd5-9816-47fd-a731-7b6afa5ac331~data=hdntl",
                 "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=UG9ydHVnYWwlMjB2cyUyMFNhbW9h",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Nations Cup"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 14:40:00",
-            "event_name": "Nations Championship",
-            "start_time": "14/11/2026 11:40:00",
-            "team_a": "Italy",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/7057/image",
-            "team_b": "Argentina",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4225/image"
-        },
-        "id": 103,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=SXRhbHklMjB2cyUyMEFyZ2VudGluYQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.41/hls/OOOOAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
                 "token_api": ""
             }
         ],
-        "title": "Nations Championship"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 16:00:00",
-            "event_name": "Champ Rugby",
-            "start_time": "14/11/2026 13:00:00",
-            "team_a": "Cornish Pirates",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/109839/image",
-            "team_b": "Caldy RFC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/423314/image"
-        },
-        "id": 104,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1323/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Q29ybmlzaCUyMFBpcmF0ZXMlMjB2cyUyMENhbGR5JTIwUkZD",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Champ Rugby"
-    },
-    {
-        "category": "Rugby",
-        "event_info": {
-            "end_time": "14/11/2026 17:10:00",
-            "event_name": "Nations Championship",
-            "start_time": "14/11/2026 14:10:00",
-            "team_a": "Wales",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/7058/image",
-            "team_b": "New Zealand",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4227/image"
-        },
-        "id": 105,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=V2FsZXMlMjB2cyUyME5ldyUyMFplYWxhbmQ=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Nations Championship"
+        "title": "Nations Cup"
     },
     {
         "category": "Rugby",
@@ -3221,7 +2818,7 @@
             "team_b": "New Zealand",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/24240/image"
         },
-        "id": 106,
+        "id": 92,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
         "streams": [
             {
@@ -3249,7 +2846,7 @@
             "team_b": "Netherlands Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/417753/image"
         },
-        "id": 107,
+        "id": 93,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
         "streams": [
             {
@@ -3277,7 +2874,7 @@
             "team_b": "Melbourne Renegades Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/274887/image"
         },
-        "id": 108,
+        "id": 94,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
         "streams": [
             {
@@ -3298,58 +2895,6 @@
         "category": "Cricket",
         "event_info": {
             "end_time": "",
-            "event_name": "Women's Big Bash League",
-            "start_time": "14/11/2026 08:10:00",
-            "team_a": "Perth Scorchers Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/274890/image",
-            "team_b": "Adelaide Strikers Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/274888/image"
-        },
-        "id": 109,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [
-            {
-                "drm_key": "fc4968fb4dec837fa5be62f9c463cf04:0b7d70bbf114543bc92193021ccc0b23",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "name": "SKY CRICKET - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "WILLOW HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://livetv.shamon-cable.net:8443/Eurosport-HD/tracks-v1a1/mono.m3u8",
-                "name": "EURO FHD",
-                "token_api": ""
-            }
-        ],
-        "title": "Women's Big Bash League"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
             "event_name": "Womens Emerging Nations Trophy",
             "start_time": "15/11/2026 05:00:00",
             "team_a": "Thailand Women",
@@ -3357,7 +2902,7 @@
             "team_b": "Zimbabwe Women",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/417062/image"
         },
-        "id": 110,
+        "id": 95,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
         "streams": [
             {
@@ -3385,7 +2930,7 @@
             "team_b": "India",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4828/image"
         },
-        "id": 111,
+        "id": 96,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -3413,7 +2958,7 @@
             "team_b": "Vietnam",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/7050/image"
         },
-        "id": 112,
+        "id": 97,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -3441,7 +2986,7 @@
             "team_b": "Hong Kong",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4765/image"
         },
-        "id": 113,
+        "id": 98,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -3469,7 +3014,7 @@
             "team_b": "Chicago Bulls",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3409/image"
         },
-        "id": 114,
+        "id": 99,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -3497,7 +3042,7 @@
             "team_b": "Detroit Pistons",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3424/image"
         },
-        "id": 115,
+        "id": 100,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -3525,7 +3070,7 @@
             "team_b": "Dallas Mavericks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3411/image"
         },
-        "id": 116,
+        "id": 101,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -3553,7 +3098,7 @@
             "team_b": "Brooklyn Nets",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3436/image"
         },
-        "id": 117,
+        "id": 102,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -3581,7 +3126,7 @@
             "team_b": "Denver Nuggets",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3417/image"
         },
-        "id": 118,
+        "id": 103,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
@@ -3609,7 +3154,7 @@
             "team_b": "New York Islanders",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3703/image"
         },
-        "id": 119,
+        "id": 104,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3637,7 +3182,7 @@
             "team_b": "Buffalo Sabres",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3678/image"
         },
-        "id": 120,
+        "id": 105,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3665,7 +3210,7 @@
             "team_b": "Edmonton Oilers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3686/image"
         },
-        "id": 121,
+        "id": 106,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3693,7 +3238,7 @@
             "team_b": "Minnesota Wild",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3689/image"
         },
-        "id": 122,
+        "id": 107,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3721,7 +3266,7 @@
             "team_b": "San Jose Sharks",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3696/image"
         },
-        "id": 123,
+        "id": 108,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3749,7 +3294,7 @@
             "team_b": "Seattle Kraken",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/381707/image"
         },
-        "id": 124,
+        "id": 109,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3777,7 +3322,7 @@
             "team_b": "Florida Panthers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3687/image"
         },
-        "id": 125,
+        "id": 110,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3805,7 +3350,7 @@
             "team_b": "Winnipeg Jets",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3676/image"
         },
-        "id": 126,
+        "id": 111,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3833,7 +3378,7 @@
             "team_b": "Colorado Avalanche",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3682/image"
         },
-        "id": 127,
+        "id": 112,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3861,7 +3406,7 @@
             "team_b": "Detroit Red Wings",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3685/image"
         },
-        "id": 128,
+        "id": 113,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3889,7 +3434,7 @@
             "team_b": "Philadelphia Flyers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3699/image"
         },
-        "id": 129,
+        "id": 114,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3917,7 +3462,7 @@
             "team_b": "New Jersey Devils",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3704/image"
         },
-        "id": 130,
+        "id": 115,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3945,7 +3490,7 @@
             "team_b": "Ottawa Senators",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3700/image"
         },
-        "id": 131,
+        "id": 116,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3973,7 +3518,7 @@
             "team_b": "Calgary Flames",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/3679/image"
         },
-        "id": 132,
+        "id": 117,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
             {
@@ -3993,34 +3538,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "14/11/2026 17:35:00",
-            "event_name": "LaLiga 2",
-            "start_time": "14/11/2026 15:15:00",
-            "team_a": "Real Sociedad B",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/24360/image",
-            "team_b": "Sporting Gijón",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2852/image"
-        },
-        "id": 133,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=UmVhbCUyMFNvY2llZGFkJTIwQiUyMHZzJTIwU3BvcnRpbmclMjBHaWolQzMlQjNu",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "LaLiga 2"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "14/11/2026 19:50:00",
             "event_name": "LaLiga 2",
             "start_time": "14/11/2026 17:30:00",
@@ -4029,9 +3546,16 @@
             "team_b": "Córdoba",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2850/image"
         },
-        "id": 134,
+        "id": 118,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
+            {
+                "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+                "drm_scheme": "clearkey",
+                "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+                "name": "LALIGA HYPEMOTION ES - AQ ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -4057,7 +3581,7 @@
             "team_b": "FC Andorra",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/324871/image"
         },
-        "id": 135,
+        "id": 119,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
@@ -4085,7 +3609,7 @@
             "team_b": "French Guiana",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/52906/image"
         },
-        "id": 136,
+        "id": 120,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "streams": [
             {
@@ -4113,7 +3637,7 @@
             "team_b": "Liverpool FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/66774/image"
         },
-        "id": 137,
+        "id": 121,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "streams": [
             {
@@ -4144,7 +3668,7 @@
             "team_b": "USA",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4724/image"
         },
-        "id": 138,
+        "id": 122,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "streams": [
             {
@@ -4172,9 +3696,16 @@
             "team_b": "Girona FC",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/24264/image"
         },
-        "id": 139,
+        "id": 123,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
+            {
+                "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+                "drm_scheme": "clearkey",
+                "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+                "name": "LALIGA HYPEMOTION ES - AQ ",
+                "token_api": ""
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
@@ -4200,7 +3731,7 @@
             "team_b": "Belize",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/21809/image"
         },
-        "id": 140,
+        "id": 124,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "streams": [
             {
@@ -4228,7 +3759,7 @@
             "team_b": "Vasco da Gama",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/1974/image"
         },
-        "id": 141,
+        "id": 125,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "streams": [
             {
@@ -4256,7 +3787,7 @@
             "team_b": "Togo",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4836/image"
         },
-        "id": 142,
+        "id": 126,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "streams": [
             {
@@ -4284,7 +3815,7 @@
             "team_b": "Mexico",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4781/image"
         },
-        "id": 143,
+        "id": 127,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "streams": [
             {
@@ -4312,21 +3843,21 @@
             "team_b": "Everton",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/36704/image"
         },
-        "id": 144,
+        "id": 128,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "widevine",
-                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
-                "name": "SKY SPORTS PL - AQ",
-                "token_api": ""
-            },
             {
                 "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
                 "name": "CBS SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "widevine",
+                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
+                "name": "SKY SPORTS PL - AQ",
                 "token_api": ""
             }
         ],
@@ -4343,7 +3874,7 @@
             "team_b": "Venezuela",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4722/image"
         },
-        "id": 145,
+        "id": 129,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -4363,34 +3894,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "14/11/2026 15:50:00",
-            "event_name": "Women's Super League",
-            "start_time": "14/11/2026 13:30:00",
-            "team_a": "Chelsea FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/66768/image",
-            "team_b": "Manchester City",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/142658/image"
-        },
-        "id": 146,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=Q2hlbHNlYSUyMEZDJTIwdnMlMjBNYW5jaGVzdGVyJTIwQ2l0eQ==",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "Women's Super League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "14/11/2026 21:20:00",
             "event_name": "Africa Cup of Nations Qual.",
             "start_time": "14/11/2026 19:00:00",
@@ -4399,7 +3902,7 @@
             "team_b": "South Sudan",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/88508/image"
         },
-        "id": 147,
+        "id": 130,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "streams": [
             {
@@ -4419,65 +3922,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "14/11/2026 15:20:00",
-            "event_name": "LaLiga 2",
-            "start_time": "14/11/2026 13:00:00",
-            "team_a": "Real Valladolid",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2831/image",
-            "team_b": "CD Castellón",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/5067/image"
-        },
-        "id": 148,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": {
-                    "api": "https://ppv.ppprb.workers.dev/?q=UmVhbCUyMFZhbGxhZG9saWQlMjB2cyUyMENEJTIwQ2FzdGVsbCVDMyVCM24=",
-                    "type": "sp",
-                    "url": "Ok"
-                }
-            }
-        ],
-        "title": "LaLiga 2"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "14/11/2026 15:05:00",
-            "event_name": "Women's Super League",
-            "start_time": "14/11/2026 12:45:00",
-            "team_a": "Manchester United",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/301455/image",
-            "team_b": "Crystal Palace",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/234204/image"
-        },
-        "id": 149,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                "name": "CBS SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "widevine",
-                "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
-                "name": "SKY SPORTS PL - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "Women's Super League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "17/11/2026 12:20:00",
             "event_name": "International Friendly Games",
             "start_time": "17/11/2026 10:00:00",
@@ -4486,7 +3930,7 @@
             "team_b": "Brazil",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4748/image"
         },
-        "id": 150,
+        "id": 131,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [
             {
@@ -4523,5 +3967,50 @@
             }
         ],
         "title": "International Friendly Games"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "14/11/2026 18:20:00",
+            "event_name": "Africa Cup of Nations Qual.",
+            "start_time": "14/11/2026 16:00:00",
+            "team_a": "Uganda",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4726/image",
+            "team_b": "Botswana",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4747/image"
+        },
+        "id": 132,
+        "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "streams": [
+            {
+                "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN Espanol FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://www.rtmpcdn.com/live/p-d63c89d1469d40618905a319561b159e.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "HD STREAM",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/bbbbAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            }
+        ],
+        "title": "Africa Cup of Nations Qual."
     }
 ]
