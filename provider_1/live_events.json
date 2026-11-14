@@ -1381,6 +1381,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4693/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "14/11/2026",
         "time": "19:45:00",
         "category": "Football",
@@ -1388,8 +1389,53 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6wdzczg8ai/out/v1/b41d02a57d99446e82a326588b588917/cenc.mpd",
+                "scheme": 0,
+                "api": "7aea10fa1e028a72ae2475feac5a9b73:8ecf359f2a9436db1291eaaaaf1ae2b2",
+                "tokenApi": null
+            },
+            {
+                "name": "PRIME VIDEO FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwbwpwwlve/out/v1/b4fbb2cb4361442fb5a84d33506430da/cenc.mpd",
+                "scheme": 0,
+                "api": "5f94a557e0cc1bd599e90cd9f0f92fec:a9160405a496a3b89a3b87e8a9af2274",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmhyxne8me/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+                "scheme": 0,
+                "api": "741b7304774045850a3640271f354a81:39e05711c81f3ec2dc253889cf5d5a97",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60028/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv",
+                "link": "https://dai.google.com/linear/hls/event/rikP86wPSUWKbP8ICtyRRg/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://www.rtmpcdn.com/live/p-3bba53661bb04bddacdc167afca2e272.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/RARARA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "14/11/2026",
@@ -1405,6 +1451,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4701/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "14/11/2026",
         "time": "19:45:00",
         "category": "Football",
@@ -1412,8 +1459,39 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/12gtj56m2g/out/v1/ffeb221c989d4a7a9f6d86d47fcbf4f2/cenc.mpd",
+                "scheme": 0,
+                "api": "0cb5f89ea0e48185a920e5520d16a471:4b9f7810a5969eac231aef27ddd98415",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60027/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://dai.google.com/linear/hls/event/79qh3ICzQYq-sEs08OwzxQ/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://www.rtmpcdn.com/live/p-facfa93b392046948b216449e17397b4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/RARARAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "14/11/2026",
@@ -1429,6 +1507,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4479/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "14/11/2026",
         "time": "19:45:00",
         "category": "Football",
@@ -1436,8 +1515,32 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "beIN ENGLISH FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60024/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://dai.google.com/linear/hls/event/v6kGXEmTR_W2q41fkgfNWQ/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/RARARAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "14/11/2026",
@@ -1466,6 +1569,34 @@
                 "scheme": 0,
                 "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
                 "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60026/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://dai.google.com/linear/hls/event/N8hV26xoRFe_xYegH2wLGA/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://www.rtmpcdn.com/live/p-043f01b8466646a1a61d419854d475c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/RARARAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "14/11/2026",
@@ -1481,6 +1612,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/24264/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "14/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1488,8 +1620,18 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "LaLiga Hypermotion",
+                "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+                "scheme": 0,
+                "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "14/11/2026",
