@@ -766,7 +766,15 @@
         "name": "Belgium vs Egypt Highlight | FIFA WORLD CUP 2026",
         "logo": "https://img.refooty.com/thumbnail/belgium-v-egypt-2026-06-15-C8UD.webp",
         "is_playlist": false,
-        "streams": []
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://img.refooty.com/m3u8/Belgium_v_Egypt_2026_06_15.m3u8",
+                "name": "Link 1",
+                "token_api": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -2774,7 +2782,31 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6CpifEOanJVUUVneUiZHja0EyagO62QUArOA2iB3ZQ&s=10",
         "visible": true,
         "is_playlist": false,
-        "streams": []
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://img.refooty.com/m3u8/USA_v_Belgium_2026_07_06.m3u8",
+                "name": "HIGHLIGHT HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dasfootball.com/api/streamable/yis7fw/",
+                "name": "highlight FHD",
+                "token_api": {
+                    "url": "https://dasfootball.com/api/streamable/yis7fw/",
+                    "api": "https://dasfootball.com/api/streamable/yis7fw/",
+                    "type": "sp",
+                    "link_key": "url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
     },
     {
         "name": "Argentina VS Egypt",
