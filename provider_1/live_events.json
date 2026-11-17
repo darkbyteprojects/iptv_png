@@ -820,7 +820,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "16/11/2026",
+        "date": "17/11/2026",
         "time": "13:45:00",
         "category": "Cricket",
         "eventName": "Abu Dhabi T10 League",
@@ -1235,6 +1235,27 @@
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=975ca213a7b0d0c3d64120e0f2ed006d-1794856363152",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://www.rtmpcdn.com/live/e98ac177-9110-4f81-a30b-19ae99a00838.m3u8|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/IYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "16/11/2026",
@@ -1250,6 +1271,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4695/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "16/11/2026",
         "time": "19:45:00",
         "category": "Football",
@@ -1257,110 +1279,50 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "16/11/2026",
-        "end_time": "22:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Iceland",
-            "logo": "https://img.sofascore.com/api/v1/team/4708/image"
-        },
-        "teamB": {
-            "name": "Luxembourg",
-            "logo": "https://img.sofascore.com/api/v1/team/4478/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "16/11/2026",
-        "time": "17:00:00",
-        "category": "Football",
-        "eventName": "UEFA Nations League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "name": "beIN ENGLISH FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN ARABIC HD",
+                "link": "https://6iptv.s3.us-east-1.amazonaws.com/bein2/720p/manifest.m3u8|user-agent=Mozilla/5.0 (Linux; Android 16; A001 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.38 Mobile Safari/537.36",
                 "scheme": 0,
-                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "api": null,
                 "tokenApi": null
             },
             {
-                "name": "FUBO SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD Plus",
-                "link": "https://chatgpt.hereisman.net/playlist/60252/load-playlist.m3u8?|referer=https://gooz.aapmains.net/",
+                "name": "Cricfy HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60260/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             },
             {
                 "name": "SonyLiv (Asia)",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ae13bf500757c6e0a6759b95eec4521e-1794846763139",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=975ca213a7b0d0c3d64120e0f2ed006d-1794856363152",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             },
             {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/TOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "16/11/2026",
-        "end_time": "19:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Lithuania",
-            "logo": "https://img.sofascore.com/api/v1/team/4776/image"
-        },
-        "teamB": {
-            "name": "Liechtenstein",
-            "logo": "https://img.sofascore.com/api/v1/team/4830/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "16/11/2026",
-        "time": "17:00:00",
-        "category": "Football",
-        "eventName": "UEFA Nations League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "name": "SonyLiv (Asia)",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ae13bf500757c6e0a6759b95eec4521e-1794846763139",
+                "name": "Cricfy Live Plus",
+                "link": "https://live.vivo155.com/live/hd-en-1-4518120.m3u8?txSecret=50d5623c7923aa796be3716948edf2f0&txTime=6AFB70D0|Referer=https://player.on8on8.com/",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             },
             {
                 "name": "Cricfy Live",
-                "link": "https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "link": "https://www.rtmpcdn.com/live/d2eec62d-4eb0-4459-a293-777d2b5f260a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             },
             {
                 "name": "Low",
-                "link": "http://193.47.62.41/hls/TOOOAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "link": "http://193.47.62.50/hls/IYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             }
         ],
         "end_date": "16/11/2026",
-        "end_time": "19:20:00"
+        "end_time": "22:05:00"
     },
     {
         "teamA": {
@@ -1372,6 +1334,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/4483/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "16/11/2026",
         "time": "19:45:00",
         "category": "Football",
@@ -1379,8 +1342,25 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "Cricfy HD Plus",
+                "link": "https://chatgpt.hereisman.net/playlist/60259/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=975ca213a7b0d0c3d64120e0f2ed006d-1794856363152",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/UOOOAAAQQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "16/11/2026",
@@ -1430,73 +1410,59 @@
                 "scheme": 0,
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "tokenApi": null
-            }
-        ],
-        "end_date": "16/11/2026",
-        "end_time": "22:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Estonia",
-            "logo": "https://img.sofascore.com/api/v1/team/4759/image"
-        },
-        "teamB": {
-            "name": "Bulgaria",
-            "logo": "https://img.sofascore.com/api/v1/team/4716/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "16/11/2026",
-        "time": "17:00:00",
-        "category": "Football",
-        "eventName": "UEFA Nations League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "name": "FOX SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                "tokenApi": null
             },
             {
-                "name": "beIN ENGLISH FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FOX SPORTS HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60257/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                 "scheme": 0,
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "tokenApi": null
-            },
-            {
-                "name": "SporTV BR FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-                "tokenApi": null
-            },
-            {
-                "name": "SPORT 2 CZ FHD",
-                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "api": null,
                 "tokenApi": null
             },
             {
                 "name": "SonyLiv (Asia)",
-                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ae13bf500757c6e0a6759b95eec4521e-1794846763139",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=975ca213a7b0d0c3d64120e0f2ed006d-1794856363152",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://live.vivo155.com/live/hd-en-1-4518118.m3u8?txSecret=0d171d4dd6c710578d535c62809f6c56&txTime=6AFB6F23|Referer=https://player.on8on8.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy HD",
+                "link": "https://6iptv.s3.us-east-1.amazonaws.com/bein1/720p/manifest.m3u8|user-agent=Mozilla/5.0 (Linux; Android 16; A001 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.38 Mobile Safari/537.36",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Cricfy Live",
+                "link": "https://www.rtmpcdn.com/live/5abf1f0e-0f38-4a0e-b9a8-79d445e494bf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             },
             {
                 "name": "Low",
-                "link": "http://193.47.62.44/hls/TOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "link": "http://193.47.62.59/hls/IYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Arabic",
+                "link": "https://live-cdn.ryazanslah3.space/hls/beinn11.m3u8|Referer=https://www.arena-koora.online/",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             }
         ],
         "end_date": "16/11/2026",
-        "end_time": "19:20:00"
+        "end_time": "22:05:00"
     },
     {
         "teamA": {
@@ -1535,6 +1501,34 @@
                 "scheme": 0,
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "tokenApi": null
+            },
+            {
+                "name": "FOX SPORTS HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60258/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive1611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=975ca213a7b0d0c3d64120e0f2ed006d-1794856363152",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Arabic",
+                "link": "https://live-cdn.ryazanslah3.space/hls/beinn2.m3u8|Referer=https://www.arena-koora.online/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/IYYYAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "16/11/2026",
@@ -1562,6 +1556,13 @@
                 "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
                 "scheme": 0,
                 "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.41/hls/UOOOAAAQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
                 "tokenApi": null
             }
         ],
@@ -1595,90 +1596,6 @@
         ],
         "end_date": "16/11/2026",
         "end_time": "20:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Central African Republic",
-            "logo": "https://img.sofascore.com/api/v1/team/23470/image"
-        },
-        "teamB": {
-            "name": "Benin",
-            "logo": "https://img.sofascore.com/api/v1/team/4744/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "16/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "Africa Cup of Nations Qual.",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [
-            {
-                "name": "beIN SPORTS FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.50/hls/BTBTBT.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "16/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Eritrea",
-            "logo": "https://img.sofascore.com/api/v1/team/8041/image"
-        },
-        "teamB": {
-            "name": "Guinea",
-            "logo": "https://img.sofascore.com/api/v1/team/4826/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "16/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "Africa Cup of Nations Qual.",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [
-            {
-                "name": "beIN Español FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy Live",
-                "link": "https://live.vivo155.com/live/sd-1-4642746.m3u8?txSecret=b44a03b3dc4b60222914155c2c81a864&txTime=6AFB3BAD|Referer=https://player.on8on8.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD Plus",
-                "link": "https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.50/hls/BTBTBTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "16/11/2026",
-        "end_time": "18:20:00"
     },
     {
         "teamA": {
@@ -1735,6 +1652,13 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
+                "name": "Cricfy HD Plus",
+                "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0KIWIIVQPRYPUEZSPX86Q2R0IZ.mpd",
+                "scheme": 0,
+                "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0KIWIIVQPRYPUEZSPX86Q2R0IZ",
+                "tokenApi": null
+            },
+            {
                 "name": "NBA",
                 "link": null,
                 "scheme": 0,
@@ -1786,6 +1710,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy HD Plus",
+                "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0Q542WR96C34P8KMEK2RQI07JT.mpd",
+                "scheme": 0,
+                "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0Q542WR96C34P8KMEK2RQI07JT",
+                "tokenApi": null
             }
         ],
         "end_date": "17/11/2026",
@@ -1823,6 +1754,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy HD Plus",
+                "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0MLFRM2S3NELJ18YMFXV3DU2DV.mpd",
+                "scheme": 0,
+                "api": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0KIWIIVQPRYPUEZSPX86Q2R0IZ.mpd",
+                "tokenApi": null
             }
         ],
         "end_date": "17/11/2026",
@@ -1897,6 +1835,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy HD Plus",
+                "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0G9E45T41CP9JC26YP6U4PHNWW.mpd",
+                "scheme": 0,
+                "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0G9E45T41CP9JC26YP6U4PHNWW",
+                "tokenApi": null
             }
         ],
         "end_date": "17/11/2026",
@@ -1971,6 +1916,13 @@
                     "request_body_type": "text",
                     "ip_api": "https://api.ipify.org/"
                 }
+            },
+            {
+                "name": "Cricfy HD Plus",
+                "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0I0O0N4J8UFFUNDXTW3CM76O0X.mpd",
+                "scheme": 0,
+                "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0I0O0N4J8UFFUNDXTW3CM76O0X",
+                "tokenApi": null
             }
         ],
         "end_date": "17/11/2026",
@@ -1993,6 +1945,20 @@
         "eventName": "NHL",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
+            {
+                "name": "PREMIER SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "tokenApi": null
+            },
+            {
+                "name": "SKY SPORTS MIX",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+                "tokenApi": null
+            },
             {
                 "name": "NHL",
                 "link": null,
@@ -2028,6 +1994,13 @@
         "eventName": "NHL",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "streams": [
+            {
+                "name": "PREMIER SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "tokenApi": null
+            },
             {
                 "name": "NHL",
                 "link": null,
