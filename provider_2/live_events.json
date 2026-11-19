@@ -136,13 +136,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/19 13:21:39 +0000",
+            "endTime": "2026/11/20 12:00:18 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
             "eventName": "SRI LANKA TOUR OF PAKISTAN",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/19 04:30:28 +0000",
+            "startTime": "2026/11/20 16:30:06 +0000",
             "teamA": "PAK",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
             "teamB": "SL",
@@ -808,7 +808,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image"
         },
         "formats": [
-            "English | Ireland v Scotland"
+            "WILLOW CRICBUZZ - AQ",
+            "SONYLIV ENG - AQ"
         ],
         "id": 760,
         "image": "null",
@@ -817,11 +818,18 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"mGn4BLoY1-UIy_94GCkiHA\",\"kid\":\"Ob0wLN7tNxCon7AE0jKrZw\"}],\"type\":\"temporary\"}",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795006069~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=a1404e0b2de692ea1b509852e75be3234d2352f0842d72e3ae523fd6371ed2d4/manifest.mpd?vcfilter=f4e483dc-fc25-46c7-a270-0a28978bfe20&|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A158.0%29+Gecko%2F20100101+Firefox%2F158.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+                "api": "964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
                 "publish": 1,
-                "title": "English | Ireland v Scotland",
+                "title": "WILLOW CRICBUZZ - AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124926~acl=/*~id=84117785468934185076631080120857~hmac=5c6ce4f7b8eb18e33439171995937341f4af30e5b366d33d7268e4bb95e34ed8",
+                "publish": 1,
+                "title": "SONYLIV ENG - AQ",
+                "type": "0"
             }
         ],
         "slug": "icc-women3",
@@ -2012,8 +2020,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image"
         },
         "formats": [
-            "FANCODE ENGLISH FHD",
-            "BeIN SPORTS HD",
+            "CBS GOLAZO AQ",
             "GHD SPORTS HD",
             "CN SERVER HD"
         ],
@@ -2024,18 +2031,11 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
                 "publish": 1,
-                "title": "FANCODE ENGLISH FHD",
+                "title": "CBS GOLAZO AQ",
                 "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://play.aarray.cn/rrty/sd-1-4646541_gqzm.m3u8?auth_key=1795028272-0-0-95a23a91f4e33a246742714865ca19d4&token=6b7aacbdb6ce77ad&device=4&platform=rrty",
-                "publish": 1,
-                "title": "BeIN SPORTS HD",
-                "type": "0"
             },
             {
                 "api": "",
@@ -2594,13 +2594,13 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/19 16:00:18 +0000",
+            "endTime": "2026/11/23 16:00:37 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "eventName": "ICC World Test Championship",
             "eventType": "",
             "isHot": "0",
-            "startTime": "2026/11/19 08:00:05 +0000",
+            "startTime": "2026/11/23 08:00:18 +0000",
             "teamA": "SA",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
             "teamB": "BAN",
@@ -2621,15 +2621,15 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd",
+                "api": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CRICBUZZ - AQ",
                 "type": "1"
             },
             {
-                "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd",
+                "api": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CH2 - AQ",
                 "type": "1"
@@ -3054,30 +3054,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image"
         },
         "formats": [
-            "BBC SPORTS - HD",
-            "ITV SPORTS - FHD",
-            "TUDN SPORTS - AQ",
-            "D Sports - FHD",
-            "WC TV - AQ (English)",
-            "SporTV BR - AQ",
-            "Caze TV - AQ",
-            "TVE La 1 - AQ",
-            "Canal5 - AQ",
-            "CT Sports - AQ",
-            "IRIB - 4K (Farsi)",
-            "Fox Sports - 4K",
-            "TA - AQ (Spanish)",
-            "Fussball TV - 4K",
-            "BeIN SPORTS - HD",
-            "CHINESE SERVER",
-            "FUSBALL TV - HD",
-            "Unite8 Sports 1",
-            "iScreen - AQ (BDIX)",
-            "Bioscope+ - AQ (BDIX)",
-            "FAST SERVER HD 1",
-            "FAST SERVER HD 2",
-            "FAST SERVER HD 3",
-            "FAST SERVER HD 4"
+            "FOX2 SPORTS FHD",
+            "GHD SPORTS - HD",
+            "GHD SPORTS SD",
+            "CN SERVER HD"
         ],
         "id": 880,
         "image": "null",
@@ -3086,171 +3066,31 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "https://chatgpt.hereisman.net/playlist/53498/load-playlist?e=.m3u8|Referer=https://gooz.aapmains.net",
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                 "publish": 1,
-                "title": "BBC SPORTS - HD",
-                "type": "0"
-            },
-            {
-                "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "ITV SPORTS - FHD",
-                "type": "1"
-            },
-            {
-                "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
-                "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "TUDN SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "D Sports - FHD",
-                "type": "1"
-            },
-            {
-                "api": "603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc",
-                "link": "https://cignal2.senbonzakurakageyoshi.workers.dev/fifa_ppv1/index.mpd",
-                "publish": 1,
-                "title": "WC TV - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "SporTV BR - AQ",
-                "type": "1"
-            },
-            {
-                "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "Caze TV - AQ",
-                "type": "1"
-            },
-            {
-                "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "TVE La 1 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "Canal5 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "publish": 1,
-                "title": "CT Sports - AQ",
+                "title": "FOX2 SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+                "link": "http://193.47.62.44/hls/FYYY.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "IRIB - 4K (Farsi)",
-                "type": "0"
-            },
-            {
-                "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "publish": 1,
-                "title": "Fox Sports - 4K",
-                "type": "1"
-            },
-            {
-                "api": "aa78205160ef4b5c972d5e815a8fe6e4:338b545591e45469e71dae3a8fb8dbb0",
-                "link": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "publish": 1,
-                "title": "TA - AQ (Spanish)",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4fj8aJj8W_egC1YJryP-4A\",\"k\":\"mLcTPuAG2frhEewMs2ZkHA\"},{\"kty\":\"oct\",\"kid\":\"5RH7gTYMXxS2gWBdHeUgRg\",\"k\":\"7HLzNdDkNqx9wdk2rqEUSg\"},{\"kty\":\"oct\",\"kid\":\"tz92ZY0fXOOEIPOAQhuv4w\",\"k\":\"nr2_MvkLVG9mYDEEsqw8ig\"},{\"kty\":\"oct\",\"kid\":\"T1WOrhsAUSayrG6esaeEng\",\"k\":\"F66jJdkbXmbwaoxXTy8LAw\"}],\"type\":\"temporary\"}",
-                "link": "https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "publish": 1,
-                "title": "Fussball TV - 4K",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.43/hls/XIIIIF.m3u8|Referer=http://www.fawanews.sc/",
-                "publish": 1,
-                "title": "BeIN SPORTS - HD",
+                "title": "GHD SPORTS - HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+                "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
                 "publish": 1,
-                "title": "CHINESE SERVER",
+                "title": "GHD SPORTS SD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+                "link": "https://live05.yefpwmc.app/live/88508431_tsc.m3u8",
                 "publish": 1,
-                "title": "FUSBALL TV - HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://103.155.18.186:8000/play/a125/index.m3u8",
-                "publish": 1,
-                "title": "Unite8 Sports 1",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36&Referer=https://iscreen.com.bd/",
-                "publish": 1,
-                "title": "iScreen - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM",
-                "publish": 1,
-                "title": "Bioscope+ - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=911f30f17e673b13ab160ad02386c00e&txTime=6A5D2630",
-                "publish": 1,
-                "title": "FAST SERVER HD 1",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwLKvBTeyx7.m3u8?txSecret=ecd5bcf899b0deb223ecc82d826a79fc&txTime=19F78475AFD",
-                "publish": 1,
-                "title": "FAST SERVER HD 2",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-502401_lhd.m3u8",
-                "publish": 1,
-                "title": "FAST SERVER HD 3",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4",
-                "publish": 1,
-                "title": "FAST SERVER HD 4",
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -3273,30 +3113,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/48835/image"
         },
         "formats": [
-            "Full Match Replay",
-            "1st Half Replay",
-            "2nd Half Replay",
-            "Highlights HD",
-            "Highlights HD S2",
-            "Extra Time Replay",
-            "Extra Time Replay S2",
-            "Ceremony Replay",
-            "FOX SPORTS - FHD",
-            "ITV SPORTS - FHD",
-            "TSN SPORTS - AQ",
-            "TUDN SPORTS - AQ",
-            "Fox Sports - AQ ",
-            "D Sports - FHD",
-            "SporTV BR - AQ ",
-            "Caze TV - AQ ",
-            "TVE La 1 - AQ",
-            "Canal5 - AQ ",
-            "MF - AQ (Fast)",
-            "CT Sports - AQ ",
-            "IRIB - 4K (Farsi)",
-            "Fox Sports - 4K ",
-            "TA - AQ (Spanish)",
-            "Fussball TV - 4K"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "CN SERVER HD"
         ],
         "id": 881,
         "image": "null",
@@ -3306,147 +3125,24 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://soccerfull.net/hls/14694.m3u8",
-                "title": "Full Match Replay",
+                "link": "http://193.47.62.44/hls/FYYYS.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://soccerfull.net/hls/14686.m3u8",
-                "title": "1st Half Replay",
+                "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://soccerfull.net/hls/14688.m3u8",
-                "title": "2nd Half Replay",
+                "link": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://img.refooty.com/m3u8/spain_QZ9kj.m3u8",
-                "title": "Highlights HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://soccerfull.net/hls/14695.m3u8",
-                "title": "Highlights HD S2",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://soccerfull.net/hls/14689.m3u8",
-                "title": "Extra Time Replay",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://soccerfull.net/hls/14692.m3u8",
-                "title": "Extra Time Replay S2",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://soccerfull.net/hls/14690.m3u8",
-                "title": "Ceremony Replay",
-                "type": "0"
-            },
-            {
-                "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "FOX SPORTS - FHD",
-                "type": "1"
-            },
-            {
-                "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "ITV SPORTS - FHD",
-                "type": "1"
-            },
-            {
-                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
-                "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TUDN SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Fox Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - FHD",
-                "type": "1"
-            },
-            {
-                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "SporTV BR - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "Caze TV - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "TVE La 1 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Canal5 - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://n-121-7.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
-                "title": "MF - AQ (Fast)",
-                "type": "0"
-            },
-            {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "title": "CT Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-                "title": "IRIB - 4K (Farsi)",
-                "type": "0"
-            },
-            {
-                "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "Fox Sports - 4K ",
-                "type": "1"
-            },
-            {
-                "api": "aa78205160ef4b5c972d5e815a8fe6e4:338b545591e45469e71dae3a8fb8dbb0",
-                "link": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TA - AQ (Spanish)",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4fj8aJj8W_egC1YJryP-4A\",\"k\":\"mLcTPuAG2frhEewMs2ZkHA\"},{\"kty\":\"oct\",\"kid\":\"5RH7gTYMXxS2gWBdHeUgRg\",\"k\":\"7HLzNdDkNqx9wdk2rqEUSg\"},{\"kty\":\"oct\",\"kid\":\"tz92ZY0fXOOEIPOAQhuv4w\",\"k\":\"nr2_MvkLVG9mYDEEsqw8ig\"},{\"kty\":\"oct\",\"kid\":\"T1WOrhsAUSayrG6esaeEng\",\"k\":\"F66jJdkbXmbwaoxXTy8LAw\"}],\"type\":\"temporary\"}",
-                "link": "https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "title": "Fussball TV - 4K",
-                "type": "1"
             }
         ],
         "slug": "world-cup2",
@@ -3468,25 +3164,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1077159/image"
         },
         "formats": [
-            "Auvio Sports - AQ ",
-            "TIPIK Sports - AQ ",
-            "Fox Sports - FHD",
-            "TSN Sports - FHD",
-            "D Sports - FHD",
-            "RTE Sports - AQ ",
-            "Fussball TV - 4K ",
-            "TV4 Direct - AQ ",
-            "Toffee - AQ (BDIX)",
-            "FOX SPORTS HD",
-            "CCTV CHINA HD",
-            "BeIN SPORTS HD",
-            "RTP SPORTS HD",
-            "FIRST SERVER HD",
-            "iScreen - AQ (BDIX)",
-            "DIRCKET SPORTS HD",
-            "Somoy TV BDIX",
-            "T Sports BDIX",
-            "BTV - BDIX"
+            "GHD SPORTS HD",
+            "CN SERVER HD",
+            "GHD SPORTS SD"
         ],
         "id": 882,
         "image": "null",
@@ -3495,117 +3175,24 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "b7846ea197ba4c539206716e254533bf:42386bf3ae3c532cb3a13c6d71d7d595",
-                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/bc479b5f.isml/.mpd?dvr_window_length=7200",
-                "title": "Auvio Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TIPIK Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Fox Sports - FHD",
-                "type": "1"
-            },
-            {
-                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN Sports - FHD",
-                "type": "1"
-            },
-            {
-                "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - FHD",
-                "type": "1"
-            },
-            {
-                "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "RTE Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4fj8aJj8W_egC1YJryP-4A\",\"k\":\"mLcTPuAG2frhEewMs2ZkHA\"},{\"kty\":\"oct\",\"kid\":\"5RH7gTYMXxS2gWBdHeUgRg\",\"k\":\"7HLzNdDkNqx9wdk2rqEUSg\"},{\"kty\":\"oct\",\"kid\":\"tz92ZY0fXOOEIPOAQhuv4w\",\"k\":\"nr2_MvkLVG9mYDEEsqw8ig\"},{\"kty\":\"oct\",\"kid\":\"T1WOrhsAUSayrG6esaeEng\",\"k\":\"F66jJdkbXmbwaoxXTy8LAw\"}],\"type\":\"temporary\"}",
-                "link": "https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "title": "Fussball TV - 4K ",
-                "type": "1"
-            },
-            {
-                "api": "b09d157d18ab51b9923a3d5abdeefd52:5a29bb3c705edea6941a5b1d575ac316",
-                "link": "https://director.streaming.telia.com/tvm-packager-prod/group2/61a4859b79019af4abf1009d/manifest.mpd?adap=default|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TV4 Direct - AQ ",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
-                "title": "Toffee - AQ (BDIX)",
+                "link": "http://193.47.62.44/hls/FYYYSS.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.51/hls/fllll.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "FOX SPORTS HD",
+                "link": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://play.gzxdby.com/live/183334344568_2547627555.m3u8",
-                "title": "CCTV CHINA HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.47/hls/skkkk.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.51/hls/CMMMM.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "RTP SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8",
-                "title": "FIRST SERVER HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
-                "title": "iScreen - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/skkkkq.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "DIRCKET SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-                "title": "Somoy TV BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-                "title": "T Sports BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-                "title": "BTV - BDIX",
+                "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             }
         ],
@@ -3628,20 +3215,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/37322/image"
         },
         "formats": [
-            "GHD SPORTS ENGLISH ",
-            "Fox One - AQ (English)",
-            "TSN Sports - AQ (English)",
-            "Caze TV - AQ (Portuguese)",
-            "D Sports - AQ (Spanish)",
-            "TIPIK - AQ (French)",
-            "Toffee - AQ (BDIX)",
-            "CT Sports - AQ (Czech)",
-            "FOX SPORTS HD",
-            "beIN MAX - AQ",
             "GHD SPORTS HD",
-            "CCTV CHINA HD",
-            "BeIN SPORTS HD",
-            "FIRST SERVER HD"
+            "D SPORTS + FHD",
+            "CN SERVER HD"
         ],
         "id": 884,
         "image": "null",
@@ -3651,86 +3227,23 @@
         "resolved_streams": [
             {
                 "api": "",
-                "link": "https://storage.googleapis.com/xpllas/main3/manifest.m3u8",
-                "title": "GHD SPORTS ENGLISH ",
-                "type": "0"
-            },
-            {
-                "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-                "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Fox One - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN Sports - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "Caze TV - AQ (Portuguese)",
-                "type": "1"
-            },
-            {
-                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - AQ (Spanish)",
-                "type": "1"
-            },
-            {
-                "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TIPIK - AQ (French)",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1782565902~Starts=1782479502~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bVj9tHtNGg-3v7ZcAz_r6-zoU7ujyvFk9olGWnBhrKaI3zpFfg46BT9OyQa85tK-HZKQ3SCjFKEVgwGZUkSvBQ|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Toffee - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "title": "CT Sports - AQ (Czech)",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.47/hls/JJJJQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8|Referer=https://xyzstreams.st/",
-                "title": "beIN MAX - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.51/hls/FFFFFFF.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/KKKKK.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
-                "api": "",
-                "link": "https://live06.zuqiu106.com/live/79635460.m3u8",
-                "title": "CCTV CHINA HD",
-                "type": "0"
+                "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "publish": 1,
+                "title": "D SPORTS + FHD",
+                "type": "1"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.55/hls/JJJJQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8",
-                "title": "FIRST SERVER HD",
+                "link": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -3753,27 +3266,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/22597/image"
         },
         "formats": [
-            "Auvio Sports - AQ (French)",
-            "Fox Sports - AQ (English)",
-            "TSN Sports - AQ (English)",
-            "Caze TV - AQ (Portuguese)",
-            "D Sports - AQ (Spanish)",
-            "RTE Sports - AQ (English)",
-            "Fox Sports - 4K (English}",
-            "Fussball TV - 4K (Germany)",
-            "Toffee - AQ (BDIX)",
-            "iScreen - AQ (BDIX)",
-            "iScreen S2 - AQ (BDIX)",
-            "IRIB - 4K (Farsi)",
-            "Binge+ - AQ",
-            "T Sports BDIX",
-            "Somoy TV BDIX",
-            "BTV BDIX",
-            "ITV SPORTS HD",
-            "BeIN SPORTS HD",
-            "TUDN SPORTS HD",
-            "AZAM SPORTS HD",
-            "FIRST SERVER HD",
+            "FOX2 SPORTS FHD",
             "GHD SPORTS HD"
         ],
         "id": 885,
@@ -3783,134 +3276,16 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "ed07de7c1cd74a90bc9d8feae69719f1:1bda7b3d92f55ec70936b995e6dd7b6e",
-                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/bc97dfd9/3105081b.isml/.mpd?dvr_window_length=7200",
-                "title": "Auvio Sports - AQ (French)",
-                "type": "1"
-            },
-            {
-                "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Fox Sports - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN Sports - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Caze TV - AQ (Portuguese)",
-                "type": "1"
-            },
-            {
-                "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - AQ (Spanish)",
-                "type": "1"
-            },
-            {
-                "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "RTE Sports - AQ (English)",
-                "type": "1"
-            },
-            {
-                "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wjottsmv62/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Fox Sports - 4K (English}",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4fj8aJj8W_egC1YJryP-4A\",\"k\":\"mLcTPuAG2frhEewMs2ZkHA\"},{\"kty\":\"oct\",\"kid\":\"5RH7gTYMXxS2gWBdHeUgRg\",\"k\":\"7HLzNdDkNqx9wdk2rqEUSg\"},{\"kty\":\"oct\",\"kid\":\"tz92ZY0fXOOEIPOAQhuv4w\",\"k\":\"nr2_MvkLVG9mYDEEsqw8ig\"},{\"kty\":\"oct\",\"kid\":\"T1WOrhsAUSayrG6esaeEng\",\"k\":\"F66jJdkbXmbwaoxXTy8LAw\"}],\"type\":\"temporary\"}",
-                "link": "https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "title": "Fussball TV - 4K (Germany)",
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                "publish": 1,
+                "title": "FOX2 SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782565902~Starts=1782479502~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bVj9tHtNGg-3v7ZcAz_r6-zoU7ujyvFk9olGWnBhrKaI3zpFfg46BT9OyQa85tK-HZKQ3SCjFKEVgwGZUkSvBQ|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "Toffee - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
-                "title": "iScreen - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pastebin.com/raw/1pGR7mkL?e=.m3u8|Referer=https://iscreen.com.bd/",
-                "title": "iScreen S2 - AQ (BDIX)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-                "title": "IRIB - 4K (Farsi)",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-                "title": "Binge+ - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-                "title": "T Sports BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-                "title": "Somoy TV BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-                "title": "BTV BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.55/hls/GOOO.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "ITV SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/RFRFRFQQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.51/hls/RFRFRFQQXQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "TUDN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.51/hls/RFRFRFQ.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "AZAM SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
-                "title": "FIRST SERVER HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.47/hls/RFRFRFQQX.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.44/hls/SASASAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
                 "title": "GHD SPORTS HD",
                 "type": "0"
             }
@@ -3934,18 +3309,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/48866/image"
         },
         "formats": [
-            "Auvio Sports - AQ ",
-            "FOX SPORTS FHD",
-            "TSN Sports - AQ ",
-            "D Sports - AQ ",
-            "Fussball TV - 4K ",
-            "IRIB - 4K (Farsi)",
-            "Toffee - AQ (BDIX)",
-            "FOX SPORTS HD",
-            "BeIN ARABIC HD",
-            "CCTV CHINA HD",
-            "BeIN SPORTS HD",
-            "FAST SERVER HD "
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "CN SERVER HD"
         ],
         "id": 886,
         "image": "null",
@@ -3954,75 +3320,24 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "8e35c3c9e7e44f03a471ca5c4c7e8af7:368cfe22a603f5b86a55786df734c313",
-                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/bc97dfd9/84a992f7.isml/.mpd?dvr_window_length=7200",
-                "title": "Auvio Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "FOX SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4fj8aJj8W_egC1YJryP-4A\",\"k\":\"mLcTPuAG2frhEewMs2ZkHA\"},{\"kty\":\"oct\",\"kid\":\"5RH7gTYMXxS2gWBdHeUgRg\",\"k\":\"7HLzNdDkNqx9wdk2rqEUSg\"},{\"kty\":\"oct\",\"kid\":\"tz92ZY0fXOOEIPOAQhuv4w\",\"k\":\"nr2_MvkLVG9mYDEEsqw8ig\"},{\"kty\":\"oct\",\"kid\":\"T1WOrhsAUSayrG6esaeEng\",\"k\":\"F66jJdkbXmbwaoxXTy8LAw\"}],\"type\":\"temporary\"}",
-                "link": "https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "title": "Fussball TV - 4K ",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-                "title": "IRIB - 4K (Farsi)",
+                "link": "http://193.47.62.44/hls/FYYYSS.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
-                "title": "Toffee - AQ (BDIX)",
+                "link": "https://live2.jorvakstreamcache.com/live/channel8.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://193.47.62.59/hls/DIIIII.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460972.m3u8?txSecret=28c780e08b488597021b346d2647d770&txTime=6A41D0B0",
-                "title": "BeIN ARABIC HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://play.gzxdby.com/live/183334344568_254762755p.m3u8",
-                "title": "CCTV CHINA HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.51/hls/HCCCCE.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8",
-                "title": "FAST SERVER HD ",
+                "link": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -4045,27 +3360,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image"
         },
         "formats": [
-            "TIPIK - AQ (French)",
-            "FOX SPORTS FHD",
-            "RTE SPORTS - AQ ",
-            "TSN SPORTS FHD",
-            "Auvio Sports - AQ ",
-            "D Sports - AQ ",
-            "Caze TV - FHD",
-            "TV4 Direct - AQ ",
-            "CT Sports - AQ ",
-            "iScreen - AQ (BDIX)",
-            "Toffee - AQ (BDIX)",
-            "Binge+ - AQ",
-            "T Sports BDIX",
-            "Somoy TV BDIX",
-            "BTV - BDIX",
-            "FOX SPORTS HD",
-            "CCTV CHINA HD",
-            "BeIN SPORTS HD",
-            "DIREKT SPPRTS HD",
-            "TELEMUNDO HD",
-            "FIRST SERVER HD"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "CN SERVER HD"
         ],
         "id": 889,
         "image": "null",
@@ -4074,129 +3371,24 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TIPIK - AQ (French)",
-                "type": "1"
-            },
-            {
-                "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "FOX SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "RTE SPORTS - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TSN SPORTS FHD",
-                "type": "1"
-            },
-            {
-                "api": "b7846ea197ba4c539206716e254533bf:42386bf3ae3c532cb3a13c6d71d7d595",
-                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/bc479b5f.isml/.mpd?dvr_window_length=7200",
-                "title": "Auvio Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "D Sports - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "title": "Caze TV - FHD",
-                "type": "1"
-            },
-            {
-                "api": "b09d157d18ab51b9923a3d5abdeefd52:5a29bb3c705edea6941a5b1d575ac316",
-                "link": "https://director.streaming.telia.com/tvm-packager-prod/group2/61a4859b79019af4abf1009d/manifest.mpd?adap=default|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-                "title": "TV4 Direct - AQ ",
-                "type": "1"
-            },
-            {
-                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "title": "CT Sports - AQ ",
-                "type": "1"
-            },
-            {
                 "api": "",
-                "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
-                "title": "iScreen - AQ (BDIX)",
+                "link": "http://193.47.62.44/hls/XAXAXA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
+                "publish": 1,
+                "title": "GHD SPORTS HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
-                "title": "Toffee - AQ (BDIX)",
+                "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-                "title": "Binge+ - AQ",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-                "title": "T Sports BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-                "title": "Somoy TV BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-                "title": "BTV - BDIX",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.42/hls/fllll.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "FOX SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://play.gzxdby.com/live/183334344568_2547627555.m3u8",
-                "title": "CCTV CHINA HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/skkkk.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "BeIN SPORTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.47/hls/skkkkq.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "DIREKT SPPRTS HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "http://193.47.62.59/hls/skkkkqq.m3u8|Referer=http://www.fawanews.sc/",
-                "title": "TELEMUNDO HD",
-                "type": "0"
-            },
-            {
-                "api": "",
-                "link": "https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8",
-                "title": "FIRST SERVER HD",
+                "link": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
                 "type": "0"
             }
         ],
@@ -4219,7 +3411,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/22607/image"
         },
         "formats": [
-            "TELEMUNDO SPN"
+            "GHD SPORTS HD",
+            "GHD SPORTS SD",
+            "CN SERVER HD"
         ],
         "id": 890,
         "image": "null",
@@ -4228,11 +3422,25 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-                "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                "api": "",
+                "link": "http://193.47.62.44/hls/XAXAXAX.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/",
                 "publish": 1,
-                "title": "TELEMUNDO SPN",
-                "type": "1"
+                "title": "GHD SPORTS HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8",
+                "publish": 1,
+                "title": "GHD SPORTS SD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+                "publish": 1,
+                "title": "CN SERVER HD",
+                "type": "0"
             }
         ],
         "slug": "world-cup9",
@@ -4585,57 +3793,6 @@
     {
         "cat": "Live Events",
         "eventInfo": {
-            "endTime": "2026/11/19 13:30:46 +0000",
-            "eventCat": "Cricket",
-            "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10",
-            "eventName": "WOMENS BIG BASH LEAGUE",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "2026/11/19 04:40:12 +0000",
-            "teamA": "WBBL",
-            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gCASU9yCGY3hzvY0yXeCtM9LhS3SoEWGWso6PnlDuQ&s",
-            "teamB": "WBBL",
-            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gCASU9yCGY3hzvY0yXeCtM9LhS3SoEWGWso6PnlDuQ&s"
-        },
-        "formats": [
-            "WILLOW CRICBUZZ - AQ",
-            "WILLOW CH2 - AQ",
-            "SKY CRICKET - AQ"
-        ],
-        "id": 1152,
-        "image": "null",
-        "isHot": 0,
-        "position": 297,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW CRICBUZZ - AQ",
-                "type": "1"
-            },
-            {
-                "api": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW CH2 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                "publish": 1,
-                "title": "SKY CRICKET - AQ",
-                "type": "0"
-            }
-        ],
-        "slug": "wbbl",
-        "title": "WBBL"
-    },
-    {
-        "cat": "Live Events",
-        "eventInfo": {
             "endTime": "2026/11/19 19:00:26 +0000",
             "eventCat": "Cricket",
             "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10",
@@ -4670,15 +3827,15 @@
                 "type": "1"
             },
             {
-                "api": "4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd",
+                "api": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CRICBUZZ - AQ",
                 "type": "1"
             },
             {
-                "api": "4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd",
+                "api": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CH2 - AQ",
                 "type": "1"
