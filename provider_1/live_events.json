@@ -1,6 +1,109 @@
 [
     {
         "teamA": {
+            "name": "NZ",
+            "logo": "https://img.sofascore.com/api/v1/team/187755/image"
+        },
+        "teamB": {
+            "name": "IND",
+            "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+        },
+        "visible": true,
+        "priority": 1,
+        "date": "20/11/2026",
+        "time": "22:00:00",
+        "category": "Cricket",
+        "eventName": "ICC World Test Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [
+            {
+                "name": "WILLOW FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd",
+                "scheme": 0,
+                "api": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
+                "tokenApi": null
+            },
+            {
+                "name": "PRIME HINDI FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
+                "scheme": 0,
+                "api": "424a04fa4464fdb9d5f3d61ddf48776a:85a5da47db9f57cdccdbac01c980aece",
+                "tokenApi": null
+            },
+            {
+                "name": "PRIME ENG FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
+                "scheme": 0,
+                "api": "fda7a391d6346eb3176d0379fdc094d0:1ee285d5bec7f6855d51e3e5f630ad1f",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD FHD",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW ALT",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd",
+                "scheme": 0,
+                "api": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (ENG)",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1911/ENG/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TEN SPORTS HD",
+                "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (HIN)",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1911/HIN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TEL)",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1911/TEL/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TAM)",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1911/TAM/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (KAN)",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1911/KAN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
             "name": "MotoGP",
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg"
         },
@@ -10,8 +113,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "20/11/2026",
-        "time": "10:45:00",
+        "date": "21/11/2026",
+        "time": "10:10:00",
         "category": "Motorsport",
         "eventName": "MotoGP",
         "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
@@ -92,7 +195,7 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "20/11/2026",
+        "date": "27/11/2026",
         "time": "12:00:00",
         "category": "Boxing",
         "eventName": "ONE Friday Fights",
@@ -149,7 +252,9 @@
                 "api": null,
                 "tokenApi": null
             }
-        ]
+        ],
+        "end_date": "27/11/2026",
+        "end_time": "18:00:00"
     },
     {
         "teamA": {
@@ -332,13 +437,13 @@
                 "tokenApi": null
             },
             {
-                "name": "CricFy FHD",
+                "name": "Cricfy WWE",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://trendy48.online/event/m-wwe-friday-night-smackdown-1031",
+                    "api": "https://taifood-blog.asia/embed/wwe/2026-11-20",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -348,13 +453,13 @@
                 }
             },
             {
-                "name": "Cricfy WWE",
+                "name": "CricFy FHD",
                 "link": null,
                 "scheme": 0,
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://taifood-blog.asia/embed/wwe/2026-10-30",
+                    "api": "https://trend8.st/event/m-wwe-friday-night-smackdown-1121",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -379,7 +484,7 @@
         "date": "21/11/2026",
         "time": "11:15:00",
         "category": "Cricket",
-        "eventName": "Nepal Premier League, 2026",
+        "eventName": "Nepal Premier League 2026 Final",
         "eventLogo": "https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",
         "streams": [
             {
@@ -426,7 +531,9 @@
                 "api": null,
                 "tokenApi": null
             }
-        ]
+        ],
+        "end_date": "21/11/2026",
+        "end_time": "15:00:00"
     },
     {
         "teamA": {
@@ -660,7 +767,9 @@
                 "api": null,
                 "tokenApi": null
             }
-        ]
+        ],
+        "end_date": "21/11/2026",
+        "end_time": "16:00:00"
     },
     {
         "teamA": {
@@ -764,106 +873,6 @@
             {
                 "name": "FANCODE (IND)",
                 "link": "https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Sky S 1 NZ",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://event.kpores.ru/embed/SKY-SPORT-1-NZ",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "SKY UK",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://event.kpores.ru/embed/SKY-SPORTS-CRICKET-UK",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/vrrrA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Abu Dhabi T10",
-            "logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
-        },
-        "teamB": {
-            "name": "Abu Dhabi T10",
-            "logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "13:30:00",
-        "category": "Cricket",
-        "eventName": "Abu Dhabi T10 League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-                "scheme": 0,
-                "api": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e",
-                "tokenApi": null
-            },
-            {
-                "name": "PREMIER SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-                "scheme": 0,
-                "api": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e",
-                "tokenApi": null
-            },
-            {
-                "name": "MYCO LIVE HD",
-                "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "A SPORTS HD",
-                "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "TAMASHA FHD",
-                "link": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1151,6 +1160,20 @@
         "eventName": "NBA",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
+            {
+                "name": "TSN FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                "scheme": 0,
+                "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "tokenApi": null
+            },
+            {
+                "name": "TSN 1 FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "scheme": 0,
+                "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "tokenApi": null
+            },
             {
                 "name": "NBA",
                 "link": null,
@@ -2130,193 +2153,6 @@
     },
     {
         "teamA": {
-            "name": "NZ",
-            "logo": "https://img.sofascore.com/api/v1/team/187755/image"
-        },
-        "teamB": {
-            "name": "IND",
-            "logo": "https://img.sofascore.com/api/v1/team/187765/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "22:00:00",
-        "category": "Cricket",
-        "eventName": "ICC World Test Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "streams": [
-            {
-                "name": "WILLOW FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
-                "tokenApi": null
-            },
-            {
-                "name": "PRIME HINDI FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?",
-                "scheme": 0,
-                "api": "080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de",
-                "tokenApi": null
-            },
-            {
-                "name": "PRIME ENG FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?",
-                "scheme": 0,
-                "api": "ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc",
-                "tokenApi": null
-            },
-            {
-                "name": "TNT SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "tokenApi": null
-            },
-            {
-                "name": "TAPMAD FHD",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (ENG)",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1911/ENG/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "TEN SPORTS HD",
-                "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (HIN)",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1911/HIN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (TEL)",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1911/TEL/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (TAM)",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1911/TAM/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "SonyLiv (KAN)",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1911/KAN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Al-Ahli",
-            "logo": "https://img.sofascore.com/api/v1/team/34469/image"
-        },
-        "teamB": {
-            "name": "Al-Nassr",
-            "logo": "https://img.sofascore.com/api/v1/team/23400/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "17:30:00",
-        "category": "Football",
-        "eventName": "Saudi Pro League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "name": "FOX DEPORTES FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                "tokenApi": null
-            },
-            {
-                "name": "SportDigital Fussball",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "19:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Darmstadt",
-            "logo": "https://img.sofascore.com/api/v1/team/2576/image"
-        },
-        "teamB": {
-            "name": "Heidenheim",
-            "logo": "https://img.sofascore.com/api/v1/team/5885/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "17:30:00",
-        "category": "Football",
-        "eventName": "2. Bundesliga",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "name": "beIN ENGLISH FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "scheme": 0,
-                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "tokenApi": null
-            },
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/VAVAVAEAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "19:50:00"
-    },
-    {
-        "teamA": {
             "name": "Sabadell",
             "logo": "https://img.sofascore.com/api/v1/team/24335/image"
         },
@@ -2609,41 +2445,6 @@
         ],
         "end_date": "21/11/2026",
         "end_time": "14:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Bielefeld",
-            "logo": "https://img.sofascore.com/api/v1/team/2540/image"
-        },
-        "teamB": {
-            "name": "Magdeburg",
-            "logo": "https://img.sofascore.com/api/v1/team/2591/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "17:30:00",
-        "category": "Football",
-        "eventName": "2. Bundesliga",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/VAVAVAE.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "19:50:00"
     },
     {
         "teamA": {
@@ -3247,111 +3048,6 @@
     },
     {
         "teamA": {
-            "name": "Fiji U17",
-            "logo": "https://img.sofascore.com/api/v1/team/1096685/image"
-        },
-        "teamB": {
-            "name": "Morocco U17",
-            "logo": "https://img.sofascore.com/api/v1/team/48862/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/YPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Côte d'Ivoire U17",
-            "logo": "https://img.sofascore.com/api/v1/team/48857/image"
-        },
-        "teamB": {
-            "name": "Uzbekistan U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22662/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.44/hls/YPPPAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Senegal U17",
-            "logo": "https://img.sofascore.com/api/v1/team/323076/image"
-        },
-        "teamB": {
-            "name": "Croatia U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22594/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "20/11/2026",
-        "time": "15:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Cricfy HD",
-                "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.41/hls/CDCDCD.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "20/11/2026",
-        "end_time": "17:50:00"
-    },
-    {
-        "teamA": {
             "name": "Japan U17",
             "logo": "https://img.sofascore.com/api/v1/team/22618/image"
         },
@@ -3478,5 +3174,122 @@
                 "tokenApi": null
             }
         ]
+    },
+    {
+        "teamA": {
+            "name": "Porto",
+            "logo": "https://img.sofascore.com/api/v1/team/3002/image"
+        },
+        "teamB": {
+            "name": "Paredes",
+            "logo": "https://img.sofascore.com/api/v1/team/231591/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "20/11/2026",
+        "time": "20:45:00",
+        "category": "Football",
+        "eventName": "Taça de Portugal",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "streams": [
+            {
+                "name": "beIN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                "tokenApi": null
+            },
+            {
+                "name": "beIN Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                "tokenApi": null
+            },
+            {
+                "name": "Low Server",
+                "link": "http://193.47.62.50/hls/E666A.m3u8?|referer=http://fawanews.sc/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "20/11/2026",
+        "end_time": "23:05:00"
+    },
+    {
+        "teamA": {
+            "name": "ITALIA T10",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Italia-T10-2026_Tour-Logo.png"
+        },
+        "teamB": {
+            "name": "ITALIA T10",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Italia-T10-2026_Tour-Logo.png"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "21/11/2026",
+        "time": "11:30:00",
+        "category": "Cricket",
+        "eventName": "ITALIA T10 LEAGUE",
+        "eventLogo": "https://www.fancode.com/skillup-uploads/cms-media/Italia-T10-2026_Tour-Logo.png",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": null
+            }
+        ],
+        "end_date": "21/11/2026",
+        "end_time": "15:55:00"
+    },
+    {
+        "teamA": {
+            "name": "Sri Lanka",
+            "logo": "https://img.sofascore.com/api/v1/team/23487/image"
+        },
+        "teamB": {
+            "name": "Hong Kong",
+            "logo": "https://img.sofascore.com/api/v1/team/4765/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "21/11/2026",
+        "time": "06:00:00",
+        "category": "Cricket",
+        "eventName": "Men's Asia Cup Rising Stars 2026",
+        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": null
+            }
+        ],
+        "end_date": "21/11/2026",
+        "end_time": "13:00:00"
+    },
+    {
+        "teamA": {
+            "name": "BAN",
+            "logo": "https://img.sofascore.com/api/v1/team/187744/image"
+        },
+        "teamB": {
+            "name": "AFG",
+            "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "21/11/2026",
+        "time": "10:00:00",
+        "category": "Cricket",
+        "eventName": "Men's Asia Cup Rising Stars 2026",
+        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": null
+            }
+        ],
+        "end_date": "21/11/2026",
+        "end_time": "16:35:00"
     }
 ]
