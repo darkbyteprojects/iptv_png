@@ -961,7 +961,8 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image"
         },
         "formats": [
-            "CN SERVER HD"
+            "CN SERVER HD",
+            "Apple Tv HD"
         ],
         "id": 767,
         "image": "null",
@@ -974,6 +975,13 @@
                 "link": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
                 "publish": 1,
                 "title": "CN SERVER HD",
+                "type": 0
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/60677/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "publish": 1,
+                "title": "Apple Tv HD",
                 "type": 0
             }
         ],
@@ -2283,8 +2291,6 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image"
         },
         "formats": [
-            "PRIME VIDEO HINDI FHD",
-            "PRIME VIDEO ENGLISH FHD",
             "WILLOW CRICBUZZ - AQ",
             "TNT SPORTS AQ",
             "SONYLIV HIN - FHD",
@@ -2292,6 +2298,8 @@
             "SONYLIV TAM - FHD",
             "SONYLIV TEL - FHD",
             "SONYLIV KAN - FHD",
+            "SONYLIV HIN - AQ",
+            "SONYLIV ENG - AQ",
             "TAPMAD ENG - AQ",
             "TEN SPORTS HD"
         ],
@@ -2302,66 +2310,66 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "424a04fa4464fdb9d5f3d61ddf48776a:85a5da47db9f57cdccdbac01c980aece",
-                "link": "https://abn7nivaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
-                "publish": 1,
-                "title": "PRIME VIDEO HINDI FHD",
-                "type": 1
-            },
-            {
-                "api": "fda7a391d6346eb3176d0379fdc094d0:1ee285d5bec7f6855d51e3e5f630ad1f",
-                "link": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
-                "publish": 1,
-                "title": "PRIME VIDEO ENGLISH FHD",
-                "type": 1
-            },
-            {
-                "api": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+                "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
                 "publish": 1,
                 "title": "WILLOW CRICBUZZ - AQ",
                 "type": 1
             },
             {
                 "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
                 "publish": 1,
                 "title": "TNT SPORTS AQ",
                 "type": 1
             },
             {
                 "api": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
                 "publish": 1,
                 "title": "SONYLIV HIN - FHD",
                 "type": 0
             },
             {
                 "api": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
                 "publish": 1,
                 "title": "SONYLIV ENG - FHD",
                 "type": 0
             },
             {
                 "api": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
                 "publish": 1,
                 "title": "SONYLIV TAM - FHD",
                 "type": 0
             },
             {
                 "api": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
                 "publish": 1,
                 "title": "SONYLIV TEL - FHD",
                 "type": 0
             },
             {
                 "api": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795253149~acl=/*~id=51003257100776422741635385242824~hmac=dda1b63279f359c8aa67d45e3bccfe8ed2c3e9c032636b2bdec9c78d9446e06f",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
                 "publish": 1,
                 "title": "SONYLIV KAN - FHD",
+                "type": 0
+            },
+            {
+                "api": "",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2111/HIN/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
+                "publish": 1,
+                "title": "SONYLIV HIN - AQ",
+                "type": 0
+            },
+            {
+                "api": "",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2111/ENG/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
+                "publish": 1,
+                "title": "SONYLIV ENG - AQ",
                 "type": 0
             },
             {
