@@ -9,8 +9,8 @@
             "logo": "https://img.sofascore.com/api/v1/team/187765/image"
         },
         "visible": true,
-        "priority": 1,
-        "date": "21/11/2026",
+        "priority": -1,
+        "date": "22/11/2026",
         "time": "22:00:00",
         "category": "Cricket",
         "eventName": "ICC World Test Championship",
@@ -691,8 +691,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "21/11/2026",
-        "time": "13:30:00",
+        "date": "22/11/2026",
+        "time": "07:45:00",
         "category": "Tennis",
         "eventName": "Tennis",
         "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",
@@ -746,9 +746,9 @@
         "streams": [
             {
                 "name": "WILLOW FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
                 "scheme": 0,
-                "api": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
+                "api": "f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e",
                 "tokenApi": null
             },
             {
@@ -760,9 +760,9 @@
             },
             {
                 "name": "WILLOW ALT",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
                 "scheme": 0,
-                "api": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
+                "api": "f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e",
                 "tokenApi": null
             },
             {
@@ -1025,6 +1025,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3437/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/11/2026",
         "time": "00:00:00",
         "category": "Basketball",
@@ -1032,8 +1033,20 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/orl-wsh",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "23/11/2026",
@@ -1049,33 +1062,9 @@
             "logo": "https://img.sofascore.com/api/v1/team/3417/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/11/2026",
         "time": "00:00:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "23/11/2026",
-        "end_time": "03:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Spurs",
-            "logo": "https://img.sofascore.com/api/v1/team/3429/image"
-        },
-        "teamB": {
-            "name": "Pelicans",
-            "logo": "https://img.sofascore.com/api/v1/team/5539/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "01:00:00",
         "category": "Basketball",
         "eventName": "NBA",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -1087,23 +1076,7 @@
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://taifood-blog.asia/embed/nba/2026-11-21/no-sa",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "EXTRA SPORT31",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/184",
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/den-chi",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -1113,61 +1086,8 @@
                 }
             }
         ],
-        "end_date": "22/11/2026",
-        "end_time": "04:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Kings",
-            "logo": "https://img.sofascore.com/api/v1/team/3413/image"
-        },
-        "teamB": {
-            "name": "Celtics",
-            "logo": "https://img.sofascore.com/api/v1/team/3422/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "03:00:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "MLB",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nba/2026-11-21/bos-sac",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "EXTRA SPORT33",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/186",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "06:00:00"
+        "end_date": "23/11/2026",
+        "end_time": "03:00:00"
     },
     {
         "teamA": {
@@ -1179,6 +1099,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3424/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/11/2026",
         "time": "20:30:00",
         "category": "Basketball",
@@ -1186,8 +1107,36 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/178",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "NBA 1",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/det-atl",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "22/11/2026",
@@ -1203,6 +1152,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3418/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "22/11/2026",
         "time": "23:00:00",
         "category": "Basketball",
@@ -1210,8 +1160,20 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/okc-mia",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "23/11/2026",
@@ -1227,6 +1189,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3422/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/11/2026",
         "time": "01:30:00",
         "category": "Basketball",
@@ -1234,187 +1197,24 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/bos-gs",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "23/11/2026",
         "end_time": "04:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Mavericks",
-            "logo": "https://img.sofascore.com/api/v1/team/3411/image"
-        },
-        "teamB": {
-            "name": "Clippers",
-            "logo": "https://img.sofascore.com/api/v1/team/3425/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "01:00:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "NBA",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nba/2026-11-21/lac-dal",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "EXTRA SPORT28",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/182",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "04:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Timberwolves",
-            "logo": "https://img.sofascore.com/api/v1/team/3426/image"
-        },
-        "teamB": {
-            "name": "Grizzlies",
-            "logo": "https://img.sofascore.com/api/v1/team/3415/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "01:00:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "NBA",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nba/2026-11-21/mem-min",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "EXTRA SPORT30",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/183",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "ESPN1MX",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/97",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "04:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Knicks",
-            "logo": "https://img.sofascore.com/api/v1/team/3421/image"
-        },
-        "teamB": {
-            "name": "Trail Blazers",
-            "logo": "https://img.sofascore.com/api/v1/team/3414/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:30:00",
-        "category": "Basketball",
-        "eventName": "NBA",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "name": "NBA",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nba/2026-11-21/por-ny",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            },
-            {
-                "name": "EXTRA SPORT27",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://104game.click/player/2/181",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "03:30:00"
     },
     {
         "teamA": {
@@ -1426,6 +1226,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3411/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/11/2026",
         "time": "00:00:00",
         "category": "Basketball",
@@ -1433,8 +1234,20 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/dal-utah",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "23/11/2026",
@@ -1450,6 +1263,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3419/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "23/11/2026",
         "time": "01:00:00",
         "category": "Basketball",
@@ -1457,439 +1271,24 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "NBA",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-22/ind-ny",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ],
         "end_date": "23/11/2026",
         "end_time": "04:00:00"
-    },
-    {
-        "teamA": {
-            "name": "Panthers",
-            "logo": "https://img.sofascore.com/api/v1/team/3687/image"
-        },
-        "teamB": {
-            "name": "Sabres",
-            "logo": "https://img.sofascore.com/api/v1/team/3678/image"
-        },
-        "visible": true,
-        "date": "21/11/2026",
-        "time": "23:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Senators",
-            "logo": "https://img.sofascore.com/api/v1/team/3700/image"
-        },
-        "teamB": {
-            "name": "Kings",
-            "logo": "https://img.sofascore.com/api/v1/team/3688/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/la-ott",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Red Wings",
-            "logo": "https://img.sofascore.com/api/v1/team/3685/image"
-        },
-        "teamB": {
-            "name": "Islanders",
-            "logo": "https://img.sofascore.com/api/v1/team/3703/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/nyi-det",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Maple Leafs",
-            "logo": "https://img.sofascore.com/api/v1/team/3693/image"
-        },
-        "teamB": {
-            "name": "Blue Jackets",
-            "logo": "https://img.sofascore.com/api/v1/team/3683/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/cbj-tor",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Bruins",
-            "logo": "https://img.sofascore.com/api/v1/team/3677/image"
-        },
-        "teamB": {
-            "name": "Capitals",
-            "logo": "https://img.sofascore.com/api/v1/team/3691/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/wsh-bos",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Blues",
-            "logo": "https://img.sofascore.com/api/v1/team/3695/image"
-        },
-        "teamB": {
-            "name": "Devils",
-            "logo": "https://img.sofascore.com/api/v1/team/3704/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/nj-stl",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Jets",
-            "logo": "https://img.sofascore.com/api/v1/team/3676/image"
-        },
-        "teamB": {
-            "name": "Golden Knights",
-            "logo": "https://img.sofascore.com/api/v1/team/257523/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/vgk-wpg",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "02:29:00"
-    },
-    {
-        "teamA": {
-            "name": "Canucks",
-            "logo": "https://img.sofascore.com/api/v1/team/3692/image"
-        },
-        "teamB": {
-            "name": "Wild",
-            "logo": "https://img.sofascore.com/api/v1/team/3689/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "03:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/min-van",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "05:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Canadiens",
-            "logo": "https://img.sofascore.com/api/v1/team/3690/image"
-        },
-        "teamB": {
-            "name": "Flyers",
-            "logo": "https://img.sofascore.com/api/v1/team/3699/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "00:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/chi-cgy",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ]
-    },
-    {
-        "teamA": {
-            "name": "Mammoth",
-            "logo": "https://img.sofascore.com/api/v1/team/530472/image"
-        },
-        "teamB": {
-            "name": "Ducks",
-            "logo": "https://img.sofascore.com/api/v1/team/3675/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "02:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/ana-uta",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "04:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Predators",
-            "logo": "https://img.sofascore.com/api/v1/team/3705/image"
-        },
-        "teamB": {
-            "name": "Penguins",
-            "logo": "https://img.sofascore.com/api/v1/team/3697/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "21/11/2026",
-        "time": "23:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/pit-nsh",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "01:30:00"
-    },
-    {
-        "teamA": {
-            "name": "Sharks",
-            "logo": "https://img.sofascore.com/api/v1/team/3696/image"
-        },
-        "teamB": {
-            "name": "Kraken",
-            "logo": "https://img.sofascore.com/api/v1/team/381707/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "03:00:00",
-        "category": "Hockey",
-        "eventName": "NHL",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null,
-                "scheme": 0,
-                "api": null,
-                "tokenApi": {
-                    "url": null,
-                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-21/sea-sj",
-                    "type": "embed",
-                    "link_key": "playback_url",
-                    "default_string": "N8x7Y%m+6n",
-                    "request_type": "get",
-                    "request_body_type": "text",
-                    "ip_api": "https://api.ipify.org/"
-                }
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "05:30:00"
     },
     {
         "teamA": {
@@ -2155,31 +1554,6 @@
     },
     {
         "teamA": {
-            "name": "Nepal",
-            "logo": "https://img.sofascore.com/api/v1/team/23489/image"
-        },
-        "teamB": {
-            "name": "UAE",
-            "logo": "https://img.sofascore.com/api/v1/team/4727/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "22/11/2026",
-        "time": "06:00:00",
-        "category": "Cricket",
-        "eventName": "Men's Asia Cup Rising Stars 2026",
-        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": null
-            }
-        ],
-        "end_date": "22/11/2026",
-        "end_time": "13:30:00"
-    },
-    {
-        "teamA": {
             "name": "PAK",
             "logo": "https://img.sofascore.com/api/v1/team/187754/image"
         },
@@ -2202,5 +1576,978 @@
         ],
         "end_date": "22/11/2026",
         "end_time": "16:46:00"
+    },
+    {
+        "teamA": {
+            "name": "IRE-W",
+            "logo": "https://img.sofascore.com/api/v1/team/213116/image"
+        },
+        "teamB": {
+            "name": "ZIM-W",
+            "logo": "https://img.sofascore.com/api/v1/team/417062/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "09:15:00",
+        "category": "Cricket",
+        "eventName": "Womens Emerging Nations Trophy",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "NED-W",
+            "logo": "https://img.sofascore.com/api/v1/team/417753/image"
+        },
+        "teamB": {
+            "name": "SL-W",
+            "logo": "https://img.sofascore.com/api/v1/team/187806/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/11/2026",
+        "time": "05:00:00",
+        "category": "Cricket",
+        "eventName": "Womens Emerging Nations Trophy",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
+        "streams": [
+            {
+                "name": "TAMASHA FHD",
+                "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "PAK-W",
+            "logo": "https://img.sofascore.com/api/v1/team/187808/image"
+        },
+        "teamB": {
+            "name": "SCO-W",
+            "logo": "https://img.sofascore.com/api/v1/team/453162/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/11/2026",
+        "time": "05:00:00",
+        "category": "Cricket",
+        "eventName": "Womens Emerging Nations Trophy",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
+        "streams": [
+            {
+                "name": "PTV SPORTS FHD",
+                "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TAMASHA FHD",
+                "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "MYCO (PAK)",
+                "link": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8|referer=https://myco.io/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Celta Fortuna",
+            "logo": "https://img.sofascore.com/api/v1/team/24336/image"
+        },
+        "teamB": {
+            "name": "Valladolid",
+            "logo": "https://img.sofascore.com/api/v1/team/2831/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "17:30:00",
+        "category": "Football",
+        "eventName": "LaLiga 2",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "19:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Osasuna",
+            "logo": "https://img.sofascore.com/api/v1/team/2820/image"
+        },
+        "teamB": {
+            "name": "Málaga",
+            "logo": "https://img.sofascore.com/api/v1/team/2830/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "17:30:00",
+        "category": "Football",
+        "eventName": "LaLiga",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "19:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Bremen",
+            "logo": "https://img.sofascore.com/api/v1/team/2534/image"
+        },
+        "teamB": {
+            "name": "HSV",
+            "logo": "https://img.sofascore.com/api/v1/team/2676/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "16:30:00",
+        "category": "Football",
+        "eventName": "Bundesliga",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "18:50:00"
+    },
+    {
+        "teamA": {
+            "name": "RB Bragantino",
+            "logo": "https://img.sofascore.com/api/v1/team/1999/image"
+        },
+        "teamB": {
+            "name": "Vasco",
+            "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "22:30:00",
+        "category": "Football",
+        "eventName": "Campeonato Brasileiro Série A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "23/11/2026",
+        "end_time": "00:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Paris",
+            "logo": "https://img.sofascore.com/api/v1/team/6070/image"
+        },
+        "teamB": {
+            "name": "Angers",
+            "logo": "https://img.sofascore.com/api/v1/team/1684/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Ligue 1",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Getafe",
+            "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+        },
+        "teamB": {
+            "name": "Atlético Madrid",
+            "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "LaLiga",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Bologna",
+            "logo": "https://img.sofascore.com/api/v1/team/2685/image"
+        },
+        "teamB": {
+            "name": "Udinese",
+            "logo": "https://img.sofascore.com/api/v1/team/2695/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Serie A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Augsburg",
+            "logo": "https://img.sofascore.com/api/v1/team/2600/image"
+        },
+        "teamB": {
+            "name": "Mainz 05",
+            "logo": "https://img.sofascore.com/api/v1/team/2556/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "14:30:00",
+        "category": "Football",
+        "eventName": "Bundesliga",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "16:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Girona",
+            "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+        },
+        "teamB": {
+            "name": "Eibar",
+            "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "17:30:00",
+        "category": "Football",
+        "eventName": "LaLiga 2",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "19:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Fluminense",
+            "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+        },
+        "teamB": {
+            "name": "Mirassol",
+            "logo": "https://img.sofascore.com/api/v1/team/21982/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "21:30:00",
+        "category": "Football",
+        "eventName": "Campeonato Brasileiro Série A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "23:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Sporting",
+            "logo": "https://img.sofascore.com/api/v1/team/2852/image"
+        },
+        "teamB": {
+            "name": "Las Palmas",
+            "logo": "https://img.sofascore.com/api/v1/team/6577/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "15:15:00",
+        "category": "Football",
+        "eventName": "LaLiga 2",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "17:35:00"
+    },
+    {
+        "teamA": {
+            "name": "Atalanta",
+            "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+        },
+        "teamB": {
+            "name": "Inter",
+            "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "19:45:00",
+        "category": "Football",
+        "eventName": "Serie A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "22:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Burgos",
+            "logo": "https://img.sofascore.com/api/v1/team/2854/image"
+        },
+        "teamB": {
+            "name": "Albacete",
+            "logo": "https://img.sofascore.com/api/v1/team/2848/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "20:00:00",
+        "category": "Football",
+        "eventName": "LaLiga 2",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "22:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Racing Club",
+            "logo": "https://img.sofascore.com/api/v1/team/2835/image"
+        },
+        "teamB": {
+            "name": "Real Sociedad",
+            "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "15:15:00",
+        "category": "Football",
+        "eventName": "LaLiga",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "17:35:00"
+    },
+    {
+        "teamA": {
+            "name": "Fiorentina",
+            "logo": "https://img.sofascore.com/api/v1/team/264911/image"
+        },
+        "teamB": {
+            "name": "Como",
+            "logo": "https://img.sofascore.com/api/v1/team/1114927/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Serie A Women",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Lorient",
+            "logo": "https://img.sofascore.com/api/v1/team/1656/image"
+        },
+        "teamB": {
+            "name": "Rennes",
+            "logo": "https://img.sofascore.com/api/v1/team/1658/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "16:15:00",
+        "category": "Football",
+        "eventName": "Ligue 1",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "18:35:00"
+    },
+    {
+        "teamA": {
+            "name": "Sassuolo",
+            "logo": "https://img.sofascore.com/api/v1/team/2793/image"
+        },
+        "teamB": {
+            "name": "Genoa",
+            "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "14:00:00",
+        "category": "Football",
+        "eventName": "Serie A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "16:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Qatar U17",
+            "logo": "https://img.sofascore.com/api/v1/team/468401/image"
+        },
+        "teamB": {
+            "name": "Egypt U17",
+            "logo": "https://img.sofascore.com/api/v1/team/216077/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "15:00:00",
+        "category": "Football",
+        "eventName": "U17 World Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "17:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Argentina U17",
+            "logo": "https://img.sofascore.com/api/v1/team/22576/image"
+        },
+        "teamB": {
+            "name": "Mozambique U17",
+            "logo": "https://img.sofascore.com/api/v1/team/1126751/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "15:30:00",
+        "category": "Football",
+        "eventName": "U17 World Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "17:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Uruguay U17",
+            "logo": "https://img.sofascore.com/api/v1/team/37322/image"
+        },
+        "teamB": {
+            "name": "Haiti U17",
+            "logo": "https://img.sofascore.com/api/v1/team/190706/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "15:30:00",
+        "category": "Football",
+        "eventName": "U17 World Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "17:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Milan",
+            "logo": "https://img.sofascore.com/api/v1/team/2692/image"
+        },
+        "teamB": {
+            "name": "Frosinone",
+            "logo": "https://img.sofascore.com/api/v1/team/2801/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "17:00:00",
+        "category": "Football",
+        "eventName": "Serie A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "19:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Athletico",
+            "logo": "https://img.sofascore.com/api/v1/team/1967/image"
+        },
+        "teamB": {
+            "name": "Remo",
+            "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "19:00:00",
+        "category": "Football",
+        "eventName": "Campeonato Brasileiro Série A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "21:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Denmark U17",
+            "logo": "https://img.sofascore.com/api/v1/team/22597/image"
+        },
+        "teamB": {
+            "name": "Australia U17",
+            "logo": "https://img.sofascore.com/api/v1/team/22578/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "12:30:00",
+        "category": "Football",
+        "eventName": "U17 World Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "14:50:00"
+    },
+    {
+        "teamA": {
+            "name": "Ecuador U17",
+            "logo": "https://img.sofascore.com/api/v1/team/48835/image"
+        },
+        "teamB": {
+            "name": "Uganda U17",
+            "logo": "https://img.sofascore.com/api/v1/team/1077159/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "13:00:00",
+        "category": "Football",
+        "eventName": "U17 World Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "15:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Konyaspor",
+            "logo": "https://img.sofascore.com/api/v1/team/3085/image"
+        },
+        "teamB": {
+            "name": "Beşiktaş",
+            "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "13:00:00",
+        "category": "Football",
+        "eventName": "Trendyol Süper Lig",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "15:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Kasımpaşa",
+            "logo": "https://img.sofascore.com/api/v1/team/6063/image"
+        },
+        "teamB": {
+            "name": "Alanyaspor",
+            "logo": "https://img.sofascore.com/api/v1/team/6362/image"
+        },
+        "visible": true,
+        "date": "22/11/2026",
+        "time": "13:00:00",
+        "category": "Football",
+        "eventName": "Trendyol Süper Lig",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "streams": [
+            {
+                "name": "Link 1",
+                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+            }
+        ],
+        "end_date": "22/11/2026",
+        "end_time": "15:20:00"
+    },
+    {
+        "teamA": {
+            "name": "Nepal",
+            "logo": "https://img.sofascore.com/api/v1/team/23489/image"
+        },
+        "teamB": {
+            "name": "UAE",
+            "logo": "https://img.sofascore.com/api/v1/team/4727/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/11/2026",
+        "time": "07:00:00",
+        "category": "Cricket",
+        "eventName": "Men's Asia Cup Rising Stars 2026",
+        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+        "streams": [
+            {
+                "name": "WILLOW FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bocdx5eawo/out/v1/1634d923adc04e609180b5d4dd3730c3/cenc.mpd",
+                "scheme": 0,
+                "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
+                "tokenApi": null
+            },
+            {
+                "name": "STARZPLAY FHD",
+                "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+                "scheme": 0,
+                "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+                "tokenApi": null
+            },
+            {
+                "name": "WILLOW - ALT",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bocdx5eawo/out/v1/1634d923adc04e609180b5d4dd3730c3/cenc.mpd",
+                "scheme": 0,
+                "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/criclive2211/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e0f6f1c9a12c7224d2227252838791b8-1795325400096",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "HD QUALITY",
+                "link": "https://dai.google.com/linear/hls/event/D07-rC4TTgWxsH6LZlTxgg/master.m3u8",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Lightning",
+            "logo": "https://img.sofascore.com/api/v1/team/3694/image"
+        },
+        "teamB": {
+            "name": "Sabres",
+            "logo": "https://img.sofascore.com/api/v1/team/3678/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/11/2026",
+        "time": "22:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "EXTRA SPORT30",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/183",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "NHL",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-22/buf-tb",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Stars",
+            "logo": "https://img.sofascore.com/api/v1/team/3684/image"
+        },
+        "teamB": {
+            "name": "Penguins",
+            "logo": "https://img.sofascore.com/api/v1/team/3697/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "NHL",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-22/pit-dal",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Blues",
+            "logo": "https://img.sofascore.com/api/v1/team/3695/image"
+        },
+        "teamB": {
+            "name": "Oilers",
+            "logo": "https://img.sofascore.com/api/v1/team/3686/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/11/2026",
+        "time": "00:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "NHL",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-22/edm-stl",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Rangers",
+            "logo": "https://img.sofascore.com/api/v1/team/3701/image"
+        },
+        "teamB": {
+            "name": "Hurricanes",
+            "logo": "https://img.sofascore.com/api/v1/team/3680/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "22/11/2026",
+        "time": "17:30:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "NHL",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://104game.click/player/2/170",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "NHL tai",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-22/car-nyr",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
+    },
+    {
+        "teamA": {
+            "name": "Canucks",
+            "logo": "https://img.sofascore.com/api/v1/team/3692/image"
+        },
+        "teamB": {
+            "name": "Blackhawks",
+            "logo": "https://img.sofascore.com/api/v1/team/3681/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "23/11/2026",
+        "time": "01:00:00",
+        "category": "Hockey",
+        "eventName": "NHL",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "streams": [
+            {
+                "name": "NHL",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nhl/2026-11-22/chi-van",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ]
     }
 ]
