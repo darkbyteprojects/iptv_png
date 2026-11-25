@@ -649,8 +649,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "25/11/2026",
-        "time": "08:10:00",
+        "date": "26/11/2026",
+        "time": "04:40:00",
         "category": "Cricket",
         "eventName": "WBBL | Womens Big Bash League",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
@@ -704,7 +704,9 @@
                 "api": null,
                 "tokenApi": null
             }
-        ]
+        ],
+        "end_date": "27/11/2026",
+        "end_time": "08:30:00"
     },
     {
         "teamA": {
@@ -806,8 +808,8 @@
         },
         "visible": true,
         "priority": -1,
-        "date": "25/11/2026",
-        "time": "08:00:00",
+        "date": "01/12/2026",
+        "time": "11:30:00",
         "category": "Cricket",
         "eventName": "ICC World Test Championship",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
@@ -957,6 +959,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2702/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -964,8 +967,32 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT BRASIL FHD",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61007/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/PMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -981,6 +1008,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/35/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -988,8 +1016,53 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd",
+                "scheme": 0,
+                "api": "22d870b4fe3b99e70f7862db29f51861:0848c89bd5e80b385fe60fe3b92a49ce",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "scheme": 0,
+                "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd",
+                "scheme": 0,
+                "api": "8935a50ac72a858fbce8ba9a618711e1:72f92171d06fff3ef718408ff9eac969",
+                "tokenApi": null
+            },
+            {
+                "name": "FOX SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                "scheme": 0,
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61006/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61013/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/PMMMAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1005,6 +1078,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/1164/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1012,8 +1086,32 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd",
+                "scheme": 0,
+                "api": "49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnsff1rdjx/out/v1/db6933e3850e45ddae720b499cb8a04b/cenc.mpd",
+                "scheme": 0,
+                "api": "ab435b88901feb9cc88b82c6de6760e0:bbbca45fc3a000f2a4c87b2692a6e091",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61011/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/PMMM.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1029,6 +1127,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2672/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1036,8 +1135,32 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/torrgmtfxv/out/v1/ae1b106738a043209f235490660a6124/cenc.mpd",
+                "scheme": 0,
+                "api": "6f4f7937d535c4647085d7c87fdb4c00:8d50f081cc34ec71e8627777c6c472de",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btxthrhwoe/out/v1/b53cf2b282b04cf19496c511561b3bcc/cenc.mpd",
+                "scheme": 0,
+                "api": "ed324c8fc2afd6face6b080ad45f3cff:e1b34750882683921f14fea30b408a1f",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61012/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/PMMMAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1053,6 +1176,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/44/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1060,8 +1184,39 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js6a6quvxr/out/v1/9f550ef229a8412b90a727d7fb9ff4b5/cenc.mpd",
+                "scheme": 0,
+                "api": "bd53b68ea6d6c3f0607406eb9a60c6ca:bf1103bd2a674decf82ce34994f125fa",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjaws9ft9f/out/v1/442a6e1b20b74d74bb3f839e4bf104c6/cenc.mpd",
+                "scheme": 0,
+                "api": "26cc8de9a77711fccf224a8158c992ab:382d37f48fae7c875d46c4e46d79e3c9",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61010/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/PMMMAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1077,6 +1232,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2677/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1084,8 +1240,39 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd",
+                "scheme": 0,
+                "api": "602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js25rpkw5e/out/v1/8420c1ce3967490ca16b8846b8cc37a1/cenc.mpd",
+                "scheme": 0,
+                "api": "610c0d32fd381dc2ac2241e4021ecc26:94c24a0ef1bea8ffbfd005eb0b0c1ebd",
+                "tokenApi": null
+            },
+            {
+                "name": "CBS SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61004/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/PMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1115,39 +1302,6 @@
     },
     {
         "teamA": {
-            "name": "Italia T10",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10"
-        },
-        "teamB": {
-            "name": "Italia T10",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "11:00:00",
-        "category": "Cricket",
-        "eventName": "Italia T10",
-        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "streams": [
-            {
-                "name": "UNBEATEN FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-                "scheme": 0,
-                "api": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
-                "tokenApi": null
-            },
-            {
-                "name": "SandBrix HD",
-                "link": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ]
-    },
-    {
-        "teamA": {
             "name": "Sabah",
             "logo": "https://img.sofascore.com/api/v1/team/267828/image"
         },
@@ -1156,6 +1310,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2817/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "17:45:00",
         "category": "Football",
@@ -1163,8 +1318,88 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zh63cyh9r0/out/v1/e89877e6282243e4aae63c0d6aafa8f4/cenc.mpd",
+                "scheme": 0,
+                "api": "f2c4e32c00492683db06bd35bf40f13c:46d854f0d6b8fcdfbfbc45e3951e5eed",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
+                "scheme": 0,
+                "api": "67e139dd505a71f2472b89a21061a068:a82a007cb3473ce7be8ad1557ba2910d",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT SPORTS FHD",
+                "link": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "scheme": 0,
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgivvqqv5x/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                "scheme": 0,
+                "api": "9b331f76d1893b219f9dec596c2df5ff:c7938b9dba784355f138982cf956e8dd",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqlkwalcm7/out/v1/26502b89dc59430c91779ef5223c2a50/cenc.mpd",
+                "scheme": 0,
+                "api": "3f9ed4e17c6d6b98e10772c04193201b:3149fb721afa9ae7f76e84e0bdee6a92",
+                "tokenApi": null
+            },
+            {
+                "name": "TNT BRASIL FHD",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "scheme": 0,
+                "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (ENG)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (HIN)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TAM)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/footlive2511/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39417a9c21ba0ca210840959b4d0fe8b-1795626864032",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TEL)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/footlive2511/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39417a9c21ba0ca210840959b4d0fe8b-1795626864032",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (KAN)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/footlive2511/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39417a9c21ba0ca210840959b4d0fe8b-1795626864032",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.44/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1180,6 +1415,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/3052/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1187,8 +1423,32 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz3h1tfffc/out/v1/b20bc2e9bed94cd29db5ac634fe2dc89/cenc.mpd",
+                "scheme": 0,
+                "api": "b7312cd29f7a2dc3257e3e8b4e2cfacc:6229b73fe46f6b98ff09c6eadb0211df",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlqikuy6pd/out/v1/a35210e238454f46b73468e60505e215/cenc.mpd",
+                "scheme": 0,
+                "api": "b7312cd29f7a2dc3257e3e8b4e2cfacc:6229b73fe46f6b98ff09c6eadb0211df",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61009/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/diii.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1204,6 +1464,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/2677/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "20:00:00",
         "category": "Football",
@@ -1211,32 +1472,39 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "22:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Sporting",
-            "logo": "https://img.sofascore.com/api/v1/team/3001/image"
-        },
-        "teamB": {
-            "name": "Man Utd",
-            "logo": "https://img.sofascore.com/api/v1/team/35/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "20:00:00",
-        "category": "Football",
-        "eventName": "UEFA Champions League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd",
+                "scheme": 0,
+                "api": "602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9",
+                "tokenApi": null
+            },
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js25rpkw5e/out/v1/8420c1ce3967490ca16b8846b8cc37a1/cenc.mpd",
+                "scheme": 0,
+                "api": "610c0d32fd381dc2ac2241e4021ecc26:94c24a0ef1bea8ffbfd005eb0b0c1ebd",
+                "tokenApi": null
+            },
+            {
+                "name": "CBS SPORTS FHD",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                "scheme": 0,
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/61004/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.59/hls/PMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
@@ -1397,54 +1665,6 @@
     },
     {
         "teamA": {
-            "name": "Haiti U17",
-            "logo": "https://img.sofascore.com/api/v1/team/190706/image"
-        },
-        "teamB": {
-            "name": "Saudi Arabia U17",
-            "logo": "https://img.sofascore.com/api/v1/team/468403/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "13:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "15:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Greece U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22607/image"
-        },
-        "teamB": {
-            "name": "Qatar U17",
-            "logo": "https://img.sofascore.com/api/v1/team/468401/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "14:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "16:50:00"
-    },
-    {
-        "teamA": {
             "name": "New Zealand U17",
             "logo": "https://img.sofascore.com/api/v1/team/22634/image"
         },
@@ -1469,278 +1689,6 @@
     },
     {
         "teamA": {
-            "name": "Denmark U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22597/image"
-        },
-        "teamB": {
-            "name": "Argentina U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22576/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "15:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "17:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Panama U17",
-            "logo": "https://img.sofascore.com/api/v1/team/48866/image"
-        },
-        "teamB": {
-            "name": "Egypt U17",
-            "logo": "https://img.sofascore.com/api/v1/team/216077/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "14:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "16:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Ecuador U17",
-            "logo": "https://img.sofascore.com/api/v1/team/48835/image"
-        },
-        "teamB": {
-            "name": "South Korea U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22652/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "12:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "14:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Uruguay U17",
-            "logo": "https://img.sofascore.com/api/v1/team/37322/image"
-        },
-        "teamB": {
-            "name": "France U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22474/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "13:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "15:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Australia U17",
-            "logo": "https://img.sofascore.com/api/v1/team/22578/image"
-        },
-        "teamB": {
-            "name": "Mozambique U17",
-            "logo": "https://img.sofascore.com/api/v1/team/1126751/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "15:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "17:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Uganda U17",
-            "logo": "https://img.sofascore.com/api/v1/team/1077159/image"
-        },
-        "teamB": {
-            "name": "New Caledonia U17",
-            "logo": "https://img.sofascore.com/api/v1/team/265146/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "12:30:00",
-        "category": "Football",
-        "eventName": "U17 World Championship",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "14:50:00"
-    },
-    {
-        "teamA": {
-            "name": "Persib",
-            "logo": "https://img.sofascore.com/api/v1/team/64289/image"
-        },
-        "teamB": {
-            "name": "FC Seoul",
-            "logo": "https://img.sofascore.com/api/v1/team/7646/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "12:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.50/hls/ZTTTAAA.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "14:35:00"
-    },
-    {
-        "teamA": {
-            "name": "Al-Jazira",
-            "logo": "https://img.sofascore.com/api/v1/team/8090/image"
-        },
-        "teamB": {
-            "name": "Gol Gohar",
-            "logo": "https://img.sofascore.com/api/v1/team/275525/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Al-Faisaly",
-            "logo": "https://img.sofascore.com/api/v1/team/47482/image"
-        },
-        "teamB": {
-            "name": "Al-Rayyan",
-            "logo": "https://img.sofascore.com/api/v1/team/40660/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Gamba Osaka",
-            "logo": "https://img.sofascore.com/api/v1/team/3138/image"
-        },
-        "teamB": {
-            "name": "Port FC",
-            "logo": "https://img.sofascore.com/api/v1/team/40661/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Elite",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.50/hls/ZTTT.m3u8|referer=http://fawanews.sc/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "12:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Al Kuwait",
-            "logo": "https://img.sofascore.com/api/v1/team/32525/image"
-        },
-        "teamB": {
-            "name": "Al-Wahda",
-            "logo": "https://img.sofascore.com/api/v1/team/264115/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
             "name": "Al-Taawoun",
             "logo": "https://img.sofascore.com/api/v1/team/56021/image"
         },
@@ -1749,6 +1697,7 @@
             "logo": "https://img.sofascore.com/api/v1/team/40648/image"
         },
         "visible": true,
+        "priority": -1,
         "date": "25/11/2026",
         "time": "18:15:00",
         "category": "Football",
@@ -1756,88 +1705,15 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "streams": [
             {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "20:35:00"
-    },
-    {
-        "teamA": {
-            "name": "Nasaf",
-            "logo": "https://img.sofascore.com/api/v1/team/34017/image"
-        },
-        "teamB": {
-            "name": "Al Khaldiya",
-            "logo": "https://img.sofascore.com/api/v1/team/371631/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "13:45:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "16:05:00"
-    },
-    {
-        "teamA": {
-            "name": "Muharraq",
-            "logo": "https://img.sofascore.com/api/v1/team/45474/image"
-        },
-        "teamB": {
-            "name": "Arkadag",
-            "logo": "https://img.sofascore.com/api/v1/team/469420/image"
-        },
-        "visible": true,
-        "date": "25/11/2026",
-        "time": "16:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Link 1",
-                "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "18:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Kashima",
-            "logo": "https://img.sofascore.com/api/v1/team/3134/image"
-        },
-        "teamB": {
-            "name": "Jeonbuk",
-            "logo": "https://img.sofascore.com/api/v1/team/6908/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "10:00:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Elite",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
                 "name": "Low",
-                "link": "http://193.47.62.50/hls/ZTTTA.m3u8|referer=http://fawanews.sc/",
+                "link": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
             }
         ],
         "end_date": "25/11/2026",
-        "end_time": "12:20:00"
+        "end_time": "20:35:00"
     },
     {
         "teamA": {
@@ -2194,5 +2070,180 @@
                 "link": "n"
             }
         ]
+    },
+    {
+        "teamA": {
+            "name": "Slavia Praha",
+            "logo": "https://img.sofascore.com/api/v1/team/2216/image"
+        },
+        "teamB": {
+            "name": "Villarreal",
+            "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/11/2026",
+        "time": "17:45:00",
+        "category": "Football",
+        "eventName": "UEFA Champions League",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "streams": [
+            {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mjos3kgej5/out/v1/538db54d1c4146c7b39f3db9bb76c35f/cenc.mpd",
+                "scheme": 0,
+                "api": "606894735015d23d9d69bfd0037178e7:4748d804aec9906a991bff5225908f1c",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/woww8ppzgt/out/v1/bc97323e04cd4463b306bdc9d66ce603/cenc.mpd",
+                "scheme": 0,
+                "api": "cd6ad5529543f1e46206da1bdc0a9698:66c070216a1cd71c1d88fc4509f4ed71",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+                "scheme": 0,
+                "api": "3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/to3jxmtgqe/out/v1/29c3e2d4f9dd436d80d9a2017f7501dc/cenc.mpd",
+                "scheme": 0,
+                "api": "56cbd675ccdb2b4019cd370cb5972f27:fe9e827112a2f537b0f318b641cd9c1b",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ HD",
+                "link": "https://chatgpt.hereisman.net/playlist/60995/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "TAPMAD FHD",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "HD QUALITY",
+                "link": "https://www.rtmpcdn.com/live/091a94a9-9f77-4a11-b74d-e64cf2e385ac.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.50/hls/KKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/11/2026",
+        "end_time": "20:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Bolton",
+            "logo": "https://img.sofascore.com/api/v1/team/5/image"
+        },
+        "teamB": {
+            "name": "West Brom",
+            "logo": "https://img.sofascore.com/api/v1/team/8/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/11/2026",
+        "time": "19:45:00",
+        "category": "Football",
+        "eventName": "Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "streams": [
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/sjjjjAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/11/2026",
+        "end_time": "22:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Burnley",
+            "logo": "https://img.sofascore.com/api/v1/team/6/image"
+        },
+        "teamB": {
+            "name": "Birmingham",
+            "logo": "https://img.sofascore.com/api/v1/team/9/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/11/2026",
+        "time": "19:45:00",
+        "category": "Football",
+        "eventName": "Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "streams": [
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edtkjkxom/out/v1/557b1ebffddd42908b09cccbd24eca86/cenc.mpd",
+                "scheme": 0,
+                "api": "41af318fd254b0297f50830d70c255ed:71e5e0b04a01fcd8f69bd54f3a023e4b",
+                "tokenApi": null
+            },
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/sjjjjAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/11/2026",
+        "end_time": "22:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Watford",
+            "logo": "https://img.sofascore.com/api/v1/team/24/image"
+        },
+        "teamB": {
+            "name": "Blackburn",
+            "logo": "https://img.sofascore.com/api/v1/team/46/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/11/2026",
+        "time": "19:45:00",
+        "category": "Football",
+        "eventName": "Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "streams": [
+            {
+                "name": "Low",
+                "link": "http://193.47.62.55/hls/sjjjjAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            }
+        ],
+        "end_date": "25/11/2026",
+        "end_time": "22:05:00"
     }
 ]
