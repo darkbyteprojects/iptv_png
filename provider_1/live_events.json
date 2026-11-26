@@ -593,17 +593,10 @@
         "eventLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
         "streams": [
             {
-                "name": "TSN SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "HD Server",
+                "link": "https://chatgpt.hereisman.net/playlist/60709/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                 "scheme": 0,
-                "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-                "tokenApi": null
-            },
-            {
-                "name": "FOX SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "scheme": 0,
-                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "api": null,
                 "tokenApi": null
             },
             {
@@ -613,7 +606,7 @@
                 "api": null,
                 "tokenApi": {
                     "url": null,
-                    "api": "https://taifood-blog.asia/embed/aew/2026-11-14",
+                    "api": "https://taifood-blog.asia/embed/aew/2026-11-21",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -623,18 +616,20 @@
                 }
             },
             {
-                "name": "TBD SPORTS HD",
-                "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net",
+                "name": "AEW SD",
+                "link": null,
                 "scheme": 0,
                 "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Backup",
-                "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/aew/2026-11-21_540p",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ]
     },
@@ -967,10 +962,38 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k3gfvt9dts/out/v1/3e27275afe8e4197857206e72e2c037c/cenc.mpd",
+                "scheme": 0,
+                "api": "c22553e1fada7a1f7e04dd812c1d63ce:09aa651b7390082f0a45dc2647bc3270",
+                "tokenApi": null
+            },
+            {
+                "name": "PARAMOUNT+ FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd",
+                "scheme": 0,
+                "api": "21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866",
+                "tokenApi": null
+            },
+            {
                 "name": "TNT SPORTS FHD",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "scheme": 0,
                 "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sf4cksmfsp/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
+                "scheme": 0,
+                "api": "fe2e494b16910abc8e120170e200ae8a:3dd29ac12d2ce2fd0b3e1c855b4d813c",
+                "tokenApi": null
+            },
+            {
+                "name": "DAZN DE FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu9pioqq5r/out/v1/6183feaf6ab1475fa4f978692b6dc6e3/cenc.mpd",
+                "scheme": 0,
+                "api": "6cdd9c1b206a5c805fada903b1480850:159b8bb5afe8d4410b472009a25043d0",
                 "tokenApi": null
             },
             {
@@ -983,6 +1006,13 @@
             {
                 "name": "TNT SPORTS HD",
                 "link": "https://chatgpt.hereisman.net/playlist/61007/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1015,6 +1045,13 @@
         "eventName": "UEFA Champions League",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
+            {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hcffsl5lmw/out/v1/ab7b596f96d746e9b1b97a515354a565/cenc.mpd",
+                "scheme": 0,
+                "api": "697b4221eb7e42f97cfff975bac3f97d:71a48f3f98eea7e2ebf586c75f88c6b6",
+                "tokenApi": null
+            },
             {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd",
@@ -1058,6 +1095,48 @@
                 "tokenApi": null
             },
             {
+                "name": "SonyLiv (ENG)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (HIN)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2043696/Footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TAM)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2118672/Footlive2511/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=20c48233ed57bf255d32cc7cc3f0a736-1795636464007",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (TEL)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/Footlive2511/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=20c48233ed57bf255d32cc7cc3f0a736-1795636464007",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (KAN)",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/Footlive2511/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=20c48233ed57bf255d32cc7cc3f0a736-1795636464007",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": "https://www.rtmpcdn.com/live/5934fd2c-fac8-4dcf-991a-5be3f485c7e0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Low",
                 "link": "http://193.47.62.50/hls/PMMMAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
@@ -1086,10 +1165,24 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ouonsgcxy3/out/v1/1ab520659b25461c8e4cfa048d11be18/cenc.mpd",
+                "scheme": 0,
+                "api": "5f0b77cd292b2ad94b8dd6b9f7e1e3f0:dc7094e467373756724e877561e03eec",
+                "tokenApi": null
+            },
+            {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd",
                 "scheme": 0,
                 "api": "49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rbtsptukz/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+                "scheme": 0,
+                "api": "c39deef0515b23c37241b464f71122f4:b89fa132cf2c17e457e7474b26405d59",
                 "tokenApi": null
             },
             {
@@ -1102,6 +1195,20 @@
             {
                 "name": "PARAMOUNT+ HD",
                 "link": "https://chatgpt.hereisman.net/playlist/61011/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": "https://www.rtmpcdn.com/live/6734d980-e2cb-4fde-a2aa-ee45d20fb78f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1135,6 +1242,13 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vhccgbv7ye/out/v1/9935c884df8b48afaf8ec4adf387e174/cenc.mpd",
+                "scheme": 0,
+                "api": "ef466cf774697ba79d625e21877524cb:2b711d2524ebcdd69b4eeca040b52cf7",
+                "tokenApi": null
+            },
+            {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/torrgmtfxv/out/v1/ae1b106738a043209f235490660a6124/cenc.mpd",
                 "scheme": 0,
@@ -1151,6 +1265,20 @@
             {
                 "name": "PARAMOUNT+ HD",
                 "link": "https://chatgpt.hereisman.net/playlist/61012/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2118670/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "CRFY Stream",
+                "link": "https://www.rtmpcdn.com/live/975dd68c-8f56-405f-a719-3b494286f367.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1184,6 +1312,13 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9q9qkskwgn/out/v1/e61fcdabf6be4765a2da49305cd1e806/cenc.mpd",
+                "scheme": 0,
+                "api": "e5e97e3979f4aa9bac0ff5ffa9c26701:5132c7780e3eb734a64c10ad458da609",
+                "tokenApi": null
+            },
+            {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js6a6quvxr/out/v1/9f550ef229a8412b90a727d7fb9ff4b5/cenc.mpd",
                 "scheme": 0,
@@ -1198,6 +1333,13 @@
                 "tokenApi": null
             },
             {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+                "scheme": 0,
+                "api": "3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb",
+                "tokenApi": null
+            },
+            {
                 "name": "DAZN DE FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjaws9ft9f/out/v1/442a6e1b20b74d74bb3f839e4bf104c6/cenc.mpd",
                 "scheme": 0,
@@ -1207,6 +1349,13 @@
             {
                 "name": "PARAMOUNT+ HD",
                 "link": "https://chatgpt.hereisman.net/playlist/61010/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2118669/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1240,10 +1389,24 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9bxyrwrhcg/out/v1/bd0409ec39af4ddfb223dcb573be39d9/cenc.mpd",
+                "scheme": 0,
+                "api": "cc60816345f0773b136d2eb499a9f699:eb57302db97a0ff664ec2706f7d080bc",
+                "tokenApi": null
+            },
+            {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd",
                 "scheme": 0,
                 "api": "602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hbst72ztdu/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+                "scheme": 0,
+                "api": "f3bf1d832cceeb0d624603cfc25950da:f5bf9765976642f789eaa8edd2f91f9c",
                 "tokenApi": null
             },
             {
@@ -1263,6 +1426,13 @@
             {
                 "name": "PARAMOUNT+ HD",
                 "link": "https://chatgpt.hereisman.net/playlist/61004/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2037142/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1423,10 +1593,24 @@
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "streams": [
             {
+                "name": "DAZN SPORTS FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9gfdlza1a3/out/v1/df56a4e537de4437a487c291e7331469/cenc.mpd",
+                "scheme": 0,
+                "api": "47ecc7d961365c003a0ea95c4f4dffbb:83eda5c85c3080e61b6ae86b048550e4",
+                "tokenApi": null
+            },
+            {
                 "name": "PARAMOUNT+ FHD",
                 "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz3h1tfffc/out/v1/b20bc2e9bed94cd29db5ac634fe2dc89/cenc.mpd",
                 "scheme": 0,
                 "api": "b7312cd29f7a2dc3257e3e8b4e2cfacc:6229b73fe46f6b98ff09c6eadb0211df",
+                "tokenApi": null
+            },
+            {
+                "name": "VIX Español FHD",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd4heyvp80/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
+                "scheme": 0,
+                "api": "25f81a2c54077392cf6d908804d90240:e6f9b261d5bae7b55fa2dd9e3970c990",
                 "tokenApi": null
             },
             {
@@ -1444,64 +1628,15 @@
                 "tokenApi": null
             },
             {
+                "name": "SonyLiv (Asia)",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2118668/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                "scheme": 0,
+                "api": null,
+                "tokenApi": null
+            },
+            {
                 "name": "Low",
                 "link": "http://193.47.62.55/hls/diii.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "22:20:00"
-    },
-    {
-        "teamA": {
-            "name": "Inter",
-            "logo": "https://img.sofascore.com/api/v1/team/2697/image"
-        },
-        "teamB": {
-            "name": "Stuttgart",
-            "logo": "https://img.sofascore.com/api/v1/team/2677/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "20:00:00",
-        "category": "Football",
-        "eventName": "UEFA Champions League",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "streams": [
-            {
-                "name": "PARAMOUNT+ FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd",
-                "scheme": 0,
-                "api": "602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9",
-                "tokenApi": null
-            },
-            {
-                "name": "DAZN DE FHD",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js25rpkw5e/out/v1/8420c1ce3967490ca16b8846b8cc37a1/cenc.mpd",
-                "scheme": 0,
-                "api": "610c0d32fd381dc2ac2241e4021ecc26:94c24a0ef1bea8ffbfd005eb0b0c1ebd",
-                "tokenApi": null
-            },
-            {
-                "name": "CBS SPORTS FHD",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-                "scheme": 0,
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "tokenApi": null
-            },
-            {
-                "name": "PARAMOUNT+ HD",
-                "link": "https://chatgpt.hereisman.net/playlist/61004/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            },
-            {
-                "name": "Low",
-                "link": "http://193.47.62.59/hls/PMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                 "scheme": 0,
                 "api": null,
                 "tokenApi": null
@@ -1689,34 +1824,6 @@
     },
     {
         "teamA": {
-            "name": "Al-Taawoun",
-            "logo": "https://img.sofascore.com/api/v1/team/56021/image"
-        },
-        "teamB": {
-            "name": "Al-Nahda",
-            "logo": "https://img.sofascore.com/api/v1/team/40648/image"
-        },
-        "visible": true,
-        "priority": -1,
-        "date": "25/11/2026",
-        "time": "18:15:00",
-        "category": "Football",
-        "eventName": "AFC Champions League Two",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "name": "Low",
-                "link": "http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "scheme": 0,
-                "api": null,
-                "tokenApi": null
-            }
-        ],
-        "end_date": "25/11/2026",
-        "end_time": "20:35:00"
-    },
-    {
-        "teamA": {
             "name": "Trail Blazers",
             "logo": "https://img.sofascore.com/api/v1/team/3414/image"
         },
@@ -1888,6 +1995,22 @@
                 "tokenApi": {
                     "url": null,
                     "api": "https://taifood-blog.asia/embed/nba/2026-11-25/mia-phi",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "CricFy HD",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://taifood-blog.asia/embed/nba/2026-11-25/mia-phi_540p",
                     "type": "embed",
                     "link_key": "playback_url",
                     "default_string": "N8x7Y%m+6n",
@@ -2245,5 +2368,49 @@
         ],
         "end_date": "25/11/2026",
         "end_time": "22:05:00"
+    },
+    {
+        "teamA": {
+            "name": "Atlético-MG",
+            "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+        },
+        "teamB": {
+            "name": "Corinthians",
+            "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+        },
+        "visible": true,
+        "priority": -1,
+        "date": "25/11/2026",
+        "time": "23:00:00",
+        "category": "Football",
+        "eventName": "Campeonato Brasileiro Série A",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "streams": [
+            {
+                "name": "PREMIERER1 FHD",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                "scheme": 0,
+                "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                "tokenApi": null
+            },
+            {
+                "name": "Test",
+                "link": null,
+                "scheme": 0,
+                "api": null,
+                "tokenApi": {
+                    "url": null,
+                    "api": "https://streamtp-golden1.click/global1.php?stream=winplus",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "N8x7Y%m+6n",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            }
+        ],
+        "end_date": "26/11/2026",
+        "end_time": "01:20:00"
     }
 ]
